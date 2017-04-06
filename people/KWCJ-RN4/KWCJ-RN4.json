@@ -1142,28 +1142,28 @@
       "descendancyNumber" : "1",
       "familiesAsParent" : [ {
         "parent1" : {
-          "resource" : "#KWCJ-RN4",
+          "resource" : "",
           "resourceId" : "KWCJ-RN4"
         },
         "parent2" : {
-          "resource" : "https://familysearch.org/ark:/61903/4:1:KWCJ-RNC",
+          "resource" : "https://raw.githubusercontent.com/misbach/familytree/master/people/KWCJ-RNC/KWCJ-RNC.json",
           "resourceId" : "KWCJ-RNC"
         },
         "children" : [ {
-          "resource" : "https://familysearch.org/ark:/61903/4:1:KWZS-HFW",
+          "resource" : "https://raw.githubusercontent.com/misbach/familytree/master/people/KWZS-HFW/KWZS-HFW.json",
           "resourceId" : "KWZS-HFW"
         }, {
-          "resource" : "https://familysearch.org/ark:/61903/4:1:LFXX-7Y9",
+          "resource" : "https://raw.githubusercontent.com/misbach/familytree/master/people/LFXX-7Y9/LFXX-7Y9.json",
           "resourceId" : "LFXX-7Y9"
         } ]
       } ],
       "familiesAsChild" : [ {
         "parent1" : {
-          "resource" : "https://familysearch.org/ark:/61903/4:1:KWCG-VGR",
+          "resource" : "https://raw.githubusercontent.com/misbach/familytree/master/people/KWCG-VGR/KWCG-VGR.json",
           "resourceId" : "KWCG-VGR"
         },
         "parent2" : {
-          "resource" : "https://familysearch.org/ark:/61903/4:1:KWCG-VG1",
+          "resource" : "https://raw.githubusercontent.com/misbach/familytree/master/people/KWCG-VG1/KWCG-VG1.json",
           "resourceId" : "KWCG-VG1"
         },
         "children" : [ {
