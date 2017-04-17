@@ -365,7 +365,7 @@
           "href": "https://familysearch.org/platform/tree/persons/KWCT-P7B/families?sourceDescriptions=true"
         },
         "portrait": {
-          "href": "https://raw.githubusercontent.com/misbach/familytree/master/people/KWCT-P7B/KWCT-P7B.jpg"
+          "href": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/KWCT-P7B/KWCT-P7B.jpg"
         },
         "matches": {
           "href": "https://familysearch.org/platform/tree/persons/KWCT-P7B/matches"
@@ -1350,11 +1350,11 @@
           },
           "place": {
             "original": "Provo Valley, Utah, Utah, United States",
-            "description": "#pd_40.244446x-111.660835",
+            "description": "#pd_40.124439x-111.625558",
             "normalized": [
               {
                 "lang": "en-US",
-                "value": "Provo, Utah, Utah, United States"
+                "value": "Utah, Utah, United States"
               },
               {
                 "lang": "und",
@@ -1543,11 +1543,11 @@
           },
           "place": {
             "original": "ED 171 Heber Precinct Heber City, Wasatch, Utah, United States",
-            "description": "#pd_40.50694x-111.412498",
+            "description": "#pd_40.37556x-111.125557",
             "normalized": [
               {
                 "lang": "en-US",
-                "value": "Heber City, Wasatch, Utah, United States"
+                "value": "Wasatch, Utah, United States"
               },
               {
                 "lang": "und",
@@ -1586,11 +1586,11 @@
           },
           "place": {
             "original": "Heber Ward 2, , Utah",
-            "description": "#pd_40.50694x-111.412498",
+            "description": "#pd_40.37556x-111.125557",
             "normalized": [
               {
                 "lang": "en-US",
-                "value": "Heber City, Wasatch, Utah, United States"
+                "value": "Wasatch, Utah, United States"
               },
               {
                 "lang": "und",
@@ -1848,65 +1848,17 @@
         "familiesAsParent": [
           {
             "parent1": {
-              "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KWCT-P7T/KWCT-P7T.json",
+              "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/KWCT-P7T/KWCT-P7T.json",
               "resourceId": "KWCT-P7T"
             },
             "parent2": {
-              "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KWCT-P7B/KWCT-P7B.json",
+              "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/KWCT-P7B/KWCT-P7B.json",
               "resourceId": "KWCT-P7B"
             },
             "children": [
               {
-                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KWCJ-74Q/KWCJ-74Q.json",
-                "resourceId": "KWCJ-74Q"
-              },
-              {
-                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KWCG-VG1/KWCG-VG1.json",
+                "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/KWCG-VG1/KWCG-VG1.json",
                 "resourceId": "KWCG-VG1"
-              },
-              {
-                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KWV3-1G2/KWV3-1G2.json",
-                "resourceId": "KWV3-1G2"
-              },
-              {
-                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KWV3-1GT/KWV3-1GT.json",
-                "resourceId": "KWV3-1GT"
-              },
-              {
-                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KWZF-8S1/KWZF-8S1.json",
-                "resourceId": "KWZF-8S1"
-              },
-              {
-                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KWJD-NF8/KWJD-NF8.json",
-                "resourceId": "KWJD-NF8"
-              },
-              {
-                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KWCR-41R/KWCR-41R.json",
-                "resourceId": "KWCR-41R"
-              },
-              {
-                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KWJJ-2SC/KWJJ-2SC.json",
-                "resourceId": "KWJJ-2SC"
-              },
-              {
-                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KWV3-1GG/KWV3-1GG.json",
-                "resourceId": "KWV3-1GG"
-              },
-              {
-                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KWV3-1GR/KWV3-1GR.json",
-                "resourceId": "KWV3-1GR"
-              },
-              {
-                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KWJD-N8F/KWJD-N8F.json",
-                "resourceId": "KWJD-N8F"
-              },
-              {
-                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KWJD-N1Y/KWJD-N1Y.json",
-                "resourceId": "KWJD-N1Y"
-              },
-              {
-                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KN8X-8GK/KN8X-8GK.json",
-                "resourceId": "KN8X-8GK"
               }
             ]
           }
@@ -1914,16 +1866,16 @@
         "familiesAsChild": [
           {
             "parent1": {
-              "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KWNV-C37/KWNV-C37.json",
+              "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/KWNV-C37/KWNV-C37.json",
               "resourceId": "KWNV-C37"
             },
             "parent2": {
-              "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KWNV-C3Q/KWNV-C3Q.json",
+              "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/KWNV-C3Q/KWNV-C3Q.json",
               "resourceId": "KWNV-C3Q"
             },
             "children": [
               {
-                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KWCT-P7B/KWCT-P7B.json",
+                "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/KWCT-P7B/KWCT-P7B.json",
                 "resourceId": "KWCT-P7B"
               }
             ]
@@ -2482,11 +2434,11 @@
           },
           "place": {
             "original": "ED 171 Heber Precinct Heber City, Wasatch, Utah, United States",
-            "description": "#pd_40.50694x-111.412498",
+            "description": "#pd_40.37556x-111.125557",
             "normalized": [
               {
                 "lang": "en-US",
-                "value": "Heber City, Wasatch, Utah, United States"
+                "value": "Wasatch, Utah, United States"
               },
               {
                 "lang": "und",
@@ -2526,11 +2478,11 @@
           },
           "place": {
             "original": "Heber Ward 1, Wasatch, Utah, United States",
-            "description": "#pd_40.50694x-111.412498",
+            "description": "#pd_40.37556x-111.125557",
             "normalized": [
               {
                 "lang": "en-US",
-                "value": "Heber City, Wasatch, Utah, United States"
+                "value": "Wasatch, Utah, United States"
               },
               {
                 "lang": "und",
@@ -4115,11 +4067,11 @@
           },
           "place": {
             "original": "ED 171 Heber Precinct Heber City, Wasatch, Utah, United States",
-            "description": "#pd_40.50694x-111.412498",
+            "description": "#pd_40.37556x-111.125557",
             "normalized": [
               {
                 "lang": "en-US",
-                "value": "Heber City, Wasatch, Utah, United States"
+                "value": "Wasatch, Utah, United States"
               },
               {
                 "lang": "und",
@@ -4158,11 +4110,11 @@
           },
           "place": {
             "original": "Heber Ward 2, , Utah",
-            "description": "#pd_40.50694x-111.412498",
+            "description": "#pd_40.37556x-111.125557",
             "normalized": [
               {
                 "lang": "en-US",
-                "value": "Heber City, Wasatch, Utah, United States"
+                "value": "Wasatch, Utah, United States"
               },
               {
                 "lang": "und",
@@ -4915,11 +4867,11 @@
           },
           "place": {
             "original": "ED 171 Heber Precinct Heber City, Wasatch, Utah, United States",
-            "description": "#pd_40.50694x-111.412498",
+            "description": "#pd_40.37556x-111.125557",
             "normalized": [
               {
                 "lang": "en-US",
-                "value": "Heber City, Wasatch, Utah, United States"
+                "value": "Wasatch, Utah, United States"
               },
               {
                 "lang": "und",
@@ -4958,11 +4910,11 @@
           },
           "place": {
             "original": "Heber Ward 2, , Utah",
-            "description": "#pd_40.50694x-111.412498",
+            "description": "#pd_40.37556x-111.125557",
             "normalized": [
               {
                 "lang": "en-US",
-                "value": "Heber City, Wasatch, Utah, United States"
+                "value": "Wasatch, Utah, United States"
               },
               {
                 "lang": "und",
@@ -6071,11 +6023,11 @@
           },
           "place": {
             "original": "ED 171 Heber Precinct Heber City, Wasatch, Utah, United States",
-            "description": "#pd_40.50694x-111.412498",
+            "description": "#pd_40.37556x-111.125557",
             "normalized": [
               {
                 "lang": "en-US",
-                "value": "Heber City, Wasatch, Utah, United States"
+                "value": "Wasatch, Utah, United States"
               },
               {
                 "lang": "und",
@@ -6114,11 +6066,11 @@
           },
           "place": {
             "original": "Heber Ward 2, , Utah",
-            "description": "#pd_40.50694x-111.412498",
+            "description": "#pd_40.37556x-111.125557",
             "normalized": [
               {
                 "lang": "en-US",
-                "value": "Heber City, Wasatch, Utah, United States"
+                "value": "Wasatch, Utah, United States"
               },
               {
                 "lang": "und",
@@ -6839,11 +6791,11 @@
           },
           "place": {
             "original": "ED 171 Heber Precinct Heber City, Wasatch, Utah, United States",
-            "description": "#pd_40.50694x-111.412498",
+            "description": "#pd_40.37556x-111.125557",
             "normalized": [
               {
                 "lang": "en-US",
-                "value": "Heber City, Wasatch, Utah, United States"
+                "value": "Wasatch, Utah, United States"
               },
               {
                 "lang": "und",
@@ -7879,11 +7831,11 @@
           },
           "place": {
             "original": "Provo Valley, Utah, Utah, United States",
-            "description": "#pd_40.244446x-111.660835",
+            "description": "#pd_40.124439x-111.625558",
             "normalized": [
               {
                 "lang": "en-US",
-                "value": "Provo, Utah, Utah, United States"
+                "value": "Utah, Utah, United States"
               },
               {
                 "lang": "und",
@@ -8926,11 +8878,11 @@
           },
           "place": {
             "original": "ED 171 Heber Precinct Heber City, Wasatch, Utah, United States",
-            "description": "#pd_40.50694x-111.412498",
+            "description": "#pd_40.37556x-111.125557",
             "normalized": [
               {
                 "lang": "en-US",
-                "value": "Heber City, Wasatch, Utah, United States"
+                "value": "Wasatch, Utah, United States"
               },
               {
                 "lang": "und",
@@ -8970,11 +8922,11 @@
           },
           "place": {
             "original": "Heber Ward 1, , Utah",
-            "description": "#pd_40.50694x-111.412498",
+            "description": "#pd_40.37556x-111.125557",
             "normalized": [
               {
                 "lang": "en-US",
-                "value": "Heber City, Wasatch, Utah, United States"
+                "value": "Wasatch, Utah, United States"
               },
               {
                 "lang": "und",
@@ -10517,6 +10469,19 @@
         }
       },
       "sources": [
+        {
+          "id": "2a58f46d-dac8-4d13-a196-963fb0fc4c77",
+          "links": {
+            "source-reference": {
+              "href": "https://familysearch.org/platform/tree/persons/KWCT-P7B/source-references/2a58f46d-dac8-4d13-a196-963fb0fc4c77"
+            },
+            "description": {
+              "href": "https://familysearch.org/platform/sources/descriptions/9VTS-R9H"
+            }
+          },
+          "description": "https://familysearch.org/platform/sources/descriptions/9VTS-R9H",
+          "descriptionId": "9VTS-R9H"
+        },
         {
           "id": "79bb2517-09a1-48e8-ba2d-dce79de9490d",
           "links": {
@@ -13168,11 +13133,11 @@
           },
           "place": {
             "original": "ED 171 Heber Precinct Heber City, Wasatch, Utah, United States",
-            "description": "#pd_40.50694x-111.412498",
+            "description": "#pd_40.37556x-111.125557",
             "normalized": [
               {
                 "lang": "en-US",
-                "value": "Heber City, Wasatch, Utah, United States"
+                "value": "Wasatch, Utah, United States"
               },
               {
                 "lang": "und",
@@ -13211,11 +13176,11 @@
           },
           "place": {
             "original": "Heber Ward 2, , Utah",
-            "description": "#pd_40.50694x-111.412498",
+            "description": "#pd_40.37556x-111.125557",
             "normalized": [
               {
                 "lang": "en-US",
-                "value": "Heber City, Wasatch, Utah, United States"
+                "value": "Wasatch, Utah, United States"
               },
               {
                 "lang": "und",
@@ -16313,109 +16278,6 @@
       }
     },
     {
-      "id": "9DY5-BPC",
-      "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:VT48-94F",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-VDBC",
-          "resourceId": "cis.user.MMM9-VDBC"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-VDBC",
-          "resourceId": "cis.user.MMM9-VDBC"
-        },
-        "modified": 1446676952472,
-        "created": 1446676952472
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/9DY5-BPC"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"United States Census, 1940,\" database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/VT48-94F : accessed 7 April 2017), Christina Giles, Heber City, Heber Election Precinct, Wasatch, Utah, United States; citing enumeration district (ED) 26-6, sheet 12B, line 78, family 236, Sixteenth Census of the United States, 1940, NARA digital publication T627.  Records of the Bureau of the Census, 1790 - 2007, RG 29. Washington, D.C.: National Archives and Records Administration, 2012, roll 4221.\n"
-        }
-      ],
-      "titles": [
-        {
-          "value": "Christina Giles, \"United States Census, 1940\""
-        }
-      ]
-    },
-    {
-      "id": "9X61-CP6",
-      "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:XZPT-JDK",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-ZMFK",
-          "resourceId": "cis.user.MMM9-ZMFK"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-ZMFK",
-          "resourceId": "cis.user.MMM9-ZMFK"
-        },
-        "modified": 1458776112433,
-        "created": 1458776112433
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/9X61-CP6"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"Utah Death Certificates, 1904-1964\", database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/XZPT-JDK : 11 September 2015), Christina Carlile in entry for Mary Baird, 1954."
-        }
-      ],
-      "titles": [
-        {
-          "value": "Christina Carlile in entry for Mary Baird, \"Utah Death Certificates, 1904-1964\""
-        }
-      ]
-    },
-    {
-      "id": "MM7Z-XYG",
-      "about": "http://interactive.ancestry.com/6742/4244811-00080?backurl=&ssrc=&backlabel=Return",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-7FJD",
-          "resourceId": "cis.user.MMM9-7FJD"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-7FJD",
-          "resourceId": "cis.user.MMM9-7FJD"
-        },
-        "modified": 1372719643000,
-        "created": 1372719643000
-      },
-      "resourceType": "DEFAULT",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/MM7Z-XYG"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"United States Census, 1880,\" index and images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/MNSL-G6C : accessed 01 Jul 2013), William Giles, 1880.\n\n"
-        }
-      ],
-      "titles": [
-        {
-          "value": "1880 Census Heber, Wasatch, Utah  ED 90   Page 15"
-        }
-      ],
-      "notes": [
-        {
-          "text": "William Giles, occupation, spouse, children, genders, ages, birthplaces"
-        }
-      ]
-    },
-    {
       "id": "98WJ-42B",
       "lang": "en_US",
       "about": "https://familysearch.org/ark:/61903/1:1:MMRY-C9L",
@@ -16439,181 +16301,12 @@
       },
       "citations": [
         {
-          "value": "\"United States Census, 1900,\" database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/MMRY-C9L : accessed 7 April 2017), Christina Giles, Heber Precinct Heber City, Wasatch, Utah, United States; citing enumeration district (ED) 171, sheet 12A, family 220, NARA microfilm publication T623 (Washington, D.C.: National Archives and Records Administration, 1972.); FHL microfilm 1,241,688.\n"
+          "value": "\"United States Census, 1900,\" database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/MMRY-C9L : accessed 12 April 2017), Christina Giles, Heber Precinct Heber City, Wasatch, Utah, United States; citing enumeration district (ED) 171, sheet 12A, family 220, NARA microfilm publication T623 (Washington, D.C.: National Archives and Records Administration, 1972.); FHL microfilm 1,241,688.\n"
         }
       ],
       "titles": [
         {
           "value": "Christina Giles, \"United States Census, 1900\""
-        }
-      ]
-    },
-    {
-      "id": "MM7Z-FQ3",
-      "about": "http://www.findagrave.com/cgi-bin/fg.cgi?page=pv&GRid=20230894&PIpi=9268167",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-7FJD",
-          "resourceId": "cis.user.MMM9-7FJD"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-7FJD",
-          "resourceId": "cis.user.MMM9-7FJD"
-        },
-        "modified": 1372720154000,
-        "created": 1372720154000
-      },
-      "resourceType": "DEFAULT",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/MM7Z-FQ3"
-        }
-      },
-      "citations": [
-        {
-          "value": "State of Utah Certificate of Death; Place: Heber City, Wasatch, Utah for Christina Giles, 1849-1942"
-        }
-      ],
-      "titles": [
-        {
-          "value": "State of Utah Certificate of Death"
-        }
-      ],
-      "notes": [
-        {
-          "text": "Christina Giles, birth/death/burial dates & places, gender, age, cause of death, informant, marital status, names and birthplaces of parents"
-        }
-      ]
-    },
-    {
-      "id": "98WJ-QYG",
-      "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:MNCB-DGQ",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-C2QB",
-          "resourceId": "cis.user.MMMM-C2QB"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-C2QB",
-          "resourceId": "cis.user.MMMM-C2QB"
-        },
-        "modified": 1429146649957,
-        "created": 1429146649957
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/98WJ-QYG"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"United States Census, 1870,\" database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/MNCB-DGQ : 17 October 2014), Cina Giles in household of William Giles, Utah, United States; citing p. 12, family 85, NARA microfilm publication M593 (Washington D.C.: National Archives and Records Administration, n.d.); FHL microfilm 553,112."
-        }
-      ],
-      "titles": [
-        {
-          "value": "Cina Giles in household of William Giles, \"United States Census, 1870\""
-        }
-      ]
-    },
-    {
-      "id": "98WJ-CLQ",
-      "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:M8P2-DMT",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-C2QB",
-          "resourceId": "cis.user.MMMM-C2QB"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-C2QB",
-          "resourceId": "cis.user.MMMM-C2QB"
-        },
-        "modified": 1429147664049,
-        "created": 1429147664049
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/98WJ-CLQ"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"United States Census, 1920,\" database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/M8P2-DMT : accessed 7 April 2017), Christina Giles, Heber, Wasatch, Utah, United States; citing  ED 139, sheet 3A, line 39, family 46, NARA microfilm publication T625 (Washington D.C.: National Archives and Records Administration, 1992), roll 1867; FHL microfilm 1,821,867."
-        }
-      ],
-      "titles": [
-        {
-          "value": "Christina Giles, \"United States Census, 1920\""
-        }
-      ]
-    },
-    {
-      "id": "9DWH-29Y",
-      "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:XZPY-97W",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMS-62NN",
-          "resourceId": "cis.user.MMMS-62NN"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMS-62NN",
-          "resourceId": "cis.user.MMMS-62NN"
-        },
-        "modified": 1439667458287,
-        "created": 1439667458287
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/9DWH-29Y"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"Utah Death Certificates, 1904-1964\", database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/XZPY-97W : 11 September 2015), Christie Carlile in entry for Annie Christine Averett, 1953."
-        }
-      ],
-      "titles": [
-        {
-          "value": "Christie Carlile in entry for Annie Christine Averett, \"Utah Death Certificates, 1904-1964\""
-        }
-      ]
-    },
-    {
-      "id": "96HD-MZH",
-      "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:XZPB-3FT",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-4Z1V",
-          "resourceId": "cis.user.MMMM-4Z1V"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-4Z1V",
-          "resourceId": "cis.user.MMMM-4Z1V"
-        },
-        "modified": 1450224921668,
-        "created": 1450224921668
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/96HD-MZH"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"Utah Death Certificates, 1904-1964\", database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/XZPB-3FT : 11 September 2015), Christina Carlile in entry for Sarah Elizabeth Clegg, 1955."
-        }
-      ],
-      "titles": [
-        {
-          "value": "Christina Carlile in entry for Sarah Elizabeth Clegg, \"Utah Death Certificates, 1904-1964\""
         }
       ]
     },
@@ -16647,109 +16340,6 @@
       "titles": [
         {
           "value": "Christiana Carlisle in household of Elisth Carlisle, \"United States Census, 1860\""
-        }
-      ]
-    },
-    {
-      "id": "98R7-F3Q",
-      "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:XZPF-F5Y",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMZ-5F8J",
-          "resourceId": "cis.user.MMMZ-5F8J"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMZ-5F8J",
-          "resourceId": "cis.user.MMMZ-5F8J"
-        },
-        "modified": 1435617796528,
-        "created": 1435617796528
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/98R7-F3Q"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"Utah Death Certificates, 1904-1964\", database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/XZPF-F5Y : 11 September 2015), Christina Giles, 1942."
-        }
-      ],
-      "titles": [
-        {
-          "value": "Christina Giles, \"Utah Death Certificates, 1904-1964\""
-        }
-      ]
-    },
-    {
-      "id": "9XY7-SC2",
-      "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:XZPF-XGV",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMS-18RP",
-          "resourceId": "cis.user.MMMS-18RP"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMS-18RP",
-          "resourceId": "cis.user.MMMS-18RP"
-        },
-        "modified": 1462162850313,
-        "created": 1462162850313
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/9XY7-SC2"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"Utah Death Certificates, 1904-1964\", database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/XZPF-XGV : 11 September 2015), Christine Carlile in entry for John William Giles, 1942."
-        }
-      ],
-      "titles": [
-        {
-          "value": "Christine Carlile in entry for John William Giles, \"Utah Death Certificates, 1904-1964\""
-        }
-      ]
-    },
-    {
-      "id": "MM7Z-F9C",
-      "about": "http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&GRid=20230894 ",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-7FJD",
-          "resourceId": "cis.user.MMM9-7FJD"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-7FJD",
-          "resourceId": "cis.user.MMM9-7FJD"
-        },
-        "modified": 1372719913000,
-        "created": 1372719913000
-      },
-      "resourceType": "DEFAULT",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/MM7Z-F9C"
-        }
-      },
-      "citations": [
-        {
-          "value": "Heber City Cemetery, Heber City, Wasatch, Utah, United States; Burial Record for Christina C Giles, 1849-1942"
-        }
-      ],
-      "titles": [
-        {
-          "value": "Heber City Cemetery, Utah"
-        }
-      ],
-      "notes": [
-        {
-          "text": "Christina C Giles, birth/death dates, place of burial, location of grave, photo of grave stone"
         }
       ]
     },
@@ -16790,71 +16380,6 @@
       ]
     },
     {
-      "id": "M9ZR-1G3",
-      "about": "https://familysearch.org/ark:/61903/1:1:MNSL-G6Z",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-JW55",
-          "resourceId": "cis.user.MMMM-JW55"
-        },
-        "modified": 1489545308230,
-        "created": 1402798641485
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/M9ZR-1G3"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"United States Census, 1880,\" database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/MNSL-G6Z : 14 July 2016), Christena Giles in household of William Giles, Heber, Wasatch, Utah, United States; citing enumeration district ED 90, sheet 320C, NARA microfilm publication T9 (Washington D.C.: National Archives and Records Administration, n.d.), roll 1339; FHL microfilm 1,255,339.\n"
-        }
-      ],
-      "titles": [
-        {
-          "value": "Christena Giles in household of William Giles, \"United States Census, 1880\""
-        }
-      ]
-    },
-    {
-      "id": "96HY-PYX",
-      "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:QKDV-66W6",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-MTCZ",
-          "resourceId": "cis.user.MMMM-MTCZ"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-MTCZ",
-          "resourceId": "cis.user.MMMM-MTCZ"
-        },
-        "modified": 1450407753770,
-        "created": 1450407753770
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/96HY-PYX"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"Utah Death Certificates, 1904-1964\", database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/QKDV-66W6 : 25 September 2015), Christina Carlile in entry for Alma Giles, 1963."
-        }
-      ],
-      "titles": [
-        {
-          "value": "Christina Carlile in entry for Alma Giles, \"Utah Death Certificates, 1904-1964\""
-        }
-      ]
-    },
-    {
       "id": "98WJ-ZCD",
       "lang": "en_US",
       "about": "https://familysearch.org/ark:/61903/1:1:XH6G-TNW",
@@ -16878,12 +16403,45 @@
       },
       "citations": [
         {
-          "value": "\"United States Census, 1930,\" database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/XH6G-TNW : accessed 7 April 2017), Christina Giles, Heber, Wasatch, Utah, United States; citing enumeration district (ED) ED 5, sheet 22A, line 11, family 471, NARA microfilm publication T626 (Washington D.C.: National Archives and Records Administration, 2002), roll 2424; FHL microfilm 2,342,158.\n"
+          "value": "\"United States Census, 1930,\" database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/XH6G-TNW : accessed 17 April 2017), Christina Giles, Heber, Wasatch, Utah, United States; citing enumeration district (ED) ED 5, sheet 22A, line 11, family 471, NARA microfilm publication T626 (Washington D.C.: National Archives and Records Administration, 2002), roll 2424; FHL microfilm 2,342,158.\n"
         }
       ],
       "titles": [
         {
           "value": "Christina Giles, \"United States Census, 1930\""
+        }
+      ]
+    },
+    {
+      "id": "9DY5-BPC",
+      "lang": "en_US",
+      "about": "https://familysearch.org/ark:/61903/1:1:VT48-94F",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-VDBC",
+          "resourceId": "cis.user.MMM9-VDBC"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-VDBC",
+          "resourceId": "cis.user.MMM9-VDBC"
+        },
+        "modified": 1446676952472,
+        "created": 1446676952472
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/9DY5-BPC"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"United States Census, 1940,\" database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/VT48-94F : accessed 12 April 2017), Christina Giles, Heber City, Heber Election Precinct, Wasatch, Utah, United States; citing enumeration district (ED) 26-6, sheet 12B, line 78, family 236, Sixteenth Census of the United States, 1940, NARA digital publication T627.  Records of the Bureau of the Census, 1790 - 2007, RG 29. Washington, D.C.: National Archives and Records Administration, 2012, roll 4221.\n"
+        }
+      ],
+      "titles": [
+        {
+          "value": "Christina Giles, \"United States Census, 1940\""
         }
       ]
     },
@@ -16911,7 +16469,7 @@
       },
       "citations": [
         {
-          "value": "\"United States Census, 1910,\" database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/M5XM-JL4 : accessed 7 April 2017), Christina Giles, Heber Ward 2, Wasatch, Utah, United States; citing enumeration district (ED) ED 206, sheet 15B, family 105, NARA microfilm publication T624 (Washington D.C.: National Archives and Records Administration, 1982), roll 1610; FHL microfilm 1,375,623.\n"
+          "value": "\"United States Census, 1910,\" database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/M5XM-JL4 : accessed 12 April 2017), Christina Giles, Heber Ward 2, Wasatch, Utah, United States; citing enumeration district (ED) ED 206, sheet 15B, family 105, NARA microfilm publication T624 (Washington D.C.: National Archives and Records Administration, 1982), roll 1610; FHL microfilm 1,375,623.\n"
         }
       ],
       "titles": [
@@ -16921,38 +16479,101 @@
       ]
     },
     {
-      "id": "MS6Y-QHT",
+      "id": "96HD-MZH",
+      "lang": "en_US",
+      "about": "https://familysearch.org/ark:/61903/1:1:XZPB-3FT",
       "attribution": {
         "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-8PKD",
-          "resourceId": "cis.user.MMMM-8PKD"
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-4Z1V",
+          "resourceId": "cis.user.MMMM-4Z1V"
         },
         "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-8PKD",
-          "resourceId": "cis.user.MMMM-8PKD"
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-4Z1V",
+          "resourceId": "cis.user.MMMM-4Z1V"
         },
-        "modified": 1407412046228,
-        "created": 1407412046228
+        "modified": 1450224921668,
+        "created": 1450224921668
       },
-      "resourceType": "LEGACY",
+      "resourceType": "FSREADONLY",
       "links": {
         "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/MS6Y-QHT"
+          "href": "https://familysearch.org/platform/sources/descriptions/96HD-MZH"
         }
       },
       "citations": [
         {
-          "value": "Ancestral File (TM), The Church of Jesus Christ of Latter-day Saints, June 1998 (c), data as of 5 JAN 1998, Family History Library, 35 N West Temple Street, Salt Lake City, UT 84150  USA"
+          "value": "\"Utah Death Certificates, 1904-1964\", database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/XZPB-3FT : 11 September 2015), Christina Carlile in entry for Sarah Elizabeth Clegg, 1955."
         }
       ],
       "titles": [
         {
-          "value": "Legacy NFS Source: Christina Carlile - "
+          "value": "Christina Carlile in entry for Sarah Elizabeth Clegg, \"Utah Death Certificates, 1904-1964\""
+        }
+      ]
+    },
+    {
+      "id": "MSNW-S1F",
+      "lang": "en_US",
+      "about": "https://familysearch.org/ark:/61903/1:1:MZ4J-K1X",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-C2QB",
+          "resourceId": "cis.user.MMMM-C2QB"
+        },
+        "modified": 1489564699068,
+        "created": 1407719292883
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/MSNW-S1F"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"United States Census, 1850,\" database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/MZ4J-K1X : 9 November 2014), Christiana Carlisle in household of John Carlisle, Pottawattamie county, Pottawattamie, Iowa, United States; citing family 270, NARA microfilm publication M432 (Washington, D.C.: National Archives and Records Administration, n.d.)."
         }
       ],
-      "notes": [
+      "titles": [
         {
-          "text": "  \n"
+          "value": "Christiana Carlisle in household of John Carlisle, \"United States Census, 1850\""
+        }
+      ]
+    },
+    {
+      "id": "98WJ-QYG",
+      "lang": "en_US",
+      "about": "https://familysearch.org/ark:/61903/1:1:MNCB-DGQ",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-C2QB",
+          "resourceId": "cis.user.MMMM-C2QB"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-C2QB",
+          "resourceId": "cis.user.MMMM-C2QB"
+        },
+        "modified": 1429146649957,
+        "created": 1429146649957
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/98WJ-QYG"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"United States Census, 1870,\" database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/MNCB-DGQ : 17 October 2014), Cina Giles in household of William Giles, Utah, United States; citing p. 12, family 85, NARA microfilm publication M593 (Washington D.C.: National Archives and Records Administration, n.d.); FHL microfilm 553,112."
+        }
+      ],
+      "titles": [
+        {
+          "value": "Cina Giles in household of William Giles, \"United States Census, 1870\""
         }
       ]
     },
@@ -16994,35 +16615,379 @@
       ]
     },
     {
-      "id": "MSNW-S1F",
+      "id": "MM7Z-FQ3",
+      "about": "http://www.findagrave.com/cgi-bin/fg.cgi?page=pv&GRid=20230894&PIpi=9268167",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-7FJD",
+          "resourceId": "cis.user.MMM9-7FJD"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-7FJD",
+          "resourceId": "cis.user.MMM9-7FJD"
+        },
+        "modified": 1372720154000,
+        "created": 1372720154000
+      },
+      "resourceType": "DEFAULT",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/MM7Z-FQ3"
+        }
+      },
+      "citations": [
+        {
+          "value": "State of Utah Certificate of Death; Place: Heber City, Wasatch, Utah for Christina Giles, 1849-1942"
+        }
+      ],
+      "titles": [
+        {
+          "value": "State of Utah Certificate of Death"
+        }
+      ],
+      "notes": [
+        {
+          "text": "Christina Giles, birth/death/burial dates & places, gender, age, cause of death, informant, marital status, names and birthplaces of parents"
+        }
+      ]
+    },
+    {
+      "id": "96HY-PYX",
       "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:MZ4J-K1X",
+      "about": "https://familysearch.org/ark:/61903/1:1:QKDV-66W6",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-MTCZ",
+          "resourceId": "cis.user.MMMM-MTCZ"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-MTCZ",
+          "resourceId": "cis.user.MMMM-MTCZ"
+        },
+        "modified": 1450407753770,
+        "created": 1450407753770
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/96HY-PYX"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"Utah Death Certificates, 1904-1964\", database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/QKDV-66W6 : 25 September 2015), Christina Carlile in entry for Alma Giles, 1963."
+        }
+      ],
+      "titles": [
+        {
+          "value": "Christina Carlile in entry for Alma Giles, \"Utah Death Certificates, 1904-1964\""
+        }
+      ]
+    },
+    {
+      "id": "9DWH-29Y",
+      "lang": "en_US",
+      "about": "https://familysearch.org/ark:/61903/1:1:XZPY-97W",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMS-62NN",
+          "resourceId": "cis.user.MMMS-62NN"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMS-62NN",
+          "resourceId": "cis.user.MMMS-62NN"
+        },
+        "modified": 1439667458287,
+        "created": 1439667458287
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/9DWH-29Y"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"Utah Death Certificates, 1904-1964\", database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/XZPY-97W : 11 September 2015), Christie Carlile in entry for Annie Christine Averett, 1953."
+        }
+      ],
+      "titles": [
+        {
+          "value": "Christie Carlile in entry for Annie Christine Averett, \"Utah Death Certificates, 1904-1964\""
+        }
+      ]
+    },
+    {
+      "id": "9X61-CP6",
+      "lang": "en_US",
+      "about": "https://familysearch.org/ark:/61903/1:1:XZPT-JDK",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-ZMFK",
+          "resourceId": "cis.user.MMM9-ZMFK"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-ZMFK",
+          "resourceId": "cis.user.MMM9-ZMFK"
+        },
+        "modified": 1458776112433,
+        "created": 1458776112433
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/9X61-CP6"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"Utah Death Certificates, 1904-1964\", database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/XZPT-JDK : 11 September 2015), Christina Carlile in entry for Mary Baird, 1954."
+        }
+      ],
+      "titles": [
+        {
+          "value": "Christina Carlile in entry for Mary Baird, \"Utah Death Certificates, 1904-1964\""
+        }
+      ]
+    },
+    {
+      "id": "98R7-F3Q",
+      "lang": "en_US",
+      "about": "https://familysearch.org/ark:/61903/1:1:XZPF-F5Y",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMZ-5F8J",
+          "resourceId": "cis.user.MMMZ-5F8J"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMZ-5F8J",
+          "resourceId": "cis.user.MMMZ-5F8J"
+        },
+        "modified": 1435617796528,
+        "created": 1435617796528
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/98R7-F3Q"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"Utah Death Certificates, 1904-1964\", database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/XZPF-F5Y : 11 September 2015), Christina Giles, 1942."
+        }
+      ],
+      "titles": [
+        {
+          "value": "Christina Giles, \"Utah Death Certificates, 1904-1964\""
+        }
+      ]
+    },
+    {
+      "id": "98WJ-CLQ",
+      "lang": "en_US",
+      "about": "https://familysearch.org/ark:/61903/1:1:M8P2-DMT",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-C2QB",
+          "resourceId": "cis.user.MMMM-C2QB"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-C2QB",
+          "resourceId": "cis.user.MMMM-C2QB"
+        },
+        "modified": 1429147664049,
+        "created": 1429147664049
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/98WJ-CLQ"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"United States Census, 1920,\" database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/M8P2-DMT : accessed 12 April 2017), Christina Giles, Heber, Wasatch, Utah, United States; citing  ED 139, sheet 3A, line 39, family 46, NARA microfilm publication T625 (Washington D.C.: National Archives and Records Administration, 1992), roll 1867; FHL microfilm 1,821,867."
+        }
+      ],
+      "titles": [
+        {
+          "value": "Christina Giles, \"United States Census, 1920\""
+        }
+      ]
+    },
+    {
+      "id": "9XY7-SC2",
+      "lang": "en_US",
+      "about": "https://familysearch.org/ark:/61903/1:1:XZPF-XGV",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMS-18RP",
+          "resourceId": "cis.user.MMMS-18RP"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMS-18RP",
+          "resourceId": "cis.user.MMMS-18RP"
+        },
+        "modified": 1462162850313,
+        "created": 1462162850313
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/9XY7-SC2"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"Utah Death Certificates, 1904-1964\", database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/XZPF-XGV : 11 September 2015), Christine Carlile in entry for John William Giles, 1942."
+        }
+      ],
+      "titles": [
+        {
+          "value": "Christine Carlile in entry for John William Giles, \"Utah Death Certificates, 1904-1964\""
+        }
+      ]
+    },
+    {
+      "id": "M9ZR-1G3",
+      "about": "https://familysearch.org/ark:/61903/1:1:MNSL-G6Z",
       "attribution": {
         "contributor": {
           "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
           "resourceId": "cis.wkca.MMMM-M93P"
         },
         "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-C2QB",
-          "resourceId": "cis.user.MMMM-C2QB"
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-JW55",
+          "resourceId": "cis.user.MMMM-JW55"
         },
-        "modified": 1489564699068,
-        "created": 1407719292883
+        "modified": 1489545308230,
+        "created": 1402798641485
       },
       "resourceType": "FSREADONLY",
       "links": {
         "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/MSNW-S1F"
+          "href": "https://familysearch.org/platform/sources/descriptions/M9ZR-1G3"
         }
       },
       "citations": [
         {
-          "value": "\"United States Census, 1850,\" database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/MZ4J-K1X : 9 November 2014), Christiana Carlisle in household of John Carlisle, Pottawattamie county, Pottawattamie, Iowa, United States; citing family 270, NARA microfilm publication M432 (Washington, D.C.: National Archives and Records Administration, n.d.)."
+          "value": "\"United States Census, 1880,\" database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/MNSL-G6Z : 14 July 2016), Christena Giles in household of William Giles, Heber, Wasatch, Utah, United States; citing enumeration district ED 90, sheet 320C, NARA microfilm publication T9 (Washington D.C.: National Archives and Records Administration, n.d.), roll 1339; FHL microfilm 1,255,339.\n"
         }
       ],
       "titles": [
         {
-          "value": "Christiana Carlisle in household of John Carlisle, \"United States Census, 1850\""
+          "value": "Christena Giles in household of William Giles, \"United States Census, 1880\""
+        }
+      ]
+    },
+    {
+      "id": "MS6Y-QHT",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-8PKD",
+          "resourceId": "cis.user.MMMM-8PKD"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-8PKD",
+          "resourceId": "cis.user.MMMM-8PKD"
+        },
+        "modified": 1407412046228,
+        "created": 1407412046228
+      },
+      "resourceType": "LEGACY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/MS6Y-QHT"
+        }
+      },
+      "citations": [
+        {
+          "value": "Ancestral File (TM), The Church of Jesus Christ of Latter-day Saints, June 1998 (c), data as of 5 JAN 1998, Family History Library, 35 N West Temple Street, Salt Lake City, UT 84150  USA"
+        }
+      ],
+      "titles": [
+        {
+          "value": "Legacy NFS Source: Christina Carlile - "
+        }
+      ],
+      "notes": [
+        {
+          "text": "  \n"
+        }
+      ]
+    },
+    {
+      "id": "MM7Z-XYG",
+      "about": "http://interactive.ancestry.com/6742/4244811-00080?backurl=&ssrc=&backlabel=Return",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-7FJD",
+          "resourceId": "cis.user.MMM9-7FJD"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-7FJD",
+          "resourceId": "cis.user.MMM9-7FJD"
+        },
+        "modified": 1372719643000,
+        "created": 1372719643000
+      },
+      "resourceType": "DEFAULT",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/MM7Z-XYG"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"United States Census, 1880,\" index and images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/MNSL-G6C : accessed 01 Jul 2013), William Giles, 1880.\n\n"
+        }
+      ],
+      "titles": [
+        {
+          "value": "1880 Census Heber, Wasatch, Utah  ED 90   Page 15"
+        }
+      ],
+      "notes": [
+        {
+          "text": "William Giles, occupation, spouse, children, genders, ages, birthplaces"
+        }
+      ]
+    },
+    {
+      "id": "MM7Z-F9C",
+      "about": "http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&GRid=20230894 ",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-7FJD",
+          "resourceId": "cis.user.MMM9-7FJD"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-7FJD",
+          "resourceId": "cis.user.MMM9-7FJD"
+        },
+        "modified": 1372719913000,
+        "created": 1372719913000
+      },
+      "resourceType": "DEFAULT",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/MM7Z-F9C"
+        }
+      },
+      "citations": [
+        {
+          "value": "Heber City Cemetery, Heber City, Wasatch, Utah, United States; Burial Record for Christina C Giles, 1849-1942"
+        }
+      ],
+      "titles": [
+        {
+          "value": "Heber City Cemetery, Utah"
+        }
+      ],
+      "notes": [
+        {
+          "text": "Christina C Giles, birth/death dates, place of burial, location of grave, photo of grave stone"
         }
       ]
     }
@@ -17074,13 +17039,13 @@
       ]
     },
     {
-      "id": "pd_40.244446x-111.660835",
-      "latitude": 40.244446,
-      "longitude": -111.660835,
+      "id": "pd_40.124439x-111.625558",
+      "latitude": 40.124439,
+      "longitude": -111.625558,
       "names": [
         {
           "lang": "en-US",
-          "value": "Provo, Utah, Utah, United States"
+          "value": "Utah, Utah, United States"
         },
         {
           "lang": "und",
@@ -17100,6 +17065,21 @@
         {
           "lang": "und",
           "value": "Utah, United States"
+        }
+      ]
+    },
+    {
+      "id": "pd_40.37556x-111.125557",
+      "latitude": 40.37556,
+      "longitude": -111.125557,
+      "names": [
+        {
+          "lang": "en-US",
+          "value": "Wasatch, Utah, United States"
+        },
+        {
+          "lang": "und",
+          "value": "Heber Precinct Heber City, Wasatch, Utah, United States"
         }
       ]
     },

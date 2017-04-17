@@ -178,7 +178,7 @@
           "href": "https://familysearch.org/platform/tree/persons/KWCT-P7T/families?sourceDescriptions=true"
         },
         "portrait": {
-          "href": "https://raw.githubusercontent.com/misbach/familytree/master/people/KWCT-P7T/KWCT-P7T.jpg"
+          "href": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/KWCT-P7T/KWCT-P7T.jpg"
         },
         "matches": {
           "href": "https://familysearch.org/platform/tree/persons/KWCT-P7T/matches"
@@ -1325,65 +1325,17 @@
         "familiesAsParent": [
           {
             "parent1": {
-              "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KWCT-P7T/KWCT-P7T.json",
+              "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/KWCT-P7T/KWCT-P7T.json",
               "resourceId": "KWCT-P7T"
             },
             "parent2": {
-              "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KWCT-P7B/KWCT-P7B.json",
+              "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/KWCT-P7B/KWCT-P7B.json",
               "resourceId": "KWCT-P7B"
             },
             "children": [
               {
-                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KWCJ-74Q/KWCJ-74Q.json",
-                "resourceId": "KWCJ-74Q"
-              },
-              {
-                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KWCG-VG1/KWCG-VG1.json",
+                "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/KWCG-VG1/KWCG-VG1.json",
                 "resourceId": "KWCG-VG1"
-              },
-              {
-                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KWV3-1G2/KWV3-1G2.json",
-                "resourceId": "KWV3-1G2"
-              },
-              {
-                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KWV3-1GT/KWV3-1GT.json",
-                "resourceId": "KWV3-1GT"
-              },
-              {
-                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KWZF-8S1/KWZF-8S1.json",
-                "resourceId": "KWZF-8S1"
-              },
-              {
-                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KWJD-NF8/KWJD-NF8.json",
-                "resourceId": "KWJD-NF8"
-              },
-              {
-                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KWCR-41R/KWCR-41R.json",
-                "resourceId": "KWCR-41R"
-              },
-              {
-                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KWJJ-2SC/KWJJ-2SC.json",
-                "resourceId": "KWJJ-2SC"
-              },
-              {
-                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KWV3-1GG/KWV3-1GG.json",
-                "resourceId": "KWV3-1GG"
-              },
-              {
-                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KWV3-1GR/KWV3-1GR.json",
-                "resourceId": "KWV3-1GR"
-              },
-              {
-                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KWJD-N8F/KWJD-N8F.json",
-                "resourceId": "KWJD-N8F"
-              },
-              {
-                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KWJD-N1Y/KWJD-N1Y.json",
-                "resourceId": "KWJD-N1Y"
-              },
-              {
-                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KN8X-8GK/KN8X-8GK.json",
-                "resourceId": "KN8X-8GK"
               }
             ]
           }
@@ -1391,16 +1343,16 @@
         "familiesAsChild": [
           {
             "parent1": {
-              "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KWJF-JK5/KWJF-JK5.json",
+              "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/KWJF-JK5/KWJF-JK5.json",
               "resourceId": "KWJF-JK5"
             },
             "parent2": {
-              "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KWJF-JKP/KWJF-JKP.json",
+              "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/KWJF-JKP/KWJF-JKP.json",
               "resourceId": "KWJF-JKP"
             },
             "children": [
               {
-                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KWCT-P7T/KWCT-P7T.json",
+                "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/KWCT-P7T/KWCT-P7T.json",
                 "resourceId": "KWCT-P7T"
               }
             ]
@@ -1976,11 +1928,11 @@
           },
           "place": {
             "original": "ED 171 Heber Precinct Heber City, Wasatch, Utah, United States",
-            "description": "#pd_40.50694x-111.412498",
+            "description": "#pd_40.37556x-111.125557",
             "normalized": [
               {
                 "lang": "en-US",
-                "value": "Heber City, Wasatch, Utah, United States"
+                "value": "Wasatch, Utah, United States"
               },
               {
                 "lang": "und",
@@ -2020,11 +1972,11 @@
           },
           "place": {
             "original": "Heber Ward 1, Wasatch, Utah, United States",
-            "description": "#pd_40.50694x-111.412498",
+            "description": "#pd_40.37556x-111.125557",
             "normalized": [
               {
                 "lang": "en-US",
-                "value": "Heber City, Wasatch, Utah, United States"
+                "value": "Wasatch, Utah, United States"
               },
               {
                 "lang": "und",
@@ -3140,6 +3092,16 @@
       "id": "KWJF-JK5",
       "sortKey": "0000000006",
       "evidence": [
+        {
+          "id": "35626335-9022225",
+          "resource": "https://familysearch.org/platform/memories/memories/35626335/personas/35626335-9022225",
+          "resourceId": "35626335-9022225",
+          "links": {
+            "evidence-reference": {
+              "href": "https://familysearch.org/platform/tree/persons/KWCT-P7T/memory-references/35626335-9022225"
+            }
+          }
+        },
         {
           "id": "1799961-723880",
           "resource": "https://familysearch.org/platform/memories/memories/1799961/personas/1799961-723880",
@@ -4813,8 +4775,8 @@
         "familiesAsChild": [
           {
             "parent1": {
-              "resource": "https://familysearch.org/ark:/61903/4:1:LC5Z-7P5",
-              "resourceId": "LC5Z-7P5"
+              "resource": "https://familysearch.org/ark:/61903/4:1:LZ56-G3H",
+              "resourceId": "LZ56-G3H"
             },
             "parent2": {
               "resource": "https://familysearch.org/ark:/61903/4:1:LC7H-DVL",
@@ -4829,8 +4791,8 @@
           },
           {
             "parent1": {
-              "resource": "https://familysearch.org/ark:/61903/4:1:LZ56-G3H",
-              "resourceId": "LZ56-G3H"
+              "resource": "https://familysearch.org/ark:/61903/4:1:LC5Z-7P5",
+              "resourceId": "LC5Z-7P5"
             },
             "parent2": {
               "resource": "https://familysearch.org/ark:/61903/4:1:LC7H-DVL",
@@ -5351,11 +5313,11 @@
           },
           "place": {
             "original": "ED 171 Heber Precinct Heber City, Wasatch, Utah, United States",
-            "description": "#pd_40.50694x-111.412498",
+            "description": "#pd_40.37556x-111.125557",
             "normalized": [
               {
                 "lang": "en-US",
-                "value": "Heber City, Wasatch, Utah, United States"
+                "value": "Wasatch, Utah, United States"
               },
               {
                 "lang": "und",
@@ -6151,11 +6113,11 @@
           },
           "place": {
             "original": "ED 171 Heber Precinct Heber City, Wasatch, Utah, United States",
-            "description": "#pd_40.50694x-111.412498",
+            "description": "#pd_40.37556x-111.125557",
             "normalized": [
               {
                 "lang": "en-US",
-                "value": "Heber City, Wasatch, Utah, United States"
+                "value": "Wasatch, Utah, United States"
               },
               {
                 "lang": "und",
@@ -6424,6 +6386,16 @@
       "id": "KWJF-JKP",
       "sortKey": "0000000009",
       "evidence": [
+        {
+          "id": "35626335-12766542",
+          "resource": "https://familysearch.org/platform/memories/memories/35626335/personas/35626335-12766542",
+          "resourceId": "35626335-12766542",
+          "links": {
+            "evidence-reference": {
+              "href": "https://familysearch.org/platform/tree/persons/KWCT-P7T/memory-references/35626335-12766542"
+            }
+          }
+        },
         {
           "id": "916901-391839",
           "resource": "https://familysearch.org/platform/memories/memories/916901/personas/916901-391839",
@@ -8773,11 +8745,11 @@
           },
           "place": {
             "original": "ED 171 Heber Precinct Heber City, Wasatch, Utah, United States",
-            "description": "#pd_40.50694x-111.412498",
+            "description": "#pd_40.37556x-111.125557",
             "normalized": [
               {
                 "lang": "en-US",
-                "value": "Heber City, Wasatch, Utah, United States"
+                "value": "Wasatch, Utah, United States"
               },
               {
                 "lang": "und",
@@ -9541,11 +9513,11 @@
           },
           "place": {
             "original": "ED 171 Heber Precinct Heber City, Wasatch, Utah, United States",
-            "description": "#pd_40.50694x-111.412498",
+            "description": "#pd_40.37556x-111.125557",
             "normalized": [
               {
                 "lang": "en-US",
-                "value": "Heber City, Wasatch, Utah, United States"
+                "value": "Wasatch, Utah, United States"
               },
               {
                 "lang": "und",
@@ -10575,11 +10547,11 @@
           },
           "place": {
             "original": "ED 171 Heber Precinct Heber City, Wasatch, Utah, United States",
-            "description": "#pd_40.50694x-111.412498",
+            "description": "#pd_40.37556x-111.125557",
             "normalized": [
               {
                 "lang": "en-US",
-                "value": "Heber City, Wasatch, Utah, United States"
+                "value": "Wasatch, Utah, United States"
               },
               {
                 "lang": "und",
@@ -10619,11 +10591,11 @@
           },
           "place": {
             "original": "Heber Ward 1, , Utah",
-            "description": "#pd_40.50694x-111.412498",
+            "description": "#pd_40.37556x-111.125557",
             "normalized": [
               {
                 "lang": "en-US",
-                "value": "Heber City, Wasatch, Utah, United States"
+                "value": "Wasatch, Utah, United States"
               },
               {
                 "lang": "und",
@@ -11696,11 +11668,11 @@
           },
           "place": {
             "original": "Provo Valley, Utah, Utah, United States",
-            "description": "#pd_40.244446x-111.660835",
+            "description": "#pd_40.124439x-111.625558",
             "normalized": [
               {
                 "lang": "en-US",
-                "value": "Provo, Utah, Utah, United States"
+                "value": "Utah, Utah, United States"
               },
               {
                 "lang": "und",
@@ -11889,11 +11861,11 @@
           },
           "place": {
             "original": "ED 171 Heber Precinct Heber City, Wasatch, Utah, United States",
-            "description": "#pd_40.50694x-111.412498",
+            "description": "#pd_40.37556x-111.125557",
             "normalized": [
               {
                 "lang": "en-US",
-                "value": "Heber City, Wasatch, Utah, United States"
+                "value": "Wasatch, Utah, United States"
               },
               {
                 "lang": "und",
@@ -12803,6 +12775,19 @@
         }
       },
       "sources": [
+        {
+          "id": "2a58f46d-dac8-4d13-a196-963fb0fc4c77",
+          "links": {
+            "source-reference": {
+              "href": "https://familysearch.org/platform/tree/persons/KWCT-P7T/source-references/2a58f46d-dac8-4d13-a196-963fb0fc4c77"
+            },
+            "description": {
+              "href": "https://familysearch.org/platform/sources/descriptions/9VTS-R9H"
+            }
+          },
+          "description": "https://familysearch.org/platform/sources/descriptions/9VTS-R9H",
+          "descriptionId": "9VTS-R9H"
+        },
         {
           "id": "79bb2517-09a1-48e8-ba2d-dce79de9490d",
           "links": {
@@ -14315,11 +14300,11 @@
           },
           "place": {
             "original": "ED 171 Heber Precinct Heber City, Wasatch, Utah, United States",
-            "description": "#pd_40.50694x-111.412498",
+            "description": "#pd_40.37556x-111.125557",
             "normalized": [
               {
                 "lang": "en-US",
-                "value": "Heber City, Wasatch, Utah, United States"
+                "value": "Wasatch, Utah, United States"
               },
               {
                 "lang": "und",
@@ -16136,46 +16121,6 @@
       }
     },
     {
-      "id": "FMVG2-KKW",
-      "type": "http://gedcomx.org/ParentChild",
-      "person1": {
-        "resource": "https://familysearch.org/platform/tree/persons/LC5Z-7P5",
-        "resourceId": "LC5Z-7P5"
-      },
-      "person2": {
-        "resource": "#KWJF-JK5",
-        "resourceId": "KWJF-JK5"
-      },
-      "links": {
-        "person2": {
-          "href": "https://familysearch.org/platform/tree/persons/KWJF-JK5?relatives=true&sourceDescriptions=true"
-        },
-        "person1": {
-          "href": "https://familysearch.org/platform/tree/persons/LC5Z-7P5?relatives=true&sourceDescriptions=true"
-        }
-      }
-    },
-    {
-      "id": "MMVG2-KKW",
-      "type": "http://gedcomx.org/ParentChild",
-      "person1": {
-        "resource": "https://familysearch.org/platform/tree/persons/LC7H-DVL",
-        "resourceId": "LC7H-DVL"
-      },
-      "person2": {
-        "resource": "#KWJF-JK5",
-        "resourceId": "KWJF-JK5"
-      },
-      "links": {
-        "person2": {
-          "href": "https://familysearch.org/platform/tree/persons/KWJF-JK5?relatives=true&sourceDescriptions=true"
-        },
-        "person1": {
-          "href": "https://familysearch.org/platform/tree/persons/LC7H-DVL?relatives=true&sourceDescriptions=true"
-        }
-      }
-    },
-    {
       "id": "FMN93-NSD",
       "type": "http://gedcomx.org/ParentChild",
       "person1": {
@@ -16197,6 +16142,46 @@
     },
     {
       "id": "MMN93-NSD",
+      "type": "http://gedcomx.org/ParentChild",
+      "person1": {
+        "resource": "https://familysearch.org/platform/tree/persons/LC7H-DVL",
+        "resourceId": "LC7H-DVL"
+      },
+      "person2": {
+        "resource": "#KWJF-JK5",
+        "resourceId": "KWJF-JK5"
+      },
+      "links": {
+        "person2": {
+          "href": "https://familysearch.org/platform/tree/persons/KWJF-JK5?relatives=true&sourceDescriptions=true"
+        },
+        "person1": {
+          "href": "https://familysearch.org/platform/tree/persons/LC7H-DVL?relatives=true&sourceDescriptions=true"
+        }
+      }
+    },
+    {
+      "id": "FMVG2-KKW",
+      "type": "http://gedcomx.org/ParentChild",
+      "person1": {
+        "resource": "https://familysearch.org/platform/tree/persons/LC5Z-7P5",
+        "resourceId": "LC5Z-7P5"
+      },
+      "person2": {
+        "resource": "#KWJF-JK5",
+        "resourceId": "KWJF-JK5"
+      },
+      "links": {
+        "person2": {
+          "href": "https://familysearch.org/platform/tree/persons/KWJF-JK5?relatives=true&sourceDescriptions=true"
+        },
+        "person1": {
+          "href": "https://familysearch.org/platform/tree/persons/LC5Z-7P5?relatives=true&sourceDescriptions=true"
+        }
+      }
+    },
+    {
+      "id": "MMVG2-KKW",
       "type": "http://gedcomx.org/ParentChild",
       "person1": {
         "resource": "https://familysearch.org/platform/tree/persons/LC7H-DVL",
@@ -17609,138 +17594,99 @@
       }
     },
     {
-      "id": "9XY7-SQN",
-      "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:XZPF-XGJ",
+      "id": "M96R-WCP",
+      "about": "https://familysearch.org/ark:/61903/1:1:SGN3-1S6",
       "attribution": {
         "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMS-18RP",
-          "resourceId": "cis.user.MMMS-18RP"
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
         },
         "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMS-18RP",
-          "resourceId": "cis.user.MMMS-18RP"
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-SKCT",
+          "resourceId": "cis.user.MMMM-SKCT"
         },
-        "modified": 1462162817990,
-        "created": 1462162817990
+        "modified": 1489546769256,
+        "created": 1403295271033
       },
       "resourceType": "FSREADONLY",
       "links": {
         "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/9XY7-SQN"
+          "href": "https://familysearch.org/platform/sources/descriptions/M96R-WCP"
         }
       },
       "citations": [
         {
-          "value": "\"Utah Death Certificates, 1904-1964\", database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/XZPF-XGJ : 11 September 2015), William Giles in entry for John William Giles, 1942."
+          "value": "\"England and Wales Census, 1851,\" database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/SGN3-1S6 : 24 July 2016), William Giles in household of William Giles, St Mary Le Wigford, Lincolnshire, England; citing St Mary Le Wigford, Lincolnshire, England, p. 20, from \"1851 England, Scotland and Wales census,\" database and images, findmypast (http://www.findmypast.com : n.d.); citing PRO HO 107, The National Archives of the UK, Kew, Surrey."
         }
       ],
       "titles": [
         {
-          "value": "William Giles in entry for John William Giles, \"Utah Death Certificates, 1904-1964\""
+          "value": "William Giles in household of William Giles, \"England and Wales Census, 1851\""
         }
       ]
     },
     {
-      "id": "96HD-MCV",
+      "id": "9DWH-2MH",
       "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:XZPB-3FR",
+      "about": "https://familysearch.org/ark:/61903/1:1:XZPY-977",
       "attribution": {
         "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-4Z1V",
-          "resourceId": "cis.user.MMMM-4Z1V"
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMS-62NN",
+          "resourceId": "cis.user.MMMS-62NN"
         },
         "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-4Z1V",
-          "resourceId": "cis.user.MMMM-4Z1V"
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMS-62NN",
+          "resourceId": "cis.user.MMMS-62NN"
         },
-        "modified": 1450224912824,
-        "created": 1450224912824
+        "modified": 1439667435651,
+        "created": 1439667435651
       },
       "resourceType": "FSREADONLY",
       "links": {
         "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/96HD-MCV"
+          "href": "https://familysearch.org/platform/sources/descriptions/9DWH-2MH"
         }
       },
       "citations": [
         {
-          "value": "\"Utah Death Certificates, 1904-1964\", database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/XZPB-3FR : 11 September 2015), William Giles in entry for Sarah Elizabeth Clegg, 1955."
+          "value": "\"Utah Death Certificates, 1904-1964\", database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/XZPY-977 : 11 September 2015), William Giles in entry for Annie Christine Averett, 1953."
         }
       ],
       "titles": [
         {
-          "value": "William Giles in entry for Sarah Elizabeth Clegg, \"Utah Death Certificates, 1904-1964\""
+          "value": "William Giles in entry for Annie Christine Averett, \"Utah Death Certificates, 1904-1964\""
         }
       ]
     },
     {
-      "id": "MM7Z-FDN",
-      "about": "http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&GRid=16229837",
+      "id": "M9ZR-1RY",
+      "about": "https://familysearch.org/ark:/61903/1:1:FLR7-3J6",
       "attribution": {
         "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-7FJD",
-          "resourceId": "cis.user.MMM9-7FJD"
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
         },
         "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-7FJD",
-          "resourceId": "cis.user.MMM9-7FJD"
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-JW55",
+          "resourceId": "cis.user.MMMM-JW55"
         },
-        "modified": 1372720788000,
-        "created": 1372720788000
-      },
-      "resourceType": "DEFAULT",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/MM7Z-FDN"
-        }
-      },
-      "citations": [
-        {
-          "value": "Heber City Cemetery, Heber City, Wasatch, Utah, United States; Burial Record for William Giles, 1843-1895"
-        }
-      ],
-      "titles": [
-        {
-          "value": "Heber City Cemetery, Utah"
-        }
-      ],
-      "notes": [
-        {
-          "text": "William Giles, birth/death dates, place of burial, location of grave, age, brief history"
-        }
-      ]
-    },
-    {
-      "id": "98WJ-QRK",
-      "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:MNCB-DG3",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-C2QB",
-          "resourceId": "cis.user.MMMM-C2QB"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-C2QB",
-          "resourceId": "cis.user.MMMM-C2QB"
-        },
-        "modified": 1429146632564,
-        "created": 1429146632564
+        "modified": 1489545309012,
+        "created": 1402798785125
       },
       "resourceType": "FSREADONLY",
       "links": {
         "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/98WJ-QRK"
+          "href": "https://familysearch.org/platform/sources/descriptions/M9ZR-1RY"
         }
       },
       "citations": [
         {
-          "value": "\"United States Census, 1870,\" database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/MNCB-DG3 : 17 October 2014), William Giles, Utah, United States; citing p. 12, family 85, NARA microfilm publication M593 (Washington D.C.: National Archives and Records Administration, n.d.); FHL microfilm 553,112."
+          "value": "\"Utah, Veterans with Federal Service Buried in Utah, Territorial to 1966,\" database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/FLR7-3J6 : 6 December 2014), William Giles, 11 Nov 1895; citing City Cemetery, , military unit Capt Wm Wall Cav, Ut Terr Mil, Blackhawk War, State Archives, Capitol Building, Salt Lake City; FHL microfilm 485,503."
         }
       ],
       "titles": [
         {
-          "value": "William Giles, \"United States Census, 1870\""
+          "value": "William Giles, \"Utah, Veterans with Federal Service Buried in Utah, Territorial to 1966\""
         }
       ]
     },
@@ -17781,98 +17727,170 @@
       ]
     },
     {
-      "id": "M96R-WCP",
-      "about": "https://familysearch.org/ark:/61903/1:1:SGN3-1S6",
+      "id": "MS6Y-31P",
       "attribution": {
         "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-K4R2",
+          "resourceId": "cis.user.MMMM-K4R2"
         },
         "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-SKCT",
-          "resourceId": "cis.user.MMMM-SKCT"
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-K4R2",
+          "resourceId": "cis.user.MMMM-K4R2"
         },
-        "modified": 1489546769256,
-        "created": 1403295271033
+        "modified": 1407412036275,
+        "created": 1407412036275
       },
-      "resourceType": "FSREADONLY",
+      "resourceType": "LEGACY",
       "links": {
         "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/M96R-WCP"
+          "href": "https://familysearch.org/platform/sources/descriptions/MS6Y-31P"
         }
       },
       "citations": [
         {
-          "value": "\"England and Wales Census, 1851,\" database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/SGN3-1S6 : 24 July 2016), William Giles in household of William Giles, St Mary Le Wigford, Lincolnshire, England; citing St Mary Le Wigford, Lincolnshire, England, p. 20, from \"1851 England, Scotland and Wales census,\" database and images, findmypast (http://www.findmypast.com : n.d.); citing PRO HO 107, The National Archives of the UK, Kew, Surrey."
+          "value": "Paper, Biography of Thomas H. Giles, Thomas Huskinson Giles, Transcription of handwritten diary, Individual"
         }
       ],
       "titles": [
         {
-          "value": "William Giles in household of William Giles, \"England and Wales Census, 1851\""
+          "value": "Legacy NFS Source: William Giles - Published information: Journal or diary: christening: from 6 May 1848 to 6 July 1848; Lincoln, Lincolnshire, England, United Kingdom"
+        }
+      ],
+      "notes": [
+        {
+          "text": "Published information: Journal or diary: christening: from 6 May 1848 to 6 July 1848; Lincoln, Lincolnshire, England, United Kingdom"
         }
       ]
     },
     {
-      "id": "M9ZR-1LP",
-      "about": "https://familysearch.org/ark:/61903/1:1:MNSL-G6C",
+      "id": "9XY7-SQN",
+      "lang": "en_US",
+      "about": "https://familysearch.org/ark:/61903/1:1:XZPF-XGJ",
       "attribution": {
         "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMS-18RP",
+          "resourceId": "cis.user.MMMS-18RP"
         },
         "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-JW55",
-          "resourceId": "cis.user.MMMM-JW55"
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMS-18RP",
+          "resourceId": "cis.user.MMMS-18RP"
         },
-        "modified": 1489545308714,
-        "created": 1402798634063
+        "modified": 1462162817990,
+        "created": 1462162817990
       },
       "resourceType": "FSREADONLY",
       "links": {
         "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/M9ZR-1LP"
+          "href": "https://familysearch.org/platform/sources/descriptions/9XY7-SQN"
         }
       },
       "citations": [
         {
-          "value": "\"United States Census, 1880,\" database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/MNSL-G6C : 14 July 2016), William Giles, Heber, Wasatch, Utah, United States; citing enumeration district ED 90, sheet 320C, NARA microfilm publication T9 (Washington D.C.: National Archives and Records Administration, n.d.), roll 1339; FHL microfilm 1,255,339.\n"
+          "value": "\"Utah Death Certificates, 1904-1964\", database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/XZPF-XGJ : 11 September 2015), William Giles in entry for John William Giles, 1942."
         }
       ],
       "titles": [
         {
-          "value": "William Giles, \"United States Census, 1880\""
+          "value": "William Giles in entry for John William Giles, \"Utah Death Certificates, 1904-1964\""
         }
       ]
     },
     {
-      "id": "M9ZR-15Y",
-      "about": "https://familysearch.org/ark:/61903/1:1:VR8Y-B2D",
+      "id": "9X61-CLP",
+      "lang": "en_US",
+      "about": "https://familysearch.org/ark:/61903/1:1:XZPT-JDV",
       "attribution": {
         "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-ZMFK",
+          "resourceId": "cis.user.MMM9-ZMFK"
         },
         "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-JW55",
-          "resourceId": "cis.user.MMMM-JW55"
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-ZMFK",
+          "resourceId": "cis.user.MMM9-ZMFK"
         },
-        "modified": 1489545308819,
-        "created": 1402798735676
+        "modified": 1458776101147,
+        "created": 1458776101147
       },
       "resourceType": "FSREADONLY",
       "links": {
         "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/M9ZR-15Y"
+          "href": "https://familysearch.org/platform/sources/descriptions/9X61-CLP"
         }
       },
       "citations": [
         {
-          "value": "\"BillionGraves Index,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/VR8Y-B2D : 24 June 2015), William Giles, died 11 Nov 1895; citing BillionGraves (http://www.billiongraves.com : 2012), Burial at Heber City Cemetery, Heber, Wasatch, Utah, United States."
+          "value": "\"Utah Death Certificates, 1904-1964\", database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/XZPT-JDV : 11 September 2015), William Giles in entry for Mary Baird, 1954."
         }
       ],
       "titles": [
         {
-          "value": "William Giles, \"BillionGraves Index\""
+          "value": "William Giles in entry for Mary Baird, \"Utah Death Certificates, 1904-1964\""
+        }
+      ]
+    },
+    {
+      "id": "96HY-PTV",
+      "lang": "en_US",
+      "about": "https://familysearch.org/ark:/61903/1:1:QKDV-66WD",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-MTCZ",
+          "resourceId": "cis.user.MMMM-MTCZ"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-MTCZ",
+          "resourceId": "cis.user.MMMM-MTCZ"
+        },
+        "modified": 1450407746219,
+        "created": 1450407746219
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/96HY-PTV"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"Utah Death Certificates, 1904-1964\", database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/QKDV-66WD : 25 September 2015), William Giles in entry for Alma Giles, 1963."
+        }
+      ],
+      "titles": [
+        {
+          "value": "William Giles in entry for Alma Giles, \"Utah Death Certificates, 1904-1964\""
+        }
+      ]
+    },
+    {
+      "id": "96HD-MCV",
+      "lang": "en_US",
+      "about": "https://familysearch.org/ark:/61903/1:1:XZPB-3FR",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-4Z1V",
+          "resourceId": "cis.user.MMMM-4Z1V"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-4Z1V",
+          "resourceId": "cis.user.MMMM-4Z1V"
+        },
+        "modified": 1450224912824,
+        "created": 1450224912824
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/96HD-MCV"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"Utah Death Certificates, 1904-1964\", database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/XZPB-3FR : 11 September 2015), William Giles in entry for Sarah Elizabeth Clegg, 1955."
+        }
+      ],
+      "titles": [
+        {
+          "value": "William Giles in entry for Sarah Elizabeth Clegg, \"Utah Death Certificates, 1904-1964\""
         }
       ]
     },
@@ -17947,41 +17965,78 @@
       ]
     },
     {
-      "id": "9X61-CLP",
-      "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:XZPT-JDV",
+      "id": "MM7Z-FDN",
+      "about": "http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&GRid=16229837",
       "attribution": {
         "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-ZMFK",
-          "resourceId": "cis.user.MMM9-ZMFK"
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-7FJD",
+          "resourceId": "cis.user.MMM9-7FJD"
         },
         "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-ZMFK",
-          "resourceId": "cis.user.MMM9-ZMFK"
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-7FJD",
+          "resourceId": "cis.user.MMM9-7FJD"
         },
-        "modified": 1458776101147,
-        "created": 1458776101147
+        "modified": 1372720788000,
+        "created": 1372720788000
       },
-      "resourceType": "FSREADONLY",
+      "resourceType": "DEFAULT",
       "links": {
         "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/9X61-CLP"
+          "href": "https://familysearch.org/platform/sources/descriptions/MM7Z-FDN"
         }
       },
       "citations": [
         {
-          "value": "\"Utah Death Certificates, 1904-1964\", database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/XZPT-JDV : 11 September 2015), William Giles in entry for Mary Baird, 1954."
+          "value": "Heber City Cemetery, Heber City, Wasatch, Utah, United States; Burial Record for William Giles, 1843-1895"
         }
       ],
       "titles": [
         {
-          "value": "William Giles in entry for Mary Baird, \"Utah Death Certificates, 1904-1964\""
+          "value": "Heber City Cemetery, Utah"
+        }
+      ],
+      "notes": [
+        {
+          "text": "William Giles, birth/death dates, place of burial, location of grave, age, brief history"
         }
       ]
     },
     {
-      "id": "M9ZR-1RY",
-      "about": "https://familysearch.org/ark:/61903/1:1:FLR7-3J6",
+      "id": "98WJ-QRK",
+      "lang": "en_US",
+      "about": "https://familysearch.org/ark:/61903/1:1:MNCB-DG3",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-C2QB",
+          "resourceId": "cis.user.MMMM-C2QB"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-C2QB",
+          "resourceId": "cis.user.MMMM-C2QB"
+        },
+        "modified": 1429146632564,
+        "created": 1429146632564
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/98WJ-QRK"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"United States Census, 1870,\" database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/MNCB-DG3 : 17 October 2014), William Giles, Utah, United States; citing p. 12, family 85, NARA microfilm publication M593 (Washington D.C.: National Archives and Records Administration, n.d.); FHL microfilm 553,112."
+        }
+      ],
+      "titles": [
+        {
+          "value": "William Giles, \"United States Census, 1870\""
+        }
+      ]
+    },
+    {
+      "id": "M9ZR-15Y",
+      "about": "https://familysearch.org/ark:/61903/1:1:VR8Y-B2D",
       "attribution": {
         "contributor": {
           "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
@@ -17991,128 +18046,55 @@
           "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-JW55",
           "resourceId": "cis.user.MMMM-JW55"
         },
-        "modified": 1489545309012,
-        "created": 1402798785125
+        "modified": 1489545308819,
+        "created": 1402798735676
       },
       "resourceType": "FSREADONLY",
       "links": {
         "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/M9ZR-1RY"
+          "href": "https://familysearch.org/platform/sources/descriptions/M9ZR-15Y"
         }
       },
       "citations": [
         {
-          "value": "\"Utah, Veterans with Federal Service Buried in Utah, Territorial to 1966,\" database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/FLR7-3J6 : 6 December 2014), William Giles, 11 Nov 1895; citing City Cemetery, , military unit Capt Wm Wall Cav, Ut Terr Mil, Blackhawk War, State Archives, Capitol Building, Salt Lake City; FHL microfilm 485,503."
+          "value": "\"BillionGraves Index,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/VR8Y-B2D : 24 June 2015), William Giles, died 11 Nov 1895; citing BillionGraves (http://www.billiongraves.com : 2012), Burial at Heber City Cemetery, Heber, Wasatch, Utah, United States."
         }
       ],
       "titles": [
         {
-          "value": "William Giles, \"Utah, Veterans with Federal Service Buried in Utah, Territorial to 1966\""
+          "value": "William Giles, \"BillionGraves Index\""
         }
       ]
     },
     {
-      "id": "MS6Y-QS5",
+      "id": "M9ZR-1LP",
+      "about": "https://familysearch.org/ark:/61903/1:1:MNSL-G6C",
       "attribution": {
         "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-K4R2",
-          "resourceId": "cis.user.MMMM-K4R2"
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
         },
         "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-K4R2",
-          "resourceId": "cis.user.MMMM-K4R2"
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-JW55",
+          "resourceId": "cis.user.MMMM-JW55"
         },
-        "modified": 1407412039385,
-        "created": 1407412039385
-      },
-      "resourceType": "LEGACY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/MS6Y-QS5"
-        }
-      },
-      "citations": [
-        {
-          "value": ""
-        }
-      ],
-      "titles": [
-        {
-          "value": "Legacy NFS Source: William Giles - Published information: death: 11 November 1895; Heber, Wasatch, Utah, United States"
-        }
-      ],
-      "notes": [
-        {
-          "text": "Published information: death: 11 November 1895; Heber, Wasatch, Utah, United States  \nPublished information: birth: 26 March 1843; Lincolnshire, England, United Kingdom  \nPublished information: male  \nPublished information: birth: 26 March 1943; Lincolnshire, England, United Kingdom  \nPublished information: birth-name: William Giles"
-        }
-      ]
-    },
-    {
-      "id": "9DWH-2MH",
-      "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:XZPY-977",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMS-62NN",
-          "resourceId": "cis.user.MMMS-62NN"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMS-62NN",
-          "resourceId": "cis.user.MMMS-62NN"
-        },
-        "modified": 1439667435651,
-        "created": 1439667435651
+        "modified": 1489545308714,
+        "created": 1402798634063
       },
       "resourceType": "FSREADONLY",
       "links": {
         "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/9DWH-2MH"
+          "href": "https://familysearch.org/platform/sources/descriptions/M9ZR-1LP"
         }
       },
       "citations": [
         {
-          "value": "\"Utah Death Certificates, 1904-1964\", database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/XZPY-977 : 11 September 2015), William Giles in entry for Annie Christine Averett, 1953."
+          "value": "\"United States Census, 1880,\" database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/MNSL-G6C : 14 July 2016), William Giles, Heber, Wasatch, Utah, United States; citing enumeration district ED 90, sheet 320C, NARA microfilm publication T9 (Washington D.C.: National Archives and Records Administration, n.d.), roll 1339; FHL microfilm 1,255,339.\n"
         }
       ],
       "titles": [
         {
-          "value": "William Giles in entry for Annie Christine Averett, \"Utah Death Certificates, 1904-1964\""
-        }
-      ]
-    },
-    {
-      "id": "MS6Y-31P",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-K4R2",
-          "resourceId": "cis.user.MMMM-K4R2"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-K4R2",
-          "resourceId": "cis.user.MMMM-K4R2"
-        },
-        "modified": 1407412036275,
-        "created": 1407412036275
-      },
-      "resourceType": "LEGACY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/MS6Y-31P"
-        }
-      },
-      "citations": [
-        {
-          "value": "Paper, Biography of Thomas H. Giles, Thomas Huskinson Giles, Transcription of handwritten diary, Individual"
-        }
-      ],
-      "titles": [
-        {
-          "value": "Legacy NFS Source: William Giles - Published information: Journal or diary: christening: from 6 May 1848 to 6 July 1848; Lincoln, Lincolnshire, England, United Kingdom"
-        }
-      ],
-      "notes": [
-        {
-          "text": "Published information: Journal or diary: christening: from 6 May 1848 to 6 July 1848; Lincoln, Lincolnshire, England, United Kingdom"
+          "value": "William Giles, \"United States Census, 1880\""
         }
       ]
     },
@@ -18154,35 +18136,38 @@
       ]
     },
     {
-      "id": "96HY-PTV",
-      "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:QKDV-66WD",
+      "id": "MS6Y-QS5",
       "attribution": {
         "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-MTCZ",
-          "resourceId": "cis.user.MMMM-MTCZ"
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-K4R2",
+          "resourceId": "cis.user.MMMM-K4R2"
         },
         "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-MTCZ",
-          "resourceId": "cis.user.MMMM-MTCZ"
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-K4R2",
+          "resourceId": "cis.user.MMMM-K4R2"
         },
-        "modified": 1450407746219,
-        "created": 1450407746219
+        "modified": 1407412039385,
+        "created": 1407412039385
       },
-      "resourceType": "FSREADONLY",
+      "resourceType": "LEGACY",
       "links": {
         "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/96HY-PTV"
+          "href": "https://familysearch.org/platform/sources/descriptions/MS6Y-QS5"
         }
       },
       "citations": [
         {
-          "value": "\"Utah Death Certificates, 1904-1964\", database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/QKDV-66WD : 25 September 2015), William Giles in entry for Alma Giles, 1963."
+          "value": ""
         }
       ],
       "titles": [
         {
-          "value": "William Giles in entry for Alma Giles, \"Utah Death Certificates, 1904-1964\""
+          "value": "Legacy NFS Source: William Giles - Published information: death: 11 November 1895; Heber, Wasatch, Utah, United States"
+        }
+      ],
+      "notes": [
+        {
+          "text": "Published information: death: 11 November 1895; Heber, Wasatch, Utah, United States  \nPublished information: birth: 26 March 1843; Lincolnshire, England, United Kingdom  \nPublished information: male  \nPublished information: birth: 26 March 1943; Lincolnshire, England, United Kingdom  \nPublished information: birth-name: William Giles"
         }
       ]
     }
@@ -18290,6 +18275,21 @@
         {
           "lang": "und",
           "value": "Farming, Stearns, Minnesota, United States"
+        }
+      ]
+    },
+    {
+      "id": "pd_40.37556x-111.125557",
+      "latitude": 40.37556,
+      "longitude": -111.125557,
+      "names": [
+        {
+          "lang": "en-US",
+          "value": "Wasatch, Utah, United States"
+        },
+        {
+          "lang": "und",
+          "value": "Heber Precinct Heber City, Wasatch, Utah, United States"
         }
       ]
     },
@@ -18469,6 +18469,21 @@
         {
           "lang": "und",
           "value": "Pottawattamie county, Pottawattamie, Iowa, United States"
+        }
+      ]
+    },
+    {
+      "id": "pd_40.124439x-111.625558",
+      "latitude": 40.124439,
+      "longitude": -111.625558,
+      "names": [
+        {
+          "lang": "en-US",
+          "value": "Utah, Utah, United States"
+        },
+        {
+          "lang": "und",
+          "value": "Provo Valley, Utah, Utah Territory, United States"
         }
       ]
     },
@@ -19421,35 +19436,6 @@
       }
     },
     {
-      "id": "MVG2-KKW",
-      "father": {
-        "resource": "https://familysearch.org/platform/tree/persons/LC5Z-7P5",
-        "resourceId": "LC5Z-7P5"
-      },
-      "mother": {
-        "resource": "https://familysearch.org/platform/tree/persons/LC7H-DVL",
-        "resourceId": "LC7H-DVL"
-      },
-      "child": {
-        "resource": "#KWJF-JK5",
-        "resourceId": "KWJF-JK5"
-      },
-      "links": {
-        "mother": {
-          "href": "https://familysearch.org/platform/tree/persons/LC7H-DVL?relatives=true&sourceDescriptions=true"
-        },
-        "father": {
-          "href": "https://familysearch.org/platform/tree/persons/LC5Z-7P5?relatives=true&sourceDescriptions=true"
-        },
-        "relationship": {
-          "href": "https://familysearch.org/platform/tree/child-and-parents-relationships/MVG2-KKW"
-        },
-        "child": {
-          "href": "https://familysearch.org/platform/tree/persons/KWJF-JK5?relatives=true&sourceDescriptions=true"
-        }
-      }
-    },
-    {
       "id": "MN93-NSD",
       "father": {
         "resource": "https://familysearch.org/platform/tree/persons/LZ56-G3H",
@@ -19472,6 +19458,35 @@
         },
         "relationship": {
           "href": "https://familysearch.org/platform/tree/child-and-parents-relationships/MN93-NSD"
+        },
+        "child": {
+          "href": "https://familysearch.org/platform/tree/persons/KWJF-JK5?relatives=true&sourceDescriptions=true"
+        }
+      }
+    },
+    {
+      "id": "MVG2-KKW",
+      "father": {
+        "resource": "https://familysearch.org/platform/tree/persons/LC5Z-7P5",
+        "resourceId": "LC5Z-7P5"
+      },
+      "mother": {
+        "resource": "https://familysearch.org/platform/tree/persons/LC7H-DVL",
+        "resourceId": "LC7H-DVL"
+      },
+      "child": {
+        "resource": "#KWJF-JK5",
+        "resourceId": "KWJF-JK5"
+      },
+      "links": {
+        "mother": {
+          "href": "https://familysearch.org/platform/tree/persons/LC7H-DVL?relatives=true&sourceDescriptions=true"
+        },
+        "father": {
+          "href": "https://familysearch.org/platform/tree/persons/LC5Z-7P5?relatives=true&sourceDescriptions=true"
+        },
+        "relationship": {
+          "href": "https://familysearch.org/platform/tree/child-and-parents-relationships/MVG2-KKW"
         },
         "child": {
           "href": "https://familysearch.org/platform/tree/persons/KWJF-JK5?relatives=true&sourceDescriptions=true"

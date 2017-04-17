@@ -263,7 +263,7 @@
           "href": "https://familysearch.org/platform/tree/persons/KWCQ-K65/families?sourceDescriptions=true"
         },
         "portrait": {
-          "href": "https://raw.githubusercontent.com/misbach/familytree/master/people/KWCQ-K65/KWCQ-K65.jpg"
+          "href": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/KWCQ-K65/KWCQ-K65.jpg"
         },
         "matches": {
           "href": "https://familysearch.org/platform/tree/persons/KWCQ-K65/matches"
@@ -2441,61 +2441,17 @@
         "familiesAsParent": [
           {
             "parent1": {
-              "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KWCQ-K6P/KWCQ-K6P.json",
+              "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/KWCQ-K6P/KWCQ-K6P.json",
               "resourceId": "KWCQ-K6P"
             },
             "parent2": {
-              "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KWCQ-K65/KWCQ-K65.json",
+              "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/KWCQ-K65/KWCQ-K65.json",
               "resourceId": "KWCQ-K65"
             },
             "children": [
               {
-                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KWCW-MB2/KWCW-MB2.json",
-                "resourceId": "KWCW-MB2"
-              },
-              {
-                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KWCC-J9N/KWCC-J9N.json",
-                "resourceId": "KWCC-J9N"
-              },
-              {
-                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KWCD-8GC/KWCD-8GC.json",
-                "resourceId": "KWCD-8GC"
-              },
-              {
-                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KWZ5-CBW/KWZ5-CBW.json",
-                "resourceId": "KWZ5-CBW"
-              },
-              {
-                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KWCZ-RW8/KWCZ-RW8.json",
-                "resourceId": "KWCZ-RW8"
-              },
-              {
-                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KWCZ-MG9/KWCZ-MG9.json",
-                "resourceId": "KWCZ-MG9"
-              },
-              {
-                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KWCQ-K6V/KWCQ-K6V.json",
-                "resourceId": "KWCQ-K6V"
-              },
-              {
-                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KWCJ-RNC/KWCJ-RNC.json",
+                "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/KWCJ-RNC/KWCJ-RNC.json",
                 "resourceId": "KWCJ-RNC"
-              },
-              {
-                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KWC6-Z9M/KWC6-Z9M.json",
-                "resourceId": "KWC6-Z9M"
-              },
-              {
-                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KWC5-VC4/KWC5-VC4.json",
-                "resourceId": "KWC5-VC4"
-              },
-              {
-                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KWC1-7VR/KWC1-7VR.json",
-                "resourceId": "KWC1-7VR"
-              },
-              {
-                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KWCR-ZY3/KWCR-ZY3.json",
-                "resourceId": "KWCR-ZY3"
               }
             ]
           }
@@ -2503,16 +2459,16 @@
         "familiesAsChild": [
           {
             "parent1": {
-              "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KW8T-5FZ/KW8T-5FZ.json",
+              "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/KW8T-5FZ/KW8T-5FZ.json",
               "resourceId": "KW8T-5FZ"
             },
             "parent2": {
-              "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KW8T-5FC/KW8T-5FC.json",
+              "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/KW8T-5FC/KW8T-5FC.json",
               "resourceId": "KW8T-5FC"
             },
             "children": [
               {
-                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KWCQ-K65/KWCQ-K65.json",
+                "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/KWCQ-K65/KWCQ-K65.json",
                 "resourceId": "KWCQ-K65"
               }
             ]
@@ -3169,11 +3125,11 @@
           },
           "place": {
             "original": "Manti City, Manti Election Precinct, Sanpete, Utah, United States",
-            "description": "#pd_39.267x-111.637",
+            "description": "#pd_39.267009x-111.5387",
             "normalized": [
               {
                 "lang": "en-US",
-                "value": "Manti, Sanpete, Utah, United States"
+                "value": "Manti Election Precinct, Sanpete, Utah, United States"
               },
               {
                 "lang": "und",
@@ -4132,11 +4088,11 @@
           },
           "place": {
             "original": "Manti City, Manti Election Precinct, Sanpete, Utah, United States",
-            "description": "#pd_39.267x-111.637",
+            "description": "#pd_39.267009x-111.5387",
             "normalized": [
               {
                 "lang": "en-US",
-                "value": "Manti, Sanpete, Utah, United States"
+                "value": "Manti Election Precinct, Sanpete, Utah, United States"
               },
               {
                 "lang": "und",
@@ -5991,6 +5947,32 @@
         }
       },
       "sources": [
+        {
+          "id": "311612e9-8822-4c06-858f-2a73c25ed239",
+          "links": {
+            "source-reference": {
+              "href": "https://familysearch.org/platform/tree/persons/KWCQ-K65/source-references/311612e9-8822-4c06-858f-2a73c25ed239"
+            },
+            "description": {
+              "href": "https://familysearch.org/platform/sources/descriptions/9VYY-7PG"
+            }
+          },
+          "description": "https://familysearch.org/platform/sources/descriptions/9VYY-7PG",
+          "descriptionId": "9VYY-7PG"
+        },
+        {
+          "id": "c6a6711e-9d79-4024-856b-73722abd3577",
+          "links": {
+            "source-reference": {
+              "href": "https://familysearch.org/platform/tree/persons/KWCQ-K65/source-references/c6a6711e-9d79-4024-856b-73722abd3577"
+            },
+            "description": {
+              "href": "https://familysearch.org/platform/sources/descriptions/9VYT-1JT"
+            }
+          },
+          "description": "https://familysearch.org/platform/sources/descriptions/9VYT-1JT",
+          "descriptionId": "9VYT-1JT"
+        },
         {
           "id": "fdfcc349-50b6-489f-a6c2-519e4feea5e7",
           "links": {
@@ -8145,6 +8127,19 @@
       },
       "sources": [
         {
+          "id": "544c2cde-bcd9-41aa-8870-6fc4cb4d57e0",
+          "links": {
+            "source-reference": {
+              "href": "https://familysearch.org/platform/tree/persons/KWCQ-K65/source-references/544c2cde-bcd9-41aa-8870-6fc4cb4d57e0"
+            },
+            "description": {
+              "href": "https://familysearch.org/platform/sources/descriptions/9VYT-GP1"
+            }
+          },
+          "description": "https://familysearch.org/platform/sources/descriptions/9VYT-GP1",
+          "descriptionId": "9VYT-GP1"
+        },
+        {
           "id": "10216bc9-611b-4bc7-912a-9b9d5d991a1b",
           "links": {
             "source-reference": {
@@ -8967,11 +8962,11 @@
           },
           "place": {
             "original": "Manti Election Precinct, Manti City, Sanpete, Utah",
-            "description": "#pd_39.267x-111.637",
+            "description": "#pd_39.267009x-111.5387",
             "normalized": [
               {
                 "lang": "en-US",
-                "value": "Manti, Sanpete, Utah, United States"
+                "value": "Manti Election Precinct, Sanpete, Utah, United States"
               },
               {
                 "lang": "und",
@@ -9131,6 +9126,18 @@
               {
                 "resource": "https://familysearch.org/ark:/61903/4:1:KWZM-WH7",
                 "resourceId": "KWZM-WH7"
+              },
+              {
+                "resource": "https://familysearch.org/ark:/61903/4:1:LRYB-S1Q",
+                "resourceId": "LRYB-S1Q"
+              },
+              {
+                "resource": "https://familysearch.org/ark:/61903/4:1:LRYB-M5K",
+                "resourceId": "LRYB-M5K"
+              },
+              {
+                "resource": "https://familysearch.org/ark:/61903/4:1:LRYY-YLL",
+                "resourceId": "LRYY-YLL"
               }
             ]
           }
@@ -11331,11 +11338,11 @@
           },
           "place": {
             "original": "ED 125 Manti Precinct Manti city, Sanpete, Utah, United States",
-            "description": "#pd_39.27288x-111.63384",
+            "description": "#pd_39.25x-111.5",
             "normalized": [
               {
                 "lang": "en-US",
-                "value": "Manti Utah Temple, Manti, Sanpete, Utah, United States"
+                "value": "Sanpete, Utah, United States"
               },
               {
                 "lang": "und",
@@ -15090,6 +15097,10 @@
                 "resourceId": "KWCF-CT5"
               },
               {
+                "resource": "https://familysearch.org/ark:/61903/4:1:KWCV-VBS",
+                "resourceId": "KWCV-VBS"
+              },
+              {
                 "resource": "https://familysearch.org/ark:/61903/4:1:KWCZ-RWH",
                 "resourceId": "KWCZ-RWH"
               }
@@ -16895,11 +16906,11 @@
           },
           "place": {
             "original": "ED 125 Manti Precinct Manti city, Sanpete, Utah, United States",
-            "description": "#pd_39.27288x-111.63384",
+            "description": "#pd_39.25x-111.5",
             "normalized": [
               {
                 "lang": "en-US",
-                "value": "Manti Utah Temple, Manti, Sanpete, Utah, United States"
+                "value": "Sanpete, Utah, United States"
               },
               {
                 "lang": "und",
@@ -19307,6 +19318,126 @@
       }
     },
     {
+      "id": "FM1K8-G8J",
+      "type": "http://gedcomx.org/ParentChild",
+      "person1": {
+        "resource": "#KWCC-J9N",
+        "resourceId": "KWCC-J9N"
+      },
+      "person2": {
+        "resource": "https://familysearch.org/platform/tree/persons/LRYB-S1Q",
+        "resourceId": "LRYB-S1Q"
+      },
+      "links": {
+        "person2": {
+          "href": "https://familysearch.org/platform/tree/persons/LRYB-S1Q?relatives=true&sourceDescriptions=true"
+        },
+        "person1": {
+          "href": "https://familysearch.org/platform/tree/persons/KWCC-J9N?relatives=true&sourceDescriptions=true"
+        }
+      }
+    },
+    {
+      "id": "MM1K8-G8J",
+      "type": "http://gedcomx.org/ParentChild",
+      "person1": {
+        "resource": "https://familysearch.org/platform/tree/persons/KWC2-F5D",
+        "resourceId": "KWC2-F5D"
+      },
+      "person2": {
+        "resource": "https://familysearch.org/platform/tree/persons/LRYB-S1Q",
+        "resourceId": "LRYB-S1Q"
+      },
+      "links": {
+        "person2": {
+          "href": "https://familysearch.org/platform/tree/persons/LRYB-S1Q?relatives=true&sourceDescriptions=true"
+        },
+        "person1": {
+          "href": "https://familysearch.org/platform/tree/persons/KWC2-F5D?relatives=true&sourceDescriptions=true"
+        }
+      }
+    },
+    {
+      "id": "FM1K8-PB6",
+      "type": "http://gedcomx.org/ParentChild",
+      "person1": {
+        "resource": "#KWCC-J9N",
+        "resourceId": "KWCC-J9N"
+      },
+      "person2": {
+        "resource": "https://familysearch.org/platform/tree/persons/LRYB-M5K",
+        "resourceId": "LRYB-M5K"
+      },
+      "links": {
+        "person2": {
+          "href": "https://familysearch.org/platform/tree/persons/LRYB-M5K?relatives=true&sourceDescriptions=true"
+        },
+        "person1": {
+          "href": "https://familysearch.org/platform/tree/persons/KWCC-J9N?relatives=true&sourceDescriptions=true"
+        }
+      }
+    },
+    {
+      "id": "MM1K8-PB6",
+      "type": "http://gedcomx.org/ParentChild",
+      "person1": {
+        "resource": "https://familysearch.org/platform/tree/persons/KWC2-F5D",
+        "resourceId": "KWC2-F5D"
+      },
+      "person2": {
+        "resource": "https://familysearch.org/platform/tree/persons/LRYB-M5K",
+        "resourceId": "LRYB-M5K"
+      },
+      "links": {
+        "person2": {
+          "href": "https://familysearch.org/platform/tree/persons/LRYB-M5K?relatives=true&sourceDescriptions=true"
+        },
+        "person1": {
+          "href": "https://familysearch.org/platform/tree/persons/KWC2-F5D?relatives=true&sourceDescriptions=true"
+        }
+      }
+    },
+    {
+      "id": "FM1K8-K34",
+      "type": "http://gedcomx.org/ParentChild",
+      "person1": {
+        "resource": "#KWCC-J9N",
+        "resourceId": "KWCC-J9N"
+      },
+      "person2": {
+        "resource": "https://familysearch.org/platform/tree/persons/LRYY-YLL",
+        "resourceId": "LRYY-YLL"
+      },
+      "links": {
+        "person2": {
+          "href": "https://familysearch.org/platform/tree/persons/LRYY-YLL?relatives=true&sourceDescriptions=true"
+        },
+        "person1": {
+          "href": "https://familysearch.org/platform/tree/persons/KWCC-J9N?relatives=true&sourceDescriptions=true"
+        }
+      }
+    },
+    {
+      "id": "MM1K8-K34",
+      "type": "http://gedcomx.org/ParentChild",
+      "person1": {
+        "resource": "https://familysearch.org/platform/tree/persons/KWC2-F5D",
+        "resourceId": "KWC2-F5D"
+      },
+      "person2": {
+        "resource": "https://familysearch.org/platform/tree/persons/LRYY-YLL",
+        "resourceId": "LRYY-YLL"
+      },
+      "links": {
+        "person2": {
+          "href": "https://familysearch.org/platform/tree/persons/LRYY-YLL?relatives=true&sourceDescriptions=true"
+        },
+        "person1": {
+          "href": "https://familysearch.org/platform/tree/persons/KWC2-F5D?relatives=true&sourceDescriptions=true"
+        }
+      }
+    },
+    {
       "id": "FM33D-B3W",
       "type": "http://gedcomx.org/ParentChild",
       "person1": {
@@ -20227,6 +20358,46 @@
       }
     },
     {
+      "id": "FM33D-BDJ",
+      "type": "http://gedcomx.org/ParentChild",
+      "person1": {
+        "resource": "#KWCZ-RW8",
+        "resourceId": "KWCZ-RW8"
+      },
+      "person2": {
+        "resource": "https://familysearch.org/platform/tree/persons/KWCV-VBS",
+        "resourceId": "KWCV-VBS"
+      },
+      "links": {
+        "person2": {
+          "href": "https://familysearch.org/platform/tree/persons/KWCV-VBS?relatives=true&sourceDescriptions=true"
+        },
+        "person1": {
+          "href": "https://familysearch.org/platform/tree/persons/KWCZ-RW8?relatives=true&sourceDescriptions=true"
+        }
+      }
+    },
+    {
+      "id": "MM33D-BDJ",
+      "type": "http://gedcomx.org/ParentChild",
+      "person1": {
+        "resource": "https://familysearch.org/platform/tree/persons/KWCZ-RWF",
+        "resourceId": "KWCZ-RWF"
+      },
+      "person2": {
+        "resource": "https://familysearch.org/platform/tree/persons/KWCV-VBS",
+        "resourceId": "KWCV-VBS"
+      },
+      "links": {
+        "person2": {
+          "href": "https://familysearch.org/platform/tree/persons/KWCV-VBS?relatives=true&sourceDescriptions=true"
+        },
+        "person1": {
+          "href": "https://familysearch.org/platform/tree/persons/KWCZ-RWF?relatives=true&sourceDescriptions=true"
+        }
+      }
+    },
+    {
       "id": "FM33K-TGT",
       "type": "http://gedcomx.org/ParentChild",
       "person1": {
@@ -20453,47 +20624,9 @@
       ]
     },
     {
-      "id": "98CV-RCP",
-      "lang": "en_US,EN;Q=0.8",
-      "about": "",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-DX4N",
-          "resourceId": "cis.user.MMM9-DX4N"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-DX4N",
-          "resourceId": "cis.user.MMM9-DX4N"
-        },
-        "modified": 1430101890456,
-        "created": 1430101890456
-      },
-      "resourceType": "DEFAULT",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/98CV-RCP"
-        }
-      },
-      "citations": [
-        {
-          "value": "microfilmed records compiled for Johannes Stutznegger and Barbara Ramsauer Stutznegger Family 1920 to 1940"
-        }
-      ],
-      "titles": [
-        {
-          "value": "Julius Billeter Records "
-        }
-      ],
-      "notes": [
-        {
-          "text": "Julius Billeter put names, children, wives, and birth and death dates, marriage dates from research he did in Appenzell Area of Switzerland.  More records are found at the Salt Lake City Family History Center under Julius Billeter Record Catalog"
-        }
-      ]
-    },
-    {
-      "id": "9X2F-LJY",
+      "id": "9X2F-LXY",
       "lang": "*",
-      "about": "",
+      "about": "http://search.ancestry.com/cgi-bin/sse.dll?db=1920usfedcen&h=36931853&ti=0&indiv=try&gss=pt",
       "attribution": {
         "contributor": {
           "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-3Q2H",
@@ -20503,517 +20636,60 @@
           "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-3Q2H",
           "resourceId": "cis.user.MMMM-3Q2H"
         },
-        "modified": 1460412038622,
-        "created": 1460412038622
+        "modified": 1460412022667,
+        "created": 1460412022667
       },
       "resourceType": "DEFAULT",
       "links": {
         "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/9X2F-LJY"
+          "href": "https://familysearch.org/platform/sources/descriptions/9X2F-LXY"
         }
       },
       "citations": [
         {
-          "value": "Legacy NFS Source: Barbara Katherine Stutznegger - Individual or family possessions: birth-name: Kathrine Barbara Stutzenegger"
+          "value": "1920 United States Federal Census"
         }
       ],
       "titles": [
         {
-          "value": "Legacy NFS Source: Barbara Katherine Stutznegger - Individual or family possessions: birth-name: Kathrine Barbara Stutzenegger"
+          "value": "1920 United States Federal Census"
         }
       ]
     },
     {
-      "id": "9X2F-LJV",
-      "lang": "*",
-      "about": "",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-3Q2H",
-          "resourceId": "cis.user.MMMM-3Q2H"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-3Q2H",
-          "resourceId": "cis.user.MMMM-3Q2H"
-        },
-        "modified": 1460412035717,
-        "created": 1460412035717
-      },
-      "resourceType": "DEFAULT",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/9X2F-LJV"
-        }
-      },
-      "citations": [
-        {
-          "value": "Ancestry Family Trees"
-        }
-      ],
-      "titles": [
-        {
-          "value": "Ancestry Family Trees"
-        }
-      ]
-    },
-    {
-      "id": "9X2F-LNY",
-      "lang": "*",
-      "about": "http://search.ancestry.com/collections/60198/records/819102",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-3Q2H",
-          "resourceId": "cis.user.MMMM-3Q2H"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-3Q2H",
-          "resourceId": "cis.user.MMMM-3Q2H"
-        },
-        "modified": 1460412031171,
-        "created": 1460412031171
-      },
-      "resourceType": "DEFAULT",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/9X2F-LNY"
-        }
-      },
-      "citations": [
-        {
-          "value": "Utah, Select County Marriages, 1887-1937"
-        }
-      ],
-      "titles": [
-        {
-          "value": "Utah, Select County Marriages, 1887-1937"
-        }
-      ]
-    },
-    {
-      "id": "9DGW-1WG",
-      "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:KCXR-81K",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-MTCZ",
-          "resourceId": "cis.user.MMMM-MTCZ"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-MTCZ",
-          "resourceId": "cis.user.MMMM-MTCZ"
-        },
-        "modified": 1444957766318,
-        "created": 1444957766318
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/9DGW-1WG"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"BillionGraves Index,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/KCXR-81K : 24 June 2015), Barbara S. Denison, died 11 Aug 1937; citing BillionGraves (http://www.billiongraves.com : 2012), Burial at Manti Cemetery, Manti, Sanpete, Utah, United States."
-        }
-      ],
-      "titles": [
-        {
-          "value": "Barbara S. Denison, \"BillionGraves Index\""
-        }
-      ]
-    },
-    {
-      "id": "MMMM-ZX2",
-      "about": "https://familysearch.org/ark:/61903/1:1:F8P4-WLD",
+      "id": "M9DV-D3Y",
+      "about": "https://familysearch.org/ark:/61903/1:1:F8G4-DXF",
       "attribution": {
         "contributor": {
           "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
           "resourceId": "cis.wkca.MMMM-M93P"
         },
         "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-NBRH",
-          "resourceId": "cis.user.MMMM-NBRH"
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-MTCZ",
+          "resourceId": "cis.user.MMMM-MTCZ"
         },
-        "modified": 1489547957082,
-        "created": 1330326064000
+        "modified": 1489552021554,
+        "created": 1403122832003
       },
-      "resourceType": "DEFAULT",
+      "resourceType": "FSREADONLY",
       "links": {
         "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/MMMM-ZX2"
+          "href": "https://familysearch.org/platform/sources/descriptions/M9DV-D3Y"
         }
       },
       "citations": [
         {
-          "value": ""
+          "value": "\"Utah Marriages, 1887-1935,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/F8G4-DXF : 5 December 2014), Barbara Stutznegger in entry for Ardelle William Phillips and Barbara Ellen Denison, 21 Jul 1920; citing ; FHL microfilm 481,519."
         }
       ],
       "titles": [
         {
-          "value": "1891 - Utah Marriages, 1887-1966 for Hyrum Denison"
+          "value": "1920 - Barbara Stutznegger in entry for Ardelle William Phillips and Barbara Ellen Denison, \"Utah, Marriages, 1887-1966\""
         }
       ],
       "notes": [
         {
           "text": ""
-        }
-      ]
-    },
-    {
-      "id": "MSG9-N5Y",
-      "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:KSP9-TFY",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-MTCZ",
-          "resourceId": "cis.user.MMMM-MTCZ"
-        },
-        "modified": 1489570056396,
-        "created": 1410487736125
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/MSG9-N5Y"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"Utah, County Marriages, 1887-1940\", database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/KSP9-TFY : 25 January 2016), Barbara Stutznegger in entry for Lorenzo Denison and Ruth Bench, 1923."
-        }
-      ],
-      "titles": [
-        {
-          "value": "Barbara Stutznegger in entry for Lorenzo Denison and Ruth Bench, \"Utah, County Marriages, 1887-1940\""
-        }
-      ]
-    },
-    {
-      "id": "9VDD-VPR",
-      "lang": "*",
-      "about": "http://search.ancestry.com/collections/60901/records/795660459",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-3Q2H",
-          "resourceId": "cis.user.MMMM-3Q2H"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-3Q2H",
-          "resourceId": "cis.user.MMMM-3Q2H"
-        },
-        "modified": 1489425876811,
-        "created": 1489425876811
-      },
-      "resourceType": "DEFAULT",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/9VDD-VPR"
-        }
-      },
-      "titles": [
-        {
-          "value": "U.S., Social Security Applications and Claims Index, 1936-2007"
-        }
-      ]
-    },
-    {
-      "id": "9X2F-LFJ",
-      "lang": "*",
-      "about": "http://search.ancestry.com/cgi-bin/sse.dll?db=utahdeathindex&h=163988&ti=0&indiv=try&gss=pt",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-3Q2H",
-          "resourceId": "cis.user.MMMM-3Q2H"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-3Q2H",
-          "resourceId": "cis.user.MMMM-3Q2H"
-        },
-        "modified": 1460412025412,
-        "created": 1460412025412
-      },
-      "resourceType": "DEFAULT",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/9X2F-LFJ"
-        }
-      },
-      "citations": [
-        {
-          "value": "Utah Death Index, 1905-1951"
-        }
-      ],
-      "titles": [
-        {
-          "value": "Utah Death Index, 1905-1951"
-        }
-      ]
-    },
-    {
-      "id": "9DGW-1TR",
-      "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:QKWZ-LRG9",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-MTCZ",
-          "resourceId": "cis.user.MMMM-MTCZ"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-MTCZ",
-          "resourceId": "cis.user.MMMM-MTCZ"
-        },
-        "modified": 1444957947289,
-        "created": 1444957947289
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/9DGW-1TR"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"United States, GenealogyBank Obituaries, 1980-2014,\" database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/QKWZ-LRG9 : 21 July 2016), Katharina Barbara Stutznegger Denison in entry for Geneva Denison Clegg, Utah, United States, 15 Apr 1995; from \"Recent Newspaper Obituaries (1977 - Today),\" database, GenealogyBank.com (http://www.genealogybank.com : 2014); citing Salt Lake Tribune, The, born-digital text."
-        }
-      ],
-      "titles": [
-        {
-          "value": "Katharina Barbara Stutznegger Denison in entry for Geneva Denison Clegg, \"United States, GenealogyBank Obituaries, 1980-2014\""
-        }
-      ]
-    },
-    {
-      "id": "9XRJ-WTG",
-      "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:Q2MB-35MP",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-C5L9",
-          "resourceId": "cis.user.MMMM-C5L9"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-C5L9",
-          "resourceId": "cis.user.MMMM-C5L9"
-        },
-        "modified": 1461725278607,
-        "created": 1461725278607
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/9XRJ-WTG"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"Utah, County Marriages, 1887-1940\", database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/Q2MB-35MP : 2 February 2016), Barbara Stutznegger in entry for Fred Heber Denison and Helen Whiting, 1934."
-        }
-      ],
-      "titles": [
-        {
-          "value": "Barbara Stutznegger in entry for Fred Heber Denison and Helen Whiting, \"Utah, County Marriages, 1887-1940\""
-        }
-      ]
-    },
-    {
-      "id": "966C-FR3",
-      "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:QVSF-KF7F",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-329G",
-          "resourceId": "cis.user.MMM9-329G"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-329G",
-          "resourceId": "cis.user.MMM9-329G"
-        },
-        "modified": 1451858368801,
-        "created": 1451858368801
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/966C-FR3"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"Utah, Obituaries from Utah Newspapers, 1850-2005,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/QVSF-KF7F : 8 October 2015), Barbara Stutznegger Denison in entry for Mrs Bertha Denison Carpenter, 09 Sep 1971; citing Ephraim Enterprise 3, The University of Utah. J. Willard Marriott Library, Salt Lake City."
-        }
-      ],
-      "titles": [
-        {
-          "value": "Barbara Stutznegger Denison in entry for Mrs Bertha Denison Carpenter, \"Utah, Obituaries from Utah Newspapers, 1850-2005\""
-        }
-      ]
-    },
-    {
-      "id": "M9KV-79T",
-      "lang": "en_US,EN;Q=0.8",
-      "about": "https://familysearch.org/ark:/61903/1:1:MMR5-7WQ",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-XVV7",
-          "resourceId": "cis.user.MMMM-XVV7"
-        },
-        "modified": 1489552017998,
-        "created": 1404873739807
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/M9KV-79T"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"United States Census, 1900,\" database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/MMR5-7WQ : accessed 7 April 2017), Barbara Denison in household of Denison, Manti Precinct Manti city, Sanpete, Utah, United States; citing enumeration district (ED) 125, sheet 20A, family 386, NARA microfilm publication T623 (Washington, D.C.: National Archives and Records Administration, 1972.); FHL microfilm 1,241,686.\n"
-        }
-      ],
-      "titles": [
-        {
-          "value": "Barbara Denison in household of Denison, \"United States Census, 1900\""
-        }
-      ]
-    },
-    {
-      "id": "9DGW-BKV",
-      "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:QV5H-5W97",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-MTCZ",
-          "resourceId": "cis.user.MMMM-MTCZ"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-MTCZ",
-          "resourceId": "cis.user.MMMM-MTCZ"
-        },
-        "modified": 1444957612931,
-        "created": 1444957612931
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/9DGW-BKV"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"United States, GenealogyBank Obituaries, 1980-2014,\" database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/QV5H-5W97 : 10 September 2016), Barbara Stutznegger Denison in entry for Lorenzo Hyrum Denison, Salt Lake City, Utah, United States, 05 Nov 1991; from \"Recent Newspaper Obituaries (1977 - Today),\" database, GenealogyBank.com (http://www.genealogybank.com : 2014); citing , born-digital text."
-        }
-      ],
-      "titles": [
-        {
-          "value": "Barbara Stutznegger Denison in entry for Lorenzo Hyrum Denison, \"United States, GenealogyBank Obituaries, 1980-2014\""
-        }
-      ]
-    },
-    {
-      "id": "96HY-P5N",
-      "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:QVSF-KF4L",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-MTCZ",
-          "resourceId": "cis.user.MMMM-MTCZ"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-MTCZ",
-          "resourceId": "cis.user.MMMM-MTCZ"
-        },
-        "modified": 1450407726268,
-        "created": 1450407726268
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/96HY-P5N"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"Utah, Obituaries from Utah Newspapers, 1850-2005,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/QVSF-KF4L : 8 October 2015), Barbara Stutznegger Denison in entry for Mrs Bertha Denison Carpenter, 09 Sep 1971; citing Ephraim Enterprise 3, The University of Utah. J. Willard Marriott Library, Salt Lake City."
-        }
-      ],
-      "titles": [
-        {
-          "value": "Barbara Stutznegger Denison in entry for Mrs Bertha Denison Carpenter, \"Utah, Obituaries from Utah Newspapers, 1850-2005\""
-        }
-      ]
-    },
-    {
-      "id": "98MV-HXJ",
-      "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:VRL5-9MN",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-SQ2S",
-          "resourceId": "cis.user.MMM9-SQ2S"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-SQ2S",
-          "resourceId": "cis.user.MMM9-SQ2S"
-        },
-        "modified": 1427150207873,
-        "created": 1427150207873
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/98MV-HXJ"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"Utah, County Marriages, 1887-1940\", database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/VRL5-9MN : 25 January 2016), Barbra Stutznegger in entry for Leslie J Anderson and Iris Denison, 1931."
-        }
-      ],
-      "titles": [
-        {
-          "value": "Barbra Stutznegger in entry for Leslie J Anderson and Iris Denison, \"Utah, County Marriages, 1887-1940\""
-        }
-      ]
-    },
-    {
-      "id": "98MV-FKV",
-      "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:XH6K-QMS",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-SQ2S",
-          "resourceId": "cis.user.MMM9-SQ2S"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-SQ2S",
-          "resourceId": "cis.user.MMM9-SQ2S"
-        },
-        "modified": 1427152062188,
-        "created": 1427152062188
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/98MV-FKV"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"United States Census, 1930,\" database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/XH6K-QMS : accessed 7 April 2017), Barbara Denison in household of Hyrum Denison, Manti, Sanpete, Utah, United States; citing enumeration district (ED) ED 15, sheet 3A, line 34, family 62, NARA microfilm publication T626 (Washington D.C.: National Archives and Records Administration, 2002), roll 2422; FHL microfilm 2,342,156.\n"
-        }
-      ],
-      "titles": [
-        {
-          "value": "Barbara Denison in household of Hyrum Denison, \"United States Census, 1930\""
         }
       ]
     },
@@ -21056,6 +20732,204 @@
       ]
     },
     {
+      "id": "9VDD-VPR",
+      "lang": "*",
+      "about": "http://search.ancestry.com/collections/60901/records/795660459",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-3Q2H",
+          "resourceId": "cis.user.MMMM-3Q2H"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-3Q2H",
+          "resourceId": "cis.user.MMMM-3Q2H"
+        },
+        "modified": 1489425876811,
+        "created": 1489425876811
+      },
+      "resourceType": "DEFAULT",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/9VDD-VPR"
+        }
+      },
+      "titles": [
+        {
+          "value": "U.S., Social Security Applications and Claims Index, 1936-2007"
+        }
+      ]
+    },
+    {
+      "id": "9XGR-44J",
+      "lang": "en_US",
+      "about": "https://familysearch.org/ark:/61903/1:1:QKDW-B1KD",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-3Q2H",
+          "resourceId": "cis.user.MMMM-3Q2H"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-3Q2H",
+          "resourceId": "cis.user.MMMM-3Q2H"
+        },
+        "modified": 1461021234359,
+        "created": 1461021234359
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/9XGR-44J"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"Utah, Missionary Department Missionary Registers, 1860-1937,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/QKDW-B1KD : 26 February 2016), Barbara Stutznegger in entry for John Melvin Denison, Central States; records extracted by FamilySearch and images digitized by Church History library, The Church of Jesus Christ of Latter-day Saints; citing Missionary Register v. 4, Missionary department missionary registers 1860-1959, CR 301 22, Church History Library, Salt lake City, Utah.\n"
+        }
+      ],
+      "titles": [
+        {
+          "value": "Barbara Stutznegger in entry for John Melvin Denison, \"Utah, Missionary Department Missionary Registers, 1860-1937\""
+        }
+      ]
+    },
+    {
+      "id": "98MV-FKV",
+      "lang": "en_US",
+      "about": "https://familysearch.org/ark:/61903/1:1:XH6K-QMS",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-SQ2S",
+          "resourceId": "cis.user.MMM9-SQ2S"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-SQ2S",
+          "resourceId": "cis.user.MMM9-SQ2S"
+        },
+        "modified": 1427152062188,
+        "created": 1427152062188
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/98MV-FKV"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"United States Census, 1930,\" database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/XH6K-QMS : accessed 7 April 2017), Barbara Denison in household of Hyrum Denison, Manti, Sanpete, Utah, United States; citing enumeration district (ED) ED 15, sheet 3A, line 34, family 62, NARA microfilm publication T626 (Washington D.C.: National Archives and Records Administration, 2002), roll 2422; FHL microfilm 2,342,156.\n"
+        }
+      ],
+      "titles": [
+        {
+          "value": "Barbara Denison in household of Hyrum Denison, \"United States Census, 1930\""
+        }
+      ]
+    },
+    {
+      "id": "9DGW-BKV",
+      "lang": "en_US",
+      "about": "https://familysearch.org/ark:/61903/1:1:QV5H-5W97",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-MTCZ",
+          "resourceId": "cis.user.MMMM-MTCZ"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-MTCZ",
+          "resourceId": "cis.user.MMMM-MTCZ"
+        },
+        "modified": 1444957612931,
+        "created": 1444957612931
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/9DGW-BKV"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"United States, GenealogyBank Obituaries, 1980-2014,\" database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/QV5H-5W97 : 10 September 2016), Barbara Stutznegger Denison in entry for Lorenzo Hyrum Denison, Salt Lake City, Utah, United States, 05 Nov 1991; from \"Recent Newspaper Obituaries (1977 - Today),\" database, GenealogyBank.com (http://www.genealogybank.com : 2014); citing , born-digital text."
+        }
+      ],
+      "titles": [
+        {
+          "value": "Barbara Stutznegger Denison in entry for Lorenzo Hyrum Denison, \"United States, GenealogyBank Obituaries, 1980-2014\""
+        }
+      ]
+    },
+    {
+      "id": "98CV-RCP",
+      "lang": "en_US,EN;Q=0.8",
+      "about": "",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-DX4N",
+          "resourceId": "cis.user.MMM9-DX4N"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-DX4N",
+          "resourceId": "cis.user.MMM9-DX4N"
+        },
+        "modified": 1430101890456,
+        "created": 1430101890456
+      },
+      "resourceType": "DEFAULT",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/98CV-RCP"
+        }
+      },
+      "citations": [
+        {
+          "value": "microfilmed records compiled for Johannes Stutznegger and Barbara Ramsauer Stutznegger Family 1920 to 1940"
+        }
+      ],
+      "titles": [
+        {
+          "value": "Julius Billeter Records "
+        }
+      ],
+      "notes": [
+        {
+          "text": "Julius Billeter put names, children, wives, and birth and death dates, marriage dates from research he did in Appenzell Area of Switzerland.  More records are found at the Salt Lake City Family History Center under Julius Billeter Record Catalog"
+        }
+      ]
+    },
+    {
+      "id": "9DGW-1TR",
+      "lang": "en_US",
+      "about": "https://familysearch.org/ark:/61903/1:1:QKWZ-LRG9",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-MTCZ",
+          "resourceId": "cis.user.MMMM-MTCZ"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-MTCZ",
+          "resourceId": "cis.user.MMMM-MTCZ"
+        },
+        "modified": 1444957947289,
+        "created": 1444957947289
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/9DGW-1TR"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"United States, GenealogyBank Obituaries, 1980-2014,\" database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/QKWZ-LRG9 : 21 July 2016), Katharina Barbara Stutznegger Denison in entry for Geneva Denison Clegg, Utah, United States, 15 Apr 1995; from \"Recent Newspaper Obituaries (1977 - Today),\" database, GenealogyBank.com (http://www.genealogybank.com : 2014); citing Salt Lake Tribune, The, born-digital text."
+        }
+      ],
+      "titles": [
+        {
+          "value": "Katharina Barbara Stutznegger Denison in entry for Geneva Denison Clegg, \"United States, GenealogyBank Obituaries, 1980-2014\""
+        }
+      ]
+    },
+    {
       "id": "9NX3-R6Q",
       "lang": "en_US",
       "about": "https://familysearch.org/ark:/61903/1:1:Q2SD-3W1D",
@@ -21085,240 +20959,6 @@
       "titles": [
         {
           "value": "Barbara Stutznegger in entry for Denison, \"Utah, Birth Certificates, 1903-1914\""
-        }
-      ]
-    },
-    {
-      "id": "9DGW-T58",
-      "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:QVK5-NGKY",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-MTCZ",
-          "resourceId": "cis.user.MMMM-MTCZ"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-MTCZ",
-          "resourceId": "cis.user.MMMM-MTCZ"
-        },
-        "modified": 1444957150319,
-        "created": 1444957150319
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/9DGW-T58"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"Find A Grave Index,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/QVK5-NGKY : 11 July 2016), Kathrine Barbara Stutznegger Denison, 1937; Burial, Manti, Sanpete, Utah, United States of America, Manti Cemetery; citing record ID 48321996, Find a Grave, http://www.findagrave.com."
-        }
-      ],
-      "titles": [
-        {
-          "value": "Kathrine Barbara Stutznegger Denison, \"Find A Grave Index\""
-        }
-      ]
-    },
-    {
-      "id": "98MJ-LSB",
-      "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:VRLG-D4K",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-SQ2S",
-          "resourceId": "cis.user.MMM9-SQ2S"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-SQ2S",
-          "resourceId": "cis.user.MMM9-SQ2S"
-        },
-        "modified": 1427146363337,
-        "created": 1427146363337
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/98MJ-LSB"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"Utah, County Marriages, 1887-1940\", database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/VRLG-D4K : 25 January 2016), Barbra Stutznegger in entry for Hans Peter Denison and Sarah Isaacson, 1926."
-        }
-      ],
-      "titles": [
-        {
-          "value": "Barbra Stutznegger in entry for Hans Peter Denison and Sarah Isaacson, \"Utah, County Marriages, 1887-1940\""
-        }
-      ]
-    },
-    {
-      "id": "9X2F-LF7",
-      "lang": "*",
-      "about": "http://search.ancestry.com/cgi-bin/sse.dll?db=websearch-4111&h=172163&ti=0&indiv=try&gss=pt",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-3Q2H",
-          "resourceId": "cis.user.MMMM-3Q2H"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-3Q2H",
-          "resourceId": "cis.user.MMMM-3Q2H"
-        },
-        "modified": 1460412024024,
-        "created": 1460412024024
-      },
-      "resourceType": "DEFAULT",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/9X2F-LF7"
-        }
-      },
-      "citations": [
-        {
-          "value": "Web: Utah, Find A Grave Index, 1850-2011"
-        }
-      ],
-      "titles": [
-        {
-          "value": "Web: Utah, Find A Grave Index, 1850-2011"
-        }
-      ]
-    },
-    {
-      "id": "MSXZ-GM6",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-3Q2H",
-          "resourceId": "cis.user.MMMM-3Q2H"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-3Q2H",
-          "resourceId": "cis.user.MMMM-3Q2H"
-        },
-        "modified": 1407445626852,
-        "created": 1407445626852
-      },
-      "resourceType": "LEGACY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/MSXZ-GM6"
-        }
-      },
-      "citations": [
-        {
-          "value": ""
-        }
-      ],
-      "titles": [
-        {
-          "value": "Legacy NFS Source: Barbara Katherine Stutznegger - Individual or family possessions: birth-name: Kathrine Barbara Stutzenegger"
-        }
-      ],
-      "notes": [
-        {
-          "text": "Individual or family possessions: birth-name: Kathrine Barbara Stutzenegger"
-        }
-      ]
-    },
-    {
-      "id": "9X2F-LXY",
-      "lang": "*",
-      "about": "http://search.ancestry.com/cgi-bin/sse.dll?db=1920usfedcen&h=36931853&ti=0&indiv=try&gss=pt",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-3Q2H",
-          "resourceId": "cis.user.MMMM-3Q2H"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-3Q2H",
-          "resourceId": "cis.user.MMMM-3Q2H"
-        },
-        "modified": 1460412022667,
-        "created": 1460412022667
-      },
-      "resourceType": "DEFAULT",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/9X2F-LXY"
-        }
-      },
-      "citations": [
-        {
-          "value": "1920 United States Federal Census"
-        }
-      ],
-      "titles": [
-        {
-          "value": "1920 United States Federal Census"
-        }
-      ]
-    },
-    {
-      "id": "96HY-534",
-      "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:QKDV-8KYX",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-MTCZ",
-          "resourceId": "cis.user.MMMM-MTCZ"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-MTCZ",
-          "resourceId": "cis.user.MMMM-MTCZ"
-        },
-        "modified": 1450407803094,
-        "created": 1450407803094
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/96HY-534"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"Utah Death Certificates, 1904-1964\", database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/QKDV-8KYX : 25 September 2015), Barbara K Stutznegger in entry for Melvin Denison, 1961."
-        }
-      ],
-      "titles": [
-        {
-          "value": "Barbara K Stutznegger in entry for Melvin Denison, \"Utah Death Certificates, 1904-1964\""
-        }
-      ]
-    },
-    {
-      "id": "98MJ-R3S",
-      "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:F8G1-D7M",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-SQ2S",
-          "resourceId": "cis.user.MMM9-SQ2S"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-SQ2S",
-          "resourceId": "cis.user.MMM9-SQ2S"
-        },
-        "modified": 1427147194191,
-        "created": 1427147194191
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/98MJ-R3S"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"Utah Marriages, 1887-1935,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/F8G1-D7M : 5 December 2014), Barbara Stutznegger in entry for Lorenzo Denison and Ruth Bench, 15 Oct 1923; citing Salt Lake City, Salt Lake, Utah; FHL microfilm 429,116."
-        }
-      ],
-      "titles": [
-        {
-          "value": "Barbara Stutznegger in entry for Lorenzo Denison and Ruth Bench, \"Utah Marriages, 1887-1935\""
         }
       ]
     },
@@ -21356,345 +20996,6 @@
       ]
     },
     {
-      "id": "MSG9-V35",
-      "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:VRL5-ZFT",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-MTCZ",
-          "resourceId": "cis.user.MMMM-MTCZ"
-        },
-        "modified": 1489570060095,
-        "created": 1410488204625
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/MSG9-V35"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"Utah, County Marriages, 1887-1940\", database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/VRL5-ZFT : 25 January 2016), Barbara Stutznegger in entry for Edwin Schramm Carpenter and Bertha Rebecca Denison, 1924."
-        }
-      ],
-      "titles": [
-        {
-          "value": "Barbara Stutznegger in entry for Edwin Schramm Carpenter and Bertha Rebecca Denison, \"Utah, County Marriages, 1887-1940\""
-        }
-      ]
-    },
-    {
-      "id": "9X2F-LJP",
-      "lang": "*",
-      "about": "",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-3Q2H",
-          "resourceId": "cis.user.MMMM-3Q2H"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-3Q2H",
-          "resourceId": "cis.user.MMMM-3Q2H"
-        },
-        "modified": 1460412037191,
-        "created": 1460412037191
-      },
-      "resourceType": "DEFAULT",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/9X2F-LJP"
-        }
-      },
-      "citations": [
-        {
-          "value": "Legacy NFS Source: Barbara Katherine Stutznegger - Individual or family possessions: Family genealogies: death: 11 August 1937; Manti, Sanpete, Utah, United States"
-        }
-      ],
-      "titles": [
-        {
-          "value": "Legacy NFS Source: Barbara Katherine Stutznegger - Individual or family possessions: Family genealogies: death: 11 August 1937; Manti, Sanpete, Utah, United States"
-        }
-      ]
-    },
-    {
-      "id": "MSLW-2F8",
-      "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:QVSF-1S7C",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-XVV7",
-          "resourceId": "cis.user.MMMM-XVV7"
-        },
-        "modified": 1489569448006,
-        "created": 1410112191573
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/MSLW-2F8"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"Utah, Obituaries from Utah Newspapers, 1850-2005,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/QVSF-1S7C : 8 October 2015), Barbara Stutnegger in entry for Mr Hyrum Denison, 03 Jun 1932; citing Salt Lake Telegram 13, The University of Utah. J. Willard Marriott Library, Salt Lake City."
-        }
-      ],
-      "titles": [
-        {
-          "value": "1932 - Barbara Stutnegger in entry for Mr Hyrum Denison, \"Utah, Obituaries from Utah Newspapers, 1850-2005\""
-        }
-      ],
-      "notes": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "id": "9X2F-LNF",
-      "lang": "*",
-      "about": "http://search.ancestry.com/collections/60201/records/462008",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-3Q2H",
-          "resourceId": "cis.user.MMMM-3Q2H"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-3Q2H",
-          "resourceId": "cis.user.MMMM-3Q2H"
-        },
-        "modified": 1460412029781,
-        "created": 1460412029781
-      },
-      "resourceType": "DEFAULT",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/9X2F-LNF"
-        }
-      },
-      "citations": [
-        {
-          "value": "Utah, Select Marriages, 1887-1966"
-        }
-      ],
-      "titles": [
-        {
-          "value": "Utah, Select Marriages, 1887-1966"
-        }
-      ]
-    },
-    {
-      "id": "9ZVS-8ZX",
-      "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:VRL5-W62",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-H3R9",
-          "resourceId": "cis.user.MMM9-H3R9"
-        },
-        "modified": 1489624742736,
-        "created": 1422933883041
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/9ZVS-8ZX"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"Utah, County Marriages, 1887-1940\", database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/VRL5-W62 : 25 January 2016), Barbara Stutznegger in entry for Marion Jones and Cleo Denison, 1934."
-        }
-      ],
-      "titles": [
-        {
-          "value": "Barbara Stutznegger in entry for Marion Jones and Cleo Denison, \"Utah, County Marriages, 1887-1940\""
-        }
-      ]
-    },
-    {
-      "id": "MSG9-XVR",
-      "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:F8G4-DDV",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-MTCZ",
-          "resourceId": "cis.user.MMMM-MTCZ"
-        },
-        "modified": 1489570052103,
-        "created": 1410487033969
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/MSG9-XVR"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"Utah Marriages, 1887-1935,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/F8G4-DDV : 5 December 2014), Barbara Stutznegger in entry for J. Melvin Denison and Lenore Gottfredson, 21 Jul 1920; citing ; FHL microfilm 481,519."
-        }
-      ],
-      "titles": [
-        {
-          "value": "Barbara Stutznegger in entry for J. Melvin Denison and Lenore Gottfredson, \"Utah Marriages, 1887-1935\""
-        }
-      ]
-    },
-    {
-      "id": "M9SH-34R",
-      "about": "http://billiongraves.com/pages/record/BarbaraSDenison/2140982?utm_campaign=treeconnect&utm_source=familysearch.org&utm_medium=sourcelink",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-4SDX",
-          "resourceId": "cis.user.MMM9-4SDX"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-4SDX",
-          "resourceId": "cis.user.MMM9-4SDX"
-        },
-        "modified": 1400716792700,
-        "created": 1400716792700
-      },
-      "resourceType": "DEFAULT",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/M9SH-34R"
-        }
-      },
-      "citations": [
-        {
-          "value": "Transcription of headstone image from billiongraves.com. Image taken at Manti Cemetery (Manti, Sanpete, Utah, United States) on 12 September 2012"
-        }
-      ],
-      "titles": [
-        {
-          "value": "Headstone image of Barbara S. Denison from billiongraves.com"
-        }
-      ],
-      "notes": [
-        {
-          "text": "Name: Barbara S. Denison\nBirth: 17 August 1870\nDeath: 11 August 1937\nBurial: Manti Cemetery, Manti, Sanpete, Utah, United States"
-        }
-      ]
-    },
-    {
-      "id": "MSG9-CLK",
-      "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:VRLH-9PD",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-MTCZ",
-          "resourceId": "cis.user.MMMM-MTCZ"
-        },
-        "modified": 1489570040740,
-        "created": 1410485322492
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/MSG9-CLK"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"Utah, County Marriages, 1887-1940\", database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/VRLH-9PD : 25 January 2016), Barbara Stutznegger in entry for J Melvin Denison and Lenore Gottfredson, 1920."
-        }
-      ],
-      "titles": [
-        {
-          "value": "Barbara Stutznegger in entry for J Melvin Denison and Lenore Gottfredson, \"Utah, County Marriages, 1887-1940\""
-        }
-      ]
-    },
-    {
-      "id": "MSRL-XM4",
-      "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:QVSF-P965",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-3B2M",
-          "resourceId": "cis.user.MMM9-3B2M"
-        },
-        "modified": 1489576493954,
-        "created": 1412286532848
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/MSRL-XM4"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"Utah, Obituaries from Utah Newspapers, 1850-2005,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/QVSF-P965 : 8 October 2015), Barbra Denison in entry for John Stutzneggar, 28 Mar 1919; citing Manti Messenger, The University of Utah. J. Willard Marriott Library, Salt Lake City."
-        }
-      ],
-      "titles": [
-        {
-          "value": "Barbra Denison in entry for John Stutzneggar, \"Utah, Obituaries from Utah Newspapers, 1850-2005\""
-        }
-      ]
-    },
-    {
-      "id": "MSG9-SJH",
-      "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:VRLH-9PL",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-MTCZ",
-          "resourceId": "cis.user.MMMM-MTCZ"
-        },
-        "modified": 1489570160522,
-        "created": 1410482991208
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/MSG9-SJH"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"Utah, County Marriages, 1887-1940\", database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/VRLH-9PL : 25 January 2016), Barbara Stutznegger in entry for Ardelle William Phillips and Barbara Ellen Denison, 1920."
-        }
-      ],
-      "titles": [
-        {
-          "value": "Barbara Stutznegger in entry for Ardelle William Phillips and Barbara Ellen Denison, \"Utah, County Marriages, 1887-1940\""
-        }
-      ]
-    },
-    {
       "id": "9X2F-LJ4",
       "lang": "*",
       "about": "",
@@ -21724,273 +21025,6 @@
       "titles": [
         {
           "value": "1870 - Katharina Barbara Sturznenegger, \"Evangelisch-Reformierte Kirche Herisau (Appenzel) Kirchenbuch 1583-1875\" "
-        }
-      ]
-    },
-    {
-      "id": "MMJB-YMF",
-      "about": "https://familysearch.org/ark:/61903/1:1:XH6K-QMH",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-NBRH",
-          "resourceId": "cis.user.MMMM-NBRH"
-        },
-        "modified": 1489542586832,
-        "created": 1393312979000
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/MMJB-YMF"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"United States Census, 1930,\" database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/XH6K-QMH : accessed 31 March 2017), Barbara Stutznegger, Manti, Sanpete, Utah, United States; citing enumeration district (ED) ED 15, sheet 3A, line 40, family 63, NARA microfilm publication T626 (Washington D.C.: National Archives and Records Administration, 2002), roll 2422; FHL microfilm 2,342,156.\n"
-        }
-      ],
-      "titles": [
-        {
-          "value": "Barbara Stutznegger, \"United States Census, 1930\""
-        }
-      ]
-    },
-    {
-      "id": "9X2F-LJS",
-      "lang": "*",
-      "about": "http://search.ancestry.com/collections/9174/records/116010",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-3Q2H",
-          "resourceId": "cis.user.MMMM-3Q2H"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-3Q2H",
-          "resourceId": "cis.user.MMMM-3Q2H"
-        },
-        "modified": 1460412032741,
-        "created": 1460412032741
-      },
-      "resourceType": "DEFAULT",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/9X2F-LJS"
-        }
-      },
-      "citations": [
-        {
-          "value": "Utah, Death and Military Death Certificates, 1904-1961"
-        }
-      ],
-      "titles": [
-        {
-          "value": "Utah, Death and Military Death Certificates, 1904-1961"
-        }
-      ]
-    },
-    {
-      "id": "9XGR-7Z9",
-      "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:QKDW-13LK",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-3Q2H",
-          "resourceId": "cis.user.MMMM-3Q2H"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-3Q2H",
-          "resourceId": "cis.user.MMMM-3Q2H"
-        },
-        "modified": 1461020808939,
-        "created": 1461020808939
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/9XGR-7Z9"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"Utah, Missionary Department Missionary Registers, 1860-1937,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/QKDW-13LK : 26 February 2016), Barbra Stutznegger in entry for Hans Peter Denison, California; records extracted by FamilySearch and images digitized by Church History library, The Church of Jesus Christ of Latter-day Saints; citing Missionary Register v. 5, Missionary department missionary registers 1860-1959, CR 301 22, Church History Library, Salt lake City, Utah.\n"
-        }
-      ],
-      "titles": [
-        {
-          "value": "Barbra Stutznegger in entry for Hans Peter Denison, \"Utah, Missionary Department Missionary Registers, 1860-1937\""
-        }
-      ]
-    },
-    {
-      "id": "MSG9-FH4",
-      "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:M8PN-GS8",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-MTCZ",
-          "resourceId": "cis.user.MMMM-MTCZ"
-        },
-        "modified": 1489570053267,
-        "created": 1410487236764
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/MSG9-FH4"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"United States Census, 1920,\" database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/M8PN-GS8 : accessed 7 April 2017), Barbara Dennison in household of Hyrum Dennison, Manti, Sanpete, Utah, United States; citing  ED 107, sheet 11B, line 58, family 238, NARA microfilm publication T625 (Washington D.C.: National Archives and Records Administration, 1992), roll 1864; FHL microfilm 1,821,864."
-        }
-      ],
-      "titles": [
-        {
-          "value": "Barbara Dennison in household of Hyrum Dennison, \"United States Census, 1920\""
-        }
-      ]
-    },
-    {
-      "id": "98MK-K45",
-      "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:XZPC-TCS",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-SQ2S",
-          "resourceId": "cis.user.MMM9-SQ2S"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-SQ2S",
-          "resourceId": "cis.user.MMM9-SQ2S"
-        },
-        "modified": 1427160266280,
-        "created": 1427160266280
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/98MK-K45"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"Utah Death Certificates, 1904-1964\", database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/XZPC-TCS : 11 September 2015), Barbara Denison, 1937."
-        }
-      ],
-      "titles": [
-        {
-          "value": "Barbara Denison, \"Utah Death Certificates, 1904-1964\""
-        }
-      ]
-    },
-    {
-      "id": "MM13-WMN",
-      "about": "https://familysearch.org/ark:/61903/1:1:XZPS-5TB",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-3DHK",
-          "resourceId": "cis.user.MMM9-3DHK"
-        },
-        "modified": 1489552021064,
-        "created": 1397617219645
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/MM13-WMN"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"Utah Death Certificates, 1904-1964\", database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/XZPS-5TB : 11 September 2015), Barbara S. Lutznegger in entry for Hyrum Denison, 1932."
-        }
-      ],
-      "titles": [
-        {
-          "value": "1932 - Barbara S. Lutznegger in entry for Hyrum Denison, \"Utah Death Certificates, 1904-1956\""
-        }
-      ],
-      "notes": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "id": "M953-JZ8",
-      "lang": "en_US,EN;Q=0.8",
-      "about": "https://familysearch.org/ark:/61903/1:1:M5X4-JH2",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-XVV7",
-          "resourceId": "cis.user.MMMM-XVV7"
-        },
-        "modified": 1489554270713,
-        "created": 1405476786266
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/M953-JZ8"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"United States Census, 1910,\" database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/M5X4-JH2 : accessed 7 April 2017), Barbara Denison in household of Hyram Denison, Manti, Sanpete, Utah, United States; citing enumeration district (ED) ED 155, sheet 17A, family 355, NARA microfilm publication T624 (Washington D.C.: National Archives and Records Administration, 1982), roll 1608; FHL microfilm 1,375,621.\n"
-        }
-      ],
-      "titles": [
-        {
-          "value": "Barbara Denison in household of Hyram Denison, \"United States Census, 1910\""
-        }
-      ]
-    },
-    {
-      "id": "9XCS-YBJ",
-      "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:F824-1BP",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-3Q2H",
-          "resourceId": "cis.user.MMMM-3Q2H"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-3Q2H",
-          "resourceId": "cis.user.MMMM-3Q2H"
-        },
-        "modified": 1457637784707,
-        "created": 1457637784707
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/9XCS-YBJ"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"Utah Births and Christenings, 1892-1941,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/F824-1BP : 12 December 2014), Barbara Dennison in entry for /, 03 Oct 1900; citing Manti, Sanpete County, Utah, reference 1124; FHL microfilm 481,653."
-        }
-      ],
-      "titles": [
-        {
-          "value": "Barbara Dennison in entry for /, \"Utah Births and Christenings, 1892-1941\""
         }
       ]
     },
@@ -22066,9 +21100,9 @@
       ]
     },
     {
-      "id": "9XGR-44J",
-      "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:QKDW-B1KD",
+      "id": "9X2F-LF5",
+      "lang": "*",
+      "about": "http://search.ancestry.com/cgi-bin/sse.dll?db=1930usfedcen&h=121942552&ti=0&indiv=try&gss=pt",
       "attribution": {
         "contributor": {
           "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-3Q2H",
@@ -22078,129 +21112,56 @@
           "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-3Q2H",
           "resourceId": "cis.user.MMMM-3Q2H"
         },
-        "modified": 1461021234359,
-        "created": 1461021234359
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/9XGR-44J"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"Utah, Missionary Department Missionary Registers, 1860-1937,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/QKDW-B1KD : 26 February 2016), Barbara Stutznegger in entry for John Melvin Denison, Central States; records extracted by FamilySearch and images digitized by Church History library, The Church of Jesus Christ of Latter-day Saints; citing Missionary Register v. 4, Missionary department missionary registers 1860-1959, CR 301 22, Church History Library, Salt lake City, Utah.\n"
-        }
-      ],
-      "titles": [
-        {
-          "value": "Barbara Stutznegger in entry for John Melvin Denison, \"Utah, Missionary Department Missionary Registers, 1860-1937\""
-        }
-      ]
-    },
-    {
-      "id": "98MV-7K1",
-      "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:VRLP-Z9X",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-SQ2S",
-          "resourceId": "cis.user.MMM9-SQ2S"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-SQ2S",
-          "resourceId": "cis.user.MMM9-SQ2S"
-        },
-        "modified": 1427149508780,
-        "created": 1427149508780
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/98MV-7K1"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"Utah, County Marriages, 1887-1940\", database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/VRLP-Z9X : 25 January 2016), Barba Stutznegger in entry for Almon Giles Clegg and Geneva Denison, 1928."
-        }
-      ],
-      "titles": [
-        {
-          "value": "Barba Stutznegger in entry for Almon Giles Clegg and Geneva Denison, \"Utah, County Marriages, 1887-1940\""
-        }
-      ]
-    },
-    {
-      "id": "MSXZ-G9Z",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-SQ2S",
-          "resourceId": "cis.user.MMM9-SQ2S"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-SQ2S",
-          "resourceId": "cis.user.MMM9-SQ2S"
-        },
-        "modified": 1407445627605,
-        "created": 1407445627605
-      },
-      "resourceType": "LEGACY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/MSXZ-G9Z"
-        }
-      },
-      "citations": [
-        {
-          "value": ""
-        }
-      ],
-      "titles": [
-        {
-          "value": "Legacy NFS Source: Barbara Katherine Stutznegger - Individual or family possessions: Family genealogies: death: 11 August 1937; Manti, Sanpete, Utah, United States"
-        }
-      ],
-      "notes": [
-        {
-          "text": "Individual or family possessions: Family genealogies: death: 11 August 1937; Manti, Sanpete, Utah, United States"
-        }
-      ]
-    },
-    {
-      "id": "MM1H-BKD",
-      "about": "http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&GSln=stutznegger&GSiman=1&GScid=77320&GRid=48321996&",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-3DHK",
-          "resourceId": "cis.user.MMM9-3DHK"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-3DHK",
-          "resourceId": "cis.user.MMM9-3DHK"
-        },
-        "modified": 1397851817283,
-        "created": 1397851817283
+        "modified": 1460412026833,
+        "created": 1460412026833
       },
       "resourceType": "DEFAULT",
       "links": {
         "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/MM1H-BKD"
+          "href": "https://familysearch.org/platform/sources/descriptions/9X2F-LF5"
         }
       },
       "citations": [
         {
-          "value": "\"Kathrine Barbara Stutznegger Denison (1870 - 1937) - Find A Grave Memorial.\" Kathrine Barbara Stutznegger Denison (1870 - 1937) - Find A Grave Memorial. N.p., n.d. Web. 18 Apr. 2014.."
+          "value": "1930 United States Federal Census"
         }
       ],
       "titles": [
         {
-          "value": "Kathrine Barbara Stutznegger Denison (1870 - 1937) - Find A Grave Memorial"
+          "value": "1930 United States Federal Census"
+        }
+      ]
+    },
+    {
+      "id": "9X2F-LNF",
+      "lang": "*",
+      "about": "http://search.ancestry.com/collections/60201/records/462008",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-3Q2H",
+          "resourceId": "cis.user.MMMM-3Q2H"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-3Q2H",
+          "resourceId": "cis.user.MMMM-3Q2H"
+        },
+        "modified": 1460412029781,
+        "created": 1460412029781
+      },
+      "resourceType": "DEFAULT",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/9X2F-LNF"
+        }
+      },
+      "citations": [
+        {
+          "value": "Utah, Select Marriages, 1887-1966"
         }
       ],
-      "notes": [
+      "titles": [
         {
-          "text": "This source was added by the free service available at RecordSeek.com."
+          "value": "Utah, Select Marriages, 1887-1966"
         }
       ]
     },
@@ -22242,9 +21203,9 @@
       ]
     },
     {
-      "id": "98MK-J2T",
+      "id": "98MV-879",
       "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:VRLL-Z5S",
+      "about": "https://familysearch.org/ark:/61903/1:1:F8P4-WL8",
       "attribution": {
         "contributor": {
           "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-SQ2S",
@@ -22254,89 +21215,162 @@
           "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-SQ2S",
           "resourceId": "cis.user.MMM9-SQ2S"
         },
-        "modified": 1427159902962,
-        "created": 1427159902962
+        "modified": 1427150957673,
+        "created": 1427150957673
       },
       "resourceType": "FSREADONLY",
       "links": {
         "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/98MK-J2T"
+          "href": "https://familysearch.org/platform/sources/descriptions/98MV-879"
         }
       },
       "citations": [
         {
-          "value": "\"Utah, County Marriages, 1887-1940\", database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/VRLL-Z5S : 25 January 2016), Hyrum Denison and Barbara Shirtenegger, 1891."
+          "value": "\"Utah Marriages, 1887-1935,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/F8P4-WL8 : 5 December 2014), Hyrum Denison and Barbara Starknegger, 07 Jan 1891; citing Manti, Sanpete, Utah; FHL microfilm 481,124."
         }
       ],
       "titles": [
         {
-          "value": "Barbara Shirtenegger, \"Utah, County Marriages, 1887-1940\""
+          "value": "Barbara Starknegger, \"Utah Marriages, 1887-1935\""
         }
       ]
     },
     {
-      "id": "9X2F-LF5",
-      "lang": "*",
-      "about": "http://search.ancestry.com/cgi-bin/sse.dll?db=1930usfedcen&h=121942552&ti=0&indiv=try&gss=pt",
+      "id": "MSG9-SJH",
+      "lang": "en_US",
+      "about": "https://familysearch.org/ark:/61903/1:1:VRLH-9PL",
       "attribution": {
         "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-3Q2H",
-          "resourceId": "cis.user.MMMM-3Q2H"
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
         },
         "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-3Q2H",
-          "resourceId": "cis.user.MMMM-3Q2H"
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-MTCZ",
+          "resourceId": "cis.user.MMMM-MTCZ"
         },
-        "modified": 1460412026833,
-        "created": 1460412026833
+        "modified": 1489570160522,
+        "created": 1410482991208
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/MSG9-SJH"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"Utah, County Marriages, 1887-1940\", database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/VRLH-9PL : 25 January 2016), Barbara Stutznegger in entry for Ardelle William Phillips and Barbara Ellen Denison, 1920."
+        }
+      ],
+      "titles": [
+        {
+          "value": "Barbara Stutznegger in entry for Ardelle William Phillips and Barbara Ellen Denison, \"Utah, County Marriages, 1887-1940\""
+        }
+      ]
+    },
+    {
+      "id": "MMJB-YMF",
+      "about": "https://familysearch.org/ark:/61903/1:1:XH6K-QMH",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-NBRH",
+          "resourceId": "cis.user.MMMM-NBRH"
+        },
+        "modified": 1489542586832,
+        "created": 1393312979000
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/MMJB-YMF"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"United States Census, 1930,\" database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/XH6K-QMH : accessed 13 April 2017), Barbara Stutznegger, Manti, Sanpete, Utah, United States; citing enumeration district (ED) ED 15, sheet 3A, line 40, family 63, NARA microfilm publication T626 (Washington D.C.: National Archives and Records Administration, 2002), roll 2422; FHL microfilm 2,342,156.\n"
+        }
+      ],
+      "titles": [
+        {
+          "value": "Barbara Stutznegger, \"United States Census, 1930\""
+        }
+      ]
+    },
+    {
+      "id": "MM1H-BKD",
+      "about": "http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&GSln=stutznegger&GSiman=1&GScid=77320&GRid=48321996&",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-3DHK",
+          "resourceId": "cis.user.MMM9-3DHK"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-3DHK",
+          "resourceId": "cis.user.MMM9-3DHK"
+        },
+        "modified": 1397851817283,
+        "created": 1397851817283
       },
       "resourceType": "DEFAULT",
       "links": {
         "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/9X2F-LF5"
+          "href": "https://familysearch.org/platform/sources/descriptions/MM1H-BKD"
         }
       },
       "citations": [
         {
-          "value": "1930 United States Federal Census"
+          "value": "\"Kathrine Barbara Stutznegger Denison (1870 - 1937) - Find A Grave Memorial.\" Kathrine Barbara Stutznegger Denison (1870 - 1937) - Find A Grave Memorial. N.p., n.d. Web. 18 Apr. 2014.."
         }
       ],
       "titles": [
         {
-          "value": "1930 United States Federal Census"
+          "value": "Kathrine Barbara Stutznegger Denison (1870 - 1937) - Find A Grave Memorial"
+        }
+      ],
+      "notes": [
+        {
+          "text": "This source was added by the free service available at RecordSeek.com."
         }
       ]
     },
     {
-      "id": "9DGW-BHB",
-      "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:QV5H-5T76",
+      "id": "MMMM-ZX2",
+      "about": "https://familysearch.org/ark:/61903/1:1:F8P4-WLD",
       "attribution": {
         "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-MTCZ",
-          "resourceId": "cis.user.MMMM-MTCZ"
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
         },
         "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-MTCZ",
-          "resourceId": "cis.user.MMMM-MTCZ"
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-NBRH",
+          "resourceId": "cis.user.MMMM-NBRH"
         },
-        "modified": 1444957522947,
-        "created": 1444957522947
+        "modified": 1489547957082,
+        "created": 1330326064000
       },
-      "resourceType": "FSREADONLY",
+      "resourceType": "DEFAULT",
       "links": {
         "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/9DGW-BHB"
+          "href": "https://familysearch.org/platform/sources/descriptions/MMMM-ZX2"
         }
       },
       "citations": [
         {
-          "value": "\"United States, GenealogyBank Obituaries, 1980-2014,\" database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/QV5H-5T76 : 10 September 2016), Barbara Stutznegger Denison in entry for Lorenzo Hyrum Denison, Utah, United States, 05 Nov 1991; from \"Recent Newspaper Obituaries (1977 - Today),\" database, GenealogyBank.com (http://www.genealogybank.com : 2014); citing , born-digital text."
+          "value": ""
         }
       ],
       "titles": [
         {
-          "value": "Barbara Stutznegger Denison in entry for Lorenzo Hyrum Denison, \"United States, GenealogyBank Obituaries, 1980-2014\""
+          "value": "1891 - Utah Marriages, 1887-1966 for Hyrum Denison"
+        }
+      ],
+      "notes": [
+        {
+          "text": ""
         }
       ]
     },
@@ -22378,41 +21412,46 @@
       ]
     },
     {
-      "id": "9X2F-LNQ",
-      "lang": "*",
-      "about": "http://search.ancestry.com/cgi-bin/sse.dll?db=utahburials&h=306766&ti=0&indiv=try&gss=pt",
+      "id": "MM13-WMN",
+      "about": "https://familysearch.org/ark:/61903/1:1:XZPS-5TB",
       "attribution": {
         "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-3Q2H",
-          "resourceId": "cis.user.MMMM-3Q2H"
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
         },
         "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-3Q2H",
-          "resourceId": "cis.user.MMMM-3Q2H"
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-3DHK",
+          "resourceId": "cis.user.MMM9-3DHK"
         },
-        "modified": 1460412028317,
-        "created": 1460412028317
+        "modified": 1489552021064,
+        "created": 1397617219645
       },
-      "resourceType": "DEFAULT",
+      "resourceType": "FSREADONLY",
       "links": {
         "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/9X2F-LNQ"
+          "href": "https://familysearch.org/platform/sources/descriptions/MM13-WMN"
         }
       },
       "citations": [
         {
-          "value": "Utah Cemetery Inventory"
+          "value": "\"Utah Death Certificates, 1904-1964\", database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/XZPS-5TB : 11 September 2015), Barbara S. Lutznegger in entry for Hyrum Denison, 1932."
         }
       ],
       "titles": [
         {
-          "value": "Utah Cemetery Inventory"
+          "value": "1932 - Barbara S. Lutznegger in entry for Hyrum Denison, \"Utah Death Certificates, 1904-1956\""
+        }
+      ],
+      "notes": [
+        {
+          "text": ""
         }
       ]
     },
     {
-      "id": "M9DV-D3Y",
-      "about": "https://familysearch.org/ark:/61903/1:1:F8G4-DXF",
+      "id": "MSG9-V35",
+      "lang": "en_US",
+      "about": "https://familysearch.org/ark:/61903/1:1:VRL5-ZFT",
       "attribution": {
         "contributor": {
           "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
@@ -22422,28 +21461,389 @@
           "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-MTCZ",
           "resourceId": "cis.user.MMMM-MTCZ"
         },
-        "modified": 1489552021554,
-        "created": 1403122832003
+        "modified": 1489570060095,
+        "created": 1410488204625
       },
       "resourceType": "FSREADONLY",
       "links": {
         "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/M9DV-D3Y"
+          "href": "https://familysearch.org/platform/sources/descriptions/MSG9-V35"
         }
       },
       "citations": [
         {
-          "value": "\"Utah Marriages, 1887-1935,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/F8G4-DXF : 5 December 2014), Barbara Stutznegger in entry for Ardelle William Phillips and Barbara Ellen Denison, 21 Jul 1920; citing ; FHL microfilm 481,519."
+          "value": "\"Utah, County Marriages, 1887-1940\", database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/VRL5-ZFT : 25 January 2016), Barbara Stutznegger in entry for Edwin Schramm Carpenter and Bertha Rebecca Denison, 1924."
         }
       ],
       "titles": [
         {
-          "value": "1920 - Barbara Stutznegger in entry for Ardelle William Phillips and Barbara Ellen Denison, \"Utah, Marriages, 1887-1966\""
+          "value": "Barbara Stutznegger in entry for Edwin Schramm Carpenter and Bertha Rebecca Denison, \"Utah, County Marriages, 1887-1940\""
+        }
+      ]
+    },
+    {
+      "id": "M9KV-79T",
+      "lang": "en_US,EN;Q=0.8",
+      "about": "https://familysearch.org/ark:/61903/1:1:MMR5-7WQ",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-XVV7",
+          "resourceId": "cis.user.MMMM-XVV7"
+        },
+        "modified": 1489552017998,
+        "created": 1404873739807
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/M9KV-79T"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"United States Census, 1900,\" database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/MMR5-7WQ : accessed 13 April 2017), Barbara Denison in household of Denison, Manti Precinct Manti city, Sanpete, Utah, United States; citing enumeration district (ED) 125, sheet 20A, family 386, NARA microfilm publication T623 (Washington, D.C.: National Archives and Records Administration, 1972.); FHL microfilm 1,241,686.\n"
+        }
+      ],
+      "titles": [
+        {
+          "value": "Barbara Denison in household of Denison, \"United States Census, 1900\""
+        }
+      ]
+    },
+    {
+      "id": "MSG9-CLK",
+      "lang": "en_US",
+      "about": "https://familysearch.org/ark:/61903/1:1:VRLH-9PD",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-MTCZ",
+          "resourceId": "cis.user.MMMM-MTCZ"
+        },
+        "modified": 1489570040740,
+        "created": 1410485322492
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/MSG9-CLK"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"Utah, County Marriages, 1887-1940\", database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/VRLH-9PD : 25 January 2016), Barbara Stutznegger in entry for J Melvin Denison and Lenore Gottfredson, 1920."
+        }
+      ],
+      "titles": [
+        {
+          "value": "Barbara Stutznegger in entry for J Melvin Denison and Lenore Gottfredson, \"Utah, County Marriages, 1887-1940\""
+        }
+      ]
+    },
+    {
+      "id": "9ZVS-8ZX",
+      "lang": "en_US",
+      "about": "https://familysearch.org/ark:/61903/1:1:VRL5-W62",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-H3R9",
+          "resourceId": "cis.user.MMM9-H3R9"
+        },
+        "modified": 1489624742736,
+        "created": 1422933883041
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/9ZVS-8ZX"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"Utah, County Marriages, 1887-1940\", database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/VRL5-W62 : 25 January 2016), Barbara Stutznegger in entry for Marion Jones and Cleo Denison, 1934."
+        }
+      ],
+      "titles": [
+        {
+          "value": "Barbara Stutznegger in entry for Marion Jones and Cleo Denison, \"Utah, County Marriages, 1887-1940\""
+        }
+      ]
+    },
+    {
+      "id": "M953-JZ8",
+      "lang": "en_US,EN;Q=0.8",
+      "about": "https://familysearch.org/ark:/61903/1:1:M5X4-JH2",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-XVV7",
+          "resourceId": "cis.user.MMMM-XVV7"
+        },
+        "modified": 1489554270713,
+        "created": 1405476786266
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/M953-JZ8"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"United States Census, 1910,\" database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/M5X4-JH2 : accessed 13 April 2017), Barbara Denison in household of Hyram Denison, Manti, Sanpete, Utah, United States; citing enumeration district (ED) ED 155, sheet 17A, family 355, NARA microfilm publication T624 (Washington D.C.: National Archives and Records Administration, 1982), roll 1608; FHL microfilm 1,375,621.\n"
+        }
+      ],
+      "titles": [
+        {
+          "value": "Barbara Denison in household of Hyram Denison, \"United States Census, 1910\""
+        }
+      ]
+    },
+    {
+      "id": "MSXZ-G9Z",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-SQ2S",
+          "resourceId": "cis.user.MMM9-SQ2S"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-SQ2S",
+          "resourceId": "cis.user.MMM9-SQ2S"
+        },
+        "modified": 1407445627605,
+        "created": 1407445627605
+      },
+      "resourceType": "LEGACY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/MSXZ-G9Z"
+        }
+      },
+      "citations": [
+        {
+          "value": ""
+        }
+      ],
+      "titles": [
+        {
+          "value": "Legacy NFS Source: Barbara Katherine Stutznegger - Individual or family possessions: Family genealogies: death: 11 August 1937; Manti, Sanpete, Utah, United States"
         }
       ],
       "notes": [
         {
-          "text": ""
+          "text": "Individual or family possessions: Family genealogies: death: 11 August 1937; Manti, Sanpete, Utah, United States"
+        }
+      ]
+    },
+    {
+      "id": "98MK-J2T",
+      "lang": "en_US",
+      "about": "https://familysearch.org/ark:/61903/1:1:VRLL-Z5S",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-SQ2S",
+          "resourceId": "cis.user.MMM9-SQ2S"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-SQ2S",
+          "resourceId": "cis.user.MMM9-SQ2S"
+        },
+        "modified": 1427159902962,
+        "created": 1427159902962
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/98MK-J2T"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"Utah, County Marriages, 1887-1940\", database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/VRLL-Z5S : 25 January 2016), Hyrum Denison and Barbara Shirtenegger, 1891."
+        }
+      ],
+      "titles": [
+        {
+          "value": "Barbara Shirtenegger, \"Utah, County Marriages, 1887-1940\""
+        }
+      ]
+    },
+    {
+      "id": "MSG9-XVR",
+      "lang": "en_US",
+      "about": "https://familysearch.org/ark:/61903/1:1:F8G4-DDV",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-MTCZ",
+          "resourceId": "cis.user.MMMM-MTCZ"
+        },
+        "modified": 1489570052103,
+        "created": 1410487033969
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/MSG9-XVR"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"Utah Marriages, 1887-1935,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/F8G4-DDV : 5 December 2014), Barbara Stutznegger in entry for J. Melvin Denison and Lenore Gottfredson, 21 Jul 1920; citing ; FHL microfilm 481,519."
+        }
+      ],
+      "titles": [
+        {
+          "value": "Barbara Stutznegger in entry for J. Melvin Denison and Lenore Gottfredson, \"Utah Marriages, 1887-1935\""
+        }
+      ]
+    },
+    {
+      "id": "9X2F-LJS",
+      "lang": "*",
+      "about": "http://search.ancestry.com/collections/9174/records/116010",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-3Q2H",
+          "resourceId": "cis.user.MMMM-3Q2H"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-3Q2H",
+          "resourceId": "cis.user.MMMM-3Q2H"
+        },
+        "modified": 1460412032741,
+        "created": 1460412032741
+      },
+      "resourceType": "DEFAULT",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/9X2F-LJS"
+        }
+      },
+      "citations": [
+        {
+          "value": "Utah, Death and Military Death Certificates, 1904-1961"
+        }
+      ],
+      "titles": [
+        {
+          "value": "Utah, Death and Military Death Certificates, 1904-1961"
+        }
+      ]
+    },
+    {
+      "id": "98MK-K45",
+      "lang": "en_US",
+      "about": "https://familysearch.org/ark:/61903/1:1:XZPC-TCS",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-SQ2S",
+          "resourceId": "cis.user.MMM9-SQ2S"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-SQ2S",
+          "resourceId": "cis.user.MMM9-SQ2S"
+        },
+        "modified": 1427160266280,
+        "created": 1427160266280
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/98MK-K45"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"Utah Death Certificates, 1904-1964\", database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/XZPC-TCS : 11 September 2015), Barbara Denison, 1937."
+        }
+      ],
+      "titles": [
+        {
+          "value": "Barbara Denison, \"Utah Death Certificates, 1904-1964\""
+        }
+      ]
+    },
+    {
+      "id": "9DGW-1WG",
+      "lang": "en_US",
+      "about": "https://familysearch.org/ark:/61903/1:1:KCXR-81K",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-MTCZ",
+          "resourceId": "cis.user.MMMM-MTCZ"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-MTCZ",
+          "resourceId": "cis.user.MMMM-MTCZ"
+        },
+        "modified": 1444957766318,
+        "created": 1444957766318
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/9DGW-1WG"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"BillionGraves Index,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/KCXR-81K : 24 June 2015), Barbara S. Denison, died 11 Aug 1937; citing BillionGraves (http://www.billiongraves.com : 2012), Burial at Manti Cemetery, Manti, Sanpete, Utah, United States."
+        }
+      ],
+      "titles": [
+        {
+          "value": "Barbara S. Denison, \"BillionGraves Index\""
+        }
+      ]
+    },
+    {
+      "id": "MSG9-FH4",
+      "lang": "en_US",
+      "about": "https://familysearch.org/ark:/61903/1:1:M8PN-GS8",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-MTCZ",
+          "resourceId": "cis.user.MMMM-MTCZ"
+        },
+        "modified": 1489570053267,
+        "created": 1410487236764
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/MSG9-FH4"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"United States Census, 1920,\" database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/M8PN-GS8 : accessed 13 April 2017), Barbara Dennison in household of Hyrum Dennison, Manti, Sanpete, Utah, United States; citing  ED 107, sheet 11B, line 58, family 238, NARA microfilm publication T625 (Washington D.C.: National Archives and Records Administration, 1992), roll 1864; FHL microfilm 1,821,864."
+        }
+      ],
+      "titles": [
+        {
+          "value": "Barbara Dennison in household of Hyrum Dennison, \"United States Census, 1920\""
         }
       ]
     },
@@ -22481,6 +21881,542 @@
       ]
     },
     {
+      "id": "9X2F-LJV",
+      "lang": "*",
+      "about": "",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-3Q2H",
+          "resourceId": "cis.user.MMMM-3Q2H"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-3Q2H",
+          "resourceId": "cis.user.MMMM-3Q2H"
+        },
+        "modified": 1460412035717,
+        "created": 1460412035717
+      },
+      "resourceType": "DEFAULT",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/9X2F-LJV"
+        }
+      },
+      "citations": [
+        {
+          "value": "Ancestry Family Trees"
+        }
+      ],
+      "titles": [
+        {
+          "value": "Ancestry Family Trees"
+        }
+      ]
+    },
+    {
+      "id": "9X2F-LJP",
+      "lang": "*",
+      "about": "",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-3Q2H",
+          "resourceId": "cis.user.MMMM-3Q2H"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-3Q2H",
+          "resourceId": "cis.user.MMMM-3Q2H"
+        },
+        "modified": 1460412037191,
+        "created": 1460412037191
+      },
+      "resourceType": "DEFAULT",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/9X2F-LJP"
+        }
+      },
+      "citations": [
+        {
+          "value": "Legacy NFS Source: Barbara Katherine Stutznegger - Individual or family possessions: Family genealogies: death: 11 August 1937; Manti, Sanpete, Utah, United States"
+        }
+      ],
+      "titles": [
+        {
+          "value": "Legacy NFS Source: Barbara Katherine Stutznegger - Individual or family possessions: Family genealogies: death: 11 August 1937; Manti, Sanpete, Utah, United States"
+        }
+      ]
+    },
+    {
+      "id": "98MJ-LSB",
+      "lang": "en_US",
+      "about": "https://familysearch.org/ark:/61903/1:1:VRLG-D4K",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-SQ2S",
+          "resourceId": "cis.user.MMM9-SQ2S"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-SQ2S",
+          "resourceId": "cis.user.MMM9-SQ2S"
+        },
+        "modified": 1427146363337,
+        "created": 1427146363337
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/98MJ-LSB"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"Utah, County Marriages, 1887-1940\", database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/VRLG-D4K : 25 January 2016), Barbra Stutznegger in entry for Hans Peter Denison and Sarah Isaacson, 1926."
+        }
+      ],
+      "titles": [
+        {
+          "value": "Barbra Stutznegger in entry for Hans Peter Denison and Sarah Isaacson, \"Utah, County Marriages, 1887-1940\""
+        }
+      ]
+    },
+    {
+      "id": "9XGR-7Z9",
+      "lang": "en_US",
+      "about": "https://familysearch.org/ark:/61903/1:1:QKDW-13LK",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-3Q2H",
+          "resourceId": "cis.user.MMMM-3Q2H"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-3Q2H",
+          "resourceId": "cis.user.MMMM-3Q2H"
+        },
+        "modified": 1461020808939,
+        "created": 1461020808939
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/9XGR-7Z9"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"Utah, Missionary Department Missionary Registers, 1860-1937,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/QKDW-13LK : 26 February 2016), Barbra Stutznegger in entry for Hans Peter Denison, California; records extracted by FamilySearch and images digitized by Church History library, The Church of Jesus Christ of Latter-day Saints; citing Missionary Register v. 5, Missionary department missionary registers 1860-1959, CR 301 22, Church History Library, Salt lake City, Utah.\n"
+        }
+      ],
+      "titles": [
+        {
+          "value": "Barbra Stutznegger in entry for Hans Peter Denison, \"Utah, Missionary Department Missionary Registers, 1860-1937\""
+        }
+      ]
+    },
+    {
+      "id": "98MV-HXJ",
+      "lang": "en_US",
+      "about": "https://familysearch.org/ark:/61903/1:1:VRL5-9MN",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-SQ2S",
+          "resourceId": "cis.user.MMM9-SQ2S"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-SQ2S",
+          "resourceId": "cis.user.MMM9-SQ2S"
+        },
+        "modified": 1427150207873,
+        "created": 1427150207873
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/98MV-HXJ"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"Utah, County Marriages, 1887-1940\", database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/VRL5-9MN : 25 January 2016), Barbra Stutznegger in entry for Leslie J Anderson and Iris Denison, 1931."
+        }
+      ],
+      "titles": [
+        {
+          "value": "Barbra Stutznegger in entry for Leslie J Anderson and Iris Denison, \"Utah, County Marriages, 1887-1940\""
+        }
+      ]
+    },
+    {
+      "id": "9X2F-LNY",
+      "lang": "*",
+      "about": "http://search.ancestry.com/collections/60198/records/819102",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-3Q2H",
+          "resourceId": "cis.user.MMMM-3Q2H"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-3Q2H",
+          "resourceId": "cis.user.MMMM-3Q2H"
+        },
+        "modified": 1460412031171,
+        "created": 1460412031171
+      },
+      "resourceType": "DEFAULT",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/9X2F-LNY"
+        }
+      },
+      "citations": [
+        {
+          "value": "Utah, Select County Marriages, 1887-1937"
+        }
+      ],
+      "titles": [
+        {
+          "value": "Utah, Select County Marriages, 1887-1937"
+        }
+      ]
+    },
+    {
+      "id": "9X2F-LJY",
+      "lang": "*",
+      "about": "",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-3Q2H",
+          "resourceId": "cis.user.MMMM-3Q2H"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-3Q2H",
+          "resourceId": "cis.user.MMMM-3Q2H"
+        },
+        "modified": 1460412038622,
+        "created": 1460412038622
+      },
+      "resourceType": "DEFAULT",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/9X2F-LJY"
+        }
+      },
+      "citations": [
+        {
+          "value": "Legacy NFS Source: Barbara Katherine Stutznegger - Individual or family possessions: birth-name: Kathrine Barbara Stutzenegger"
+        }
+      ],
+      "titles": [
+        {
+          "value": "Legacy NFS Source: Barbara Katherine Stutznegger - Individual or family possessions: birth-name: Kathrine Barbara Stutzenegger"
+        }
+      ]
+    },
+    {
+      "id": "9DGW-BHB",
+      "lang": "en_US",
+      "about": "https://familysearch.org/ark:/61903/1:1:QV5H-5T76",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-MTCZ",
+          "resourceId": "cis.user.MMMM-MTCZ"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-MTCZ",
+          "resourceId": "cis.user.MMMM-MTCZ"
+        },
+        "modified": 1444957522947,
+        "created": 1444957522947
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/9DGW-BHB"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"United States, GenealogyBank Obituaries, 1980-2014,\" database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/QV5H-5T76 : 10 September 2016), Barbara Stutznegger Denison in entry for Lorenzo Hyrum Denison, Utah, United States, 05 Nov 1991; from \"Recent Newspaper Obituaries (1977 - Today),\" database, GenealogyBank.com (http://www.genealogybank.com : 2014); citing , born-digital text."
+        }
+      ],
+      "titles": [
+        {
+          "value": "Barbara Stutznegger Denison in entry for Lorenzo Hyrum Denison, \"United States, GenealogyBank Obituaries, 1980-2014\""
+        }
+      ]
+    },
+    {
+      "id": "MSG9-N5Y",
+      "lang": "en_US",
+      "about": "https://familysearch.org/ark:/61903/1:1:KSP9-TFY",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-MTCZ",
+          "resourceId": "cis.user.MMMM-MTCZ"
+        },
+        "modified": 1489570056396,
+        "created": 1410487736125
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/MSG9-N5Y"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"Utah, County Marriages, 1887-1940\", database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/KSP9-TFY : 25 January 2016), Barbara Stutznegger in entry for Lorenzo Denison and Ruth Bench, 1923."
+        }
+      ],
+      "titles": [
+        {
+          "value": "Barbara Stutznegger in entry for Lorenzo Denison and Ruth Bench, \"Utah, County Marriages, 1887-1940\""
+        }
+      ]
+    },
+    {
+      "id": "98MJ-R3S",
+      "lang": "en_US",
+      "about": "https://familysearch.org/ark:/61903/1:1:F8G1-D7M",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-SQ2S",
+          "resourceId": "cis.user.MMM9-SQ2S"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-SQ2S",
+          "resourceId": "cis.user.MMM9-SQ2S"
+        },
+        "modified": 1427147194191,
+        "created": 1427147194191
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/98MJ-R3S"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"Utah Marriages, 1887-1935,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/F8G1-D7M : 5 December 2014), Barbara Stutznegger in entry for Lorenzo Denison and Ruth Bench, 15 Oct 1923; citing Salt Lake City, Salt Lake, Utah; FHL microfilm 429,116."
+        }
+      ],
+      "titles": [
+        {
+          "value": "Barbara Stutznegger in entry for Lorenzo Denison and Ruth Bench, \"Utah Marriages, 1887-1935\""
+        }
+      ]
+    },
+    {
+      "id": "96HY-P5N",
+      "lang": "en_US",
+      "about": "https://familysearch.org/ark:/61903/1:1:QVSF-KF4L",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-MTCZ",
+          "resourceId": "cis.user.MMMM-MTCZ"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-MTCZ",
+          "resourceId": "cis.user.MMMM-MTCZ"
+        },
+        "modified": 1450407726268,
+        "created": 1450407726268
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/96HY-P5N"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"Utah, Obituaries from Utah Newspapers, 1850-2005,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/QVSF-KF4L : 8 October 2015), Barbara Stutznegger Denison in entry for Mrs Bertha Denison Carpenter, 09 Sep 1971; citing Ephraim Enterprise 3, The University of Utah. J. Willard Marriott Library, Salt Lake City."
+        }
+      ],
+      "titles": [
+        {
+          "value": "Barbara Stutznegger Denison in entry for Mrs Bertha Denison Carpenter, \"Utah, Obituaries from Utah Newspapers, 1850-2005\""
+        }
+      ]
+    },
+    {
+      "id": "9XCS-YBJ",
+      "lang": "en_US",
+      "about": "https://familysearch.org/ark:/61903/1:1:F824-1BP",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-3Q2H",
+          "resourceId": "cis.user.MMMM-3Q2H"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-3Q2H",
+          "resourceId": "cis.user.MMMM-3Q2H"
+        },
+        "modified": 1457637784707,
+        "created": 1457637784707
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/9XCS-YBJ"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"Utah Births and Christenings, 1892-1941,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/F824-1BP : 12 December 2014), Barbara Dennison in entry for /, 03 Oct 1900; citing Manti, Sanpete County, Utah, reference 1124; FHL microfilm 481,653."
+        }
+      ],
+      "titles": [
+        {
+          "value": "Barbara Dennison in entry for /, \"Utah Births and Christenings, 1892-1941\""
+        }
+      ]
+    },
+    {
+      "id": "MSXZ-GM6",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-3Q2H",
+          "resourceId": "cis.user.MMMM-3Q2H"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-3Q2H",
+          "resourceId": "cis.user.MMMM-3Q2H"
+        },
+        "modified": 1407445626852,
+        "created": 1407445626852
+      },
+      "resourceType": "LEGACY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/MSXZ-GM6"
+        }
+      },
+      "citations": [
+        {
+          "value": ""
+        }
+      ],
+      "titles": [
+        {
+          "value": "Legacy NFS Source: Barbara Katherine Stutznegger - Individual or family possessions: birth-name: Kathrine Barbara Stutzenegger"
+        }
+      ],
+      "notes": [
+        {
+          "text": "Individual or family possessions: birth-name: Kathrine Barbara Stutzenegger"
+        }
+      ]
+    },
+    {
+      "id": "9XRJ-WTG",
+      "lang": "en_US",
+      "about": "https://familysearch.org/ark:/61903/1:1:Q2MB-35MP",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-C5L9",
+          "resourceId": "cis.user.MMMM-C5L9"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-C5L9",
+          "resourceId": "cis.user.MMMM-C5L9"
+        },
+        "modified": 1461725278607,
+        "created": 1461725278607
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/9XRJ-WTG"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"Utah, County Marriages, 1887-1940\", database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/Q2MB-35MP : 2 February 2016), Barbara Stutznegger in entry for Fred Heber Denison and Helen Whiting, 1934."
+        }
+      ],
+      "titles": [
+        {
+          "value": "Barbara Stutznegger in entry for Fred Heber Denison and Helen Whiting, \"Utah, County Marriages, 1887-1940\""
+        }
+      ]
+    },
+    {
+      "id": "MSLW-2F8",
+      "lang": "en_US",
+      "about": "https://familysearch.org/ark:/61903/1:1:QVSF-1S7C",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-XVV7",
+          "resourceId": "cis.user.MMMM-XVV7"
+        },
+        "modified": 1489569448006,
+        "created": 1410112191573
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/MSLW-2F8"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"Utah, Obituaries from Utah Newspapers, 1850-2005,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/QVSF-1S7C : 8 October 2015), Barbara Stutnegger in entry for Mr Hyrum Denison, 03 Jun 1932; citing Salt Lake Telegram 13, The University of Utah. J. Willard Marriott Library, Salt Lake City."
+        }
+      ],
+      "titles": [
+        {
+          "value": "1932 - Barbara Stutnegger in entry for Mr Hyrum Denison, \"Utah, Obituaries from Utah Newspapers, 1850-2005\""
+        }
+      ],
+      "notes": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "98MV-7K1",
+      "lang": "en_US",
+      "about": "https://familysearch.org/ark:/61903/1:1:VRLP-Z9X",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-SQ2S",
+          "resourceId": "cis.user.MMM9-SQ2S"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-SQ2S",
+          "resourceId": "cis.user.MMM9-SQ2S"
+        },
+        "modified": 1427149508780,
+        "created": 1427149508780
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/98MV-7K1"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"Utah, County Marriages, 1887-1940\", database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/VRLP-Z9X : 25 January 2016), Barba Stutznegger in entry for Almon Giles Clegg and Geneva Denison, 1928."
+        }
+      ],
+      "titles": [
+        {
+          "value": "Barba Stutznegger in entry for Almon Giles Clegg and Geneva Denison, \"Utah, County Marriages, 1887-1940\""
+        }
+      ]
+    },
+    {
       "id": "9X2F-LXJ",
       "lang": "*",
       "about": "http://search.ancestry.com/cgi-bin/sse.dll?db=1900usfedcen&h=61754832&ti=0&indiv=try&gss=pt",
@@ -22514,35 +22450,270 @@
       ]
     },
     {
-      "id": "98MV-879",
-      "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:F8P4-WL8",
+      "id": "9X2F-LNQ",
+      "lang": "*",
+      "about": "http://search.ancestry.com/cgi-bin/sse.dll?db=utahburials&h=306766&ti=0&indiv=try&gss=pt",
       "attribution": {
         "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-SQ2S",
-          "resourceId": "cis.user.MMM9-SQ2S"
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-3Q2H",
+          "resourceId": "cis.user.MMMM-3Q2H"
         },
         "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-SQ2S",
-          "resourceId": "cis.user.MMM9-SQ2S"
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-3Q2H",
+          "resourceId": "cis.user.MMMM-3Q2H"
         },
-        "modified": 1427150957673,
-        "created": 1427150957673
+        "modified": 1460412028317,
+        "created": 1460412028317
       },
-      "resourceType": "FSREADONLY",
+      "resourceType": "DEFAULT",
       "links": {
         "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/98MV-879"
+          "href": "https://familysearch.org/platform/sources/descriptions/9X2F-LNQ"
         }
       },
       "citations": [
         {
-          "value": "\"Utah Marriages, 1887-1935,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/F8P4-WL8 : 5 December 2014), Hyrum Denison and Barbara Starknegger, 07 Jan 1891; citing Manti, Sanpete, Utah; FHL microfilm 481,124."
+          "value": "Utah Cemetery Inventory"
         }
       ],
       "titles": [
         {
-          "value": "Barbara Starknegger, \"Utah Marriages, 1887-1935\""
+          "value": "Utah Cemetery Inventory"
+        }
+      ]
+    },
+    {
+      "id": "966C-FR3",
+      "lang": "en_US",
+      "about": "https://familysearch.org/ark:/61903/1:1:QVSF-KF7F",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-329G",
+          "resourceId": "cis.user.MMM9-329G"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-329G",
+          "resourceId": "cis.user.MMM9-329G"
+        },
+        "modified": 1451858368801,
+        "created": 1451858368801
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/966C-FR3"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"Utah, Obituaries from Utah Newspapers, 1850-2005,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/QVSF-KF7F : 8 October 2015), Barbara Stutznegger Denison in entry for Mrs Bertha Denison Carpenter, 09 Sep 1971; citing Ephraim Enterprise 3, The University of Utah. J. Willard Marriott Library, Salt Lake City."
+        }
+      ],
+      "titles": [
+        {
+          "value": "Barbara Stutznegger Denison in entry for Mrs Bertha Denison Carpenter, \"Utah, Obituaries from Utah Newspapers, 1850-2005\""
+        }
+      ]
+    },
+    {
+      "id": "96HY-534",
+      "lang": "en_US",
+      "about": "https://familysearch.org/ark:/61903/1:1:QKDV-8KYX",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-MTCZ",
+          "resourceId": "cis.user.MMMM-MTCZ"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-MTCZ",
+          "resourceId": "cis.user.MMMM-MTCZ"
+        },
+        "modified": 1450407803094,
+        "created": 1450407803094
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/96HY-534"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"Utah Death Certificates, 1904-1964\", database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/QKDV-8KYX : 25 September 2015), Barbara K Stutznegger in entry for Melvin Denison, 1961."
+        }
+      ],
+      "titles": [
+        {
+          "value": "Barbara K Stutznegger in entry for Melvin Denison, \"Utah Death Certificates, 1904-1964\""
+        }
+      ]
+    },
+    {
+      "id": "9X2F-LF7",
+      "lang": "*",
+      "about": "http://search.ancestry.com/cgi-bin/sse.dll?db=websearch-4111&h=172163&ti=0&indiv=try&gss=pt",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-3Q2H",
+          "resourceId": "cis.user.MMMM-3Q2H"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-3Q2H",
+          "resourceId": "cis.user.MMMM-3Q2H"
+        },
+        "modified": 1460412024024,
+        "created": 1460412024024
+      },
+      "resourceType": "DEFAULT",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/9X2F-LF7"
+        }
+      },
+      "citations": [
+        {
+          "value": "Web: Utah, Find A Grave Index, 1850-2011"
+        }
+      ],
+      "titles": [
+        {
+          "value": "Web: Utah, Find A Grave Index, 1850-2011"
+        }
+      ]
+    },
+    {
+      "id": "MSRL-XM4",
+      "lang": "en_US",
+      "about": "https://familysearch.org/ark:/61903/1:1:QVSF-P965",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-3B2M",
+          "resourceId": "cis.user.MMM9-3B2M"
+        },
+        "modified": 1489576493954,
+        "created": 1412286532848
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/MSRL-XM4"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"Utah, Obituaries from Utah Newspapers, 1850-2005,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/QVSF-P965 : 8 October 2015), Barbra Denison in entry for John Stutzneggar, 28 Mar 1919; citing Manti Messenger, The University of Utah. J. Willard Marriott Library, Salt Lake City."
+        }
+      ],
+      "titles": [
+        {
+          "value": "Barbra Denison in entry for John Stutzneggar, \"Utah, Obituaries from Utah Newspapers, 1850-2005\""
+        }
+      ]
+    },
+    {
+      "id": "9X2F-LFJ",
+      "lang": "*",
+      "about": "http://search.ancestry.com/cgi-bin/sse.dll?db=utahdeathindex&h=163988&ti=0&indiv=try&gss=pt",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-3Q2H",
+          "resourceId": "cis.user.MMMM-3Q2H"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-3Q2H",
+          "resourceId": "cis.user.MMMM-3Q2H"
+        },
+        "modified": 1460412025412,
+        "created": 1460412025412
+      },
+      "resourceType": "DEFAULT",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/9X2F-LFJ"
+        }
+      },
+      "citations": [
+        {
+          "value": "Utah Death Index, 1905-1951"
+        }
+      ],
+      "titles": [
+        {
+          "value": "Utah Death Index, 1905-1951"
+        }
+      ]
+    },
+    {
+      "id": "M9SH-34R",
+      "about": "http://billiongraves.com/pages/record/BarbaraSDenison/2140982?utm_campaign=treeconnect&utm_source=familysearch.org&utm_medium=sourcelink",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-4SDX",
+          "resourceId": "cis.user.MMM9-4SDX"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-4SDX",
+          "resourceId": "cis.user.MMM9-4SDX"
+        },
+        "modified": 1400716792700,
+        "created": 1400716792700
+      },
+      "resourceType": "DEFAULT",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/M9SH-34R"
+        }
+      },
+      "citations": [
+        {
+          "value": "Transcription of headstone image from billiongraves.com. Image taken at Manti Cemetery (Manti, Sanpete, Utah, United States) on 12 September 2012"
+        }
+      ],
+      "titles": [
+        {
+          "value": "Headstone image of Barbara S. Denison from billiongraves.com"
+        }
+      ],
+      "notes": [
+        {
+          "text": "Name: Barbara S. Denison\nBirth: 17 August 1870\nDeath: 11 August 1937\nBurial: Manti Cemetery, Manti, Sanpete, Utah, United States"
+        }
+      ]
+    },
+    {
+      "id": "9DGW-T58",
+      "lang": "en_US",
+      "about": "https://familysearch.org/ark:/61903/1:1:QVK5-NGKY",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-MTCZ",
+          "resourceId": "cis.user.MMMM-MTCZ"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-MTCZ",
+          "resourceId": "cis.user.MMMM-MTCZ"
+        },
+        "modified": 1444957150319,
+        "created": 1444957150319
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/9DGW-T58"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"Find A Grave Index,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/QVK5-NGKY : 11 July 2016), Kathrine Barbara Stutznegger Denison, 1937; Burial, Manti, Sanpete, Utah, United States of America, Manti Cemetery; citing record ID 48321996, Find a Grave, http://www.findagrave.com."
+        }
+      ],
+      "titles": [
+        {
+          "value": "Kathrine Barbara Stutznegger Denison, \"Find A Grave Index\""
         }
       ]
     }
@@ -22620,6 +22791,21 @@
         {
           "lang": "und",
           "value": "Sanpete, Utah, United States"
+        }
+      ]
+    },
+    {
+      "id": "pd_39.267009x-111.5387",
+      "latitude": 39.267009,
+      "longitude": -111.5387,
+      "names": [
+        {
+          "lang": "en-US",
+          "value": "Manti Election Precinct, Sanpete, Utah, United States"
+        },
+        {
+          "lang": "und",
+          "value": "Manti City, Manti Election Precinct, Sanpete, Utah, United States"
         }
       ]
     },
@@ -22800,21 +22986,6 @@
         {
           "lang": "und",
           "value": "Provo, Utah, Utah, United States"
-        }
-      ]
-    },
-    {
-      "id": "pd_39.27288x-111.63384",
-      "latitude": 39.27288,
-      "longitude": -111.63384,
-      "names": [
-        {
-          "lang": "en-US",
-          "value": "Manti Utah Temple, Manti, Sanpete, Utah, United States"
-        },
-        {
-          "lang": "und",
-          "value": "Manti Precinct Manti city, Sanpete, Utah, United States"
         }
       ]
     },
@@ -24208,6 +24379,93 @@
       }
     },
     {
+      "id": "M1K8-G8J",
+      "father": {
+        "resource": "#KWCC-J9N",
+        "resourceId": "KWCC-J9N"
+      },
+      "mother": {
+        "resource": "https://familysearch.org/platform/tree/persons/KWC2-F5D",
+        "resourceId": "KWC2-F5D"
+      },
+      "child": {
+        "resource": "https://familysearch.org/platform/tree/persons/LRYB-S1Q",
+        "resourceId": "LRYB-S1Q"
+      },
+      "links": {
+        "mother": {
+          "href": "https://familysearch.org/platform/tree/persons/KWC2-F5D?relatives=true&sourceDescriptions=true"
+        },
+        "father": {
+          "href": "https://familysearch.org/platform/tree/persons/KWCC-J9N?relatives=true&sourceDescriptions=true"
+        },
+        "relationship": {
+          "href": "https://familysearch.org/platform/tree/child-and-parents-relationships/M1K8-G8J"
+        },
+        "child": {
+          "href": "https://familysearch.org/platform/tree/persons/LRYB-S1Q?relatives=true&sourceDescriptions=true"
+        }
+      }
+    },
+    {
+      "id": "M1K8-PB6",
+      "father": {
+        "resource": "#KWCC-J9N",
+        "resourceId": "KWCC-J9N"
+      },
+      "mother": {
+        "resource": "https://familysearch.org/platform/tree/persons/KWC2-F5D",
+        "resourceId": "KWC2-F5D"
+      },
+      "child": {
+        "resource": "https://familysearch.org/platform/tree/persons/LRYB-M5K",
+        "resourceId": "LRYB-M5K"
+      },
+      "links": {
+        "mother": {
+          "href": "https://familysearch.org/platform/tree/persons/KWC2-F5D?relatives=true&sourceDescriptions=true"
+        },
+        "father": {
+          "href": "https://familysearch.org/platform/tree/persons/KWCC-J9N?relatives=true&sourceDescriptions=true"
+        },
+        "relationship": {
+          "href": "https://familysearch.org/platform/tree/child-and-parents-relationships/M1K8-PB6"
+        },
+        "child": {
+          "href": "https://familysearch.org/platform/tree/persons/LRYB-M5K?relatives=true&sourceDescriptions=true"
+        }
+      }
+    },
+    {
+      "id": "M1K8-K34",
+      "father": {
+        "resource": "#KWCC-J9N",
+        "resourceId": "KWCC-J9N"
+      },
+      "mother": {
+        "resource": "https://familysearch.org/platform/tree/persons/KWC2-F5D",
+        "resourceId": "KWC2-F5D"
+      },
+      "child": {
+        "resource": "https://familysearch.org/platform/tree/persons/LRYY-YLL",
+        "resourceId": "LRYY-YLL"
+      },
+      "links": {
+        "mother": {
+          "href": "https://familysearch.org/platform/tree/persons/KWC2-F5D?relatives=true&sourceDescriptions=true"
+        },
+        "father": {
+          "href": "https://familysearch.org/platform/tree/persons/KWCC-J9N?relatives=true&sourceDescriptions=true"
+        },
+        "relationship": {
+          "href": "https://familysearch.org/platform/tree/child-and-parents-relationships/M1K8-K34"
+        },
+        "child": {
+          "href": "https://familysearch.org/platform/tree/persons/LRYY-YLL?relatives=true&sourceDescriptions=true"
+        }
+      }
+    },
+    {
       "id": "M33D-B3W",
       "father": {
         "resource": "https://familysearch.org/platform/tree/persons/KWC1-7V5",
@@ -24871,6 +25129,35 @@
         },
         "child": {
           "href": "https://familysearch.org/platform/tree/persons/KWCF-CT5?relatives=true&sourceDescriptions=true"
+        }
+      }
+    },
+    {
+      "id": "M33D-BDJ",
+      "father": {
+        "resource": "#KWCZ-RW8",
+        "resourceId": "KWCZ-RW8"
+      },
+      "mother": {
+        "resource": "https://familysearch.org/platform/tree/persons/KWCZ-RWF",
+        "resourceId": "KWCZ-RWF"
+      },
+      "child": {
+        "resource": "https://familysearch.org/platform/tree/persons/KWCV-VBS",
+        "resourceId": "KWCV-VBS"
+      },
+      "links": {
+        "mother": {
+          "href": "https://familysearch.org/platform/tree/persons/KWCZ-RWF?relatives=true&sourceDescriptions=true"
+        },
+        "father": {
+          "href": "https://familysearch.org/platform/tree/persons/KWCZ-RW8?relatives=true&sourceDescriptions=true"
+        },
+        "relationship": {
+          "href": "https://familysearch.org/platform/tree/child-and-parents-relationships/M33D-BDJ"
+        },
+        "child": {
+          "href": "https://familysearch.org/platform/tree/persons/KWCV-VBS?relatives=true&sourceDescriptions=true"
         }
       }
     },

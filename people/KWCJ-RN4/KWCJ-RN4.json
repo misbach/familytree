@@ -263,7 +263,7 @@
           "href": "https://familysearch.org/platform/tree/persons/KWCJ-RN4/families?sourceDescriptions=true"
         },
         "portrait": {
-          "href": "https://raw.githubusercontent.com/misbach/familytree/master/people/KWCJ-RN4/KWCJ-RN4.jpg"
+          "href": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/KWCJ-RN4/KWCJ-RN4.jpg"
         },
         "matches": {
           "href": "https://familysearch.org/platform/tree/persons/KWCJ-RN4/matches"
@@ -1082,11 +1082,11 @@
           },
           "place": {
             "original": "Heber Ward 1, , Utah",
-            "description": "#pd_40.50694x-111.412498",
+            "description": "#pd_40.37556x-111.125557",
             "normalized": [
               {
                 "lang": "en-US",
-                "value": "Heber City, Wasatch, Utah, United States"
+                "value": "Wasatch, Utah, United States"
               },
               {
                 "lang": "und",
@@ -1336,20 +1336,16 @@
         "familiesAsParent": [
           {
             "parent1": {
-              "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KWCJ-RN4/KWCJ-RN4.json",
+              "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/KWCJ-RN4/KWCJ-RN4.json",
               "resourceId": "KWCJ-RN4"
             },
             "parent2": {
-              "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KWCJ-RNC/KWCJ-RNC.json",
+              "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/KWCJ-RNC/KWCJ-RNC.json",
               "resourceId": "KWCJ-RNC"
             },
             "children": [
               {
-                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KWZS-HFW/KWZS-HFW.json",
-                "resourceId": "KWZS-HFW"
-              },
-              {
-                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/LFXX-7Y9/LFXX-7Y9.json",
+                "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/LFXX-7Y9/LFXX-7Y9.json",
                 "resourceId": "LFXX-7Y9"
               }
             ]
@@ -1358,16 +1354,16 @@
         "familiesAsChild": [
           {
             "parent1": {
-              "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KWCG-VGR/KWCG-VGR.json",
+              "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/KWCG-VGR/KWCG-VGR.json",
               "resourceId": "KWCG-VGR"
             },
             "parent2": {
-              "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KWCG-VG1/KWCG-VG1.json",
+              "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/KWCG-VG1/KWCG-VG1.json",
               "resourceId": "KWCG-VG1"
             },
             "children": [
               {
-                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KWCJ-RN4/KWCJ-RN4.json",
+                "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/KWCJ-RN4/KWCJ-RN4.json",
                 "resourceId": "KWCJ-RN4"
               }
             ]
@@ -2760,11 +2756,11 @@
           },
           "place": {
             "original": "ED 171 Heber Precinct Heber City, Wasatch, Utah, United States",
-            "description": "#pd_40.50694x-111.412498",
+            "description": "#pd_40.37556x-111.125557",
             "normalized": [
               {
                 "lang": "en-US",
-                "value": "Heber City, Wasatch, Utah, United States"
+                "value": "Wasatch, Utah, United States"
               },
               {
                 "lang": "und",
@@ -2804,11 +2800,11 @@
           },
           "place": {
             "original": "Heber Ward 1, , Utah",
-            "description": "#pd_40.50694x-111.412498",
+            "description": "#pd_40.37556x-111.125557",
             "normalized": [
               {
                 "lang": "en-US",
-                "value": "Heber City, Wasatch, Utah, United States"
+                "value": "Wasatch, Utah, United States"
               },
               {
                 "lang": "und",
@@ -3964,11 +3960,11 @@
           },
           "place": {
             "original": "ED 171 Heber Precinct Heber City, Wasatch, Utah, United States",
-            "description": "#pd_40.50694x-111.412498",
+            "description": "#pd_40.37556x-111.125557",
             "normalized": [
               {
                 "lang": "en-US",
-                "value": "Heber City, Wasatch, Utah, United States"
+                "value": "Wasatch, Utah, United States"
               },
               {
                 "lang": "und",
@@ -6186,105 +6182,134 @@
       ]
     },
     {
-      "id": "MMMM-ZXX",
-      "about": "https://familysearch.org/ark:/61903/1:1:XH6G-TS5",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-NBRH",
-          "resourceId": "cis.user.MMMM-NBRH"
-        },
-        "modified": 1489497676914,
-        "created": 1330324975000
-      },
-      "resourceType": "DEFAULT",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/MMMM-ZXX"
-        }
-      },
-      "citations": [
-        {
-          "value": ""
-        }
-      ],
-      "titles": [
-        {
-          "value": "U.S. Census, 1930 for Almon G Clegg"
-        }
-      ],
-      "notes": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "id": "985R-CSD",
+      "id": "9F9Z-JTM",
       "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:F8PY-FQ5",
+      "about": "https://familysearch.org/ark:/61903/1:1:QKDW-1G98",
       "attribution": {
         "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMF-6LRV",
-          "resourceId": "cis.user.MMMF-6LRV"
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-329G",
+          "resourceId": "cis.user.MMM9-329G"
         },
         "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMF-6LRV",
-          "resourceId": "cis.user.MMMF-6LRV"
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-329G",
+          "resourceId": "cis.user.MMM9-329G"
         },
-        "modified": 1435524669057,
-        "created": 1435524669057
+        "modified": 1463416909985,
+        "created": 1463416909985
       },
       "resourceType": "FSREADONLY",
       "links": {
         "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/985R-CSD"
+          "href": "https://familysearch.org/platform/sources/descriptions/9F9Z-JTM"
         }
       },
       "citations": [
         {
-          "value": "\"Utah Marriages, 1887-1935,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/F8PY-FQ5 : 5 December 2014), Almon Giles Clegg and Geneva Denison, 27 Jun 1928; citing Manti, Sanpete Co, Utah; FHL microfilm 81,512."
+          "value": "\"Utah, Missionary Department Missionary Registers, 1860-1937,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/QKDW-1G98 : 26 February 2016), Almon Giles Clegg, Central States; records extracted by FamilySearch and images digitized by Church History library, The Church of Jesus Christ of Latter-day Saints; citing Missionary Register v. 5, Missionary department missionary registers 1860-1959, CR 301 22, Church History Library, Salt lake City, Utah.\n"
         }
       ],
       "titles": [
         {
-          "value": "Almon Giles Clegg, \"Utah Marriages, 1887-1935\""
+          "value": "Almon Giles Clegg, \"Utah, Missionary Department Missionary Registers, 1860-1937\""
         }
       ]
     },
     {
-      "id": "98D1-F9D",
+      "id": "9DL4-2CY",
       "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:KZL7-GJ4",
+      "about": "https://familysearch.org/ark:/61903/1:1:QKWZ-LRGS",
       "attribution": {
         "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMF-6LRV",
-          "resourceId": "cis.user.MMMF-6LRV"
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-329G",
+          "resourceId": "cis.user.MMM9-329G"
         },
         "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMF-6LRV",
-          "resourceId": "cis.user.MMMF-6LRV"
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-329G",
+          "resourceId": "cis.user.MMM9-329G"
         },
-        "modified": 1431314766464,
-        "created": 1431314766464
+        "modified": 1444672027581,
+        "created": 1444672027581
       },
       "resourceType": "FSREADONLY",
       "links": {
         "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/98D1-F9D"
+          "href": "https://familysearch.org/platform/sources/descriptions/9DL4-2CY"
         }
       },
       "citations": [
         {
-          "value": "\"BillionGraves Index,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/KZL7-GJ4 : 27 February 2017), Almon Giles Clegg, died 09 Jul 1989; citing BillionGraves (http://www.billiongraves.com : 2012), Burial at Heber City Cemetery, Heber, Wasatch, Utah, United States."
+          "value": "\"United States, GenealogyBank Obituaries, 1980-2014,\" database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/QKWZ-LRGS : 21 July 2016), Almon Giles Clegg in entry for Geneva Denison Clegg, Utah, United States, 15 Apr 1995; from \"Recent Newspaper Obituaries (1977 - Today),\" database, GenealogyBank.com (http://www.genealogybank.com : 2014); citing Salt Lake Tribune, The, born-digital text."
         }
       ],
       "titles": [
         {
-          "value": "Almon Giles Clegg, \"BillionGraves Index\""
+          "value": "Almon Giles Clegg in entry for Geneva Denison Clegg, \"United States, GenealogyBank Obituaries, 1980-2014\""
+        }
+      ]
+    },
+    {
+      "id": "98K2-3D8",
+      "lang": "en_US",
+      "about": "https://familysearch.org/ark:/61903/1:1:QVKN-2VBL",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-329G",
+          "resourceId": "cis.user.MMM9-329G"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-329G",
+          "resourceId": "cis.user.MMM9-329G"
+        },
+        "modified": 1433710979988,
+        "created": 1433710979988
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/98K2-3D8"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"Find A Grave Index,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/QVKN-2VBL : 13 December 2015), Almon Giles Clegg, 1989; Burial, Heber City, Wasatch, Utah, United States of America, Heber City Cemetery; citing record ID 39134241, Find a Grave, http://www.findagrave.com."
+        }
+      ],
+      "titles": [
+        {
+          "value": "Almon Giles Clegg, \"Find A Grave Index\""
+        }
+      ]
+    },
+    {
+      "id": "98TP-QRP",
+      "lang": "en_US",
+      "about": "https://familysearch.org/ark:/61903/1:1:VRLL-P1S",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-329G",
+          "resourceId": "cis.user.MMM9-329G"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-329G",
+          "resourceId": "cis.user.MMM9-329G"
+        },
+        "modified": 1436202783564,
+        "created": 1436202783564
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/98TP-QRP"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"Utah, County Marriages, 1887-1940\", database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/VRLL-P1S : 25 January 2016), Almon Giles Clegg and Geneva Denison, 1928."
+        }
+      ],
+      "titles": [
+        {
+          "value": "Almon Giles Clegg, \"Utah, County Marriages, 1887-1940\""
         }
       ]
     },
@@ -6327,266 +6352,72 @@
       ]
     },
     {
-      "id": "MSVG-FY1",
+      "id": "98TP-729",
       "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:M8P2-89W",
+      "about": "https://familysearch.org/ark:/61903/1:1:M5XM-FK3",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-329G",
+          "resourceId": "cis.user.MMM9-329G"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-329G",
+          "resourceId": "cis.user.MMM9-329G"
+        },
+        "modified": 1436203279157,
+        "created": 1436203279157
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/98TP-729"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"United States Census, 1910,\" database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/M5XM-FK3 : accessed 14 April 2017), Almon Clegg in household of George A Clegg, Heber Ward 1, Wasatch, Utah, United States; citing enumeration district (ED) ED 206, sheet 5B, family 96, NARA microfilm publication T624 (Washington D.C.: National Archives and Records Administration, 1982), roll 1610; FHL microfilm 1,375,623.\n"
+        }
+      ],
+      "titles": [
+        {
+          "value": "Almon Clegg in household of George A Clegg, \"United States Census, 1910\""
+        }
+      ]
+    },
+    {
+      "id": "MMMM-ZXX",
+      "about": "https://familysearch.org/ark:/61903/1:1:XH6G-TS5",
       "attribution": {
         "contributor": {
           "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
           "resourceId": "cis.wkca.MMMM-M93P"
         },
         "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-XTWJ",
-          "resourceId": "cis.user.MMMM-XTWJ"
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-NBRH",
+          "resourceId": "cis.user.MMMM-NBRH"
         },
-        "modified": 1489521624448,
-        "created": 1408910488961
+        "modified": 1489497676914,
+        "created": 1330324975000
       },
-      "resourceType": "FSREADONLY",
+      "resourceType": "DEFAULT",
       "links": {
         "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/MSVG-FY1"
+          "href": "https://familysearch.org/platform/sources/descriptions/MMMM-ZXX"
         }
       },
       "citations": [
         {
-          "value": "\"United States Census, 1920,\" database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/M8P2-89W : accessed 6 April 2017), Almon G Clegg in household of George A Clegg, Heber, Wasatch, Utah, United States; citing  ED 139, sheet 8A, line 9, family 126, NARA microfilm publication T625 (Washington D.C.: National Archives and Records Administration, 1992), roll 1867; FHL microfilm 1,821,867."
+          "value": ""
         }
       ],
       "titles": [
         {
-          "value": "Almon G Clegg in household of George A Clegg, \"United States Census, 1920\""
-        }
-      ]
-    },
-    {
-      "id": "9F9Z-JTM",
-      "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:QKDW-1G98",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-329G",
-          "resourceId": "cis.user.MMM9-329G"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-329G",
-          "resourceId": "cis.user.MMM9-329G"
-        },
-        "modified": 1463416909985,
-        "created": 1463416909985
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/9F9Z-JTM"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"Utah, Missionary Department Missionary Registers, 1860-1937,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/QKDW-1G98 : 26 February 2016), Almon Giles Clegg, Central States; records extracted by FamilySearch and images digitized by Church History library, The Church of Jesus Christ of Latter-day Saints; citing Missionary Register v. 5, Missionary department missionary registers 1860-1959, CR 301 22, Church History Library, Salt lake City, Utah.\n"
+          "value": "U.S. Census, 1930 for Almon G Clegg"
         }
       ],
-      "titles": [
+      "notes": [
         {
-          "value": "Almon Giles Clegg, \"Utah, Missionary Department Missionary Registers, 1860-1937\""
-        }
-      ]
-    },
-    {
-      "id": "98K2-3D8",
-      "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:QVKN-2VBL",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-329G",
-          "resourceId": "cis.user.MMM9-329G"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-329G",
-          "resourceId": "cis.user.MMM9-329G"
-        },
-        "modified": 1433710979988,
-        "created": 1433710979988
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/98K2-3D8"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"Find A Grave Index,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/QVKN-2VBL : 13 December 2015), Almon Giles Clegg, 1989; Burial, Heber City, Wasatch, Utah, United States of America, Heber City Cemetery; citing record ID 39134241, Find a Grave, http://www.findagrave.com."
-        }
-      ],
-      "titles": [
-        {
-          "value": "Almon Giles Clegg, \"Find A Grave Index\""
-        }
-      ]
-    },
-    {
-      "id": "98TP-3RN",
-      "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:XH6G-TSR",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-329G",
-          "resourceId": "cis.user.MMM9-329G"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-329G",
-          "resourceId": "cis.user.MMM9-329G"
-        },
-        "modified": 1436202495771,
-        "created": 1436202495771
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/98TP-3RN"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"United States Census, 1930,\" database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/XH6G-TSR : accessed 3 April 2017), Geneva D Clegg in household of Almon G Clegg, Heber, Wasatch, Utah, United States; citing enumeration district (ED) ED 5, sheet 17A, line 15, family 369, NARA microfilm publication T626 (Washington D.C.: National Archives and Records Administration, 2002), roll 2424; FHL microfilm 2,342,158.\n"
-        }
-      ],
-      "titles": [
-        {
-          "value": "Geneva D Clegg in household of Almon G Clegg, \"United States Census, 1930\""
-        }
-      ]
-    },
-    {
-      "id": "968Z-968",
-      "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:QVSF-1RQM",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-4Z1V",
-          "resourceId": "cis.user.MMMM-4Z1V"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-4Z1V",
-          "resourceId": "cis.user.MMMM-4Z1V"
-        },
-        "modified": 1451272905262,
-        "created": 1451272905262
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/968Z-968"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"Utah, Obituaries from Utah Newspapers, 1850-2005,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/QVSF-1RQM : 8 October 2015), Almon G in entry for Mrs Margaret Ann Clegg Brierly, 14 Jan 1932; citing Salt Lake Telegram 13, The University of Utah. J. Willard Marriott Library, Salt Lake City."
-        }
-      ],
-      "titles": [
-        {
-          "value": "Almon G in entry for Mrs Margaret Ann Clegg Brierly, \"Utah, Obituaries from Utah Newspapers, 1850-2005\""
-        }
-      ]
-    },
-    {
-      "id": "9DL4-2CY",
-      "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:QKWZ-LRGS",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-329G",
-          "resourceId": "cis.user.MMM9-329G"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-329G",
-          "resourceId": "cis.user.MMM9-329G"
-        },
-        "modified": 1444672027581,
-        "created": 1444672027581
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/9DL4-2CY"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"United States, GenealogyBank Obituaries, 1980-2014,\" database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/QKWZ-LRGS : 21 July 2016), Almon Giles Clegg in entry for Geneva Denison Clegg, Utah, United States, 15 Apr 1995; from \"Recent Newspaper Obituaries (1977 - Today),\" database, GenealogyBank.com (http://www.genealogybank.com : 2014); citing Salt Lake Tribune, The, born-digital text."
-        }
-      ],
-      "titles": [
-        {
-          "value": "Almon Giles Clegg in entry for Geneva Denison Clegg, \"United States, GenealogyBank Obituaries, 1980-2014\""
-        }
-      ]
-    },
-    {
-      "id": "969Q-1LY",
-      "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:F82S-YQR",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-329G",
-          "resourceId": "cis.user.MMM9-329G"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-329G",
-          "resourceId": "cis.user.MMM9-329G"
-        },
-        "modified": 1447693526167,
-        "created": 1447693526167
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/969Q-1LY"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"Utah Births and Christenings, 1892-1941,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/F82S-YQR : 12 December 2014), null, 11 Jan 1903; citing Heber, Wasatch, Utah, reference 760; FHL microfilm 483,507."
-        }
-      ],
-      "titles": [
-        {
-          "value": ", \"Utah Births and Christenings, 1892-1941\""
-        }
-      ]
-    },
-    {
-      "id": "98TP-QRP",
-      "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:VRLL-P1S",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-329G",
-          "resourceId": "cis.user.MMM9-329G"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-329G",
-          "resourceId": "cis.user.MMM9-329G"
-        },
-        "modified": 1436202783564,
-        "created": 1436202783564
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/98TP-QRP"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"Utah, County Marriages, 1887-1940\", database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/VRLL-P1S : 25 January 2016), Almon Giles Clegg and Geneva Denison, 1928."
-        }
-      ],
-      "titles": [
-        {
-          "value": "Almon Giles Clegg, \"Utah, County Marriages, 1887-1940\""
+          "text": ""
         }
       ]
     },
@@ -6628,6 +6459,138 @@
       ]
     },
     {
+      "id": "98D1-F9D",
+      "lang": "en_US",
+      "about": "https://familysearch.org/ark:/61903/1:1:KZL7-GJ4",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMF-6LRV",
+          "resourceId": "cis.user.MMMF-6LRV"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMF-6LRV",
+          "resourceId": "cis.user.MMMF-6LRV"
+        },
+        "modified": 1431314766464,
+        "created": 1431314766464
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/98D1-F9D"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"BillionGraves Index,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/KZL7-GJ4 : 27 February 2017), Almon Giles Clegg, died 09 Jul 1989; citing BillionGraves (http://www.billiongraves.com : 2012), Burial at Heber City Cemetery, Heber, Wasatch, Utah, United States."
+        }
+      ],
+      "titles": [
+        {
+          "value": "Almon Giles Clegg, \"BillionGraves Index\""
+        }
+      ]
+    },
+    {
+      "id": "98TP-3RN",
+      "lang": "en_US",
+      "about": "https://familysearch.org/ark:/61903/1:1:XH6G-TSR",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-329G",
+          "resourceId": "cis.user.MMM9-329G"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-329G",
+          "resourceId": "cis.user.MMM9-329G"
+        },
+        "modified": 1436202495771,
+        "created": 1436202495771
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/98TP-3RN"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"United States Census, 1930,\" database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/XH6G-TSR : accessed 14 April 2017), Geneva D Clegg in household of Almon G Clegg, Heber, Wasatch, Utah, United States; citing enumeration district (ED) ED 5, sheet 17A, line 15, family 369, NARA microfilm publication T626 (Washington D.C.: National Archives and Records Administration, 2002), roll 2424; FHL microfilm 2,342,158.\n"
+        }
+      ],
+      "titles": [
+        {
+          "value": "Geneva D Clegg in household of Almon G Clegg, \"United States Census, 1930\""
+        }
+      ]
+    },
+    {
+      "id": "969Q-1LY",
+      "lang": "en_US",
+      "about": "https://familysearch.org/ark:/61903/1:1:F82S-YQR",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-329G",
+          "resourceId": "cis.user.MMM9-329G"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-329G",
+          "resourceId": "cis.user.MMM9-329G"
+        },
+        "modified": 1447693526167,
+        "created": 1447693526167
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/969Q-1LY"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"Utah Births and Christenings, 1892-1941,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/F82S-YQR : 12 December 2014), null, 11 Jan 1903; citing Heber, Wasatch, Utah, reference 760; FHL microfilm 483,507."
+        }
+      ],
+      "titles": [
+        {
+          "value": ", \"Utah Births and Christenings, 1892-1941\""
+        }
+      ]
+    },
+    {
+      "id": "985R-CSD",
+      "lang": "en_US",
+      "about": "https://familysearch.org/ark:/61903/1:1:F8PY-FQ5",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMF-6LRV",
+          "resourceId": "cis.user.MMMF-6LRV"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMF-6LRV",
+          "resourceId": "cis.user.MMMF-6LRV"
+        },
+        "modified": 1435524669057,
+        "created": 1435524669057
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/985R-CSD"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"Utah Marriages, 1887-1935,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/F8PY-FQ5 : 5 December 2014), Almon Giles Clegg and Geneva Denison, 27 Jun 1928; citing Manti, Sanpete Co, Utah; FHL microfilm 81,512."
+        }
+      ],
+      "titles": [
+        {
+          "value": "Almon Giles Clegg, \"Utah Marriages, 1887-1935\""
+        }
+      ]
+    },
+    {
       "id": "MMMQ-KSQ",
       "about": "https://familysearch.org/ark:/61903/1:1:VT48-WCK",
       "attribution": {
@@ -6650,7 +6613,7 @@
       },
       "citations": [
         {
-          "value": "\"United States Census, 1940,\" database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/VT48-WCK : accessed 3 April 2017), Almon G Clegg, Heber City, Heber Election Precinct, Wasatch, Utah, United States; citing enumeration district (ED) 26-6, sheet 6A, line 28, family 92, Sixteenth Census of the United States, 1940, NARA digital publication T627.  Records of the Bureau of the Census, 1790 - 2007, RG 29. Washington, D.C.: National Archives and Records Administration, 2012, roll 4221.\n"
+          "value": "\"United States Census, 1940,\" database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/VT48-WCK : accessed 14 April 2017), Almon G Clegg, Heber City, Heber Election Precinct, Wasatch, Utah, United States; citing enumeration district (ED) 26-6, sheet 6A, line 28, family 92, Sixteenth Census of the United States, 1940, NARA digital publication T627.  Records of the Bureau of the Census, 1790 - 2007, RG 29. Washington, D.C.: National Archives and Records Administration, 2012, roll 4221.\n"
         }
       ],
       "titles": [
@@ -6698,35 +6661,35 @@
       ]
     },
     {
-      "id": "98TP-729",
+      "id": "968Z-968",
       "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:M5XM-FK3",
+      "about": "https://familysearch.org/ark:/61903/1:1:QVSF-1RQM",
       "attribution": {
         "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-329G",
-          "resourceId": "cis.user.MMM9-329G"
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-4Z1V",
+          "resourceId": "cis.user.MMMM-4Z1V"
         },
         "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-329G",
-          "resourceId": "cis.user.MMM9-329G"
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-4Z1V",
+          "resourceId": "cis.user.MMMM-4Z1V"
         },
-        "modified": 1436203279157,
-        "created": 1436203279157
+        "modified": 1451272905262,
+        "created": 1451272905262
       },
       "resourceType": "FSREADONLY",
       "links": {
         "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/98TP-729"
+          "href": "https://familysearch.org/platform/sources/descriptions/968Z-968"
         }
       },
       "citations": [
         {
-          "value": "\"United States Census, 1910,\" database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/M5XM-FK3 : accessed 3 April 2017), Almon Clegg in household of George A Clegg, Heber Ward 1, Wasatch, Utah, United States; citing enumeration district (ED) ED 206, sheet 5B, family 96, NARA microfilm publication T624 (Washington D.C.: National Archives and Records Administration, 1982), roll 1610; FHL microfilm 1,375,623.\n"
+          "value": "\"Utah, Obituaries from Utah Newspapers, 1850-2005,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/QVSF-1RQM : 8 October 2015), Almon G in entry for Mrs Margaret Ann Clegg Brierly, 14 Jan 1932; citing Salt Lake Telegram 13, The University of Utah. J. Willard Marriott Library, Salt Lake City."
         }
       ],
       "titles": [
         {
-          "value": "Almon Clegg in household of George A Clegg, \"United States Census, 1910\""
+          "value": "Almon G in entry for Mrs Margaret Ann Clegg Brierly, \"Utah, Obituaries from Utah Newspapers, 1850-2005\""
         }
       ]
     },
@@ -6754,12 +6717,45 @@
       },
       "citations": [
         {
-          "value": "\"United States Census, 1930,\" database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/XH6G-TST : accessed 1 April 2017), Dennis A Clegg in household of Almon G Clegg, Heber, Wasatch, Utah, United States; citing enumeration district (ED) ED 5, sheet 17A, line 16, family 369, NARA microfilm publication T626 (Washington D.C.: National Archives and Records Administration, 2002), roll 2424; FHL microfilm 2,342,158.\n"
+          "value": "\"United States Census, 1930,\" database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/XH6G-TST : accessed 14 April 2017), Dennis A Clegg in household of Almon G Clegg, Heber, Wasatch, Utah, United States; citing enumeration district (ED) ED 5, sheet 17A, line 16, family 369, NARA microfilm publication T626 (Washington D.C.: National Archives and Records Administration, 2002), roll 2424; FHL microfilm 2,342,158.\n"
         }
       ],
       "titles": [
         {
           "value": "Dennis A Clegg in household of Almon G Clegg, \"United States Census, 1930\""
+        }
+      ]
+    },
+    {
+      "id": "MSVG-FY1",
+      "lang": "en_US",
+      "about": "https://familysearch.org/ark:/61903/1:1:M8P2-89W",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-XTWJ",
+          "resourceId": "cis.user.MMMM-XTWJ"
+        },
+        "modified": 1489521624448,
+        "created": 1408910488961
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/MSVG-FY1"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"United States Census, 1920,\" database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/M8P2-89W : accessed 14 April 2017), Almon G Clegg in household of George A Clegg, Heber, Wasatch, Utah, United States; citing  ED 139, sheet 8A, line 9, family 126, NARA microfilm publication T625 (Washington D.C.: National Archives and Records Administration, 1992), roll 1867; FHL microfilm 1,821,867."
+        }
+      ],
+      "titles": [
+        {
+          "value": "Almon G Clegg in household of George A Clegg, \"United States Census, 1920\""
         }
       ]
     }

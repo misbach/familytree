@@ -13,342 +13,189 @@
       "sortKey": "0000000000",
       "evidence": [
         {
-          "id": "15267822-10082504",
-          "resource": "https://familysearch.org/platform/memories/memories/15267822/personas/15267822-10082504",
-          "resourceId": "15267822-10082504",
+          "id": "1322688-10057150",
+          "resource": "https://familysearch.org/platform/memories/memories/1322688/personas/1322688-10057150",
+          "resourceId": "1322688-10057150",
           "attribution": {
             "contributor": {
-              "resource": "https://familysearch.org/platform/users/agents/M1JM-926",
-              "resourceId": "M1JM-926"
+              "resource": "https://familysearch.org/platform/users/agents/MMDV-6BY",
+              "resourceId": "MMDV-6BY"
             },
-            "modified": 1469346603203
+            "modified": 1469080961795
           },
           "links": {
             "evidence-reference": {
-              "href": "https://familysearch.org/platform/tree/persons/KWJ4-C4J/memory-references/15267822-10082504"
+              "href": "https://familysearch.org/platform/tree/persons/KWJ4-C4J/memory-references/1322688-10057150"
             }
           }
         },
         {
-          "id": "27714627-10082504",
-          "resource": "https://familysearch.org/platform/memories/memories/27714627/personas/27714627-10082504",
-          "resourceId": "27714627-10082504",
-          "attribution": {
-            "contributor": {
-              "resource": "https://familysearch.org/platform/users/agents/M1JM-926",
-              "resourceId": "M1JM-926"
-            },
-            "modified": 1469346273580
-          },
-          "links": {
-            "evidence-reference": {
-              "href": "https://familysearch.org/platform/tree/persons/KWJ4-C4J/memory-references/27714627-10082504"
-            }
-          }
-        },
-        {
-          "id": "27714593-10082504",
-          "resource": "https://familysearch.org/platform/memories/memories/27714593/personas/27714593-10082504",
-          "resourceId": "27714593-10082504",
-          "attribution": {
-            "contributor": {
-              "resource": "https://familysearch.org/platform/users/agents/M1JM-926",
-              "resourceId": "M1JM-926"
-            },
-            "modified": 1469345878260
-          },
-          "links": {
-            "evidence-reference": {
-              "href": "https://familysearch.org/platform/tree/persons/KWJ4-C4J/memory-references/27714593-10082504"
-            }
-          }
-        },
-        {
-          "id": "4019171-1574984",
-          "resource": "https://familysearch.org/platform/memories/memories/4019171/personas/4019171-1574984",
-          "resourceId": "4019171-1574984",
-          "attribution": {
-            "contributor": {
-              "resource": "https://familysearch.org/platform/users/agents/MM6T-TMY",
-              "resourceId": "MM6T-TMY"
-            },
-            "modified": 1403106007809
-          },
-          "links": {
-            "evidence-reference": {
-              "href": "https://familysearch.org/platform/tree/persons/KWJ4-C4J/memory-references/4019171-1574984"
-            }
-          }
-        },
-        {
-          "id": "25771248-9429710",
-          "resource": "https://familysearch.org/platform/memories/memories/25771248/personas/25771248-9429710",
-          "resourceId": "25771248-9429710",
-          "attribution": {
-            "contributor": {
-              "resource": "https://familysearch.org/platform/users/agents/MMDR-Z4B",
-              "resourceId": "MMDR-Z4B"
-            },
-            "modified": 1463545312680
-          },
-          "links": {
-            "evidence-reference": {
-              "href": "https://familysearch.org/platform/tree/persons/KWJ4-C4J/memory-references/25771248-9429710"
-            }
-          }
-        },
-        {
-          "id": "18777792-7042248",
-          "resource": "https://familysearch.org/platform/memories/memories/18777792/personas/18777792-7042248",
-          "resourceId": "18777792-7042248",
-          "attribution": {
-            "contributor": {
-              "resource": "https://familysearch.org/platform/users/agents/MMDY-D7T",
-              "resourceId": "MMDY-D7T"
-            },
-            "modified": 1440990740397
-          },
-          "links": {
-            "evidence-reference": {
-              "href": "https://familysearch.org/platform/tree/persons/KWJ4-C4J/memory-references/18777792-7042248"
-            }
-          }
-        },
-        {
-          "id": "17367326-6546435",
-          "resource": "https://familysearch.org/platform/memories/memories/17367326/personas/17367326-6546435",
-          "resourceId": "17367326-6546435",
-          "attribution": {
-            "contributor": {
-              "resource": "https://familysearch.org/platform/users/agents/MMXH-DKT",
-              "resourceId": "MMXH-DKT"
-            },
-            "modified": 1436306190840
-          },
-          "links": {
-            "evidence-reference": {
-              "href": "https://familysearch.org/platform/tree/persons/KWJ4-C4J/memory-references/17367326-6546435"
-            }
-          }
-        },
-        {
-          "id": "17366498-6546435",
-          "resource": "https://familysearch.org/platform/memories/memories/17366498/personas/17366498-6546435",
-          "resourceId": "17366498-6546435",
-          "attribution": {
-            "contributor": {
-              "resource": "https://familysearch.org/platform/users/agents/MMXH-DKT",
-              "resourceId": "MMXH-DKT"
-            },
-            "modified": 1436304307704
-          },
-          "links": {
-            "evidence-reference": {
-              "href": "https://familysearch.org/platform/tree/persons/KWJ4-C4J/memory-references/17366498-6546435"
-            }
-          }
-        },
-        {
-          "id": "11774966-6270385",
-          "resource": "https://familysearch.org/platform/memories/memories/11774966/personas/11774966-6270385",
-          "resourceId": "11774966-6270385",
-          "attribution": {
-            "contributor": {
-              "resource": "https://familysearch.org/platform/users/agents/MM6X-WLX",
-              "resourceId": "MM6X-WLX"
-            },
-            "modified": 1433612761486
-          },
-          "links": {
-            "evidence-reference": {
-              "href": "https://familysearch.org/platform/tree/persons/KWJ4-C4J/memory-references/11774966-6270385"
-            }
-          }
-        },
-        {
-          "id": "16578460-6270385",
-          "resource": "https://familysearch.org/platform/memories/memories/16578460/personas/16578460-6270385",
-          "resourceId": "16578460-6270385",
-          "attribution": {
-            "contributor": {
-              "resource": "https://familysearch.org/platform/users/agents/MM6X-WLX",
-              "resourceId": "MM6X-WLX"
-            },
-            "modified": 1433612759243
-          },
-          "links": {
-            "evidence-reference": {
-              "href": "https://familysearch.org/platform/tree/persons/KWJ4-C4J/memory-references/16578460-6270385"
-            }
-          }
-        },
-        {
-          "id": "15922565-5518655",
-          "resource": "https://familysearch.org/platform/memories/memories/15922565/personas/15922565-5518655",
-          "resourceId": "15922565-5518655",
-          "attribution": {
-            "contributor": {
-              "resource": "https://familysearch.org/platform/users/agents/MMWW-Z5Y",
-              "resourceId": "MMWW-Z5Y"
-            },
-            "modified": 1431455496837
-          },
-          "links": {
-            "evidence-reference": {
-              "href": "https://familysearch.org/platform/tree/persons/KWJ4-C4J/memory-references/15922565-5518655"
-            }
-          }
-        },
-        {
-          "id": "15708642-5951720",
-          "resource": "https://familysearch.org/platform/memories/memories/15708642/personas/15708642-5951720",
-          "resourceId": "15708642-5951720",
-          "attribution": {
-            "contributor": {
-              "resource": "https://familysearch.org/platform/users/agents/MMDV-Y7R",
-              "resourceId": "MMDV-Y7R"
-            },
-            "modified": 1430758970674
-          },
-          "links": {
-            "evidence-reference": {
-              "href": "https://familysearch.org/platform/tree/persons/KWJ4-C4J/memory-references/15708642-5951720"
-            }
-          }
-        },
-        {
-          "id": "15587162-3973069",
-          "resource": "https://familysearch.org/platform/memories/memories/15587162/personas/15587162-3973069",
-          "resourceId": "15587162-3973069",
-          "attribution": {
-            "contributor": {
-              "resource": "https://familysearch.org/platform/users/agents/MM67-GF4",
-              "resourceId": "MM67-GF4"
-            },
-            "modified": 1430348517000
-          },
-          "links": {
-            "evidence-reference": {
-              "href": "https://familysearch.org/platform/tree/persons/KWJ4-C4J/memory-references/15587162-3973069"
-            }
-          }
-        },
-        {
-          "id": "13894805-5287300",
-          "resource": "https://familysearch.org/platform/memories/memories/13894805/personas/13894805-5287300",
-          "resourceId": "13894805-5287300",
-          "attribution": {
-            "contributor": {
-              "resource": "https://familysearch.org/platform/users/agents/MM6P-R65",
-              "resourceId": "MM6P-R65"
-            },
-            "modified": 1425316717723
-          },
-          "links": {
-            "evidence-reference": {
-              "href": "https://familysearch.org/platform/tree/persons/KWJ4-C4J/memory-references/13894805-5287300"
-            }
-          }
-        },
-        {
-          "id": "13894822-5287300",
-          "resource": "https://familysearch.org/platform/memories/memories/13894822/personas/13894822-5287300",
-          "resourceId": "13894822-5287300",
-          "attribution": {
-            "contributor": {
-              "resource": "https://familysearch.org/platform/users/agents/MM6P-R65",
-              "resourceId": "MM6P-R65"
-            },
-            "modified": 1425316715672
-          },
-          "links": {
-            "evidence-reference": {
-              "href": "https://familysearch.org/platform/tree/persons/KWJ4-C4J/memory-references/13894822-5287300"
-            }
-          }
-        },
-        {
-          "id": "11549651-4440533",
-          "resource": "https://familysearch.org/platform/memories/memories/11549651/personas/11549651-4440533",
-          "resourceId": "11549651-4440533",
-          "attribution": {
-            "contributor": {
-              "resource": "https://familysearch.org/platform/users/agents/MM23-KVW",
-              "resourceId": "MM23-KVW"
-            },
-            "modified": 1415846263420
-          },
-          "links": {
-            "evidence-reference": {
-              "href": "https://familysearch.org/platform/tree/persons/KWJ4-C4J/memory-references/11549651-4440533"
-            }
-          }
-        },
-        {
-          "id": "1757249-734610",
-          "resource": "https://familysearch.org/platform/memories/memories/1757249/personas/1757249-734610",
-          "resourceId": "1757249-734610",
-          "attribution": {
-            "contributor": {
-              "resource": "https://familysearch.org/platform/users/agents/MMXL-73P",
-              "resourceId": "MMXL-73P"
-            },
-            "modified": 1403112459309
-          },
-          "links": {
-            "evidence-reference": {
-              "href": "https://familysearch.org/platform/tree/persons/KWJ4-C4J/memory-references/1757249-734610"
-            }
-          }
-        },
-        {
-          "id": "756989-326805",
-          "resource": "https://familysearch.org/platform/memories/memories/756989/personas/756989-326805",
-          "resourceId": "756989-326805",
-          "attribution": {
-            "contributor": {
-              "resource": "https://familysearch.org/platform/users/agents/MMFL-9GF",
-              "resourceId": "MMFL-9GF"
-            },
-            "modified": 1403111813542
-          },
-          "links": {
-            "evidence-reference": {
-              "href": "https://familysearch.org/platform/tree/persons/KWJ4-C4J/memory-references/756989-326805"
-            }
-          }
-        },
-        {
-          "id": "9715-2490",
-          "resource": "https://familysearch.org/platform/memories/memories/9715/personas/9715-2490",
-          "resourceId": "9715-2490",
+          "id": "3476-2490",
+          "resource": "https://familysearch.org/platform/memories/memories/3476/personas/3476-2490",
+          "resourceId": "3476-2490",
           "attribution": {
             "contributor": {
               "resource": "https://familysearch.org/platform/users/agents/MM6Q-8HT",
               "resourceId": "MM6Q-8HT"
             },
-            "modified": 1403111367133
+            "modified": 1403102254775
           },
           "links": {
             "evidence-reference": {
-              "href": "https://familysearch.org/platform/tree/persons/KWJ4-C4J/memory-references/9715-2490"
+              "href": "https://familysearch.org/platform/tree/persons/KWJ4-C4J/memory-references/3476-2490"
             }
           }
         },
         {
-          "id": "4019996-1574984",
-          "resource": "https://familysearch.org/platform/memories/memories/4019996/personas/4019996-1574984",
-          "resourceId": "4019996-1574984",
+          "id": "18777388-7042248",
+          "resource": "https://familysearch.org/platform/memories/memories/18777388/personas/18777388-7042248",
+          "resourceId": "18777388-7042248",
           "attribution": {
             "contributor": {
-              "resource": "https://familysearch.org/platform/users/agents/MM6T-TMY",
-              "resourceId": "MM6T-TMY"
+              "resource": "https://familysearch.org/platform/users/agents/MMDY-D7T",
+              "resourceId": "MMDY-D7T"
             },
-            "modified": 1403106007945
+            "modified": 1440990394186
           },
           "links": {
             "evidence-reference": {
-              "href": "https://familysearch.org/platform/tree/persons/KWJ4-C4J/memory-references/4019996-1574984"
+              "href": "https://familysearch.org/platform/tree/persons/KWJ4-C4J/memory-references/18777388-7042248"
+            }
+          }
+        },
+        {
+          "id": "14535052-5518655",
+          "resource": "https://familysearch.org/platform/memories/memories/14535052/personas/14535052-5518655",
+          "resourceId": "14535052-5518655",
+          "attribution": {
+            "contributor": {
+              "resource": "https://familysearch.org/platform/users/agents/MMWW-Z5Y",
+              "resourceId": "MMWW-Z5Y"
+            },
+            "modified": 1427216846505
+          },
+          "links": {
+            "evidence-reference": {
+              "href": "https://familysearch.org/platform/tree/persons/KWJ4-C4J/memory-references/14535052-5518655"
+            }
+          }
+        },
+        {
+          "id": "10586330-4077242",
+          "resource": "https://familysearch.org/platform/memories/memories/10586330/personas/10586330-4077242",
+          "resourceId": "10586330-4077242",
+          "attribution": {
+            "contributor": {
+              "resource": "https://familysearch.org/platform/users/agents/MMWW-TMS",
+              "resourceId": "MMWW-TMS"
+            },
+            "modified": 1412394905735
+          },
+          "links": {
+            "evidence-reference": {
+              "href": "https://familysearch.org/platform/tree/persons/KWJ4-C4J/memory-references/10586330-4077242"
+            }
+          }
+        },
+        {
+          "id": "9895190-2308366",
+          "resource": "https://familysearch.org/platform/memories/memories/9895190/personas/9895190-2308366",
+          "resourceId": "9895190-2308366",
+          "attribution": {
+            "contributor": {
+              "resource": "https://familysearch.org/platform/users/agents/MMXF-DT6",
+              "resourceId": "MMXF-DT6"
+            },
+            "modified": 1409967130799
+          },
+          "links": {
+            "evidence-reference": {
+              "href": "https://familysearch.org/platform/tree/persons/KWJ4-C4J/memory-references/9895190-2308366"
+            }
+          }
+        },
+        {
+          "id": "5988473-2308366",
+          "resource": "https://familysearch.org/platform/memories/memories/5988473/personas/5988473-2308366",
+          "resourceId": "5988473-2308366",
+          "attribution": {
+            "contributor": {
+              "resource": "https://familysearch.org/platform/users/agents/MMXF-DT6",
+              "resourceId": "MMXF-DT6"
+            },
+            "modified": 1403103228200
+          },
+          "links": {
+            "evidence-reference": {
+              "href": "https://familysearch.org/platform/tree/persons/KWJ4-C4J/memory-references/5988473-2308366"
+            }
+          }
+        },
+        {
+          "id": "3195635-1305162",
+          "resource": "https://familysearch.org/platform/memories/memories/3195635/personas/3195635-1305162",
+          "resourceId": "3195635-1305162",
+          "attribution": {
+            "contributor": {
+              "resource": "https://familysearch.org/platform/users/agents/MM7Y-XF2",
+              "resourceId": "MM7Y-XF2"
+            },
+            "modified": 1403103053004
+          },
+          "links": {
+            "evidence-reference": {
+              "href": "https://familysearch.org/platform/tree/persons/KWJ4-C4J/memory-references/3195635-1305162"
+            }
+          }
+        },
+        {
+          "id": "3195598-1305162",
+          "resource": "https://familysearch.org/platform/memories/memories/3195598/personas/3195598-1305162",
+          "resourceId": "3195598-1305162",
+          "attribution": {
+            "contributor": {
+              "resource": "https://familysearch.org/platform/users/agents/MM7Y-XF2",
+              "resourceId": "MM7Y-XF2"
+            },
+            "modified": 1403103052932
+          },
+          "links": {
+            "evidence-reference": {
+              "href": "https://familysearch.org/platform/tree/persons/KWJ4-C4J/memory-references/3195598-1305162"
+            }
+          }
+        },
+        {
+          "id": "1394628-2553416",
+          "resource": "https://familysearch.org/platform/memories/memories/1394628/personas/1394628-2553416",
+          "resourceId": "1394628-2553416",
+          "attribution": {
+            "contributor": {
+              "resource": "https://familysearch.org/platform/users/agents/MMWM-BP1",
+              "resourceId": "MMWM-BP1"
+            },
+            "modified": 1403102677059
+          },
+          "links": {
+            "evidence-reference": {
+              "href": "https://familysearch.org/platform/tree/persons/KWJ4-C4J/memory-references/1394628-2553416"
+            }
+          }
+        },
+        {
+          "id": "1550920-2177411",
+          "resource": "https://familysearch.org/platform/memories/memories/1550920/personas/1550920-2177411",
+          "resourceId": "1550920-2177411",
+          "attribution": {
+            "contributor": {
+              "resource": "https://familysearch.org/platform/users/agents/MMK7-8RH",
+              "resourceId": "MMK7-8RH"
+            },
+            "modified": 1403102650634
+          },
+          "links": {
+            "evidence-reference": {
+              "href": "https://familysearch.org/platform/tree/persons/KWJ4-C4J/memory-references/1550920-2177411"
             }
           }
         },
@@ -693,189 +540,342 @@
           }
         },
         {
-          "id": "1322688-10057150",
-          "resource": "https://familysearch.org/platform/memories/memories/1322688/personas/1322688-10057150",
-          "resourceId": "1322688-10057150",
+          "id": "15267822-10082504",
+          "resource": "https://familysearch.org/platform/memories/memories/15267822/personas/15267822-10082504",
+          "resourceId": "15267822-10082504",
           "attribution": {
             "contributor": {
-              "resource": "https://familysearch.org/platform/users/agents/MMDV-6BY",
-              "resourceId": "MMDV-6BY"
+              "resource": "https://familysearch.org/platform/users/agents/M1JM-926",
+              "resourceId": "M1JM-926"
             },
-            "modified": 1469080961795
+            "modified": 1469346603203
           },
           "links": {
             "evidence-reference": {
-              "href": "https://familysearch.org/platform/tree/persons/KWJ4-C4J/memory-references/1322688-10057150"
+              "href": "https://familysearch.org/platform/tree/persons/KWJ4-C4J/memory-references/15267822-10082504"
             }
           }
         },
         {
-          "id": "3476-2490",
-          "resource": "https://familysearch.org/platform/memories/memories/3476/personas/3476-2490",
-          "resourceId": "3476-2490",
+          "id": "27714627-10082504",
+          "resource": "https://familysearch.org/platform/memories/memories/27714627/personas/27714627-10082504",
+          "resourceId": "27714627-10082504",
           "attribution": {
             "contributor": {
-              "resource": "https://familysearch.org/platform/users/agents/MM6Q-8HT",
-              "resourceId": "MM6Q-8HT"
+              "resource": "https://familysearch.org/platform/users/agents/M1JM-926",
+              "resourceId": "M1JM-926"
             },
-            "modified": 1403102254775
+            "modified": 1469346273580
           },
           "links": {
             "evidence-reference": {
-              "href": "https://familysearch.org/platform/tree/persons/KWJ4-C4J/memory-references/3476-2490"
+              "href": "https://familysearch.org/platform/tree/persons/KWJ4-C4J/memory-references/27714627-10082504"
             }
           }
         },
         {
-          "id": "18777388-7042248",
-          "resource": "https://familysearch.org/platform/memories/memories/18777388/personas/18777388-7042248",
-          "resourceId": "18777388-7042248",
+          "id": "27714593-10082504",
+          "resource": "https://familysearch.org/platform/memories/memories/27714593/personas/27714593-10082504",
+          "resourceId": "27714593-10082504",
+          "attribution": {
+            "contributor": {
+              "resource": "https://familysearch.org/platform/users/agents/M1JM-926",
+              "resourceId": "M1JM-926"
+            },
+            "modified": 1469345878260
+          },
+          "links": {
+            "evidence-reference": {
+              "href": "https://familysearch.org/platform/tree/persons/KWJ4-C4J/memory-references/27714593-10082504"
+            }
+          }
+        },
+        {
+          "id": "4019171-1574984",
+          "resource": "https://familysearch.org/platform/memories/memories/4019171/personas/4019171-1574984",
+          "resourceId": "4019171-1574984",
+          "attribution": {
+            "contributor": {
+              "resource": "https://familysearch.org/platform/users/agents/MM6T-TMY",
+              "resourceId": "MM6T-TMY"
+            },
+            "modified": 1403106007809
+          },
+          "links": {
+            "evidence-reference": {
+              "href": "https://familysearch.org/platform/tree/persons/KWJ4-C4J/memory-references/4019171-1574984"
+            }
+          }
+        },
+        {
+          "id": "25771248-9429710",
+          "resource": "https://familysearch.org/platform/memories/memories/25771248/personas/25771248-9429710",
+          "resourceId": "25771248-9429710",
+          "attribution": {
+            "contributor": {
+              "resource": "https://familysearch.org/platform/users/agents/MMDR-Z4B",
+              "resourceId": "MMDR-Z4B"
+            },
+            "modified": 1463545312680
+          },
+          "links": {
+            "evidence-reference": {
+              "href": "https://familysearch.org/platform/tree/persons/KWJ4-C4J/memory-references/25771248-9429710"
+            }
+          }
+        },
+        {
+          "id": "18777792-7042248",
+          "resource": "https://familysearch.org/platform/memories/memories/18777792/personas/18777792-7042248",
+          "resourceId": "18777792-7042248",
           "attribution": {
             "contributor": {
               "resource": "https://familysearch.org/platform/users/agents/MMDY-D7T",
               "resourceId": "MMDY-D7T"
             },
-            "modified": 1440990394186
+            "modified": 1440990740397
           },
           "links": {
             "evidence-reference": {
-              "href": "https://familysearch.org/platform/tree/persons/KWJ4-C4J/memory-references/18777388-7042248"
+              "href": "https://familysearch.org/platform/tree/persons/KWJ4-C4J/memory-references/18777792-7042248"
             }
           }
         },
         {
-          "id": "14535052-5518655",
-          "resource": "https://familysearch.org/platform/memories/memories/14535052/personas/14535052-5518655",
-          "resourceId": "14535052-5518655",
+          "id": "17367326-6546435",
+          "resource": "https://familysearch.org/platform/memories/memories/17367326/personas/17367326-6546435",
+          "resourceId": "17367326-6546435",
+          "attribution": {
+            "contributor": {
+              "resource": "https://familysearch.org/platform/users/agents/MMXH-DKT",
+              "resourceId": "MMXH-DKT"
+            },
+            "modified": 1436306190840
+          },
+          "links": {
+            "evidence-reference": {
+              "href": "https://familysearch.org/platform/tree/persons/KWJ4-C4J/memory-references/17367326-6546435"
+            }
+          }
+        },
+        {
+          "id": "17366498-6546435",
+          "resource": "https://familysearch.org/platform/memories/memories/17366498/personas/17366498-6546435",
+          "resourceId": "17366498-6546435",
+          "attribution": {
+            "contributor": {
+              "resource": "https://familysearch.org/platform/users/agents/MMXH-DKT",
+              "resourceId": "MMXH-DKT"
+            },
+            "modified": 1436304307704
+          },
+          "links": {
+            "evidence-reference": {
+              "href": "https://familysearch.org/platform/tree/persons/KWJ4-C4J/memory-references/17366498-6546435"
+            }
+          }
+        },
+        {
+          "id": "11774966-6270385",
+          "resource": "https://familysearch.org/platform/memories/memories/11774966/personas/11774966-6270385",
+          "resourceId": "11774966-6270385",
+          "attribution": {
+            "contributor": {
+              "resource": "https://familysearch.org/platform/users/agents/MM6X-WLX",
+              "resourceId": "MM6X-WLX"
+            },
+            "modified": 1433612761486
+          },
+          "links": {
+            "evidence-reference": {
+              "href": "https://familysearch.org/platform/tree/persons/KWJ4-C4J/memory-references/11774966-6270385"
+            }
+          }
+        },
+        {
+          "id": "16578460-6270385",
+          "resource": "https://familysearch.org/platform/memories/memories/16578460/personas/16578460-6270385",
+          "resourceId": "16578460-6270385",
+          "attribution": {
+            "contributor": {
+              "resource": "https://familysearch.org/platform/users/agents/MM6X-WLX",
+              "resourceId": "MM6X-WLX"
+            },
+            "modified": 1433612759243
+          },
+          "links": {
+            "evidence-reference": {
+              "href": "https://familysearch.org/platform/tree/persons/KWJ4-C4J/memory-references/16578460-6270385"
+            }
+          }
+        },
+        {
+          "id": "15922565-5518655",
+          "resource": "https://familysearch.org/platform/memories/memories/15922565/personas/15922565-5518655",
+          "resourceId": "15922565-5518655",
           "attribution": {
             "contributor": {
               "resource": "https://familysearch.org/platform/users/agents/MMWW-Z5Y",
               "resourceId": "MMWW-Z5Y"
             },
-            "modified": 1427216846505
+            "modified": 1431455496837
           },
           "links": {
             "evidence-reference": {
-              "href": "https://familysearch.org/platform/tree/persons/KWJ4-C4J/memory-references/14535052-5518655"
+              "href": "https://familysearch.org/platform/tree/persons/KWJ4-C4J/memory-references/15922565-5518655"
             }
           }
         },
         {
-          "id": "10586330-4077242",
-          "resource": "https://familysearch.org/platform/memories/memories/10586330/personas/10586330-4077242",
-          "resourceId": "10586330-4077242",
+          "id": "15708642-5951720",
+          "resource": "https://familysearch.org/platform/memories/memories/15708642/personas/15708642-5951720",
+          "resourceId": "15708642-5951720",
           "attribution": {
             "contributor": {
-              "resource": "https://familysearch.org/platform/users/agents/MMWW-TMS",
-              "resourceId": "MMWW-TMS"
+              "resource": "https://familysearch.org/platform/users/agents/MMDV-Y7R",
+              "resourceId": "MMDV-Y7R"
             },
-            "modified": 1412394905735
+            "modified": 1430758970674
           },
           "links": {
             "evidence-reference": {
-              "href": "https://familysearch.org/platform/tree/persons/KWJ4-C4J/memory-references/10586330-4077242"
+              "href": "https://familysearch.org/platform/tree/persons/KWJ4-C4J/memory-references/15708642-5951720"
             }
           }
         },
         {
-          "id": "9895190-2308366",
-          "resource": "https://familysearch.org/platform/memories/memories/9895190/personas/9895190-2308366",
-          "resourceId": "9895190-2308366",
+          "id": "15587162-3973069",
+          "resource": "https://familysearch.org/platform/memories/memories/15587162/personas/15587162-3973069",
+          "resourceId": "15587162-3973069",
           "attribution": {
             "contributor": {
-              "resource": "https://familysearch.org/platform/users/agents/MMXF-DT6",
-              "resourceId": "MMXF-DT6"
+              "resource": "https://familysearch.org/platform/users/agents/MM67-GF4",
+              "resourceId": "MM67-GF4"
             },
-            "modified": 1409967130799
+            "modified": 1430348517000
           },
           "links": {
             "evidence-reference": {
-              "href": "https://familysearch.org/platform/tree/persons/KWJ4-C4J/memory-references/9895190-2308366"
+              "href": "https://familysearch.org/platform/tree/persons/KWJ4-C4J/memory-references/15587162-3973069"
             }
           }
         },
         {
-          "id": "5988473-2308366",
-          "resource": "https://familysearch.org/platform/memories/memories/5988473/personas/5988473-2308366",
-          "resourceId": "5988473-2308366",
+          "id": "13894805-5287300",
+          "resource": "https://familysearch.org/platform/memories/memories/13894805/personas/13894805-5287300",
+          "resourceId": "13894805-5287300",
           "attribution": {
             "contributor": {
-              "resource": "https://familysearch.org/platform/users/agents/MMXF-DT6",
-              "resourceId": "MMXF-DT6"
+              "resource": "https://familysearch.org/platform/users/agents/MM6P-R65",
+              "resourceId": "MM6P-R65"
             },
-            "modified": 1403103228200
+            "modified": 1425316717723
           },
           "links": {
             "evidence-reference": {
-              "href": "https://familysearch.org/platform/tree/persons/KWJ4-C4J/memory-references/5988473-2308366"
+              "href": "https://familysearch.org/platform/tree/persons/KWJ4-C4J/memory-references/13894805-5287300"
             }
           }
         },
         {
-          "id": "3195635-1305162",
-          "resource": "https://familysearch.org/platform/memories/memories/3195635/personas/3195635-1305162",
-          "resourceId": "3195635-1305162",
+          "id": "13894822-5287300",
+          "resource": "https://familysearch.org/platform/memories/memories/13894822/personas/13894822-5287300",
+          "resourceId": "13894822-5287300",
           "attribution": {
             "contributor": {
-              "resource": "https://familysearch.org/platform/users/agents/MM7Y-XF2",
-              "resourceId": "MM7Y-XF2"
+              "resource": "https://familysearch.org/platform/users/agents/MM6P-R65",
+              "resourceId": "MM6P-R65"
             },
-            "modified": 1403103053004
+            "modified": 1425316715672
           },
           "links": {
             "evidence-reference": {
-              "href": "https://familysearch.org/platform/tree/persons/KWJ4-C4J/memory-references/3195635-1305162"
+              "href": "https://familysearch.org/platform/tree/persons/KWJ4-C4J/memory-references/13894822-5287300"
             }
           }
         },
         {
-          "id": "3195598-1305162",
-          "resource": "https://familysearch.org/platform/memories/memories/3195598/personas/3195598-1305162",
-          "resourceId": "3195598-1305162",
+          "id": "11549651-4440533",
+          "resource": "https://familysearch.org/platform/memories/memories/11549651/personas/11549651-4440533",
+          "resourceId": "11549651-4440533",
           "attribution": {
             "contributor": {
-              "resource": "https://familysearch.org/platform/users/agents/MM7Y-XF2",
-              "resourceId": "MM7Y-XF2"
+              "resource": "https://familysearch.org/platform/users/agents/MM23-KVW",
+              "resourceId": "MM23-KVW"
             },
-            "modified": 1403103052932
+            "modified": 1415846263420
           },
           "links": {
             "evidence-reference": {
-              "href": "https://familysearch.org/platform/tree/persons/KWJ4-C4J/memory-references/3195598-1305162"
+              "href": "https://familysearch.org/platform/tree/persons/KWJ4-C4J/memory-references/11549651-4440533"
             }
           }
         },
         {
-          "id": "1394628-2553416",
-          "resource": "https://familysearch.org/platform/memories/memories/1394628/personas/1394628-2553416",
-          "resourceId": "1394628-2553416",
+          "id": "1757249-734610",
+          "resource": "https://familysearch.org/platform/memories/memories/1757249/personas/1757249-734610",
+          "resourceId": "1757249-734610",
           "attribution": {
             "contributor": {
-              "resource": "https://familysearch.org/platform/users/agents/MMWM-BP1",
-              "resourceId": "MMWM-BP1"
+              "resource": "https://familysearch.org/platform/users/agents/MMXL-73P",
+              "resourceId": "MMXL-73P"
             },
-            "modified": 1403102677059
+            "modified": 1403112459309
           },
           "links": {
             "evidence-reference": {
-              "href": "https://familysearch.org/platform/tree/persons/KWJ4-C4J/memory-references/1394628-2553416"
+              "href": "https://familysearch.org/platform/tree/persons/KWJ4-C4J/memory-references/1757249-734610"
             }
           }
         },
         {
-          "id": "1550920-2177411",
-          "resource": "https://familysearch.org/platform/memories/memories/1550920/personas/1550920-2177411",
-          "resourceId": "1550920-2177411",
+          "id": "756989-326805",
+          "resource": "https://familysearch.org/platform/memories/memories/756989/personas/756989-326805",
+          "resourceId": "756989-326805",
           "attribution": {
             "contributor": {
-              "resource": "https://familysearch.org/platform/users/agents/MMK7-8RH",
-              "resourceId": "MMK7-8RH"
+              "resource": "https://familysearch.org/platform/users/agents/MMFL-9GF",
+              "resourceId": "MMFL-9GF"
             },
-            "modified": 1403102650634
+            "modified": 1403111813542
           },
           "links": {
             "evidence-reference": {
-              "href": "https://familysearch.org/platform/tree/persons/KWJ4-C4J/memory-references/1550920-2177411"
+              "href": "https://familysearch.org/platform/tree/persons/KWJ4-C4J/memory-references/756989-326805"
+            }
+          }
+        },
+        {
+          "id": "9715-2490",
+          "resource": "https://familysearch.org/platform/memories/memories/9715/personas/9715-2490",
+          "resourceId": "9715-2490",
+          "attribution": {
+            "contributor": {
+              "resource": "https://familysearch.org/platform/users/agents/MM6Q-8HT",
+              "resourceId": "MM6Q-8HT"
+            },
+            "modified": 1403111367133
+          },
+          "links": {
+            "evidence-reference": {
+              "href": "https://familysearch.org/platform/tree/persons/KWJ4-C4J/memory-references/9715-2490"
+            }
+          }
+        },
+        {
+          "id": "4019996-1574984",
+          "resource": "https://familysearch.org/platform/memories/memories/4019996/personas/4019996-1574984",
+          "resourceId": "4019996-1574984",
+          "attribution": {
+            "contributor": {
+              "resource": "https://familysearch.org/platform/users/agents/MM6T-TMY",
+              "resourceId": "MM6T-TMY"
+            },
+            "modified": 1403106007945
+          },
+          "links": {
+            "evidence-reference": {
+              "href": "https://familysearch.org/platform/tree/persons/KWJ4-C4J/memory-references/4019996-1574984"
             }
           }
         }
@@ -926,7 +926,7 @@
           "href": "https://familysearch.org/platform/tree/persons/KWJ4-C4J/families?sourceDescriptions=true"
         },
         "portrait": {
-          "href": "https://raw.githubusercontent.com/misbach/familytree/master/people/KWJ4-C4J/KWJ4-C4J.jpg"
+          "href": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/KWJ4-C4J/KWJ4-C4J.jpg"
         },
         "matches": {
           "href": "https://familysearch.org/platform/tree/persons/KWJ4-C4J/matches"
@@ -961,37 +961,6 @@
         }
       },
       "sources": [
-        {
-          "id": "21cbcc46-3e0e-4217-a8c8-51c28788e752",
-          "attribution": {
-            "contributor": {
-              "resource": "https://familysearch.org/platform/users/agents/MMFL-GJR",
-              "resourceId": "MMFL-GJR"
-            },
-            "modified": 1491171661962
-          },
-          "links": {
-            "source-reference": {
-              "href": "https://familysearch.org/platform/tree/persons/KWJ4-C4J/source-references/21cbcc46-3e0e-4217-a8c8-51c28788e752"
-            },
-            "description": {
-              "href": "https://familysearch.org/platform/sources/descriptions/9VP7-SB5"
-            }
-          },
-          "description": "#9VP7-SB5",
-          "descriptionId": "9VP7-SB5",
-          "tags": [
-            {
-              "resource": "http://gedcomx.org/Gender"
-            },
-            {
-              "resource": "http://gedcomx.org/Name"
-            },
-            {
-              "resource": "http://gedcomx.org/Birth"
-            }
-          ]
-        },
         {
           "id": "a9f43790-cc7b-41ae-b036-3beb7f252fda",
           "attribution": {
@@ -2769,46 +2738,6 @@
           }
         },
         {
-          "id": "4a87bd01-8960-4dfe-8799-79d64e10696d",
-          "attribution": {
-            "contributor": {
-              "resource": "https://familysearch.org/platform/users/agents/MMFL-GJR",
-              "resourceId": "MMFL-GJR"
-            },
-            "modified": 1491171661884
-          },
-          "type": "http://gedcomx.org/Residence",
-          "date": {
-            "original": "1891",
-            "formal": "+1891",
-            "normalized": [
-              {
-                "lang": "en-US",
-                "value": "1891"
-              }
-            ]
-          },
-          "place": {
-            "original": "Great Harwood, Lancashire, England",
-            "description": "#pd_53.79299x-2.406864",
-            "normalized": [
-              {
-                "lang": "en-US",
-                "value": "Great Harwood, Lancashire, England, United Kingdom"
-              },
-              {
-                "lang": "en",
-                "value": "Great Harwood, Lancashire, England, United Kingdom"
-              }
-            ]
-          },
-          "links": {
-            "conclusion": {
-              "href": "https://familysearch.org/platform/tree/persons/KWJ4-C4J/conclusions/4a87bd01-8960-4dfe-8799-79d64e10696d"
-            }
-          }
-        },
-        {
           "id": "774891e1-e643-41e5-a459-15bab543d57e",
           "attribution": {
             "contributor": {
@@ -2883,136 +2812,96 @@
         "familiesAsParent": [
           {
             "parent1": {
-              "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KWJ4-C4J/KWJ4-C4J.json",
+              "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/KWJ4-C4J/KWJ4-C4J.json",
               "resourceId": "KWJ4-C4J"
             },
             "parent2": {
-              "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KWJ4-C4X/KWJ4-C4X.json",
+              "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/KWJ4-C4X/KWJ4-C4X.json",
               "resourceId": "KWJ4-C4X"
             },
             "children": [
               {
-                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KWCD-KZG/KWCD-KZG.json",
-                "resourceId": "KWCD-KZG"
-              },
-              {
-                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KWCT-PYN/KWCT-PYN.json",
-                "resourceId": "KWCT-PYN"
-              },
-              {
-                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KWVW-DC4/KWVW-DC4.json",
-                "resourceId": "KWVW-DC4"
-              },
-              {
-                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KWC2-THW/KWC2-THW.json",
-                "resourceId": "KWC2-THW"
-              },
-              {
-                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KWCV-KCD/KWCV-KCD.json",
-                "resourceId": "KWCV-KCD"
-              },
-              {
-                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KWCG-VGR/KWCG-VGR.json",
+                "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/KWCG-VGR/KWCG-VGR.json",
                 "resourceId": "KWCG-VGR"
-              },
-              {
-                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KWCG-SCJ/KWCG-SCJ.json",
-                "resourceId": "KWCG-SCJ"
-              },
-              {
-                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KWVW-DCZ/KWVW-DCZ.json",
-                "resourceId": "KWVW-DCZ"
-              },
-              {
-                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KWVW-DCC/KWVW-DCC.json",
-                "resourceId": "KWVW-DCC"
-              },
-              {
-                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KKC6-XS9/KKC6-XS9.json",
-                "resourceId": "KKC6-XS9"
-              },
-              {
-                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KWCP-PCK/KWCP-PCK.json",
-                "resourceId": "KWCP-PCK"
               }
             ]
           },
           {
             "parent1": {
-              "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KWJ4-C4J/KWJ4-C4J.json",
+              "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/KWJ4-C4J/KWJ4-C4J.json",
               "resourceId": "KWJ4-C4J"
             },
             "parent2": {
-              "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KWJW-WT3/KWJW-WT3.json",
+              "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/KWJW-WT3/KWJW-WT3.json",
               "resourceId": "KWJW-WT3"
             },
             "children": [
               {
-                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/LHF9-L16/LHF9-L16.json",
+                "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/LHF9-L16/LHF9-L16.json",
                 "resourceId": "LHF9-L16"
               },
               {
-                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KWZ8-43F/KWZ8-43F.json",
+                "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/KWZ8-43F/KWZ8-43F.json",
                 "resourceId": "KWZ8-43F"
               },
               {
-                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KWVP-H8K/KWVP-H8K.json",
+                "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/KWVP-H8K/KWVP-H8K.json",
                 "resourceId": "KWVP-H8K"
               }
             ]
           },
           {
             "parent1": {
-              "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KWJ4-C4J/KWJ4-C4J.json",
+              "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/KWJ4-C4J/KWJ4-C4J.json",
               "resourceId": "KWJ4-C4J"
             },
             "parent2": {
-              "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KWJW-WTS/KWJW-WTS.json",
+              "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/KWJW-WTS/KWJW-WTS.json",
               "resourceId": "KWJW-WTS"
             },
             "children": [
               {
-                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KWCZ-H48/KWCZ-H48.json",
+                "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/KWCZ-H48/KWCZ-H48.json",
                 "resourceId": "KWCZ-H48"
               },
               {
-                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KWC7-ZTT/KWC7-ZTT.json",
+                "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/KWC7-ZTT/KWC7-ZTT.json",
                 "resourceId": "KWC7-ZTT"
               },
               {
-                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KVP1-67F/KVP1-67F.json",
+                "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/KVP1-67F/KVP1-67F.json",
                 "resourceId": "KVP1-67F"
               },
               {
-                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KWVP-QVP/KWVP-QVP.json",
+                "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/KWVP-QVP/KWVP-QVP.json",
                 "resourceId": "KWVP-QVP"
               },
               {
-                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KWVP-QKF/KWVP-QKF.json",
+                "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/KWVP-QKF/KWVP-QKF.json",
                 "resourceId": "KWVP-QKF"
               },
               {
-                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KWZ6-11Q/KWZ6-11Q.json",
+                "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/KWZ6-11Q/KWZ6-11Q.json",
                 "resourceId": "KWZ6-11Q"
               },
               {
-                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KWVP-QVR/KWVP-QVR.json",
+                "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/KWVP-QVR/KWVP-QVR.json",
                 "resourceId": "KWVP-QVR"
               },
               {
-                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KWVP-QK6/KWVP-QK6.json",
+                "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/KWVP-QK6/KWVP-QK6.json",
                 "resourceId": "KWVP-QK6"
               },
               {
-                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KWCQ-XZQ/KWCQ-XZQ.json",
+                "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/KWCQ-XZQ/KWCQ-XZQ.json",
                 "resourceId": "KWCQ-XZQ"
               },
               {
-                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KWJ8-LJD/KWJ8-LJD.json",
+                "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/KWJ8-LJD/KWJ8-LJD.json",
                 "resourceId": "KWJ8-LJD"
               },
               {
-                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KWVP-QKC/KWVP-QKC.json",
+                "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/KWVP-QKC/KWVP-QKC.json",
                 "resourceId": "KWVP-QKC"
               }
             ]
@@ -3021,16 +2910,16 @@
         "familiesAsChild": [
           {
             "parent1": {
-              "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/L5XH-Y2T/L5XH-Y2T.json",
+              "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/L5XH-Y2T/L5XH-Y2T.json",
               "resourceId": "L5XH-Y2T"
             },
             "parent2": {
-              "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/L83C-6XL/L83C-6XL.json",
+              "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/L83C-6XL/L83C-6XL.json",
               "resourceId": "L83C-6XL"
             },
             "children": [
               {
-                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KWJ4-C4J/KWJ4-C4J.json",
+                "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/KWJ4-C4J/KWJ4-C4J.json",
                 "resourceId": "KWJ4-C4J"
               }
             ]
@@ -4083,11 +3972,11 @@
           },
           "place": {
             "original": "ED 171 Heber Precinct Heber City, Wasatch, Utah, United States",
-            "description": "#pd_40.50694x-111.412498",
+            "description": "#pd_40.37556x-111.125557",
             "normalized": [
               {
                 "lang": "en-US",
-                "value": "Heber City, Wasatch, Utah, United States"
+                "value": "Wasatch, Utah, United States"
               },
               {
                 "lang": "und",
@@ -6627,11 +6516,11 @@
           },
           "place": {
             "original": "Heber Precinct Heber City, Wasatch, Utah, United States",
-            "description": "#pd_40.50694x-111.412498",
+            "description": "#pd_40.37556x-111.125557",
             "normalized": [
               {
                 "lang": "en-US",
-                "value": "Heber City, Wasatch, Utah, United States"
+                "value": "Wasatch, Utah, United States"
               },
               {
                 "lang": "und",
@@ -6670,11 +6559,11 @@
           },
           "place": {
             "original": "Heber Ward 1, , Utah",
-            "description": "#pd_40.50694x-111.412498",
+            "description": "#pd_40.37556x-111.125557",
             "normalized": [
               {
                 "lang": "en-US",
-                "value": "Heber City, Wasatch, Utah, United States"
+                "value": "Wasatch, Utah, United States"
               },
               {
                 "lang": "und",
@@ -7704,11 +7593,11 @@
           },
           "place": {
             "original": "ED 171 Heber Precinct Heber City, Wasatch, Utah, United States",
-            "description": "#pd_40.50694x-111.412498",
+            "description": "#pd_40.37556x-111.125557",
             "normalized": [
               {
                 "lang": "en-US",
-                "value": "Heber City, Wasatch, Utah, United States"
+                "value": "Wasatch, Utah, United States"
               },
               {
                 "lang": "und",
@@ -10550,11 +10439,11 @@
           },
           "place": {
             "original": "Heber Precinct Heber City, Wasatch, Utah, United States",
-            "description": "#pd_40.50694x-111.412498",
+            "description": "#pd_40.37556x-111.125557",
             "normalized": [
               {
                 "lang": "en-US",
-                "value": "Heber City, Wasatch, Utah, United States"
+                "value": "Wasatch, Utah, United States"
               },
               {
                 "lang": "und",
@@ -12054,11 +11943,11 @@
           },
           "place": {
             "original": "ED 171 Heber Precinct Heber City, Wasatch, Utah, United States",
-            "description": "#pd_40.50694x-111.412498",
+            "description": "#pd_40.37556x-111.125557",
             "normalized": [
               {
                 "lang": "en-US",
-                "value": "Heber City, Wasatch, Utah, United States"
+                "value": "Wasatch, Utah, United States"
               },
               {
                 "lang": "und",
@@ -20929,11 +20818,11 @@
           },
           "place": {
             "original": "ED 171 Heber Precinct Heber City, Wasatch, Utah, United States",
-            "description": "#pd_40.50694x-111.412498",
+            "description": "#pd_40.37556x-111.125557",
             "normalized": [
               {
                 "lang": "en-US",
-                "value": "Heber City, Wasatch, Utah, United States"
+                "value": "Wasatch, Utah, United States"
               },
               {
                 "lang": "und",
@@ -21785,11 +21674,11 @@
           },
           "place": {
             "original": "ED 171 Heber Precinct Heber City, Wasatch, Utah, United States",
-            "description": "#pd_40.50694x-111.412498",
+            "description": "#pd_40.37556x-111.125557",
             "normalized": [
               {
                 "lang": "en-US",
-                "value": "Heber City, Wasatch, Utah, United States"
+                "value": "Wasatch, Utah, United States"
               },
               {
                 "lang": "und",
@@ -21828,11 +21717,11 @@
           },
           "place": {
             "original": "Heber Ward 1, , Utah",
-            "description": "#pd_40.50694x-111.412498",
+            "description": "#pd_40.37556x-111.125557",
             "normalized": [
               {
                 "lang": "en-US",
-                "value": "Heber City, Wasatch, Utah, United States"
+                "value": "Wasatch, Utah, United States"
               },
               {
                 "lang": "und",
@@ -23322,6 +23211,26 @@
       "id": "KWCZ-H48",
       "sortKey": "0000000029",
       "evidence": [
+        {
+          "id": "35526313-2952142",
+          "resource": "https://familysearch.org/platform/memories/memories/35526313/personas/35526313-2952142",
+          "resourceId": "35526313-2952142",
+          "links": {
+            "evidence-reference": {
+              "href": "https://familysearch.org/platform/tree/persons/KWJ4-C4J/memory-references/35526313-2952142"
+            }
+          }
+        },
+        {
+          "id": "35526230-2952142",
+          "resource": "https://familysearch.org/platform/memories/memories/35526230/personas/35526230-2952142",
+          "resourceId": "35526230-2952142",
+          "links": {
+            "evidence-reference": {
+              "href": "https://familysearch.org/platform/tree/persons/KWJ4-C4J/memory-references/35526230-2952142"
+            }
+          }
+        },
         {
           "id": "26934298-9817101",
           "resource": "https://familysearch.org/platform/memories/memories/26934298/personas/26934298-9817101",
@@ -36556,8 +36465,8 @@
         "description": "https://familysearch.org/platform/collections/tree"
       },
       "resourceType": "http://gedcomx.org/Person",
-      "modified": 1491171661000,
-      "version": "137104644619620000",
+      "modified": 1491771187000,
+      "version": "137110639871900000",
       "links": {
         "description": {
           "href": "https://familysearch.org/platform/sources/descriptions/SD-KWJ4-C4J"
@@ -36566,7 +36475,7 @@
       "citations": [
         {
           "lang": "en",
-          "value": "\"Family Tree,\" database, <i>FamilySearch</i> (http://familysearch.org : modified 02 April 2017, 22:21), entry for Henry Clegg Jr.(PID https://familysearch.org/ark:/61903/4:1:KWJ4-C4J); contributed by various users."
+          "value": "\"Family Tree,\" database, <i>FamilySearch</i> (http://familysearch.org : modified 09 April 2017, 20:53), entry for Henry Clegg Jr.(PID https://familysearch.org/ark:/61903/4:1:KWJ4-C4J); contributed by various users."
         }
       ],
       "titles": [
@@ -36579,629 +36488,6 @@
           "https://familysearch.org/ark:/61903/4:1:KWJ4-C4J"
         ]
       }
-    },
-    {
-      "id": "9J6G-G6T",
-      "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:QVKH-5CHP",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MM9W-LX3Y",
-          "resourceId": "cis.user.MM9W-LX3Y"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MM9W-LX3Y",
-          "resourceId": "cis.user.MM9W-LX3Y"
-        },
-        "modified": 1483487108502,
-        "created": 1483487108502
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/9J6G-G6T"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"Find A Grave Index,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/QVKH-5CHP : 13 December 2015), Henry Clegg, 1894; Burial, Heber City, Wasatch, Utah, United States of America, Heber City Cemetery; citing record ID 31202308, Find a Grave, http://www.findagrave.com."
-        }
-      ],
-      "titles": [
-        {
-          "value": "Henry Clegg, \"Find A Grave Index\""
-        }
-      ]
-    },
-    {
-      "id": "9X5R-SV1",
-      "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:XZPL-LSX",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMF-87XR",
-          "resourceId": "cis.user.MMMF-87XR"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMF-87XR",
-          "resourceId": "cis.user.MMMF-87XR"
-        },
-        "modified": 1461546611415,
-        "created": 1461546611415
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/9X5R-SV1"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"Utah Death Certificates, 1904-1964\", database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/XZPL-LSX : 11 September 2015), Henry Clegg in entry for Hannah Mary Clegg Cummings, 1952."
-        }
-      ],
-      "titles": [
-        {
-          "value": "Henry Clegg in entry for Hannah Mary Clegg Cummings, \"Utah Death Certificates, 1904-1964\""
-        }
-      ]
-    },
-    {
-      "id": "96X9-VF8",
-      "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:F85T-P2X",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-4Z1V",
-          "resourceId": "cis.user.MMMM-4Z1V"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-4Z1V",
-          "resourceId": "cis.user.MMMM-4Z1V"
-        },
-        "modified": 1452047075966,
-        "created": 1452047075966
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/96X9-VF8"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"Utah Deaths and Burials, 1888-1946,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/F85T-P2X : 5 December 2014), Henry Clegg in entry for Ellen Juventa Tullidge, 10 Mar 1917; citing Salt Lake City, Salt Lake, Utah, reference cn M-415; FHL microfilm 26,558."
-        }
-      ],
-      "titles": [
-        {
-          "value": "Henry Clegg in entry for Ellen Juventa Tullidge, \"Utah Deaths and Burials, 1888-1946\""
-        }
-      ]
-    },
-    {
-      "id": "968Z-S42",
-      "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:QKDV-4MMV",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-4Z1V",
-          "resourceId": "cis.user.MMMM-4Z1V"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-4Z1V",
-          "resourceId": "cis.user.MMMM-4Z1V"
-        },
-        "modified": 1451273019233,
-        "created": 1451273019233
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/968Z-S42"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"Utah Death Certificates, 1904-1964\", database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/QKDV-4MMV : 25 September 2015), Henry Clegg in entry for Carlie Clegg Tidwell, 1957."
-        }
-      ],
-      "titles": [
-        {
-          "value": "Henry Clegg in entry for Carlie Clegg Tidwell, \"Utah Death Certificates, 1904-1964\""
-        }
-      ]
-    },
-    {
-      "id": "9X5R-W56",
-      "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:XZP3-XJ9",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMF-87XR",
-          "resourceId": "cis.user.MMMF-87XR"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMF-87XR",
-          "resourceId": "cis.user.MMMF-87XR"
-        },
-        "modified": 1461547176423,
-        "created": 1461547176423
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/9X5R-W56"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"Utah Death Certificates, 1904-1964\", database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/XZP3-XJ9 : 11 September 2015), Henry Clegg in entry for Henry James Clegg, 1934."
-        }
-      ],
-      "titles": [
-        {
-          "value": "Henry Clegg in entry for Henry James Clegg, \"Utah Death Certificates, 1904-1964\""
-        }
-      ]
-    },
-    {
-      "id": "9W1Z-NHC",
-      "lang": "en-us",
-      "about": "https://familysearch.org/ark:/61903/1:1:J3JQ-FZT",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "modified": 1415426973728,
-        "created": 1415426973728
-      },
-      "resourceType": "IGI",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/9W1Z-NHC"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"England Births and Christenings, 1538-1975,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/J3JQ-FZT : 30 December 2014), Henry Clegg in entry for Thomas Clegg, 19 Jan 1845; citing SAINT JOHN,PRESTON,LANCASHIRE,ENGLAND, reference ; FHL microfilm 94,009, 94,010."
-        }
-      ],
-      "titles": [
-        {
-          "value": "Henry Clegg in entry for Thomas Clegg, \"England Births and Christenings, 1538-1975\""
-        }
-      ],
-      "notes": [
-        {
-          "text": "This extracted record was used to create this person in Family Tree."
-        }
-      ]
-    },
-    {
-      "id": "MSJK-RN1",
-      "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:MNSL-29B",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MM93-BDWS",
-          "resourceId": "cis.user.MM93-BDWS"
-        },
-        "modified": 1489566949249,
-        "created": 1408327206290
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/MSJK-RN1"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"United States Census, 1880,\" database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/MNSL-29B : 14 July 2016), Henry Clegg, Heber, Wasatch, Utah, United States; citing enumeration district ED 90, sheet 318D, NARA microfilm publication T9 (Washington D.C.: National Archives and Records Administration, n.d.), roll 1339; FHL microfilm 1,255,339.\n"
-        }
-      ],
-      "titles": [
-        {
-          "value": "Henry Clegg, \"United States Census, 1880\""
-        }
-      ]
-    },
-    {
-      "id": "9ZNP-FRP",
-      "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:QJDD-RMSB",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-YMZX",
-          "resourceId": "cis.user.MMMM-YMZX"
-        },
-        "modified": 1489622356965,
-        "created": 1422475625324
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/9ZNP-FRP"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"England, Lancashire, Parish Registers 1538-1910,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/QJDD-RMSB : 13 November 2015), Henry Clegg, 06 Jul 1825; citing Christening, St Leonard, Walton le Dale, Lancashire, England, volume , Lancashire Record Office, Preston; FHL microfilm 1,526,060."
-        }
-      ],
-      "titles": [
-        {
-          "value": "Henry Clegg, \"England, Lancashire, Parish Registers 1538-1910\""
-        }
-      ]
-    },
-    {
-      "id": "MMZY-7HN",
-      "about": "https://familysearch.org/ark:/61903/1:1:V5JL-K1L",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-3DQX",
-          "resourceId": "cis.user.MMMM-3DQX"
-        },
-        "modified": 1489566679856,
-        "created": 1382912388000
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/MMZY-7HN"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"England Births and Christenings, 1538-1975,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/V5JL-K1L : 6 December 2014), Henry Clegg, 05 Jul 1825; citing , reference ; FHL microfilm 0560881 (RG4 1469)."
-        }
-      ],
-      "titles": [
-        {
-          "value": "Henry Clegg, \"England Births and Christenings, 1538-1975 FHL 1,502,381\""
-        }
-      ],
-      "notes": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "id": "9CPX-3MD",
-      "lang": "en-us",
-      "about": "https://familysearch.org/ark:/61903/1:1:NLQB-S8N",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "modified": 1415443599849,
-        "created": 1415443599849
-      },
-      "resourceType": "IGI",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/9CPX-3MD"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"England Marriages, 1538–1973  ,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/NLQB-S8N : 10 December 2014), Henry Clegg and Hannah Eastham, 24 Dec 1844; citing Saint John,Preston,Lancashire,England, reference ; FHL microfilm 93,993, 93,994, 94,006, 94,012, 94,013, 94,014, 94,015."
-        }
-      ],
-      "titles": [
-        {
-          "value": "Henry Clegg, \"England Marriages, 1538–1973  \""
-        }
-      ],
-      "notes": [
-        {
-          "text": "This extracted record was used to create this person in Family Tree."
-        }
-      ]
-    },
-    {
-      "id": "MYYH-544",
-      "lang": "en-us",
-      "about": "https://familysearch.org/ark:/61903/1:1:V5JL-K1V",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "modified": 1415382714173,
-        "created": 1415382714173
-      },
-      "resourceType": "IGI",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/MYYH-544"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"England Births and Christenings, 1538-1975,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/V5JL-K1V : 6 December 2014), Henry Clegg, 15 Oct 1822; citing , reference ; FHL microfilm 0560881 (RG4 1469)."
-        }
-      ],
-      "titles": [
-        {
-          "value": "Henry Clegg, \"England Births and Christenings, 1538-1975\""
-        }
-      ],
-      "notes": [
-        {
-          "text": "This extracted record was used to create this person in Family Tree."
-        }
-      ]
-    },
-    {
-      "id": "9XRY-X41",
-      "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:NXG6-38P",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MM9M-HVD1",
-          "resourceId": "cis.user.MM9M-HVD1"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MM9M-HVD1",
-          "resourceId": "cis.user.MM9M-HVD1"
-        },
-        "modified": 1461814223768,
-        "created": 1461814223768
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/9XRY-X41"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"England Marriages, 1538–1973  ,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/NXG6-38P : 10 December 2014), Henry Clegg and Hannah Eastham, 24 Dec 1844; citing St. John'S, Preston, Lancashire, England, reference cn 424; FHL microfilm 1,502,467."
-        }
-      ],
-      "titles": [
-        {
-          "value": "Henry Clegg, \"England Marriages, 1538–1973  \""
-        }
-      ]
-    },
-    {
-      "id": "MSN3-4BB",
-      "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:JQQY-PJL",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-ZG1M",
-          "resourceId": "cis.user.MMMM-ZG1M"
-        },
-        "modified": 1489566679561,
-        "created": 1407688726747
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/MSN3-4BB"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"England Births and Christenings, 1538-1975,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/JQQY-PJL : 30 December 2014), Henry Clegg, 06 Jul 1825; citing Walton-le-Dale, Lancashire, England, reference 1683; FHL microfilm 1,656,765."
-        }
-      ],
-      "titles": [
-        {
-          "value": "Henry Clegg, \"England Births and Christenings,  FHL 1656765.\""
-        }
-      ],
-      "notes": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "id": "9VP7-SB5",
-      "lang": "en_US,EN;Q=0.8",
-      "about": "https://familysearch.org/ark:/61903/1:1:QY9H-4W2",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-4Q38",
-          "resourceId": "cis.user.MMMM-4Q38"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-4Q38",
-          "resourceId": "cis.user.MMMM-4Q38"
-        },
-        "modified": 1491171661432,
-        "created": 1491171661432
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/9VP7-SB5"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"England and Wales Census, 1891,\" database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/QY9H-4W2 : 15 October 2015), Henry Clegg, Great Harwood, Lancashire, England; from \"1891 England, Scotland and Wales census,\" database and images, findmypast (http://www.findmypast.com : n.d.); citing PRO RG 12, Lancashire county,  subdistrict, The National Archives of the UK, Kew, Surrey."
-        }
-      ],
-      "titles": [
-        {
-          "value": "Henry Clegg, \"England and Wales Census, 1891\""
-        }
-      ]
-    },
-    {
-      "id": "9XTW-VQ2",
-      "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:QKKH-FP5J",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MM9M-HVD1",
-          "resourceId": "cis.user.MM9M-HVD1"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MM9M-HVD1",
-          "resourceId": "cis.user.MM9M-HVD1"
-        },
-        "modified": 1461900472699,
-        "created": 1461900472699
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/9XTW-VQ2"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"England, Lancashire, Parish Registers 1538-1910,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/QKKH-FP5J : 16 December 2015), Henry Clegg and Hannah Eastham, 24 Dec 1844; citing Marriage, St John's Church, Preston, Lancashire, England, volume , Lancashire Record Office, Preston; FHL microfilm 1,278,758."
-        }
-      ],
-      "titles": [
-        {
-          "value": "Henry Clegg, \"England, Lancashire, Parish Registers 1538-1910\""
-        }
-      ]
-    },
-    {
-      "id": "9V9M-5N1",
-      "lang": "en_US,EN;Q=0.8",
-      "about": "https://familysearch.org/ark:/61903/1:1:XZGR-JK7",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMQ-2JMD",
-          "resourceId": "cis.user.MMMQ-2JMD"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMQ-2JMD",
-          "resourceId": "cis.user.MMMQ-2JMD"
-        },
-        "modified": 1487354293291,
-        "created": 1487354293291
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/9V9M-5N1"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"Utah Death Certificates, 1904-1964\", database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/XZGR-JK7 : 11 September 2015), Henry Clegg in entry for William Jonathan Clegg, 1927."
-        }
-      ],
-      "titles": [
-        {
-          "value": "Henry Clegg in entry for William Jonathan Clegg, \"Utah Death Certificates, 1904-1964\""
-        }
-      ]
-    },
-    {
-      "id": "96X9-KCW",
-      "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:XZ2X-146",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-4Z1V",
-          "resourceId": "cis.user.MMMM-4Z1V"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-4Z1V",
-          "resourceId": "cis.user.MMMM-4Z1V"
-        },
-        "modified": 1452047231318,
-        "created": 1452047231318
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/96X9-KCW"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"Utah Death Certificates, 1904-1964\", database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/XZ2X-146 : 11 September 2015), Henry Clegg in entry for Ellen Juventa Tullidge, 1917."
-        }
-      ],
-      "titles": [
-        {
-          "value": "Henry Clegg in entry for Ellen Juventa Tullidge, \"Utah Death Certificates, 1904-1964\""
-        }
-      ]
-    },
-    {
-      "id": "MYYH-RR7",
-      "lang": "en-us",
-      "about": "https://familysearch.org/ark:/61903/1:1:V5JL-K1L",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "modified": 1415382714173,
-        "created": 1415382714173
-      },
-      "resourceType": "IGI",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/MYYH-RR7"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"England Births and Christenings, 1538-1975,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/V5JL-K1L : 6 December 2014), Henry Clegg, 05 Jul 1825; citing , reference ; FHL microfilm 0560881 (RG4 1469)."
-        }
-      ],
-      "titles": [
-        {
-          "value": "Henry Clegg, \"England Births and Christenings, 1538-1975\""
-        }
-      ],
-      "notes": [
-        {
-          "text": "This extracted record was used to create this person in Family Tree."
-        }
-      ]
     },
     {
       "id": "MMXK-FSR",
@@ -37241,283 +36527,6 @@
       ]
     },
     {
-      "id": "9JVD-7C1",
-      "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:QKD4-ML22",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-4Y17",
-          "resourceId": "cis.user.MMMM-4Y17"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-4Y17",
-          "resourceId": "cis.user.MMMM-4Y17"
-        },
-        "modified": 1484624362627,
-        "created": 1484624362627
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/9JVD-7C1"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"Utah, Missionary Department Missionary Registers, 1860-1937,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/QKD4-ML22 : 26 February 2016), Henry Clegg in entry for Geo Almon Clegg, Northwestern States; records extracted by FamilySearch and images digitized by Church History library, The Church of Jesus Christ of Latter-day Saints; citing Missionary Register v. 5, Missionary department missionary registers 1860-1959, CR 301 22, Church History Library, Salt lake City, Utah.\n"
-        }
-      ],
-      "titles": [
-        {
-          "value": "Henry Clegg in entry for Geo Almon Clegg, \"Utah, Missionary Department Missionary Registers, 1860-1937\""
-        }
-      ]
-    },
-    {
-      "id": "9JK9-38D",
-      "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:QKDW-YBPM",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-DP1C",
-          "resourceId": "cis.user.MMMM-DP1C"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-DP1C",
-          "resourceId": "cis.user.MMMM-DP1C"
-        },
-        "modified": 1484783758494,
-        "created": 1484783758494
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/9JK9-38D"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"Utah, Missionary Department Missionary Registers, 1860-1937,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/QKDW-YBPM : 26 February 2016), Henry Clegg in entry for George A Clegg, Eastern States; records extracted by FamilySearch and images digitized by Church History library, The Church of Jesus Christ of Latter-day Saints; citing Missionary Register v. 3, Missionary department missionary registers 1860-1959, CR 301 22, Church History Library, Salt lake City, Utah.\n"
-        }
-      ],
-      "titles": [
-        {
-          "value": "Henry Clegg in entry for George A Clegg, \"Utah, Missionary Department Missionary Registers, 1860-1937\""
-        }
-      ]
-    },
-    {
-      "id": "9N4T-CGR",
-      "lang": "en",
-      "about": "https://www.myheritage.com/research/collection-30042/england-births-christenings-1538-1975?itemId=30406927&action=showRecord",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-329G",
-          "resourceId": "cis.user.MMM9-329G"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-329G",
-          "resourceId": "cis.user.MMM9-329G"
-        },
-        "modified": 1473869235515,
-        "created": 1473869235515
-      },
-      "resourceType": "DEFAULT",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/9N4T-CGR"
-        }
-      },
-      "citations": [
-        {
-          "value": "England Births and Christenings, 1538-1975\r\nMyHeritage.com [online database]. Lehi, UT, USA: MyHeritage (USA) Inc."
-        }
-      ],
-      "titles": [
-        {
-          "value": "Henry Clegg, \"England Births and Christenings, 1538-1975\" on MyHeritage"
-        }
-      ],
-      "notes": [
-        {
-          "text": "Henry Clegg\r\nBirth: June 7 1825\r\nChristening: July 5 1825 - Wesleyan Methodist, Freckleton, Lancashire, England\r\nParents: Henry Clegg, Ellen"
-        }
-      ]
-    },
-    {
-      "id": "MMMM-ZFM",
-      "about": "https://familysearch.org/ark:/61903/1:1:F72P-9F7",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-NBRH",
-          "resourceId": "cis.user.MMMM-NBRH"
-        },
-        "modified": 1489566680962,
-        "created": 1330327404000
-      },
-      "resourceType": "DEFAULT",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/MMMM-ZFM"
-        }
-      },
-      "citations": [
-        {
-          "value": ""
-        }
-      ],
-      "titles": [
-        {
-          "value": "Henry Clegg, England and Wales, Non-Conformist Record Indexes (Digital RG4-8) "
-        }
-      ],
-      "notes": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "id": "9X5R-7GR",
-      "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:XZGS-SYQ",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMF-87XR",
-          "resourceId": "cis.user.MMMF-87XR"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMF-87XR",
-          "resourceId": "cis.user.MMMF-87XR"
-        },
-        "modified": 1461547039867,
-        "created": 1461547039867
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/9X5R-7GR"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"Utah Death Certificates, 1904-1964\", database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/XZGS-SYQ : 11 September 2015), Henry Clegg in entry for Jane Elanor Jones, 1910."
-        }
-      ],
-      "titles": [
-        {
-          "value": "Henry Clegg in entry for Jane Elanor Jones, \"Utah Death Certificates, 1904-1964\""
-        }
-      ]
-    },
-    {
-      "id": "MMMM-ZF9",
-      "about": "https://familysearch.org/ark:/61903/1:1:MNC1-SQM",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-NBRH",
-          "resourceId": "cis.user.MMMM-NBRH"
-        },
-        "modified": 1489552163168,
-        "created": 1330327624000
-      },
-      "resourceType": "DEFAULT",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/MMMM-ZF9"
-        }
-      },
-      "citations": [
-        {
-          "value": ""
-        }
-      ],
-      "titles": [
-        {
-          "value": "United States Census, 1870 for Henry Clegg"
-        }
-      ],
-      "notes": [
-        {
-          "text": "Name:\tHenry Clegg\nEvent Type:\tCensus\nEvent Year:\t1870\nEvent Place:\tUtah, United States\nGender:\tMale\nAge:\t45\nRace:\tWhite\nRace (Original):\tW\nBirth Year (Estimated):\t1824-1825\nBirthplace:\tEngland\nPage Number:\t14\nHousehold ID:\t95\nLine Number:\t4\nAffiliate Name:\tThe U.S. National Archives and Records Administration (NARA)\nAffiliate Publication Number:\tM593\nGS Film number:\t000553111\nDigital Folder Number:\t004267908\nImage Number:\t00657\n\nHousehold\tRole\tGender\tAge\tBirthplace\nHenry Clegg\t\tM\t45\tEngland\nAnn Clegg\t\tF\t34\tWales\nJohn H Clegg\t\tM\t13\tUtah\nIsrael Clegg\t\tM\t21\tEngland\nWilliam Clegg\t\tM\t11\tUtah\nFrederic Clegg\t\tM\t8\tUtah\nAmelia Clegg\t\tF\t1\tUtah\n\nCiting this Record:\n\"United States Census, 1870,\" index and images, <i>FamilySearch</i> (https://familysearch.org/pal:/MM9.1.1/MNC1-SQM : accessed 09 Jul 2014), Henry Clegg, Utah, United States; citing p. 14, family 95, NARA microfilm publication M593, FHL microfilm 000553111."
-        }
-      ]
-    },
-    {
-      "id": "MSTW-KFX",
-      "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:XZPN-Y5M",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-Z3L2",
-          "resourceId": "cis.user.MMMM-Z3L2"
-        },
-        "modified": 1489577492900,
-        "created": 1412542657960
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/MSTW-KFX"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"Utah Death Certificates, 1904-1964\", database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/XZPN-Y5M : 11 September 2015), Henry Clegg in entry for George Almont Clegg, 1935."
-        }
-      ],
-      "titles": [
-        {
-          "value": "Henry Clegg in entry for George Almont Clegg, \"Utah Death Certificates, 1904-1964\""
-        }
-      ]
-    },
-    {
-      "id": "9N2M-2JK",
-      "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:SGYC-QB6",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM7-55C7",
-          "resourceId": "cis.user.MMM7-55C7"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM7-55C7",
-          "resourceId": "cis.user.MMM7-55C7"
-        },
-        "modified": 1476886434700,
-        "created": 1476886434700
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/9N2M-2JK"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"England and Wales Census, 1851,\" database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/SGYC-QB6 : 24 July 2016), Henry Clegg, Liverpool, Lancashire, England; citing Liverpool, Lancashire, England, p. 32, from \"1851 England, Scotland and Wales census,\" database and images, findmypast (http://www.findmypast.com : n.d.); citing PRO HO 107, The National Archives of the UK, Kew, Surrey."
-        }
-      ],
-      "titles": [
-        {
-          "value": "Henry Clegg, \"England and Wales Census, 1851\""
-        }
-      ]
-    },
-    {
       "id": "96DF-7WL",
       "lang": "en_US",
       "about": "https://familysearch.org/ark:/61903/1:1:NQ48-8TB",
@@ -37547,70 +36556,6 @@
       "titles": [
         {
           "value": "Henry Clegg in entry for Ellen Juventa Tullidge, \"Utah, Salt Lake County Death Records, 1849-1949\""
-        }
-      ]
-    },
-    {
-      "id": "MM3R-JNF",
-      "about": "https://familysearch.org/ark:/61903/1:1:XZPF-5KJ",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-H846",
-          "resourceId": "cis.user.MMM9-H846"
-        },
-        "modified": 1489501942574,
-        "created": 1367898951000
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/MM3R-JNF"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"Utah Death Certificates, 1904-1964\", database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/XZPF-5KJ : 11 September 2015), Henry Clegg in entry for Herbert Lorenzo Clegg, 1943."
-        }
-      ],
-      "titles": [
-        {
-          "value": "Henry Clegg in entry for Herbert Lorenzo Clegg, \"Utah Death Certificates, 1904-1956\""
-        }
-      ]
-    },
-    {
-      "id": "MMZ6-Q2B",
-      "about": "https://familysearch.org/ark:/61903/1:1:F85C-V4K",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-ZQVC",
-          "resourceId": "cis.user.MMMM-ZQVC"
-        },
-        "modified": 1489514284635,
-        "created": 1382024057000
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/MMZ6-Q2B"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"Utah Deaths and Burials, 1888-1946,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/F85C-V4K : 5 December 2014), Henry Clegg in entry for John Henry Clegg, 22 Jun 1930; citing Salt Lake City, Salt Lake, Utah, reference 1119; FHL microfilm 26,565."
-        }
-      ],
-      "titles": [
-        {
-          "value": "Henry Clegg in entry for John Henry Clegg, \"Utah, Deaths and Burials, 1888-1946\""
         }
       ]
     },
@@ -37648,35 +36593,68 @@
       ]
     },
     {
-      "id": "9Z7D-TFV",
+      "id": "968Z-S42",
       "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:F85D-YYM",
+      "about": "https://familysearch.org/ark:/61903/1:1:QKDV-4MMV",
       "attribution": {
         "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-4Z1V",
+          "resourceId": "cis.user.MMMM-4Z1V"
         },
         "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMC-XDD4",
-          "resourceId": "cis.user.MMMC-XDD4"
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-4Z1V",
+          "resourceId": "cis.user.MMMM-4Z1V"
         },
-        "modified": 1489600192942,
-        "created": 1417295079389
+        "modified": 1451273019233,
+        "created": 1451273019233
       },
       "resourceType": "FSREADONLY",
       "links": {
         "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/9Z7D-TFV"
+          "href": "https://familysearch.org/platform/sources/descriptions/968Z-S42"
         }
       },
       "citations": [
         {
-          "value": "\"Utah Deaths and Burials, 1888-1946,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/F85D-YYM : 5 December 2014), Henry Clegg in entry for Henry James Clegg, 10 Mar 1934; citing Salt Lake City, Salt Lake, Utah, reference cn 433; FHL microfilm 26,567."
+          "value": "\"Utah Death Certificates, 1904-1964\", database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/QKDV-4MMV : 25 September 2015), Henry Clegg in entry for Carlie Clegg Tidwell, 1957."
         }
       ],
       "titles": [
         {
-          "value": "Henry Clegg in entry for Henry James Clegg, \"Utah Deaths and Burials, 1888-1946\""
+          "value": "Henry Clegg in entry for Carlie Clegg Tidwell, \"Utah Death Certificates, 1904-1964\""
+        }
+      ]
+    },
+    {
+      "id": "9J6G-G6T",
+      "lang": "en_US",
+      "about": "https://familysearch.org/ark:/61903/1:1:QVKH-5CHP",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MM9W-LX3Y",
+          "resourceId": "cis.user.MM9W-LX3Y"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MM9W-LX3Y",
+          "resourceId": "cis.user.MM9W-LX3Y"
+        },
+        "modified": 1483487108502,
+        "created": 1483487108502
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/9J6G-G6T"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"Find A Grave Index,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/QVKH-5CHP : 13 December 2015), Henry Clegg, 1894; Burial, Heber City, Wasatch, Utah, United States of America, Heber City Cemetery; citing record ID 31202308, Find a Grave, http://www.findagrave.com."
+        }
+      ],
+      "titles": [
+        {
+          "value": "Henry Clegg, \"Find A Grave Index\""
         }
       ]
     },
@@ -37719,6 +36697,104 @@
       ]
     },
     {
+      "id": "9ZBS-TVC",
+      "lang": "en_US",
+      "about": "https://familysearch.org/ark:/61903/1:1:NQ4Y-8F6",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-329G",
+          "resourceId": "cis.user.MMM9-329G"
+        },
+        "modified": 1489639963820,
+        "created": 1426355860305
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/9ZBS-TVC"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"Utah, Salt Lake County Death Records, 1849-1949,\" database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/NQ4Y-8F6 : 5 December 2014), Henry Clegg in entry for John Henry Clegg, 22 Jun 1930; citing Salt Lake City, Salt Lake, Utah, Management and Archives, Salt Lake City; FHL microfilm 4,139,773."
+        }
+      ],
+      "titles": [
+        {
+          "value": "Henry Clegg in entry for John Henry Clegg, \"Utah, Salt Lake County Death Records, 1849-1949\""
+        }
+      ]
+    },
+    {
+      "id": "9Z7D-TFV",
+      "lang": "en_US",
+      "about": "https://familysearch.org/ark:/61903/1:1:F85D-YYM",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMC-XDD4",
+          "resourceId": "cis.user.MMMC-XDD4"
+        },
+        "modified": 1489600192942,
+        "created": 1417295079389
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/9Z7D-TFV"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"Utah Deaths and Burials, 1888-1946,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/F85D-YYM : 5 December 2014), Henry Clegg in entry for Henry James Clegg, 10 Mar 1934; citing Salt Lake City, Salt Lake, Utah, reference cn 433; FHL microfilm 26,567."
+        }
+      ],
+      "titles": [
+        {
+          "value": "Henry Clegg in entry for Henry James Clegg, \"Utah Deaths and Burials, 1888-1946\""
+        }
+      ]
+    },
+    {
+      "id": "MM3R-JNF",
+      "about": "https://familysearch.org/ark:/61903/1:1:XZPF-5KJ",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-H846",
+          "resourceId": "cis.user.MMM9-H846"
+        },
+        "modified": 1489501942574,
+        "created": 1367898951000
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/MM3R-JNF"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"Utah Death Certificates, 1904-1964\", database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/XZPF-5KJ : 11 September 2015), Henry Clegg in entry for Herbert Lorenzo Clegg, 1943."
+        }
+      ],
+      "titles": [
+        {
+          "value": "Henry Clegg in entry for Herbert Lorenzo Clegg, \"Utah Death Certificates, 1904-1956\""
+        }
+      ]
+    },
+    {
       "id": "MM77-FK4",
       "about": "http://history.lds.org/overlandtravels/pioneerDetail?lang=eng&pioneerId=17372",
       "attribution": {
@@ -37756,204 +36832,238 @@
       ]
     },
     {
-      "id": "9J67-SC3",
+      "id": "MSN3-4BB",
       "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:QK9B-HGGT",
+      "about": "https://familysearch.org/ark:/61903/1:1:JQQY-PJL",
       "attribution": {
         "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MM9W-LX3Y",
-          "resourceId": "cis.user.MM9W-LX3Y"
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
         },
         "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MM9W-LX3Y",
-          "resourceId": "cis.user.MM9W-LX3Y"
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-ZG1M",
+          "resourceId": "cis.user.MMMM-ZG1M"
         },
-        "modified": 1483334365687,
-        "created": 1483334365687
+        "modified": 1489566679561,
+        "created": 1407688726747
       },
       "resourceType": "FSREADONLY",
       "links": {
         "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/9J67-SC3"
+          "href": "https://familysearch.org/platform/sources/descriptions/MSN3-4BB"
         }
       },
       "citations": [
         {
-          "value": "\"Utah Mormon Pioneer Overland Travel Database, 1847-1868\", database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/QK9B-HGGT : 20 May 2016), Henry Clegg, 1855."
+          "value": "\"England Births and Christenings, 1538-1975,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/JQQY-PJL : 30 December 2014), Henry Clegg, 06 Jul 1825; citing Walton-le-Dale, Lancashire, England, reference 1683; FHL microfilm 1,656,765."
         }
       ],
       "titles": [
         {
-          "value": "Henry Clegg, \"Utah Mormon Pioneer Overland Travel Database, 1847-1868\""
-        }
-      ]
-    },
-    {
-      "id": "9XYN-FQB",
-      "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:KL71-S2F",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMX-RBLH",
-          "resourceId": "cis.user.MMMX-RBLH"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMX-RBLH",
-          "resourceId": "cis.user.MMMX-RBLH"
-        },
-        "modified": 1462293909690,
-        "created": 1462293909690
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/9XYN-FQB"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"Utah, Pioneers and Prominent Men of Utah, 1847-1868,\" database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/KL71-S2F : 12 December 2014), Henry Clegg in entry for William Jonathan Clegg, ; excerpted from Frank Esshom, Pioneers and Prominent Men of Utah: Comprising Photographs, Genealogies, Biographies (Salt Lake City, Utah: Utah Pioneers Books, 1913)."
-        }
-      ],
-      "titles": [
-        {
-          "value": "Henry Clegg in entry for William Jonathan Clegg, \"Utah, Pioneers and Prominent Men of Utah, 1847-1868\""
-        }
-      ]
-    },
-    {
-      "id": "MMQP-RRT",
-      "about": "https://dcms.lds.org/delivery/DeliveryManagerServlet?dps_pid=IE102301",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-ZL8Y",
-          "resourceId": "cis.user.MMMM-ZL8Y"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-H846",
-          "resourceId": "cis.user.MMM9-H846"
-        },
-        "modified": 1408150077693,
-        "created": 1370979200000
-      },
-      "resourceType": "DEFAULT",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/MMQP-RRT"
-        }
-      },
-      "citations": [
-        {
-          "value": "Family History Library\n35 North West Temple Street\n Salt Lake City, Utah, 84150\n 1-866-406-1830\n\nFamily History Call Number\n979.2 D3e 1913 \n \nOwning Institution\nGenealogical Society of Utah d.b.a FamilySearch; http://www.familysearch.org/ \n"
-        }
-      ],
-      "titles": [
-        {
-          "value": "Digitized book of Pioneers and prominent men of Utah : comprising photographs, genealogies, biographies"
+          "value": "Henry Clegg, \"England Births and Christenings,  FHL 1656765.\""
         }
       ],
       "notes": [
         {
-          "text": "Utah - Biography; Utah - Genealogy; Mormons - Biography;"
+          "text": ""
         }
       ]
     },
     {
-      "id": "9ZBS-TVC",
+      "id": "9ZNP-FRP",
       "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:NQ4Y-8F6",
+      "about": "https://familysearch.org/ark:/61903/1:1:QJDD-RMSB",
       "attribution": {
         "contributor": {
           "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
           "resourceId": "cis.wkca.MMMM-M93P"
         },
         "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-329G",
-          "resourceId": "cis.user.MMM9-329G"
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-YMZX",
+          "resourceId": "cis.user.MMMM-YMZX"
         },
-        "modified": 1489639963820,
-        "created": 1426355860305
+        "modified": 1489622356965,
+        "created": 1422475625324
       },
       "resourceType": "FSREADONLY",
       "links": {
         "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/9ZBS-TVC"
+          "href": "https://familysearch.org/platform/sources/descriptions/9ZNP-FRP"
         }
       },
       "citations": [
         {
-          "value": "\"Utah, Salt Lake County Death Records, 1849-1949,\" database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/NQ4Y-8F6 : 5 December 2014), Henry Clegg in entry for John Henry Clegg, 22 Jun 1930; citing Salt Lake City, Salt Lake, Utah, Management and Archives, Salt Lake City; FHL microfilm 4,139,773."
+          "value": "\"England, Lancashire, Parish Registers 1538-1910,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/QJDD-RMSB : 13 November 2015), Henry Clegg, 06 Jul 1825; citing Christening, St Leonard, Walton le Dale, Lancashire, England, volume , Lancashire Record Office, Preston; FHL microfilm 1,526,060."
         }
       ],
       "titles": [
         {
-          "value": "Henry Clegg in entry for John Henry Clegg, \"Utah, Salt Lake County Death Records, 1849-1949\""
+          "value": "Henry Clegg, \"England, Lancashire, Parish Registers 1538-1910\""
         }
       ]
     },
     {
-      "id": "9ZG6-Y7X",
+      "id": "96CS-JFQ",
       "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:XZG2-FHD",
+      "about": "https://familysearch.org/ark:/61903/1:1:QKDV-WZW6",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-4Z1V",
+          "resourceId": "cis.user.MMMM-4Z1V"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-4Z1V",
+          "resourceId": "cis.user.MMMM-4Z1V"
+        },
+        "modified": 1450474906398,
+        "created": 1450474906398
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/96CS-JFQ"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"Utah Death Certificates, 1904-1964\", database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/QKDV-WZW6 : 25 September 2015), Henry Clegg in entry for Carlie Clegg Tidwell, 1957."
+        }
+      ],
+      "titles": [
+        {
+          "value": "Henry Clegg in entry for Carlie Clegg Tidwell, \"Utah Death Certificates, 1904-1964\""
+        }
+      ]
+    },
+    {
+      "id": "MSJK-RN1",
+      "lang": "en_US",
+      "about": "https://familysearch.org/ark:/61903/1:1:MNSL-29B",
       "attribution": {
         "contributor": {
           "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
           "resourceId": "cis.wkca.MMMM-M93P"
         },
         "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-SGCJ",
-          "resourceId": "cis.user.MMMM-SGCJ"
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MM93-BDWS",
+          "resourceId": "cis.user.MM93-BDWS"
         },
-        "modified": 1489633089400,
-        "created": 1424507078292
+        "modified": 1489566949249,
+        "created": 1408327206290
       },
       "resourceType": "FSREADONLY",
       "links": {
         "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/9ZG6-Y7X"
+          "href": "https://familysearch.org/platform/sources/descriptions/MSJK-RN1"
         }
       },
       "citations": [
         {
-          "value": "\"Utah Death Certificates, 1904-1964\", database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/XZG2-FHD : 11 September 2015), Henry Clegg in entry for Israel Eastham Clegg, 1923."
+          "value": "\"United States Census, 1880,\" database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/MNSL-29B : 14 July 2016), Henry Clegg, Heber, Wasatch, Utah, United States; citing enumeration district ED 90, sheet 318D, NARA microfilm publication T9 (Washington D.C.: National Archives and Records Administration, n.d.), roll 1339; FHL microfilm 1,255,339.\n"
         }
       ],
       "titles": [
         {
-          "value": "Henry Clegg in entry for Israel Eastham Clegg, \"Utah Death Certificates, 1904-1964\""
+          "value": "Henry Clegg, \"United States Census, 1880\""
         }
       ]
     },
     {
-      "id": "MSTW-KYQ",
+      "id": "9XTW-VQ2",
       "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:XZGS-1MS",
+      "about": "https://familysearch.org/ark:/61903/1:1:QKKH-FP5J",
       "attribution": {
         "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MM9M-HVD1",
+          "resourceId": "cis.user.MM9M-HVD1"
         },
         "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-Z3L2",
-          "resourceId": "cis.user.MMMM-Z3L2"
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MM9M-HVD1",
+          "resourceId": "cis.user.MM9M-HVD1"
         },
-        "modified": 1489577493796,
-        "created": 1412542762239
+        "modified": 1461900472699,
+        "created": 1461900472699
       },
       "resourceType": "FSREADONLY",
       "links": {
         "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/MSTW-KYQ"
+          "href": "https://familysearch.org/platform/sources/descriptions/9XTW-VQ2"
         }
       },
       "citations": [
         {
-          "value": "\"Utah Death Certificates, 1904-1964\", database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/XZGS-1MS : 11 September 2015), Henry Clegg in entry for Joseph Clegg, 1910."
+          "value": "\"England, Lancashire, Parish Registers 1538-1910,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/QKKH-FP5J : 16 December 2015), Henry Clegg and Hannah Eastham, 24 Dec 1844; citing Marriage, St John's Church, Preston, Lancashire, England, volume , Lancashire Record Office, Preston; FHL microfilm 1,278,758."
         }
       ],
       "titles": [
         {
-          "value": "Henry Clegg in entry for Joseph Clegg, \"Utah Death Certificates, 1904-1964\""
+          "value": "Henry Clegg, \"England, Lancashire, Parish Registers 1538-1910\""
+        }
+      ]
+    },
+    {
+      "id": "9JK9-38D",
+      "lang": "en_US",
+      "about": "https://familysearch.org/ark:/61903/1:1:QKDW-YBPM",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-DP1C",
+          "resourceId": "cis.user.MMMM-DP1C"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-DP1C",
+          "resourceId": "cis.user.MMMM-DP1C"
+        },
+        "modified": 1484783758494,
+        "created": 1484783758494
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/9JK9-38D"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"Utah, Missionary Department Missionary Registers, 1860-1937,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/QKDW-YBPM : 26 February 2016), Henry Clegg in entry for George A Clegg, Eastern States; records extracted by FamilySearch and images digitized by Church History library, The Church of Jesus Christ of Latter-day Saints; citing Missionary Register v. 3, Missionary department missionary registers 1860-1959, CR 301 22, Church History Library, Salt lake City, Utah.\n"
+        }
+      ],
+      "titles": [
+        {
+          "value": "Henry Clegg in entry for George A Clegg, \"Utah, Missionary Department Missionary Registers, 1860-1937\""
+        }
+      ]
+    },
+    {
+      "id": "9JVD-7C1",
+      "lang": "en_US",
+      "about": "https://familysearch.org/ark:/61903/1:1:QKD4-ML22",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-4Y17",
+          "resourceId": "cis.user.MMMM-4Y17"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-4Y17",
+          "resourceId": "cis.user.MMMM-4Y17"
+        },
+        "modified": 1484624362627,
+        "created": 1484624362627
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/9JVD-7C1"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"Utah, Missionary Department Missionary Registers, 1860-1937,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/QKD4-ML22 : 26 February 2016), Henry Clegg in entry for Geo Almon Clegg, Northwestern States; records extracted by FamilySearch and images digitized by Church History library, The Church of Jesus Christ of Latter-day Saints; citing Missionary Register v. 5, Missionary department missionary registers 1860-1959, CR 301 22, Church History Library, Salt lake City, Utah.\n"
+        }
+      ],
+      "titles": [
+        {
+          "value": "Henry Clegg in entry for Geo Almon Clegg, \"Utah, Missionary Department Missionary Registers, 1860-1937\""
         }
       ]
     },
@@ -37995,6 +37105,461 @@
       ]
     },
     {
+      "id": "MS6C-FG8",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMZ-1XC8",
+          "resourceId": "cis.user.MMMZ-1XC8"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMZ-1XC8",
+          "resourceId": "cis.user.MMMZ-1XC8"
+        },
+        "modified": 1407394098668,
+        "created": 1407394098668
+      },
+      "resourceType": "LEGACY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/MS6C-FG8"
+        }
+      },
+      "citations": [
+        {
+          "value": "Ancestral File (R), The Church of Jesus Christ of Latter-day Saints, Copyright (c) 1987, June 1998, data as of 5 January 1998, Family History Library, 35 N West Temple Street, Salt Lake City, Utah 84150  USA"
+        }
+      ],
+      "titles": [
+        {
+          "value": "Legacy NFS Source: Henry Clegg - "
+        }
+      ],
+      "notes": [
+        {
+          "text": "  \n"
+        }
+      ]
+    },
+    {
+      "id": "96X9-VF8",
+      "lang": "en_US",
+      "about": "https://familysearch.org/ark:/61903/1:1:F85T-P2X",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-4Z1V",
+          "resourceId": "cis.user.MMMM-4Z1V"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-4Z1V",
+          "resourceId": "cis.user.MMMM-4Z1V"
+        },
+        "modified": 1452047075966,
+        "created": 1452047075966
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/96X9-VF8"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"Utah Deaths and Burials, 1888-1946,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/F85T-P2X : 5 December 2014), Henry Clegg in entry for Ellen Juventa Tullidge, 10 Mar 1917; citing Salt Lake City, Salt Lake, Utah, reference cn M-415; FHL microfilm 26,558."
+        }
+      ],
+      "titles": [
+        {
+          "value": "Henry Clegg in entry for Ellen Juventa Tullidge, \"Utah Deaths and Burials, 1888-1946\""
+        }
+      ]
+    },
+    {
+      "id": "9V9M-5N1",
+      "lang": "en_US,EN;Q=0.8",
+      "about": "https://familysearch.org/ark:/61903/1:1:XZGR-JK7",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMQ-2JMD",
+          "resourceId": "cis.user.MMMQ-2JMD"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMQ-2JMD",
+          "resourceId": "cis.user.MMMQ-2JMD"
+        },
+        "modified": 1487354293291,
+        "created": 1487354293291
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/9V9M-5N1"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"Utah Death Certificates, 1904-1964\", database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/XZGR-JK7 : 11 September 2015), Henry Clegg in entry for William Jonathan Clegg, 1927."
+        }
+      ],
+      "titles": [
+        {
+          "value": "Henry Clegg in entry for William Jonathan Clegg, \"Utah Death Certificates, 1904-1964\""
+        }
+      ]
+    },
+    {
+      "id": "MMMM-ZF9",
+      "about": "https://familysearch.org/ark:/61903/1:1:MNC1-SQM",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-NBRH",
+          "resourceId": "cis.user.MMMM-NBRH"
+        },
+        "modified": 1489552163168,
+        "created": 1330327624000
+      },
+      "resourceType": "DEFAULT",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/MMMM-ZF9"
+        }
+      },
+      "citations": [
+        {
+          "value": ""
+        }
+      ],
+      "titles": [
+        {
+          "value": "United States Census, 1870 for Henry Clegg"
+        }
+      ],
+      "notes": [
+        {
+          "text": "Name:\tHenry Clegg\nEvent Type:\tCensus\nEvent Year:\t1870\nEvent Place:\tUtah, United States\nGender:\tMale\nAge:\t45\nRace:\tWhite\nRace (Original):\tW\nBirth Year (Estimated):\t1824-1825\nBirthplace:\tEngland\nPage Number:\t14\nHousehold ID:\t95\nLine Number:\t4\nAffiliate Name:\tThe U.S. National Archives and Records Administration (NARA)\nAffiliate Publication Number:\tM593\nGS Film number:\t000553111\nDigital Folder Number:\t004267908\nImage Number:\t00657\n\nHousehold\tRole\tGender\tAge\tBirthplace\nHenry Clegg\t\tM\t45\tEngland\nAnn Clegg\t\tF\t34\tWales\nJohn H Clegg\t\tM\t13\tUtah\nIsrael Clegg\t\tM\t21\tEngland\nWilliam Clegg\t\tM\t11\tUtah\nFrederic Clegg\t\tM\t8\tUtah\nAmelia Clegg\t\tF\t1\tUtah\n\nCiting this Record:\n\"United States Census, 1870,\" index and images, <i>FamilySearch</i> (https://familysearch.org/pal:/MM9.1.1/MNC1-SQM : accessed 09 Jul 2014), Henry Clegg, Utah, United States; citing p. 14, family 95, NARA microfilm publication M593, FHL microfilm 000553111."
+        }
+      ]
+    },
+    {
+      "id": "96X9-KCW",
+      "lang": "en_US",
+      "about": "https://familysearch.org/ark:/61903/1:1:XZ2X-146",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-4Z1V",
+          "resourceId": "cis.user.MMMM-4Z1V"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-4Z1V",
+          "resourceId": "cis.user.MMMM-4Z1V"
+        },
+        "modified": 1452047231318,
+        "created": 1452047231318
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/96X9-KCW"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"Utah Death Certificates, 1904-1964\", database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/XZ2X-146 : 11 September 2015), Henry Clegg in entry for Ellen Juventa Tullidge, 1917."
+        }
+      ],
+      "titles": [
+        {
+          "value": "Henry Clegg in entry for Ellen Juventa Tullidge, \"Utah Death Certificates, 1904-1964\""
+        }
+      ]
+    },
+    {
+      "id": "MMMM-ZFM",
+      "about": "https://familysearch.org/ark:/61903/1:1:F72P-9F7",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-NBRH",
+          "resourceId": "cis.user.MMMM-NBRH"
+        },
+        "modified": 1489566680962,
+        "created": 1330327404000
+      },
+      "resourceType": "DEFAULT",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/MMMM-ZFM"
+        }
+      },
+      "citations": [
+        {
+          "value": ""
+        }
+      ],
+      "titles": [
+        {
+          "value": "Henry Clegg, England and Wales, Non-Conformist Record Indexes (Digital RG4-8) "
+        }
+      ],
+      "notes": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "9X5R-SV1",
+      "lang": "en_US",
+      "about": "https://familysearch.org/ark:/61903/1:1:XZPL-LSX",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMF-87XR",
+          "resourceId": "cis.user.MMMF-87XR"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMF-87XR",
+          "resourceId": "cis.user.MMMF-87XR"
+        },
+        "modified": 1461546611415,
+        "created": 1461546611415
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/9X5R-SV1"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"Utah Death Certificates, 1904-1964\", database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/XZPL-LSX : 11 September 2015), Henry Clegg in entry for Hannah Mary Clegg Cummings, 1952."
+        }
+      ],
+      "titles": [
+        {
+          "value": "Henry Clegg in entry for Hannah Mary Clegg Cummings, \"Utah Death Certificates, 1904-1964\""
+        }
+      ]
+    },
+    {
+      "id": "9N4T-CGR",
+      "lang": "en",
+      "about": "https://www.myheritage.com/research/collection-30042/england-births-christenings-1538-1975?itemId=30406927&action=showRecord",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-329G",
+          "resourceId": "cis.user.MMM9-329G"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-329G",
+          "resourceId": "cis.user.MMM9-329G"
+        },
+        "modified": 1473869235515,
+        "created": 1473869235515
+      },
+      "resourceType": "DEFAULT",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/9N4T-CGR"
+        }
+      },
+      "citations": [
+        {
+          "value": "England Births and Christenings, 1538-1975\r\nMyHeritage.com [online database]. Lehi, UT, USA: MyHeritage (USA) Inc."
+        }
+      ],
+      "titles": [
+        {
+          "value": "Henry Clegg, \"England Births and Christenings, 1538-1975\" on MyHeritage"
+        }
+      ],
+      "notes": [
+        {
+          "text": "Henry Clegg\r\nBirth: June 7 1825\r\nChristening: July 5 1825 - Wesleyan Methodist, Freckleton, Lancashire, England\r\nParents: Henry Clegg, Ellen"
+        }
+      ]
+    },
+    {
+      "id": "MYYH-544",
+      "lang": "en-us",
+      "about": "https://familysearch.org/ark:/61903/1:1:V5JL-K1V",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "modified": 1415382714173,
+        "created": 1415382714173
+      },
+      "resourceType": "IGI",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/MYYH-544"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"England Births and Christenings, 1538-1975,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/V5JL-K1V : 6 December 2014), Henry Clegg, 15 Oct 1822; citing , reference ; FHL microfilm 0560881 (RG4 1469)."
+        }
+      ],
+      "titles": [
+        {
+          "value": "Henry Clegg, \"England Births and Christenings, 1538-1975\""
+        }
+      ],
+      "notes": [
+        {
+          "text": "This extracted record was used to create this person in Family Tree."
+        }
+      ]
+    },
+    {
+      "id": "9J67-SC3",
+      "lang": "en_US",
+      "about": "https://familysearch.org/ark:/61903/1:1:QK9B-HGGT",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MM9W-LX3Y",
+          "resourceId": "cis.user.MM9W-LX3Y"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MM9W-LX3Y",
+          "resourceId": "cis.user.MM9W-LX3Y"
+        },
+        "modified": 1483334365687,
+        "created": 1483334365687
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/9J67-SC3"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"Utah Mormon Pioneer Overland Travel Database, 1847-1868\", database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/QK9B-HGGT : 20 May 2016), Henry Clegg, 1855."
+        }
+      ],
+      "titles": [
+        {
+          "value": "Henry Clegg, \"Utah Mormon Pioneer Overland Travel Database, 1847-1868\""
+        }
+      ]
+    },
+    {
+      "id": "9X5R-7GR",
+      "lang": "en_US",
+      "about": "https://familysearch.org/ark:/61903/1:1:XZGS-SYQ",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMF-87XR",
+          "resourceId": "cis.user.MMMF-87XR"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMF-87XR",
+          "resourceId": "cis.user.MMMF-87XR"
+        },
+        "modified": 1461547039867,
+        "created": 1461547039867
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/9X5R-7GR"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"Utah Death Certificates, 1904-1964\", database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/XZGS-SYQ : 11 September 2015), Henry Clegg in entry for Jane Elanor Jones, 1910."
+        }
+      ],
+      "titles": [
+        {
+          "value": "Henry Clegg in entry for Jane Elanor Jones, \"Utah Death Certificates, 1904-1964\""
+        }
+      ]
+    },
+    {
+      "id": "9W1Z-NHC",
+      "lang": "en-us",
+      "about": "https://familysearch.org/ark:/61903/1:1:J3JQ-FZT",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "modified": 1415426973728,
+        "created": 1415426973728
+      },
+      "resourceType": "IGI",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/9W1Z-NHC"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"England Births and Christenings, 1538-1975,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/J3JQ-FZT : 30 December 2014), Henry Clegg in entry for Thomas Clegg, 19 Jan 1845; citing SAINT JOHN,PRESTON,LANCASHIRE,ENGLAND, reference ; FHL microfilm 94,009, 94,010."
+        }
+      ],
+      "titles": [
+        {
+          "value": "Henry Clegg in entry for Thomas Clegg, \"England Births and Christenings, 1538-1975\""
+        }
+      ],
+      "notes": [
+        {
+          "text": "This extracted record was used to create this person in Family Tree."
+        }
+      ]
+    },
+    {
+      "id": "9N2M-2JK",
+      "lang": "en_US",
+      "about": "https://familysearch.org/ark:/61903/1:1:SGYC-QB6",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM7-55C7",
+          "resourceId": "cis.user.MMM7-55C7"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM7-55C7",
+          "resourceId": "cis.user.MMM7-55C7"
+        },
+        "modified": 1476886434700,
+        "created": 1476886434700
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/9N2M-2JK"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"England and Wales Census, 1851,\" database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/SGYC-QB6 : 24 July 2016), Henry Clegg, Liverpool, Lancashire, England; citing Liverpool, Lancashire, England, p. 32, from \"1851 England, Scotland and Wales census,\" database and images, findmypast (http://www.findmypast.com : n.d.); citing PRO HO 107, The National Archives of the UK, Kew, Surrey."
+        }
+      ],
+      "titles": [
+        {
+          "value": "Henry Clegg, \"England and Wales Census, 1851\""
+        }
+      ]
+    },
+    {
       "id": "96HR-K5T",
       "lang": "en_US",
       "about": "https://familysearch.org/ark:/61903/1:1:QKDV-89MH",
@@ -38024,6 +37589,39 @@
       "titles": [
         {
           "value": "Henry Clegg in entry for Charles David Clegg, \"Utah Death Certificates, 1904-1964\""
+        }
+      ]
+    },
+    {
+      "id": "9X5R-W56",
+      "lang": "en_US",
+      "about": "https://familysearch.org/ark:/61903/1:1:XZP3-XJ9",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMF-87XR",
+          "resourceId": "cis.user.MMMF-87XR"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMF-87XR",
+          "resourceId": "cis.user.MMMF-87XR"
+        },
+        "modified": 1461547176423,
+        "created": 1461547176423
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/9X5R-W56"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"Utah Death Certificates, 1904-1964\", database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/XZP3-XJ9 : 11 September 2015), Henry Clegg in entry for Henry James Clegg, 1934."
+        }
+      ],
+      "titles": [
+        {
+          "value": "Henry Clegg in entry for Henry James Clegg, \"Utah Death Certificates, 1904-1964\""
         }
       ]
     },
@@ -38065,6 +37663,77 @@
       ]
     },
     {
+      "id": "9ZG6-Y7X",
+      "lang": "en_US",
+      "about": "https://familysearch.org/ark:/61903/1:1:XZG2-FHD",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-SGCJ",
+          "resourceId": "cis.user.MMMM-SGCJ"
+        },
+        "modified": 1489633089400,
+        "created": 1424507078292
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/9ZG6-Y7X"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"Utah Death Certificates, 1904-1964\", database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/XZG2-FHD : 11 September 2015), Henry Clegg in entry for Israel Eastham Clegg, 1923."
+        }
+      ],
+      "titles": [
+        {
+          "value": "Henry Clegg in entry for Israel Eastham Clegg, \"Utah Death Certificates, 1904-1964\""
+        }
+      ]
+    },
+    {
+      "id": "MYYH-RR7",
+      "lang": "en-us",
+      "about": "https://familysearch.org/ark:/61903/1:1:V5JL-K1L",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "modified": 1415382714173,
+        "created": 1415382714173
+      },
+      "resourceType": "IGI",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/MYYH-RR7"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"England Births and Christenings, 1538-1975,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/V5JL-K1L : 6 December 2014), Henry Clegg, 05 Jul 1825; citing , reference ; FHL microfilm 0560881 (RG4 1469)."
+        }
+      ],
+      "titles": [
+        {
+          "value": "Henry Clegg, \"England Births and Christenings, 1538-1975\""
+        }
+      ],
+      "notes": [
+        {
+          "text": "This extracted record was used to create this person in Family Tree."
+        }
+      ]
+    },
+    {
       "id": "9DYV-6WY",
       "lang": "en_US",
       "about": "https://familysearch.org/ark:/61903/1:1:XZGB-P48",
@@ -38098,38 +37767,166 @@
       ]
     },
     {
-      "id": "MS6C-FG8",
+      "id": "MSTW-KYQ",
+      "lang": "en_US",
+      "about": "https://familysearch.org/ark:/61903/1:1:XZGS-1MS",
       "attribution": {
         "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMZ-1XC8",
-          "resourceId": "cis.user.MMMZ-1XC8"
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
         },
         "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMZ-1XC8",
-          "resourceId": "cis.user.MMMZ-1XC8"
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-Z3L2",
+          "resourceId": "cis.user.MMMM-Z3L2"
         },
-        "modified": 1407394098668,
-        "created": 1407394098668
+        "modified": 1489577493796,
+        "created": 1412542762239
       },
-      "resourceType": "LEGACY",
+      "resourceType": "FSREADONLY",
       "links": {
         "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/MS6C-FG8"
+          "href": "https://familysearch.org/platform/sources/descriptions/MSTW-KYQ"
         }
       },
       "citations": [
         {
-          "value": "Ancestral File (R), The Church of Jesus Christ of Latter-day Saints, Copyright (c) 1987, June 1998, data as of 5 January 1998, Family History Library, 35 N West Temple Street, Salt Lake City, Utah 84150  USA"
+          "value": "\"Utah Death Certificates, 1904-1964\", database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/XZGS-1MS : 11 September 2015), Henry Clegg in entry for Joseph Clegg, 1910."
         }
       ],
       "titles": [
         {
-          "value": "Legacy NFS Source: Henry Clegg - "
+          "value": "Henry Clegg in entry for Joseph Clegg, \"Utah Death Certificates, 1904-1964\""
+        }
+      ]
+    },
+    {
+      "id": "9ZBM-996",
+      "lang": "en_US",
+      "about": "https://familysearch.org/ark:/61903/1:1:XZPP-JYW",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-4Q38",
+          "resourceId": "cis.user.MMMM-4Q38"
+        },
+        "modified": 1489639862236,
+        "created": 1426306461671
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/9ZBM-996"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"Utah Death Certificates, 1904-1964\", database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/XZPP-JYW : 11 September 2015), Henry Clegg in entry for Amelia Ann Montgomery, 1953."
         }
       ],
-      "notes": [
+      "titles": [
         {
-          "text": "  \n"
+          "value": "Henry Clegg in entry for Amelia Ann Montgomery, \"Utah Death Certificates, 1904-1964\""
+        }
+      ]
+    },
+    {
+      "id": "MSTW-KFX",
+      "lang": "en_US",
+      "about": "https://familysearch.org/ark:/61903/1:1:XZPN-Y5M",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-Z3L2",
+          "resourceId": "cis.user.MMMM-Z3L2"
+        },
+        "modified": 1489577492900,
+        "created": 1412542657960
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/MSTW-KFX"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"Utah Death Certificates, 1904-1964\", database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/XZPN-Y5M : 11 September 2015), Henry Clegg in entry for George Almont Clegg, 1935."
+        }
+      ],
+      "titles": [
+        {
+          "value": "Henry Clegg in entry for George Almont Clegg, \"Utah Death Certificates, 1904-1964\""
+        }
+      ]
+    },
+    {
+      "id": "9Z7D-TLW",
+      "lang": "en_US",
+      "about": "https://familysearch.org/ark:/61903/1:1:NQ4D-SV2",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMC-XDD4",
+          "resourceId": "cis.user.MMMC-XDD4"
+        },
+        "modified": 1489600193438,
+        "created": 1417295165440
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/9Z7D-TLW"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"Utah, Salt Lake County Death Records, 1849-1949,\" database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/NQ4D-SV2 : 5 December 2014), Henry Clegg in entry for Henry James Clegg, 10 Mar 1934; citing Salt Lake City, Salt Lake, Utah, Management and Archives, Salt Lake City; FHL microfilm 4,139,705."
+        }
+      ],
+      "titles": [
+        {
+          "value": "Henry Clegg in entry for Henry James Clegg, \"Utah, Salt Lake County Death Records, 1849-1949\""
+        }
+      ]
+    },
+    {
+      "id": "MMZ6-Q2B",
+      "about": "https://familysearch.org/ark:/61903/1:1:F85C-V4K",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-ZQVC",
+          "resourceId": "cis.user.MMMM-ZQVC"
+        },
+        "modified": 1489514284635,
+        "created": 1382024057000
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/MMZ6-Q2B"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"Utah Deaths and Burials, 1888-1946,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/F85C-V4K : 5 December 2014), Henry Clegg in entry for John Henry Clegg, 22 Jun 1930; citing Salt Lake City, Salt Lake, Utah, reference 1119; FHL microfilm 26,565."
+        }
+      ],
+      "titles": [
+        {
+          "value": "Henry Clegg in entry for John Henry Clegg, \"Utah, Deaths and Burials, 1888-1946\""
         }
       ]
     },
@@ -38163,6 +37960,43 @@
       "titles": [
         {
           "value": "Henry Clegg in entry for Thomas Clegg, \"England Births and Christenings, 1538-1975\""
+        }
+      ]
+    },
+    {
+      "id": "MMQP-RRT",
+      "about": "https://dcms.lds.org/delivery/DeliveryManagerServlet?dps_pid=IE102301",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-ZL8Y",
+          "resourceId": "cis.user.MMMM-ZL8Y"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-H846",
+          "resourceId": "cis.user.MMM9-H846"
+        },
+        "modified": 1408150077693,
+        "created": 1370979200000
+      },
+      "resourceType": "DEFAULT",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/MMQP-RRT"
+        }
+      },
+      "citations": [
+        {
+          "value": "Family History Library\n35 North West Temple Street\n Salt Lake City, Utah, 84150\n 1-866-406-1830\n\nFamily History Call Number\n979.2 D3e 1913 \n \nOwning Institution\nGenealogical Society of Utah d.b.a FamilySearch; http://www.familysearch.org/ \n"
+        }
+      ],
+      "titles": [
+        {
+          "value": "Digitized book of Pioneers and prominent men of Utah : comprising photographs, genealogies, biographies"
+        }
+      ],
+      "notes": [
+        {
+          "text": "Utah - Biography; Utah - Genealogy; Mormons - Biography;"
         }
       ]
     },
@@ -38204,101 +38038,143 @@
       ]
     },
     {
-      "id": "96CS-JFQ",
+      "id": "9XYN-FQB",
       "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:QKDV-WZW6",
+      "about": "https://familysearch.org/ark:/61903/1:1:KL71-S2F",
       "attribution": {
         "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-4Z1V",
-          "resourceId": "cis.user.MMMM-4Z1V"
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMX-RBLH",
+          "resourceId": "cis.user.MMMX-RBLH"
         },
         "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-4Z1V",
-          "resourceId": "cis.user.MMMM-4Z1V"
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMX-RBLH",
+          "resourceId": "cis.user.MMMX-RBLH"
         },
-        "modified": 1450474906398,
-        "created": 1450474906398
+        "modified": 1462293909690,
+        "created": 1462293909690
       },
       "resourceType": "FSREADONLY",
       "links": {
         "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/96CS-JFQ"
+          "href": "https://familysearch.org/platform/sources/descriptions/9XYN-FQB"
         }
       },
       "citations": [
         {
-          "value": "\"Utah Death Certificates, 1904-1964\", database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/QKDV-WZW6 : 25 September 2015), Henry Clegg in entry for Carlie Clegg Tidwell, 1957."
+          "value": "\"Utah, Pioneers and Prominent Men of Utah, 1847-1868,\" database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/KL71-S2F : 12 December 2014), Henry Clegg in entry for William Jonathan Clegg, ; excerpted from Frank Esshom, Pioneers and Prominent Men of Utah: Comprising Photographs, Genealogies, Biographies (Salt Lake City, Utah: Utah Pioneers Books, 1913)."
         }
       ],
       "titles": [
         {
-          "value": "Henry Clegg in entry for Carlie Clegg Tidwell, \"Utah Death Certificates, 1904-1964\""
+          "value": "Henry Clegg in entry for William Jonathan Clegg, \"Utah, Pioneers and Prominent Men of Utah, 1847-1868\""
         }
       ]
     },
     {
-      "id": "9ZBM-996",
-      "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:XZPP-JYW",
+      "id": "MMZY-7HN",
+      "about": "https://familysearch.org/ark:/61903/1:1:V5JL-K1L",
       "attribution": {
         "contributor": {
           "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
           "resourceId": "cis.wkca.MMMM-M93P"
         },
         "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-4Q38",
-          "resourceId": "cis.user.MMMM-4Q38"
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-3DQX",
+          "resourceId": "cis.user.MMMM-3DQX"
         },
-        "modified": 1489639862236,
-        "created": 1426306461671
+        "modified": 1489566679856,
+        "created": 1382912388000
       },
       "resourceType": "FSREADONLY",
       "links": {
         "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/9ZBM-996"
+          "href": "https://familysearch.org/platform/sources/descriptions/MMZY-7HN"
         }
       },
       "citations": [
         {
-          "value": "\"Utah Death Certificates, 1904-1964\", database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/XZPP-JYW : 11 September 2015), Henry Clegg in entry for Amelia Ann Montgomery, 1953."
+          "value": "\"England Births and Christenings, 1538-1975,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/V5JL-K1L : 6 December 2014), Henry Clegg, 05 Jul 1825; citing , reference ; FHL microfilm 0560881 (RG4 1469)."
         }
       ],
       "titles": [
         {
-          "value": "Henry Clegg in entry for Amelia Ann Montgomery, \"Utah Death Certificates, 1904-1964\""
+          "value": "Henry Clegg, \"England Births and Christenings, 1538-1975 FHL 1,502,381\""
+        }
+      ],
+      "notes": [
+        {
+          "text": ""
         }
       ]
     },
     {
-      "id": "9Z7D-TLW",
+      "id": "9XRY-X41",
       "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:NQ4D-SV2",
+      "about": "https://familysearch.org/ark:/61903/1:1:NXG6-38P",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MM9M-HVD1",
+          "resourceId": "cis.user.MM9M-HVD1"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MM9M-HVD1",
+          "resourceId": "cis.user.MM9M-HVD1"
+        },
+        "modified": 1461814223768,
+        "created": 1461814223768
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/9XRY-X41"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"England Marriages, 1538–1973  ,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/NXG6-38P : 10 December 2014), Henry Clegg and Hannah Eastham, 24 Dec 1844; citing St. John'S, Preston, Lancashire, England, reference cn 424; FHL microfilm 1,502,467."
+        }
+      ],
+      "titles": [
+        {
+          "value": "Henry Clegg, \"England Marriages, 1538–1973  \""
+        }
+      ]
+    },
+    {
+      "id": "9CPX-3MD",
+      "lang": "en-us",
+      "about": "https://familysearch.org/ark:/61903/1:1:NLQB-S8N",
       "attribution": {
         "contributor": {
           "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
           "resourceId": "cis.wkca.MMMM-M93P"
         },
         "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMC-XDD4",
-          "resourceId": "cis.user.MMMC-XDD4"
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
         },
-        "modified": 1489600193438,
-        "created": 1417295165440
+        "modified": 1415443599849,
+        "created": 1415443599849
       },
-      "resourceType": "FSREADONLY",
+      "resourceType": "IGI",
       "links": {
         "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/9Z7D-TLW"
+          "href": "https://familysearch.org/platform/sources/descriptions/9CPX-3MD"
         }
       },
       "citations": [
         {
-          "value": "\"Utah, Salt Lake County Death Records, 1849-1949,\" database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/NQ4D-SV2 : 5 December 2014), Henry Clegg in entry for Henry James Clegg, 10 Mar 1934; citing Salt Lake City, Salt Lake, Utah, Management and Archives, Salt Lake City; FHL microfilm 4,139,705."
+          "value": "\"England Marriages, 1538–1973  ,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/NLQB-S8N : 10 December 2014), Henry Clegg and Hannah Eastham, 24 Dec 1844; citing Saint John,Preston,Lancashire,England, reference ; FHL microfilm 93,993, 93,994, 94,006, 94,012, 94,013, 94,014, 94,015."
         }
       ],
       "titles": [
         {
-          "value": "Henry Clegg in entry for Henry James Clegg, \"Utah, Salt Lake County Death Records, 1849-1949\""
+          "value": "Henry Clegg, \"England Marriages, 1538–1973  \""
+        }
+      ],
+      "notes": [
+        {
+          "text": "This extracted record was used to create this person in Family Tree."
         }
       ]
     }
@@ -38395,21 +38271,6 @@
       ]
     },
     {
-      "id": "pd_53.79299x-2.406864",
-      "latitude": 53.79299,
-      "longitude": -2.406864,
-      "names": [
-        {
-          "lang": "en-US",
-          "value": "Great Harwood, Lancashire, England, United Kingdom"
-        },
-        {
-          "lang": "en",
-          "value": "Great Harwood, Lancashire, England, United Kingdom"
-        }
-      ]
-    },
-    {
       "id": "pd_40.516669x-111.400279",
       "latitude": 40.516669,
       "longitude": -111.400279,
@@ -38436,6 +38297,21 @@
         {
           "lang": "und",
           "value": "Lawyers, Campbell, Virginia, United States"
+        }
+      ]
+    },
+    {
+      "id": "pd_40.37556x-111.125557",
+      "latitude": 40.37556,
+      "longitude": -111.125557,
+      "names": [
+        {
+          "lang": "en-US",
+          "value": "Wasatch, Utah, United States"
+        },
+        {
+          "lang": "und",
+          "value": "Heber Precinct Heber City, Wasatch, Utah, United States"
         }
       ]
     },

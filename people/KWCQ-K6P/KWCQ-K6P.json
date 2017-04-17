@@ -212,7 +212,7 @@
           "href": "https://familysearch.org/platform/tree/persons/KWCQ-K6P/families?sourceDescriptions=true"
         },
         "portrait": {
-          "href": "https://raw.githubusercontent.com/misbach/familytree/master/people/KWCQ-K6P/KWCQ-K6P.jpg"
+          "href": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/KWCQ-K6P/KWCQ-K6P.jpg"
         },
         "matches": {
           "href": "https://familysearch.org/platform/tree/persons/KWCQ-K6P/matches"
@@ -2068,61 +2068,17 @@
         "familiesAsParent": [
           {
             "parent1": {
-              "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KWCQ-K6P/KWCQ-K6P.json",
+              "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/KWCQ-K6P/KWCQ-K6P.json",
               "resourceId": "KWCQ-K6P"
             },
             "parent2": {
-              "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KWCQ-K65/KWCQ-K65.json",
+              "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/KWCQ-K65/KWCQ-K65.json",
               "resourceId": "KWCQ-K65"
             },
             "children": [
               {
-                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KWCW-MB2/KWCW-MB2.json",
-                "resourceId": "KWCW-MB2"
-              },
-              {
-                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KWCC-J9N/KWCC-J9N.json",
-                "resourceId": "KWCC-J9N"
-              },
-              {
-                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KWCD-8GC/KWCD-8GC.json",
-                "resourceId": "KWCD-8GC"
-              },
-              {
-                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KWZ5-CBW/KWZ5-CBW.json",
-                "resourceId": "KWZ5-CBW"
-              },
-              {
-                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KWCZ-RW8/KWCZ-RW8.json",
-                "resourceId": "KWCZ-RW8"
-              },
-              {
-                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KWCZ-MG9/KWCZ-MG9.json",
-                "resourceId": "KWCZ-MG9"
-              },
-              {
-                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KWCQ-K6V/KWCQ-K6V.json",
-                "resourceId": "KWCQ-K6V"
-              },
-              {
-                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KWCJ-RNC/KWCJ-RNC.json",
+                "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/KWCJ-RNC/KWCJ-RNC.json",
                 "resourceId": "KWCJ-RNC"
-              },
-              {
-                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KWC6-Z9M/KWC6-Z9M.json",
-                "resourceId": "KWC6-Z9M"
-              },
-              {
-                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KWC5-VC4/KWC5-VC4.json",
-                "resourceId": "KWC5-VC4"
-              },
-              {
-                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KWC1-7VR/KWC1-7VR.json",
-                "resourceId": "KWC1-7VR"
-              },
-              {
-                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KWCR-ZY3/KWCR-ZY3.json",
-                "resourceId": "KWCR-ZY3"
               }
             ]
           }
@@ -2130,16 +2086,16 @@
         "familiesAsChild": [
           {
             "parent1": {
-              "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KWJ8-FYQ/KWJ8-FYQ.json",
+              "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/KWJ8-FYQ/KWJ8-FYQ.json",
               "resourceId": "KWJ8-FYQ"
             },
             "parent2": {
-              "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KWV7-4YK/KWV7-4YK.json",
+              "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/KWV7-4YK/KWV7-4YK.json",
               "resourceId": "KWV7-4YK"
             },
             "children": [
               {
-                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KWCQ-K6P/KWCQ-K6P.json",
+                "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/KWCQ-K6P/KWCQ-K6P.json",
                 "resourceId": "KWCQ-K6P"
               }
             ]
@@ -2796,11 +2752,11 @@
           },
           "place": {
             "original": "Manti City, Manti Election Precinct, Sanpete, Utah, United States",
-            "description": "#pd_39.267x-111.637",
+            "description": "#pd_39.267009x-111.5387",
             "normalized": [
               {
                 "lang": "en-US",
-                "value": "Manti, Sanpete, Utah, United States"
+                "value": "Manti Election Precinct, Sanpete, Utah, United States"
               },
               {
                 "lang": "und",
@@ -5417,11 +5373,11 @@
           },
           "place": {
             "original": "Manti City, Manti Election Precinct, Sanpete, Utah, United States",
-            "description": "#pd_39.267x-111.637",
+            "description": "#pd_39.267009x-111.5387",
             "normalized": [
               {
                 "lang": "en-US",
-                "value": "Manti, Sanpete, Utah, United States"
+                "value": "Manti Election Precinct, Sanpete, Utah, United States"
               },
               {
                 "lang": "und",
@@ -5886,6 +5842,32 @@
         }
       },
       "sources": [
+        {
+          "id": "311612e9-8822-4c06-858f-2a73c25ed239",
+          "links": {
+            "source-reference": {
+              "href": "https://familysearch.org/platform/tree/persons/KWCQ-K6P/source-references/311612e9-8822-4c06-858f-2a73c25ed239"
+            },
+            "description": {
+              "href": "https://familysearch.org/platform/sources/descriptions/9VYY-7PG"
+            }
+          },
+          "description": "https://familysearch.org/platform/sources/descriptions/9VYY-7PG",
+          "descriptionId": "9VYY-7PG"
+        },
+        {
+          "id": "c6a6711e-9d79-4024-856b-73722abd3577",
+          "links": {
+            "source-reference": {
+              "href": "https://familysearch.org/platform/tree/persons/KWCQ-K6P/source-references/c6a6711e-9d79-4024-856b-73722abd3577"
+            },
+            "description": {
+              "href": "https://familysearch.org/platform/sources/descriptions/9VYT-1JT"
+            }
+          },
+          "description": "https://familysearch.org/platform/sources/descriptions/9VYT-1JT",
+          "descriptionId": "9VYT-1JT"
+        },
         {
           "id": "fdfcc349-50b6-489f-a6c2-519e4feea5e7",
           "links": {
@@ -9400,6 +9382,19 @@
       },
       "sources": [
         {
+          "id": "544c2cde-bcd9-41aa-8870-6fc4cb4d57e0",
+          "links": {
+            "source-reference": {
+              "href": "https://familysearch.org/platform/tree/persons/KWCQ-K6P/source-references/544c2cde-bcd9-41aa-8870-6fc4cb4d57e0"
+            },
+            "description": {
+              "href": "https://familysearch.org/platform/sources/descriptions/9VYT-GP1"
+            }
+          },
+          "description": "https://familysearch.org/platform/sources/descriptions/9VYT-GP1",
+          "descriptionId": "9VYT-GP1"
+        },
+        {
           "id": "10216bc9-611b-4bc7-912a-9b9d5d991a1b",
           "links": {
             "source-reference": {
@@ -10222,11 +10217,11 @@
           },
           "place": {
             "original": "Manti Election Precinct, Manti City, Sanpete, Utah",
-            "description": "#pd_39.267x-111.637",
+            "description": "#pd_39.267009x-111.5387",
             "normalized": [
               {
                 "lang": "en-US",
-                "value": "Manti, Sanpete, Utah, United States"
+                "value": "Manti Election Precinct, Sanpete, Utah, United States"
               },
               {
                 "lang": "und",
@@ -10386,6 +10381,18 @@
               {
                 "resource": "https://familysearch.org/ark:/61903/4:1:KWZM-WH7",
                 "resourceId": "KWZM-WH7"
+              },
+              {
+                "resource": "https://familysearch.org/ark:/61903/4:1:LRYB-S1Q",
+                "resourceId": "LRYB-S1Q"
+              },
+              {
+                "resource": "https://familysearch.org/ark:/61903/4:1:LRYB-M5K",
+                "resourceId": "LRYB-M5K"
+              },
+              {
+                "resource": "https://familysearch.org/ark:/61903/4:1:LRYY-YLL",
+                "resourceId": "LRYY-YLL"
               }
             ]
           }
@@ -16377,6 +16384,10 @@
                 "resourceId": "KWCF-CT5"
               },
               {
+                "resource": "https://familysearch.org/ark:/61903/4:1:KWCV-VBS",
+                "resourceId": "KWCV-VBS"
+              },
+              {
                 "resource": "https://familysearch.org/ark:/61903/4:1:KWCZ-RWH",
                 "resourceId": "KWCZ-RWH"
               }
@@ -20048,6 +20059,126 @@
       }
     },
     {
+      "id": "FM1K8-G8J",
+      "type": "http://gedcomx.org/ParentChild",
+      "person1": {
+        "resource": "#KWCC-J9N",
+        "resourceId": "KWCC-J9N"
+      },
+      "person2": {
+        "resource": "https://familysearch.org/platform/tree/persons/LRYB-S1Q",
+        "resourceId": "LRYB-S1Q"
+      },
+      "links": {
+        "person2": {
+          "href": "https://familysearch.org/platform/tree/persons/LRYB-S1Q?relatives=true&sourceDescriptions=true"
+        },
+        "person1": {
+          "href": "https://familysearch.org/platform/tree/persons/KWCC-J9N?relatives=true&sourceDescriptions=true"
+        }
+      }
+    },
+    {
+      "id": "MM1K8-G8J",
+      "type": "http://gedcomx.org/ParentChild",
+      "person1": {
+        "resource": "https://familysearch.org/platform/tree/persons/KWC2-F5D",
+        "resourceId": "KWC2-F5D"
+      },
+      "person2": {
+        "resource": "https://familysearch.org/platform/tree/persons/LRYB-S1Q",
+        "resourceId": "LRYB-S1Q"
+      },
+      "links": {
+        "person2": {
+          "href": "https://familysearch.org/platform/tree/persons/LRYB-S1Q?relatives=true&sourceDescriptions=true"
+        },
+        "person1": {
+          "href": "https://familysearch.org/platform/tree/persons/KWC2-F5D?relatives=true&sourceDescriptions=true"
+        }
+      }
+    },
+    {
+      "id": "FM1K8-PB6",
+      "type": "http://gedcomx.org/ParentChild",
+      "person1": {
+        "resource": "#KWCC-J9N",
+        "resourceId": "KWCC-J9N"
+      },
+      "person2": {
+        "resource": "https://familysearch.org/platform/tree/persons/LRYB-M5K",
+        "resourceId": "LRYB-M5K"
+      },
+      "links": {
+        "person2": {
+          "href": "https://familysearch.org/platform/tree/persons/LRYB-M5K?relatives=true&sourceDescriptions=true"
+        },
+        "person1": {
+          "href": "https://familysearch.org/platform/tree/persons/KWCC-J9N?relatives=true&sourceDescriptions=true"
+        }
+      }
+    },
+    {
+      "id": "MM1K8-PB6",
+      "type": "http://gedcomx.org/ParentChild",
+      "person1": {
+        "resource": "https://familysearch.org/platform/tree/persons/KWC2-F5D",
+        "resourceId": "KWC2-F5D"
+      },
+      "person2": {
+        "resource": "https://familysearch.org/platform/tree/persons/LRYB-M5K",
+        "resourceId": "LRYB-M5K"
+      },
+      "links": {
+        "person2": {
+          "href": "https://familysearch.org/platform/tree/persons/LRYB-M5K?relatives=true&sourceDescriptions=true"
+        },
+        "person1": {
+          "href": "https://familysearch.org/platform/tree/persons/KWC2-F5D?relatives=true&sourceDescriptions=true"
+        }
+      }
+    },
+    {
+      "id": "FM1K8-K34",
+      "type": "http://gedcomx.org/ParentChild",
+      "person1": {
+        "resource": "#KWCC-J9N",
+        "resourceId": "KWCC-J9N"
+      },
+      "person2": {
+        "resource": "https://familysearch.org/platform/tree/persons/LRYY-YLL",
+        "resourceId": "LRYY-YLL"
+      },
+      "links": {
+        "person2": {
+          "href": "https://familysearch.org/platform/tree/persons/LRYY-YLL?relatives=true&sourceDescriptions=true"
+        },
+        "person1": {
+          "href": "https://familysearch.org/platform/tree/persons/KWCC-J9N?relatives=true&sourceDescriptions=true"
+        }
+      }
+    },
+    {
+      "id": "MM1K8-K34",
+      "type": "http://gedcomx.org/ParentChild",
+      "person1": {
+        "resource": "https://familysearch.org/platform/tree/persons/KWC2-F5D",
+        "resourceId": "KWC2-F5D"
+      },
+      "person2": {
+        "resource": "https://familysearch.org/platform/tree/persons/LRYY-YLL",
+        "resourceId": "LRYY-YLL"
+      },
+      "links": {
+        "person2": {
+          "href": "https://familysearch.org/platform/tree/persons/LRYY-YLL?relatives=true&sourceDescriptions=true"
+        },
+        "person1": {
+          "href": "https://familysearch.org/platform/tree/persons/KWC2-F5D?relatives=true&sourceDescriptions=true"
+        }
+      }
+    },
+    {
       "id": "FM33D-B3W",
       "type": "http://gedcomx.org/ParentChild",
       "person1": {
@@ -20568,6 +20699,46 @@
       }
     },
     {
+      "id": "FM33D-BDJ",
+      "type": "http://gedcomx.org/ParentChild",
+      "person1": {
+        "resource": "#KWCZ-RW8",
+        "resourceId": "KWCZ-RW8"
+      },
+      "person2": {
+        "resource": "https://familysearch.org/platform/tree/persons/KWCV-VBS",
+        "resourceId": "KWCV-VBS"
+      },
+      "links": {
+        "person2": {
+          "href": "https://familysearch.org/platform/tree/persons/KWCV-VBS?relatives=true&sourceDescriptions=true"
+        },
+        "person1": {
+          "href": "https://familysearch.org/platform/tree/persons/KWCZ-RW8?relatives=true&sourceDescriptions=true"
+        }
+      }
+    },
+    {
+      "id": "MM33D-BDJ",
+      "type": "http://gedcomx.org/ParentChild",
+      "person1": {
+        "resource": "https://familysearch.org/platform/tree/persons/KWCZ-RWF",
+        "resourceId": "KWCZ-RWF"
+      },
+      "person2": {
+        "resource": "https://familysearch.org/platform/tree/persons/KWCV-VBS",
+        "resourceId": "KWCV-VBS"
+      },
+      "links": {
+        "person2": {
+          "href": "https://familysearch.org/platform/tree/persons/KWCV-VBS?relatives=true&sourceDescriptions=true"
+        },
+        "person1": {
+          "href": "https://familysearch.org/platform/tree/persons/KWCZ-RWF?relatives=true&sourceDescriptions=true"
+        }
+      }
+    },
+    {
       "id": "FM33K-TGT",
       "type": "http://gedcomx.org/ParentChild",
       "person1": {
@@ -20721,9 +20892,9 @@
       }
     },
     {
-      "id": "9X2F-2QB",
+      "id": "9X2F-27B",
       "lang": "*",
-      "about": "http://search.ancestry.com/cgi-bin/sse.dll?db=1900usfedcen&h=61754831&ti=0&indiv=try&gss=pt",
+      "about": "http://search.ancestry.com/cgi-bin/sse.dll?db=1870usfedcen&h=14637133&ti=0&indiv=try&gss=pt",
       "attribution": {
         "contributor": {
           "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-3Q2H",
@@ -20733,84 +20904,83 @@
           "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-3Q2H",
           "resourceId": "cis.user.MMMM-3Q2H"
         },
-        "modified": 1460411778670,
-        "created": 1460411778670
+        "modified": 1460411784835,
+        "created": 1460411784835
       },
       "resourceType": "DEFAULT",
       "links": {
         "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/9X2F-2QB"
+          "href": "https://familysearch.org/platform/sources/descriptions/9X2F-27B"
         }
       },
       "citations": [
         {
-          "value": "1900 United States Federal Census"
+          "value": "1870 United States Federal Census"
         }
       ],
       "titles": [
         {
-          "value": "1900 United States Federal Census"
+          "value": "1870 United States Federal Census"
         }
       ]
     },
     {
-      "id": "9X2F-2Q8",
-      "lang": "*",
-      "about": "http://search.ancestry.com/cgi-bin/sse.dll?db=websearch-4111&h=168333&ti=0&indiv=try&gss=pt",
+      "id": "MMXT-FDW",
+      "about": "https://familysearch.org/ark:/61903/1:1:M8PN-GSZ",
       "attribution": {
         "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-3Q2H",
-          "resourceId": "cis.user.MMMM-3Q2H"
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
         },
         "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-3Q2H",
-          "resourceId": "cis.user.MMMM-3Q2H"
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-2BSR",
+          "resourceId": "cis.user.MMMM-2BSR"
         },
-        "modified": 1460411776330,
-        "created": 1460411776330
-      },
-      "resourceType": "DEFAULT",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/9X2F-2Q8"
-        }
-      },
-      "citations": [
-        {
-          "value": "Web: Utah, Find A Grave Index, 1850-2011"
-        }
-      ],
-      "titles": [
-        {
-          "value": "Web: Utah, Find A Grave Index, 1850-2011"
-        }
-      ]
-    },
-    {
-      "id": "9DGW-T49",
-      "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:QV5H-5W9Q",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-MTCZ",
-          "resourceId": "cis.user.MMMM-MTCZ"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-MTCZ",
-          "resourceId": "cis.user.MMMM-MTCZ"
-        },
-        "modified": 1444957004224,
-        "created": 1444957004224
+        "modified": 1489539479827,
+        "created": 1390532972000
       },
       "resourceType": "FSREADONLY",
       "links": {
         "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/9DGW-T49"
+          "href": "https://familysearch.org/platform/sources/descriptions/MMXT-FDW"
         }
       },
       "citations": [
         {
-          "value": "\"United States, GenealogyBank Obituaries, 1980-2014,\" database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/QV5H-5W9Q : 10 September 2016), Hyrum Denison in entry for Lorenzo Hyrum Denison, Salt Lake City, Utah, United States, 05 Nov 1991; from \"Recent Newspaper Obituaries (1977 - Today),\" database, GenealogyBank.com (http://www.genealogybank.com : 2014); citing , born-digital text."
+          "value": "\"United States Census, 1920,\" database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/M8PN-GSZ : accessed 17 April 2017), Hyrum Dennison, Manti, Sanpete, Utah, United States; citing  ED 107, sheet 11B, line 57, family 238, NARA microfilm publication T625 (Washington D.C.: National Archives and Records Administration, 1992), roll 1864; FHL microfilm 1,821,864."
+        }
+      ],
+      "titles": [
+        {
+          "value": "Hyrum Dennison, \"United States Census, 1920\""
+        }
+      ]
+    },
+    {
+      "id": "98TP-XW4",
+      "lang": "en_US",
+      "about": "https://familysearch.org/ark:/61903/1:1:QV5H-5T7D",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-329G",
+          "resourceId": "cis.user.MMM9-329G"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-329G",
+          "resourceId": "cis.user.MMM9-329G"
+        },
+        "modified": 1436205826404,
+        "created": 1436205826404
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/98TP-XW4"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"United States, GenealogyBank Obituaries, 1980-2014,\" database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/QV5H-5T7D : 10 September 2016), Hyrum Denison in entry for Lorenzo Hyrum Denison, Utah, United States, 05 Nov 1991; from \"Recent Newspaper Obituaries (1977 - Today),\" database, GenealogyBank.com (http://www.genealogybank.com : 2014); citing , born-digital text."
         }
       ],
       "titles": [
@@ -20820,336 +20990,35 @@
       ]
     },
     {
-      "id": "M9SH-34J",
-      "about": "http://billiongraves.com/pages/record/HyrumDenison/2140981?utm_campaign=treeconnect&utm_source=familysearch.org&utm_medium=sourcelink",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-XVV7",
-          "resourceId": "cis.user.MMMM-XVV7"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-4SDX",
-          "resourceId": "cis.user.MMM9-4SDX"
-        },
-        "modified": 1403666692928,
-        "created": 1400716784830
-      },
-      "resourceType": "DEFAULT",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/M9SH-34J"
-        }
-      },
-      "citations": [
-        {
-          "value": "Transcription of headstone image from billiongraves.com. Image taken at Manti Cemetery (Manti, Sanpete, Utah, United States) on 12 September 2012"
-        }
-      ],
-      "titles": [
-        {
-          "value": "1932 - Headstone image of Hyrum Denison from billiongraves.com"
-        }
-      ],
-      "notes": [
-        {
-          "text": "Name: Hyrum Denison\nBirth: 6 January 1865\nDeath: 1 June 1932\nBurial: Manti Cemetery, Manti, Sanpete, Utah, United States"
-        }
-      ]
-    },
-    {
-      "id": "9X2F-2WD",
-      "lang": "*",
-      "about": "http://search.ancestry.com/collections/60201/records/462012",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-3Q2H",
-          "resourceId": "cis.user.MMMM-3Q2H"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-3Q2H",
-          "resourceId": "cis.user.MMMM-3Q2H"
-        },
-        "modified": 1460411786485,
-        "created": 1460411786485
-      },
-      "resourceType": "DEFAULT",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/9X2F-2WD"
-        }
-      },
-      "citations": [
-        {
-          "value": "Utah, Select Marriages, 1887-1966"
-        }
-      ],
-      "titles": [
-        {
-          "value": "Utah, Select Marriages, 1887-1966"
-        }
-      ]
-    },
-    {
-      "id": "9XGR-7H6",
+      "id": "9XRJ-WT4",
       "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:QKDW-13LV",
+      "about": "https://familysearch.org/ark:/61903/1:1:Q2MB-35MD",
       "attribution": {
         "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-3Q2H",
-          "resourceId": "cis.user.MMMM-3Q2H"
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-C5L9",
+          "resourceId": "cis.user.MMMM-C5L9"
         },
         "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-3Q2H",
-          "resourceId": "cis.user.MMMM-3Q2H"
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-C5L9",
+          "resourceId": "cis.user.MMMM-C5L9"
         },
-        "modified": 1461020796886,
-        "created": 1461020796886
+        "modified": 1461725274773,
+        "created": 1461725274773
       },
       "resourceType": "FSREADONLY",
       "links": {
         "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/9XGR-7H6"
+          "href": "https://familysearch.org/platform/sources/descriptions/9XRJ-WT4"
         }
       },
       "citations": [
         {
-          "value": "\"Utah, Missionary Department Missionary Registers, 1860-1937,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/QKDW-13LV : 26 February 2016), Hyrum Denison in entry for Hans Peter Denison, California; records extracted by FamilySearch and images digitized by Church History library, The Church of Jesus Christ of Latter-day Saints; citing Missionary Register v. 5, Missionary department missionary registers 1860-1959, CR 301 22, Church History Library, Salt lake City, Utah.\n"
+          "value": "\"Utah, County Marriages, 1887-1940\", database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/Q2MB-35MD : 2 February 2016), Hyrum in entry for Fred Heber Denison and Helen Whiting, 1934."
         }
       ],
       "titles": [
         {
-          "value": "Hyrum Denison in entry for Hans Peter Denison, \"Utah, Missionary Department Missionary Registers, 1860-1937\""
-        }
-      ]
-    },
-    {
-      "id": "9VGR-85G",
-      "lang": "en_US,EN;Q=0.5",
-      "about": "https://familysearch.org/ark:/61903/1:1:Q24H-RQ8V",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-3YV2",
-          "resourceId": "cis.user.MMMM-3YV2"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-3YV2",
-          "resourceId": "cis.user.MMMM-3YV2"
-        },
-        "modified": 1491150612158,
-        "created": 1491150612158
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/9VGR-85G"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"Utah, Birth Certificates, 1903-1914,\" database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/Q24H-RQ8V : 28 September 2016), Hyrum Denison in entry for Alice Denison, 15 Mar 1911; citing Manti, Sanpete, Utah, United States, Utah State Archives, Salt Lake City.\n"
-        }
-      ],
-      "titles": [
-        {
-          "value": "Hyrum Denison in entry for Alice Denison, \"Utah, Birth Certificates, 1903-1914\""
-        }
-      ]
-    },
-    {
-      "id": "9X2F-24C",
-      "lang": "*",
-      "about": "",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-3Q2H",
-          "resourceId": "cis.user.MMMM-3Q2H"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-3Q2H",
-          "resourceId": "cis.user.MMMM-3Q2H"
-        },
-        "modified": 1460411792291,
-        "created": 1460411792291
-      },
-      "resourceType": "DEFAULT",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/9X2F-24C"
-        }
-      },
-      "citations": [
-        {
-          "value": "Ancestry Family Trees"
-        }
-      ],
-      "titles": [
-        {
-          "value": "Ancestry Family Trees"
-        }
-      ]
-    },
-    {
-      "id": "9X2F-27Q",
-      "lang": "*",
-      "about": "http://search.ancestry.com/cgi-bin/sse.dll?db=utahdeathindex&h=137651&ti=0&indiv=try&gss=pt",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-3Q2H",
-          "resourceId": "cis.user.MMMM-3Q2H"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-3Q2H",
-          "resourceId": "cis.user.MMMM-3Q2H"
-        },
-        "modified": 1460411780088,
-        "created": 1460411780088
-      },
-      "resourceType": "DEFAULT",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/9X2F-27Q"
-        }
-      },
-      "citations": [
-        {
-          "value": "Utah Death Index, 1905-1951"
-        }
-      ],
-      "titles": [
-        {
-          "value": "Utah Death Index, 1905-1951"
-        }
-      ]
-    },
-    {
-      "id": "9X2F-249",
-      "lang": "*",
-      "about": "",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-3Q2H",
-          "resourceId": "cis.user.MMMM-3Q2H"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-3Q2H",
-          "resourceId": "cis.user.MMMM-3Q2H"
-        },
-        "modified": 1460411790834,
-        "created": 1460411790834
-      },
-      "resourceType": "DEFAULT",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/9X2F-249"
-        }
-      },
-      "citations": [
-        {
-          "value": "Legacy NFS Source: Hyrum Denison - Individual or family possessions: Family genealogies: burial: 3 June 1932; Manti, Sanpete, Utah, United States"
-        }
-      ],
-      "titles": [
-        {
-          "value": "Legacy NFS Source: Hyrum Denison - Individual or family possessions: Family genealogies: burial: 3 June 1932; Manti, Sanpete, Utah, United States"
-        }
-      ]
-    },
-    {
-      "id": "966H-Y1T",
-      "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:QVSF-PMXT",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-329G",
-          "resourceId": "cis.user.MMM9-329G"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-329G",
-          "resourceId": "cis.user.MMM9-329G"
-        },
-        "modified": 1451855289480,
-        "created": 1451855289480
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/966H-Y1T"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"Utah, Obituaries from Utah Newspapers, 1850-2005,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/QVSF-PMXT : 8 October 2015), Hyrum in entry for Ephraim Denison, 28 Oct 1921; citing Manti Messenger, The University of Utah. J. Willard Marriott Library, Salt Lake City."
-        }
-      ],
-      "titles": [
-        {
-          "value": "Hyrum in entry for Ephraim Denison, \"Utah, Obituaries from Utah Newspapers, 1850-2005\""
-        }
-      ]
-    },
-    {
-      "id": "98MV-7JD",
-      "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:VRLP-Z96",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-SQ2S",
-          "resourceId": "cis.user.MMM9-SQ2S"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-SQ2S",
-          "resourceId": "cis.user.MMM9-SQ2S"
-        },
-        "modified": 1427149483231,
-        "created": 1427149483231
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/98MV-7JD"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"Utah, County Marriages, 1887-1940\", database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/VRLP-Z96 : 25 January 2016), Hyrum Denison in entry for Almon Giles Clegg and Geneva Denison, 1928."
-        }
-      ],
-      "titles": [
-        {
-          "value": "Hyrum Denison in entry for Almon Giles Clegg and Geneva Denison, \"Utah, County Marriages, 1887-1940\""
-        }
-      ]
-    },
-    {
-      "id": "9X2F-2HM",
-      "lang": "*",
-      "about": "",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-3Q2H",
-          "resourceId": "cis.user.MMMM-3Q2H"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-3Q2H",
-          "resourceId": "cis.user.MMMM-3Q2H"
-        },
-        "modified": 1460411796684,
-        "created": 1460411796684
-      },
-      "resourceType": "DEFAULT",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/9X2F-2HM"
-        }
-      },
-      "citations": [
-        {
-          "value": "Legacy NFS Source: Hyrum Denison - Government record: Death record or certificate: death: 1 June 1932; Manti, Sanpete, Utah, United States"
-        }
-      ],
-      "titles": [
-        {
-          "value": "Legacy NFS Source: Hyrum Denison - Government record: Death record or certificate: death: 1 June 1932; Manti, Sanpete, Utah, United States"
+          "value": "Hyrum in entry for Fred Heber Denison and Helen Whiting, \"Utah, County Marriages, 1887-1940\""
         }
       ]
     },
@@ -21187,42 +21056,75 @@
       ]
     },
     {
-      "id": "9DGW-RTV",
+      "id": "98MV-HZC",
       "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:QKWZ-S6K8",
+      "about": "https://familysearch.org/ark:/61903/1:1:VRL5-9MF",
       "attribution": {
         "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-MTCZ",
-          "resourceId": "cis.user.MMMM-MTCZ"
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-SQ2S",
+          "resourceId": "cis.user.MMM9-SQ2S"
         },
         "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-MTCZ",
-          "resourceId": "cis.user.MMMM-MTCZ"
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-SQ2S",
+          "resourceId": "cis.user.MMM9-SQ2S"
         },
-        "modified": 1444956910691,
-        "created": 1444956910691
+        "modified": 1427150174218,
+        "created": 1427150174218
       },
       "resourceType": "FSREADONLY",
       "links": {
         "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/9DGW-RTV"
+          "href": "https://familysearch.org/platform/sources/descriptions/98MV-HZC"
         }
       },
       "citations": [
         {
-          "value": "\"United States, GenealogyBank Obituaries, 1980-2014,\" database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/QKWZ-S6K8 : 21 July 2016), Hyrum Denison in entry for Geneva Denison Clegg, Salt Lake City, Utah, United States, 15 Apr 1995; from \"Recent Newspaper Obituaries (1977 - Today),\" database, GenealogyBank.com (http://www.genealogybank.com : 2014); citing Deseret News, The, born-digital text."
+          "value": "\"Utah, County Marriages, 1887-1940\", database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/VRL5-9MF : 25 January 2016), Hyrum Denison in entry for Leslie J Anderson and Iris Denison, 1931."
         }
       ],
       "titles": [
         {
-          "value": "Hyrum Denison in entry for Geneva Denison Clegg, \"United States, GenealogyBank Obituaries, 1980-2014\""
+          "value": "Hyrum Denison in entry for Leslie J Anderson and Iris Denison, \"Utah, County Marriages, 1887-1940\""
         }
       ]
     },
     {
-      "id": "9VDD-VSW",
+      "id": "966H-Y1T",
+      "lang": "en_US",
+      "about": "https://familysearch.org/ark:/61903/1:1:QVSF-PMXT",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-329G",
+          "resourceId": "cis.user.MMM9-329G"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-329G",
+          "resourceId": "cis.user.MMM9-329G"
+        },
+        "modified": 1451855289480,
+        "created": 1451855289480
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/966H-Y1T"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"Utah, Obituaries from Utah Newspapers, 1850-2005,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/QVSF-PMXT : 8 October 2015), Hyrum in entry for Ephraim Denison, 28 Oct 1921; citing Manti Messenger, The University of Utah. J. Willard Marriott Library, Salt Lake City."
+        }
+      ],
+      "titles": [
+        {
+          "value": "Hyrum in entry for Ephraim Denison, \"Utah, Obituaries from Utah Newspapers, 1850-2005\""
+        }
+      ]
+    },
+    {
+      "id": "9X2F-278",
       "lang": "*",
-      "about": "http://search.ancestry.com/collections/60901/records/645660459",
+      "about": "http://search.ancestry.com/cgi-bin/sse.dll?db=1930usfedcen&h=121942551&ti=0&indiv=try&gss=pt",
       "attribution": {
         "contributor": {
           "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-3Q2H",
@@ -21232,123 +21134,30 @@
           "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-3Q2H",
           "resourceId": "cis.user.MMMM-3Q2H"
         },
-        "modified": 1489425771213,
-        "created": 1489425771213
+        "modified": 1460411781649,
+        "created": 1460411781649
       },
       "resourceType": "DEFAULT",
       "links": {
         "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/9VDD-VSW"
-        }
-      },
-      "titles": [
-        {
-          "value": "U.S., Social Security Applications and Claims Index, 1936-2007"
-        }
-      ]
-    },
-    {
-      "id": "MSG9-SNC",
-      "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:VRLH-9P2",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-MTCZ",
-          "resourceId": "cis.user.MMMM-MTCZ"
-        },
-        "modified": 1489570160828,
-        "created": 1410482982000
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/MSG9-SNC"
+          "href": "https://familysearch.org/platform/sources/descriptions/9X2F-278"
         }
       },
       "citations": [
         {
-          "value": "\"Utah, County Marriages, 1887-1940\", database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/VRLH-9P2 : 25 January 2016), Hyrum Denison in entry for Ardelle William Phillips and Barbara Ellen Denison, 1920."
+          "value": "1930 United States Federal Census"
         }
       ],
       "titles": [
         {
-          "value": "Hyrum Denison in entry for Ardelle William Phillips and Barbara Ellen Denison, \"Utah, County Marriages, 1887-1940\""
+          "value": "1930 United States Federal Census"
         }
       ]
     },
     {
-      "id": "96HY-5HQ",
-      "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:QKDV-8KY6",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-MTCZ",
-          "resourceId": "cis.user.MMMM-MTCZ"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-MTCZ",
-          "resourceId": "cis.user.MMMM-MTCZ"
-        },
-        "modified": 1450407852603,
-        "created": 1450407852603
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/96HY-5HQ"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"Utah Death Certificates, 1904-1964\", database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/QKDV-8KY6 : 25 September 2015), Hyrum Denison in entry for Melvin Denison, 1961."
-        }
-      ],
-      "titles": [
-        {
-          "value": "Hyrum Denison in entry for Melvin Denison, \"Utah Death Certificates, 1904-1964\""
-        }
-      ]
-    },
-    {
-      "id": "MM97-SS4",
-      "about": "https://familysearch.org/ark:/61903/1:1:M5X4-JHK",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-P3NV",
-          "resourceId": "cis.user.MMM9-P3NV"
-        },
-        "modified": 1489528848262,
-        "created": 1353694925000
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/MM97-SS4"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"United States Census, 1910,\" database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/M5X4-JHK : accessed 7 April 2017), Hyram Denison, Manti, Sanpete, Utah, United States; citing enumeration district (ED) ED 155, sheet 17A, family 355, NARA microfilm publication T624 (Washington D.C.: National Archives and Records Administration, 1982), roll 1608; FHL microfilm 1,375,621.\n"
-        }
-      ],
-      "titles": [
-        {
-          "value": "Hyram Denison, \"United States Census, 1910\""
-        }
-      ]
-    },
-    {
-      "id": "9X2F-27K",
+      "id": "9X2F-2WD",
       "lang": "*",
-      "about": "http://search.ancestry.com/cgi-bin/sse.dll?db=1880usfedcen&h=15540511&ti=0&indiv=try&gss=pt",
+      "about": "http://search.ancestry.com/collections/60201/records/462012",
       "attribution": {
         "contributor": {
           "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-3Q2H",
@@ -21358,23 +21167,23 @@
           "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-3Q2H",
           "resourceId": "cis.user.MMMM-3Q2H"
         },
-        "modified": 1460411783352,
-        "created": 1460411783352
+        "modified": 1460411786485,
+        "created": 1460411786485
       },
       "resourceType": "DEFAULT",
       "links": {
         "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/9X2F-27K"
+          "href": "https://familysearch.org/platform/sources/descriptions/9X2F-2WD"
         }
       },
       "citations": [
         {
-          "value": "1880 United States Federal Census"
+          "value": "Utah, Select Marriages, 1887-1966"
         }
       ],
       "titles": [
         {
-          "value": "1880 United States Federal Census"
+          "value": "Utah, Select Marriages, 1887-1966"
         }
       ]
     },
@@ -21416,39 +21225,6 @@
       ]
     },
     {
-      "id": "M9KV-79S",
-      "lang": "en_US,EN;Q=0.8",
-      "about": "https://familysearch.org/ark:/61903/1:1:MMR5-7W3",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-XVV7",
-          "resourceId": "cis.user.MMMM-XVV7"
-        },
-        "modified": 1489551999771,
-        "created": 1404873727618
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/M9KV-79S"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"United States Census, 1900,\" database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/MMR5-7W3 : accessed 7 April 2017), Denison, Manti Precinct Manti city, Sanpete, Utah, United States; citing enumeration district (ED) 125, sheet 20A, family 386, NARA microfilm publication T623 (Washington, D.C.: National Archives and Records Administration, 1972.); FHL microfilm 1,241,686.\n"
-        }
-      ],
-      "titles": [
-        {
-          "value": "Denison, \"United States Census, 1900\""
-        }
-      ]
-    },
-    {
       "id": "98MK-KMM",
       "lang": "en_US",
       "about": "https://familysearch.org/ark:/61903/1:1:XZPC-TC7",
@@ -21482,100 +21258,166 @@
       ]
     },
     {
-      "id": "MSG9-V3Z",
+      "id": "9X2F-2HM",
+      "lang": "*",
+      "about": "",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-3Q2H",
+          "resourceId": "cis.user.MMMM-3Q2H"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-3Q2H",
+          "resourceId": "cis.user.MMMM-3Q2H"
+        },
+        "modified": 1460411796684,
+        "created": 1460411796684
+      },
+      "resourceType": "DEFAULT",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/9X2F-2HM"
+        }
+      },
+      "citations": [
+        {
+          "value": "Legacy NFS Source: Hyrum Denison - Government record: Death record or certificate: death: 1 June 1932; Manti, Sanpete, Utah, United States"
+        }
+      ],
+      "titles": [
+        {
+          "value": "Legacy NFS Source: Hyrum Denison - Government record: Death record or certificate: death: 1 June 1932; Manti, Sanpete, Utah, United States"
+        }
+      ]
+    },
+    {
+      "id": "9XCS-YTV",
       "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:VRL5-ZFR",
+      "about": "https://familysearch.org/ark:/61903/1:1:F824-1BG",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-3Q2H",
+          "resourceId": "cis.user.MMMM-3Q2H"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-3Q2H",
+          "resourceId": "cis.user.MMMM-3Q2H"
+        },
+        "modified": 1457637773990,
+        "created": 1457637773990
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/9XCS-YTV"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"Utah Births and Christenings, 1892-1941,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/F824-1BG : 12 December 2014), Hyrum Dennison in entry for /, 03 Oct 1900; citing Manti, Sanpete County, Utah, reference 1124; FHL microfilm 481,653."
+        }
+      ],
+      "titles": [
+        {
+          "value": "Hyrum Dennison in entry for /, \"Utah Births and Christenings, 1892-1941\""
+        }
+      ]
+    },
+    {
+      "id": "9X2F-2Q8",
+      "lang": "*",
+      "about": "http://search.ancestry.com/cgi-bin/sse.dll?db=websearch-4111&h=168333&ti=0&indiv=try&gss=pt",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-3Q2H",
+          "resourceId": "cis.user.MMMM-3Q2H"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-3Q2H",
+          "resourceId": "cis.user.MMMM-3Q2H"
+        },
+        "modified": 1460411776330,
+        "created": 1460411776330
+      },
+      "resourceType": "DEFAULT",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/9X2F-2Q8"
+        }
+      },
+      "citations": [
+        {
+          "value": "Web: Utah, Find A Grave Index, 1850-2011"
+        }
+      ],
+      "titles": [
+        {
+          "value": "Web: Utah, Find A Grave Index, 1850-2011"
+        }
+      ]
+    },
+    {
+      "id": "MM97-SS4",
+      "about": "https://familysearch.org/ark:/61903/1:1:M5X4-JHK",
       "attribution": {
         "contributor": {
           "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
           "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-P3NV",
+          "resourceId": "cis.user.MMM9-P3NV"
+        },
+        "modified": 1489528848262,
+        "created": 1353694925000
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/MM97-SS4"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"United States Census, 1910,\" database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/M5X4-JHK : accessed 7 April 2017), Hyram Denison, Manti, Sanpete, Utah, United States; citing enumeration district (ED) ED 155, sheet 17A, family 355, NARA microfilm publication T624 (Washington D.C.: National Archives and Records Administration, 1982), roll 1608; FHL microfilm 1,375,621.\n"
+        }
+      ],
+      "titles": [
+        {
+          "value": "Hyram Denison, \"United States Census, 1910\""
+        }
+      ]
+    },
+    {
+      "id": "96HY-5HQ",
+      "lang": "en_US",
+      "about": "https://familysearch.org/ark:/61903/1:1:QKDV-8KY6",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-MTCZ",
+          "resourceId": "cis.user.MMMM-MTCZ"
         },
         "creator": {
           "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-MTCZ",
           "resourceId": "cis.user.MMMM-MTCZ"
         },
-        "modified": 1489570059644,
-        "created": 1410488197312
+        "modified": 1450407852603,
+        "created": 1450407852603
       },
       "resourceType": "FSREADONLY",
       "links": {
         "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/MSG9-V3Z"
+          "href": "https://familysearch.org/platform/sources/descriptions/96HY-5HQ"
         }
       },
       "citations": [
         {
-          "value": "\"Utah, County Marriages, 1887-1940\", database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/VRL5-ZFR : 25 January 2016), Hyrum Denison in entry for Edwin Schramm Carpenter and Bertha Rebecca Denison, 1924."
+          "value": "\"Utah Death Certificates, 1904-1964\", database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/QKDV-8KY6 : 25 September 2015), Hyrum Denison in entry for Melvin Denison, 1961."
         }
       ],
       "titles": [
         {
-          "value": "Hyrum Denison in entry for Edwin Schramm Carpenter and Bertha Rebecca Denison, \"Utah, County Marriages, 1887-1940\""
-        }
-      ]
-    },
-    {
-      "id": "9XGR-4CX",
-      "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:QKDW-B1K8",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-3Q2H",
-          "resourceId": "cis.user.MMMM-3Q2H"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-3Q2H",
-          "resourceId": "cis.user.MMMM-3Q2H"
-        },
-        "modified": 1461021247793,
-        "created": 1461021247793
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/9XGR-4CX"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"Utah, Missionary Department Missionary Registers, 1860-1937,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/QKDW-B1K8 : 26 February 2016), Hyrum Denison in entry for John Melvin Denison, Central States; records extracted by FamilySearch and images digitized by Church History library, The Church of Jesus Christ of Latter-day Saints; citing Missionary Register v. 4, Missionary department missionary registers 1860-1959, CR 301 22, Church History Library, Salt lake City, Utah.\n"
-        }
-      ],
-      "titles": [
-        {
-          "value": "Hyrum Denison in entry for John Melvin Denison, \"Utah, Missionary Department Missionary Registers, 1860-1937\""
-        }
-      ]
-    },
-    {
-      "id": "MMXT-FDW",
-      "about": "https://familysearch.org/ark:/61903/1:1:M8PN-GSZ",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-2BSR",
-          "resourceId": "cis.user.MMMM-2BSR"
-        },
-        "modified": 1489539479827,
-        "created": 1390532972000
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/MMXT-FDW"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"United States Census, 1920,\" database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/M8PN-GSZ : accessed 7 April 2017), Hyrum Dennison, Manti, Sanpete, Utah, United States; citing  ED 107, sheet 11B, line 57, family 238, NARA microfilm publication T625 (Washington D.C.: National Archives and Records Administration, 1992), roll 1864; FHL microfilm 1,821,864."
-        }
-      ],
-      "titles": [
-        {
-          "value": "Hyrum Dennison, \"United States Census, 1920\""
+          "value": "Hyrum Denison in entry for Melvin Denison, \"Utah Death Certificates, 1904-1964\""
         }
       ]
     },
@@ -21613,39 +21455,265 @@
       ]
     },
     {
-      "id": "MMMM-ZXL",
-      "about": "https://familysearch.org/ark:/61903/1:1:MNS2-8T8",
+      "id": "MMXT-X26",
+      "about": "https://familysearch.org/ark:/61903/1:1:XZPS-5TR",
       "attribution": {
         "contributor": {
           "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
           "resourceId": "cis.wkca.MMMM-M93P"
         },
         "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-NBRH",
-          "resourceId": "cis.user.MMMM-NBRH"
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-2BSR",
+          "resourceId": "cis.user.MMMM-2BSR"
         },
-        "modified": 1489497675433,
-        "created": 1330326116000
+        "modified": 1489547958146,
+        "created": 1390532382000
       },
-      "resourceType": "DEFAULT",
+      "resourceType": "FSREADONLY",
       "links": {
         "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/MMMM-ZXL"
+          "href": "https://familysearch.org/platform/sources/descriptions/MMXT-X26"
         }
       },
       "citations": [
         {
-          "value": ""
+          "value": "\"Utah Death Certificates, 1904-1964\", database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/XZPS-5TR : 11 September 2015), Hyrum Denison, 1932."
         }
       ],
       "titles": [
         {
-          "value": "United States Census, 1880 for Hyrum Denison"
+          "value": "1932 - Hyrum Denison, \"Utah Death Certificates, 1904-1956\""
         }
       ],
       "notes": [
         {
           "text": ""
+        }
+      ]
+    },
+    {
+      "id": "966H-V85",
+      "lang": "en_US",
+      "about": "https://familysearch.org/ark:/61903/1:1:QKDV-8Z8S",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-3V32",
+          "resourceId": "cis.user.MMM9-3V32"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-3V32",
+          "resourceId": "cis.user.MMM9-3V32"
+        },
+        "modified": 1451853343855,
+        "created": 1451853343855
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/966H-V85"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"Utah Death Certificates, 1904-1964\", database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/QKDV-8Z8S : 25 September 2015), Hyrum Denison in entry for Emily Denison Anderson, 1961."
+        }
+      ],
+      "titles": [
+        {
+          "value": "Hyrum Denison in entry for Emily Denison Anderson, \"Utah Death Certificates, 1904-1964\""
+        }
+      ]
+    },
+    {
+      "id": "9DGW-T49",
+      "lang": "en_US",
+      "about": "https://familysearch.org/ark:/61903/1:1:QV5H-5W9Q",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-MTCZ",
+          "resourceId": "cis.user.MMMM-MTCZ"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-MTCZ",
+          "resourceId": "cis.user.MMMM-MTCZ"
+        },
+        "modified": 1444957004224,
+        "created": 1444957004224
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/9DGW-T49"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"United States, GenealogyBank Obituaries, 1980-2014,\" database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/QV5H-5W9Q : 10 September 2016), Hyrum Denison in entry for Lorenzo Hyrum Denison, Salt Lake City, Utah, United States, 05 Nov 1991; from \"Recent Newspaper Obituaries (1977 - Today),\" database, GenealogyBank.com (http://www.genealogybank.com : 2014); citing , born-digital text."
+        }
+      ],
+      "titles": [
+        {
+          "value": "Hyrum Denison in entry for Lorenzo Hyrum Denison, \"United States, GenealogyBank Obituaries, 1980-2014\""
+        }
+      ]
+    },
+    {
+      "id": "9XGR-4CX",
+      "lang": "en_US",
+      "about": "https://familysearch.org/ark:/61903/1:1:QKDW-B1K8",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-3Q2H",
+          "resourceId": "cis.user.MMMM-3Q2H"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-3Q2H",
+          "resourceId": "cis.user.MMMM-3Q2H"
+        },
+        "modified": 1461021247793,
+        "created": 1461021247793
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/9XGR-4CX"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"Utah, Missionary Department Missionary Registers, 1860-1937,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/QKDW-B1K8 : 26 February 2016), Hyrum Denison in entry for John Melvin Denison, Central States; records extracted by FamilySearch and images digitized by Church History library, The Church of Jesus Christ of Latter-day Saints; citing Missionary Register v. 4, Missionary department missionary registers 1860-1959, CR 301 22, Church History Library, Salt lake City, Utah.\n"
+        }
+      ],
+      "titles": [
+        {
+          "value": "Hyrum Denison in entry for John Melvin Denison, \"Utah, Missionary Department Missionary Registers, 1860-1937\""
+        }
+      ]
+    },
+    {
+      "id": "9DGW-RTV",
+      "lang": "en_US",
+      "about": "https://familysearch.org/ark:/61903/1:1:QKWZ-S6K8",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-MTCZ",
+          "resourceId": "cis.user.MMMM-MTCZ"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-MTCZ",
+          "resourceId": "cis.user.MMMM-MTCZ"
+        },
+        "modified": 1444956910691,
+        "created": 1444956910691
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/9DGW-RTV"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"United States, GenealogyBank Obituaries, 1980-2014,\" database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/QKWZ-S6K8 : 21 July 2016), Hyrum Denison in entry for Geneva Denison Clegg, Salt Lake City, Utah, United States, 15 Apr 1995; from \"Recent Newspaper Obituaries (1977 - Today),\" database, GenealogyBank.com (http://www.genealogybank.com : 2014); citing Deseret News, The, born-digital text."
+        }
+      ],
+      "titles": [
+        {
+          "value": "Hyrum Denison in entry for Geneva Denison Clegg, \"United States, GenealogyBank Obituaries, 1980-2014\""
+        }
+      ]
+    },
+    {
+      "id": "96HY-PLX",
+      "lang": "en_US",
+      "about": "https://familysearch.org/ark:/61903/1:1:QVSF-KF42",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-MTCZ",
+          "resourceId": "cis.user.MMMM-MTCZ"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-MTCZ",
+          "resourceId": "cis.user.MMMM-MTCZ"
+        },
+        "modified": 1450407696513,
+        "created": 1450407696513
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/96HY-PLX"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"Utah, Obituaries from Utah Newspapers, 1850-2005,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/QVSF-KF42 : 8 October 2015), Hyrum Denison in entry for Mrs Bertha Denison Carpenter, 09 Sep 1971; citing Ephraim Enterprise 3, The University of Utah. J. Willard Marriott Library, Salt Lake City."
+        }
+      ],
+      "titles": [
+        {
+          "value": "Hyrum Denison in entry for Mrs Bertha Denison Carpenter, \"Utah, Obituaries from Utah Newspapers, 1850-2005\""
+        }
+      ]
+    },
+    {
+      "id": "MSG9-XVC",
+      "lang": "en_US",
+      "about": "https://familysearch.org/ark:/61903/1:1:F8G4-DDJ",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-MTCZ",
+          "resourceId": "cis.user.MMMM-MTCZ"
+        },
+        "modified": 1489570051742,
+        "created": 1410487027079
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/MSG9-XVC"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"Utah Marriages, 1887-1935,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/F8G4-DDJ : 5 December 2014), Hyrum Denison in entry for J. Melvin Denison and Lenore Gottfredson, 21 Jul 1920; citing ; FHL microfilm 481,519."
+        }
+      ],
+      "titles": [
+        {
+          "value": "Hyrum Denison in entry for J. Melvin Denison and Lenore Gottfredson, \"Utah Marriages, 1887-1935\""
+        }
+      ]
+    },
+    {
+      "id": "9VDD-VSW",
+      "lang": "*",
+      "about": "http://search.ancestry.com/collections/60901/records/645660459",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-3Q2H",
+          "resourceId": "cis.user.MMMM-3Q2H"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-3Q2H",
+          "resourceId": "cis.user.MMMM-3Q2H"
+        },
+        "modified": 1489425771213,
+        "created": 1489425771213
+      },
+      "resourceType": "DEFAULT",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/9VDD-VSW"
+        }
+      },
+      "titles": [
+        {
+          "value": "U.S., Social Security Applications and Claims Index, 1936-2007"
         }
       ]
     },
@@ -21679,6 +21747,425 @@
       "titles": [
         {
           "value": "1920 United States Federal Census"
+        }
+      ]
+    },
+    {
+      "id": "MSLW-2DX",
+      "lang": "en_US",
+      "about": "https://familysearch.org/ark:/61903/1:1:QVSF-1S7W",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-XVV7",
+          "resourceId": "cis.user.MMMM-XVV7"
+        },
+        "modified": 1489569448931,
+        "created": 1410112154916
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/MSLW-2DX"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"Utah, Obituaries from Utah Newspapers, 1850-2005,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/QVSF-1S7W : 8 October 2015), Mr Hyrum Denison, 03 Jun 1932; citing Salt Lake Telegram 13, The University of Utah. J. Willard Marriott Library, Salt Lake City."
+        }
+      ],
+      "titles": [
+        {
+          "value": "1932 - Mr Hyrum Denison, \"Utah, Obituaries from Utah Newspapers, 1850-2005\""
+        }
+      ],
+      "notes": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "9VGR-85G",
+      "lang": "en_US,EN;Q=0.5",
+      "about": "https://familysearch.org/ark:/61903/1:1:Q24H-RQ8V",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-3YV2",
+          "resourceId": "cis.user.MMMM-3YV2"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-3YV2",
+          "resourceId": "cis.user.MMMM-3YV2"
+        },
+        "modified": 1491150612158,
+        "created": 1491150612158
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/9VGR-85G"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"Utah, Birth Certificates, 1903-1914,\" database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/Q24H-RQ8V : 28 September 2016), Hyrum Denison in entry for Alice Denison, 15 Mar 1911; citing Manti, Sanpete, Utah, United States, Utah State Archives, Salt Lake City.\n"
+        }
+      ],
+      "titles": [
+        {
+          "value": "Hyrum Denison in entry for Alice Denison, \"Utah, Birth Certificates, 1903-1914\""
+        }
+      ]
+    },
+    {
+      "id": "9ZVS-888",
+      "lang": "en_US",
+      "about": "https://familysearch.org/ark:/61903/1:1:VRL5-W6K",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-H3R9",
+          "resourceId": "cis.user.MMM9-H3R9"
+        },
+        "modified": 1489624741990,
+        "created": 1422933891498
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/9ZVS-888"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"Utah, County Marriages, 1887-1940\", database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/VRL5-W6K : 25 January 2016), Hyrum Denison in entry for Marion Jones and Cleo Denison, 1934."
+        }
+      ],
+      "titles": [
+        {
+          "value": "Hyrum Denison in entry for Marion Jones and Cleo Denison, \"Utah, County Marriages, 1887-1940\""
+        }
+      ]
+    },
+    {
+      "id": "98MV-7JD",
+      "lang": "en_US",
+      "about": "https://familysearch.org/ark:/61903/1:1:VRLP-Z96",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-SQ2S",
+          "resourceId": "cis.user.MMM9-SQ2S"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-SQ2S",
+          "resourceId": "cis.user.MMM9-SQ2S"
+        },
+        "modified": 1427149483231,
+        "created": 1427149483231
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/98MV-7JD"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"Utah, County Marriages, 1887-1940\", database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/VRLP-Z96 : 25 January 2016), Hyrum Denison in entry for Almon Giles Clegg and Geneva Denison, 1928."
+        }
+      ],
+      "titles": [
+        {
+          "value": "Hyrum Denison in entry for Almon Giles Clegg and Geneva Denison, \"Utah, County Marriages, 1887-1940\""
+        }
+      ]
+    },
+    {
+      "id": "9X2F-2QB",
+      "lang": "*",
+      "about": "http://search.ancestry.com/cgi-bin/sse.dll?db=1900usfedcen&h=61754831&ti=0&indiv=try&gss=pt",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-3Q2H",
+          "resourceId": "cis.user.MMMM-3Q2H"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-3Q2H",
+          "resourceId": "cis.user.MMMM-3Q2H"
+        },
+        "modified": 1460411778670,
+        "created": 1460411778670
+      },
+      "resourceType": "DEFAULT",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/9X2F-2QB"
+        }
+      },
+      "citations": [
+        {
+          "value": "1900 United States Federal Census"
+        }
+      ],
+      "titles": [
+        {
+          "value": "1900 United States Federal Census"
+        }
+      ]
+    },
+    {
+      "id": "MSG9-CK8",
+      "lang": "en_US",
+      "about": "https://familysearch.org/ark:/61903/1:1:VRLH-9P8",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-MTCZ",
+          "resourceId": "cis.user.MMMM-MTCZ"
+        },
+        "modified": 1489570040435,
+        "created": 1410485294832
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/MSG9-CK8"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"Utah, County Marriages, 1887-1940\", database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/VRLH-9P8 : 25 January 2016), Hyrum Denison in entry for J Melvin Denison and Lenore Gottfredson, 1920."
+        }
+      ],
+      "titles": [
+        {
+          "value": "Hyrum Denison in entry for J Melvin Denison and Lenore Gottfredson, \"Utah, County Marriages, 1887-1940\""
+        }
+      ]
+    },
+    {
+      "id": "M9KJ-CGW",
+      "lang": "en_US,EN;Q=0.8",
+      "about": "http://search.ancestry.com/cgi-bin/sse.dll?indiv=1&db=1870usfedcen&rank=1&new=1&MSAV=0&msT=1&gss=angs-d&gsfn=Hans&gsln=dineson&msbdy=1824&msbpn__ftp=denmark&msrpn__ftp=Utah%2c+USA&msrpn=47&msrpn_PInfo=5-|0|1652393|0|2|3249|47|0|0|0|0|&uidh=zvk&pcat=35&fh=0&h=14637132&recoff=&ml_rpos=1",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-XVV7",
+          "resourceId": "cis.user.MMMM-XVV7"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-XVV7",
+          "resourceId": "cis.user.MMMM-XVV7"
+        },
+        "modified": 1404863885676,
+        "created": 1404862510889
+      },
+      "resourceType": "DEFAULT",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/M9KJ-CGW"
+        }
+      },
+      "citations": [
+        {
+          "value": "Ancestry.com; 1870 United States Federal Census, indexed as Hyman Denaim\nManti Ward 4, Sanpete County, Utah Territory, Image 1, Page 1, Family 2"
+        }
+      ],
+      "titles": [
+        {
+          "value": "1870 United States Federal Census for Hyrum Denison"
+        }
+      ],
+      "notes": [
+        {
+          "text": "Denaim, Hyrum, age 5, Male, White, At Home, Born in Utah, Father of foreign birth, Mother of foreign birth"
+        }
+      ]
+    },
+    {
+      "id": "MM97-S38",
+      "about": "https://familysearch.org/ark:/61903/1:1:KCXR-81V",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-P3NV",
+          "resourceId": "cis.user.MMM9-P3NV"
+        },
+        "modified": 1489547956190,
+        "created": 1353695169000
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/MM97-S38"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"BillionGraves Index,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/KCXR-81V : 24 June 2015), Hyrum Denison, died 01 Jun 1932; citing BillionGraves (http://www.billiongraves.com : 2012), Burial at Manti Cemetery, Manti, Sanpete, Utah, United States."
+        }
+      ],
+      "titles": [
+        {
+          "value": "1932 - Hyrum Denison, \"BillionGraves Index\""
+        }
+      ],
+      "notes": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "MM1H-B53",
+      "about": "http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&GRid=48322049",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-3DHK",
+          "resourceId": "cis.user.MMM9-3DHK"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-3DHK",
+          "resourceId": "cis.user.MMM9-3DHK"
+        },
+        "modified": 1397851929441,
+        "created": 1397851929441
+      },
+      "resourceType": "DEFAULT",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/MM1H-B53"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"Hyrum Denison (1865 - 1932) - Find A Grave Memorial.\" Hyrum Denison (1865 - 1932) - Find A Grave Memorial. N.p., n.d. Web. 18 Apr. 2014.."
+        }
+      ],
+      "titles": [
+        {
+          "value": "Hyrum Denison (1865 - 1932) - Find A Grave Memorial"
+        }
+      ],
+      "notes": [
+        {
+          "text": "This source was added by the free service available at RecordSeek.com."
+        }
+      ]
+    },
+    {
+      "id": "9FP5-X6B",
+      "lang": "en",
+      "about": "",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-DX4N",
+          "resourceId": "cis.user.MMM9-DX4N"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-DX4N",
+          "resourceId": "cis.user.MMM9-DX4N"
+        },
+        "modified": 1469755950767,
+        "created": 1469755950767
+      },
+      "resourceType": "DEFAULT",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/9FP5-X6B"
+        }
+      },
+      "citations": [
+        {
+          "value": "Salt Lake City Family History Library"
+        }
+      ],
+      "titles": [
+        {
+          "value": "Brief History and Geneological Record of the Family Descendents of John Stutznegger Sr."
+        }
+      ],
+      "notes": [
+        {
+          "text": "blue covered book written and compiled by Lillian Stutznegger Frandsen published in 1977"
+        }
+      ]
+    },
+    {
+      "id": "9XGR-7H6",
+      "lang": "en_US",
+      "about": "https://familysearch.org/ark:/61903/1:1:QKDW-13LV",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-3Q2H",
+          "resourceId": "cis.user.MMMM-3Q2H"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-3Q2H",
+          "resourceId": "cis.user.MMMM-3Q2H"
+        },
+        "modified": 1461020796886,
+        "created": 1461020796886
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/9XGR-7H6"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"Utah, Missionary Department Missionary Registers, 1860-1937,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/QKDW-13LV : 26 February 2016), Hyrum Denison in entry for Hans Peter Denison, California; records extracted by FamilySearch and images digitized by Church History library, The Church of Jesus Christ of Latter-day Saints; citing Missionary Register v. 5, Missionary department missionary registers 1860-1959, CR 301 22, Church History Library, Salt lake City, Utah.\n"
+        }
+      ],
+      "titles": [
+        {
+          "value": "Hyrum Denison in entry for Hans Peter Denison, \"Utah, Missionary Department Missionary Registers, 1860-1937\""
+        }
+      ]
+    },
+    {
+      "id": "MSG9-NPH",
+      "lang": "en_US",
+      "about": "https://familysearch.org/ark:/61903/1:1:KSP9-TFT",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-MTCZ",
+          "resourceId": "cis.user.MMMM-MTCZ"
+        },
+        "modified": 1489570056517,
+        "created": 1410487719654
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/MSG9-NPH"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"Utah, County Marriages, 1887-1940\", database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/KSP9-TFT : 25 January 2016), Hyrum Denison in entry for Lorenzo Denison and Ruth Bench, 1923."
+        }
+      ],
+      "titles": [
+        {
+          "value": "Hyrum Denison in entry for Lorenzo Denison and Ruth Bench, \"Utah, County Marriages, 1887-1940\""
         }
       ]
     },
@@ -21753,184 +22240,39 @@
       ]
     },
     {
-      "id": "MMXT-X26",
-      "about": "https://familysearch.org/ark:/61903/1:1:XZPS-5TR",
+      "id": "M9SH-34J",
+      "about": "http://billiongraves.com/pages/record/HyrumDenison/2140981?utm_campaign=treeconnect&utm_source=familysearch.org&utm_medium=sourcelink",
       "attribution": {
         "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-2BSR",
-          "resourceId": "cis.user.MMMM-2BSR"
-        },
-        "modified": 1489547958146,
-        "created": 1390532382000
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/MMXT-X26"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"Utah Death Certificates, 1904-1964\", database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/XZPS-5TR : 11 September 2015), Hyrum Denison, 1932."
-        }
-      ],
-      "titles": [
-        {
-          "value": "1932 - Hyrum Denison, \"Utah Death Certificates, 1904-1956\""
-        }
-      ],
-      "notes": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "id": "98MJ-217",
-      "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:VRLG-D4V",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-SQ2S",
-          "resourceId": "cis.user.MMM9-SQ2S"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-SQ2S",
-          "resourceId": "cis.user.MMM9-SQ2S"
-        },
-        "modified": 1427146334530,
-        "created": 1427146334530
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/98MJ-217"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"Utah, County Marriages, 1887-1940\", database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/VRLG-D4V : 25 January 2016), Hyrum Denison in entry for Hans Peter Denison and Sarah Isaacson, 1926."
-        }
-      ],
-      "titles": [
-        {
-          "value": "Hyrum Denison in entry for Hans Peter Denison and Sarah Isaacson, \"Utah, County Marriages, 1887-1940\""
-        }
-      ]
-    },
-    {
-      "id": "MMMM-ZX2",
-      "about": "https://familysearch.org/ark:/61903/1:1:F8P4-WLD",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-NBRH",
-          "resourceId": "cis.user.MMMM-NBRH"
-        },
-        "modified": 1489547957082,
-        "created": 1330326064000
-      },
-      "resourceType": "DEFAULT",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/MMMM-ZX2"
-        }
-      },
-      "citations": [
-        {
-          "value": ""
-        }
-      ],
-      "titles": [
-        {
-          "value": "1891 - Utah Marriages, 1887-1966 for Hyrum Denison"
-        }
-      ],
-      "notes": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "id": "MSLW-2DX",
-      "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:QVSF-1S7W",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "creator": {
           "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-XVV7",
           "resourceId": "cis.user.MMMM-XVV7"
         },
-        "modified": 1489569448931,
-        "created": 1410112154916
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/MSLW-2DX"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"Utah, Obituaries from Utah Newspapers, 1850-2005,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/QVSF-1S7W : 8 October 2015), Mr Hyrum Denison, 03 Jun 1932; citing Salt Lake Telegram 13, The University of Utah. J. Willard Marriott Library, Salt Lake City."
-        }
-      ],
-      "titles": [
-        {
-          "value": "1932 - Mr Hyrum Denison, \"Utah, Obituaries from Utah Newspapers, 1850-2005\""
-        }
-      ],
-      "notes": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "id": "MM1H-B53",
-      "about": "http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&GRid=48322049",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-3DHK",
-          "resourceId": "cis.user.MMM9-3DHK"
-        },
         "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-3DHK",
-          "resourceId": "cis.user.MMM9-3DHK"
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-4SDX",
+          "resourceId": "cis.user.MMM9-4SDX"
         },
-        "modified": 1397851929441,
-        "created": 1397851929441
+        "modified": 1403666692928,
+        "created": 1400716784830
       },
       "resourceType": "DEFAULT",
       "links": {
         "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/MM1H-B53"
+          "href": "https://familysearch.org/platform/sources/descriptions/M9SH-34J"
         }
       },
       "citations": [
         {
-          "value": "\"Hyrum Denison (1865 - 1932) - Find A Grave Memorial.\" Hyrum Denison (1865 - 1932) - Find A Grave Memorial. N.p., n.d. Web. 18 Apr. 2014.."
+          "value": "Transcription of headstone image from billiongraves.com. Image taken at Manti Cemetery (Manti, Sanpete, Utah, United States) on 12 September 2012"
         }
       ],
       "titles": [
         {
-          "value": "Hyrum Denison (1865 - 1932) - Find A Grave Memorial"
+          "value": "1932 - Headstone image of Hyrum Denison from billiongraves.com"
         }
       ],
       "notes": [
         {
-          "text": "This source was added by the free service available at RecordSeek.com."
+          "text": "Name: Hyrum Denison\nBirth: 6 January 1865\nDeath: 1 June 1932\nBurial: Manti Cemetery, Manti, Sanpete, Utah, United States"
         }
       ]
     },
@@ -21972,219 +22314,42 @@
       ]
     },
     {
-      "id": "9XRJ-WT4",
-      "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:Q2MB-35MD",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-C5L9",
-          "resourceId": "cis.user.MMMM-C5L9"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-C5L9",
-          "resourceId": "cis.user.MMMM-C5L9"
-        },
-        "modified": 1461725274773,
-        "created": 1461725274773
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/9XRJ-WT4"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"Utah, County Marriages, 1887-1940\", database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/Q2MB-35MD : 2 February 2016), Hyrum in entry for Fred Heber Denison and Helen Whiting, 1934."
-        }
-      ],
-      "titles": [
-        {
-          "value": "Hyrum in entry for Fred Heber Denison and Helen Whiting, \"Utah, County Marriages, 1887-1940\""
-        }
-      ]
-    },
-    {
-      "id": "MM97-S38",
-      "about": "https://familysearch.org/ark:/61903/1:1:KCXR-81V",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-P3NV",
-          "resourceId": "cis.user.MMM9-P3NV"
-        },
-        "modified": 1489547956190,
-        "created": 1353695169000
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/MM97-S38"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"BillionGraves Index,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/KCXR-81V : 24 June 2015), Hyrum Denison, died 01 Jun 1932; citing BillionGraves (http://www.billiongraves.com : 2012), Burial at Manti Cemetery, Manti, Sanpete, Utah, United States."
-        }
-      ],
-      "titles": [
-        {
-          "value": "1932 - Hyrum Denison, \"BillionGraves Index\""
-        }
-      ],
-      "notes": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "id": "MMJ1-31Q",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-6SSD",
-          "resourceId": "cis.user.MMM9-6SSD"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-6SSD",
-          "resourceId": "cis.user.MMM9-6SSD"
-        },
-        "modified": 1393313462000,
-        "created": 1393313462000
-      },
-      "resourceType": "LEGACY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/MMJ1-31Q"
-        }
-      },
-      "citations": [
-        {
-          "value": "Electronic document, Utah States Death Certificate, Utah State Board of Health, Archive, Utah State Archives, http://historyresearch.utah.gov/indexes/index.html"
-        }
-      ],
-      "titles": [
-        {
-          "value": "Legacy NFS Source: Hyrum Denison - Government record: Death record or certificate: death: 1 June 1932; Manti, Sanpete, Utah, United States"
-        }
-      ],
-      "notes": [
-        {
-          "text": "Government record: Death record or certificate: death: 1 June 1932; Manti, Sanpete, Utah, United States"
-        }
-      ]
-    },
-    {
-      "id": "96HY-PLX",
-      "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:QVSF-KF42",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-MTCZ",
-          "resourceId": "cis.user.MMMM-MTCZ"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-MTCZ",
-          "resourceId": "cis.user.MMMM-MTCZ"
-        },
-        "modified": 1450407696513,
-        "created": 1450407696513
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/96HY-PLX"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"Utah, Obituaries from Utah Newspapers, 1850-2005,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/QVSF-KF42 : 8 October 2015), Hyrum Denison in entry for Mrs Bertha Denison Carpenter, 09 Sep 1971; citing Ephraim Enterprise 3, The University of Utah. J. Willard Marriott Library, Salt Lake City."
-        }
-      ],
-      "titles": [
-        {
-          "value": "Hyrum Denison in entry for Mrs Bertha Denison Carpenter, \"Utah, Obituaries from Utah Newspapers, 1850-2005\""
-        }
-      ]
-    },
-    {
-      "id": "9X2F-27B",
+      "id": "9X2F-249",
       "lang": "*",
-      "about": "http://search.ancestry.com/cgi-bin/sse.dll?db=1870usfedcen&h=14637133&ti=0&indiv=try&gss=pt",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-3Q2H",
-          "resourceId": "cis.user.MMMM-3Q2H"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-3Q2H",
-          "resourceId": "cis.user.MMMM-3Q2H"
-        },
-        "modified": 1460411784835,
-        "created": 1460411784835
-      },
-      "resourceType": "DEFAULT",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/9X2F-27B"
-        }
-      },
-      "citations": [
-        {
-          "value": "1870 United States Federal Census"
-        }
-      ],
-      "titles": [
-        {
-          "value": "1870 United States Federal Census"
-        }
-      ]
-    },
-    {
-      "id": "9FP5-X6B",
-      "lang": "en",
       "about": "",
       "attribution": {
         "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-DX4N",
-          "resourceId": "cis.user.MMM9-DX4N"
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-3Q2H",
+          "resourceId": "cis.user.MMMM-3Q2H"
         },
         "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-DX4N",
-          "resourceId": "cis.user.MMM9-DX4N"
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-3Q2H",
+          "resourceId": "cis.user.MMMM-3Q2H"
         },
-        "modified": 1469755950767,
-        "created": 1469755950767
+        "modified": 1460411790834,
+        "created": 1460411790834
       },
       "resourceType": "DEFAULT",
       "links": {
         "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/9FP5-X6B"
+          "href": "https://familysearch.org/platform/sources/descriptions/9X2F-249"
         }
       },
       "citations": [
         {
-          "value": "Salt Lake City Family History Library"
+          "value": "Legacy NFS Source: Hyrum Denison - Individual or family possessions: Family genealogies: burial: 3 June 1932; Manti, Sanpete, Utah, United States"
         }
       ],
       "titles": [
         {
-          "value": "Brief History and Geneological Record of the Family Descendents of John Stutznegger Sr."
-        }
-      ],
-      "notes": [
-        {
-          "text": "blue covered book written and compiled by Lillian Stutznegger Frandsen published in 1977"
+          "value": "Legacy NFS Source: Hyrum Denison - Individual or family possessions: Family genealogies: burial: 3 June 1932; Manti, Sanpete, Utah, United States"
         }
       ]
     },
     {
-      "id": "9XCS-YTV",
-      "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:F824-1BG",
+      "id": "9X2F-24C",
+      "lang": "*",
+      "about": "",
       "attribution": {
         "contributor": {
           "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-3Q2H",
@@ -22194,155 +22359,56 @@
           "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-3Q2H",
           "resourceId": "cis.user.MMMM-3Q2H"
         },
-        "modified": 1457637773990,
-        "created": 1457637773990
+        "modified": 1460411792291,
+        "created": 1460411792291
       },
-      "resourceType": "FSREADONLY",
+      "resourceType": "DEFAULT",
       "links": {
         "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/9XCS-YTV"
+          "href": "https://familysearch.org/platform/sources/descriptions/9X2F-24C"
         }
       },
       "citations": [
         {
-          "value": "\"Utah Births and Christenings, 1892-1941,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/F824-1BG : 12 December 2014), Hyrum Dennison in entry for /, 03 Oct 1900; citing Manti, Sanpete County, Utah, reference 1124; FHL microfilm 481,653."
+          "value": "Ancestry Family Trees"
         }
       ],
       "titles": [
         {
-          "value": "Hyrum Dennison in entry for /, \"Utah Births and Christenings, 1892-1941\""
+          "value": "Ancestry Family Trees"
         }
       ]
     },
     {
-      "id": "MSG9-NPH",
-      "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:KSP9-TFT",
+      "id": "M9KV-79S",
+      "lang": "en_US,EN;Q=0.8",
+      "about": "https://familysearch.org/ark:/61903/1:1:MMR5-7W3",
       "attribution": {
         "contributor": {
           "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
           "resourceId": "cis.wkca.MMMM-M93P"
         },
         "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-MTCZ",
-          "resourceId": "cis.user.MMMM-MTCZ"
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-XVV7",
+          "resourceId": "cis.user.MMMM-XVV7"
         },
-        "modified": 1489570056517,
-        "created": 1410487719654
+        "modified": 1489551999771,
+        "created": 1404873727618
       },
       "resourceType": "FSREADONLY",
       "links": {
         "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/MSG9-NPH"
+          "href": "https://familysearch.org/platform/sources/descriptions/M9KV-79S"
         }
       },
       "citations": [
         {
-          "value": "\"Utah, County Marriages, 1887-1940\", database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/KSP9-TFT : 25 January 2016), Hyrum Denison in entry for Lorenzo Denison and Ruth Bench, 1923."
+          "value": "\"United States Census, 1900,\" database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/MMR5-7W3 : accessed 14 April 2017), Denison, Manti Precinct Manti city, Sanpete, Utah, United States; citing enumeration district (ED) 125, sheet 20A, family 386, NARA microfilm publication T623 (Washington, D.C.: National Archives and Records Administration, 1972.); FHL microfilm 1,241,686.\n"
         }
       ],
       "titles": [
         {
-          "value": "Hyrum Denison in entry for Lorenzo Denison and Ruth Bench, \"Utah, County Marriages, 1887-1940\""
-        }
-      ]
-    },
-    {
-      "id": "98TP-XW4",
-      "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:QV5H-5T7D",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-329G",
-          "resourceId": "cis.user.MMM9-329G"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-329G",
-          "resourceId": "cis.user.MMM9-329G"
-        },
-        "modified": 1436205826404,
-        "created": 1436205826404
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/98TP-XW4"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"United States, GenealogyBank Obituaries, 1980-2014,\" database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/QV5H-5T7D : 10 September 2016), Hyrum Denison in entry for Lorenzo Hyrum Denison, Utah, United States, 05 Nov 1991; from \"Recent Newspaper Obituaries (1977 - Today),\" database, GenealogyBank.com (http://www.genealogybank.com : 2014); citing , born-digital text."
-        }
-      ],
-      "titles": [
-        {
-          "value": "Hyrum Denison in entry for Lorenzo Hyrum Denison, \"United States, GenealogyBank Obituaries, 1980-2014\""
-        }
-      ]
-    },
-    {
-      "id": "98MJ-KNG",
-      "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:QVK5-NGK5",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-SQ2S",
-          "resourceId": "cis.user.MMM9-SQ2S"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-SQ2S",
-          "resourceId": "cis.user.MMM9-SQ2S"
-        },
-        "modified": 1427146042757,
-        "created": 1427146042757
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/98MJ-KNG"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"Find A Grave Index,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/QVK5-NGK5 : 13 December 2015), Hyrum Denison, 1932; Burial, Manti, Sanpete, Utah, United States of America, Manti Cemetery; citing record ID 48322049, Find a Grave, http://www.findagrave.com."
-        }
-      ],
-      "titles": [
-        {
-          "value": "Hyrum Denison, \"Find A Grave Index\""
-        }
-      ]
-    },
-    {
-      "id": "MSG9-XVC",
-      "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:F8G4-DDJ",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-MTCZ",
-          "resourceId": "cis.user.MMMM-MTCZ"
-        },
-        "modified": 1489570051742,
-        "created": 1410487027079
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/MSG9-XVC"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"Utah Marriages, 1887-1935,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/F8G4-DDJ : 5 December 2014), Hyrum Denison in entry for J. Melvin Denison and Lenore Gottfredson, 21 Jul 1920; citing ; FHL microfilm 481,519."
-        }
-      ],
-      "titles": [
-        {
-          "value": "Hyrum Denison in entry for J. Melvin Denison and Lenore Gottfredson, \"Utah Marriages, 1887-1935\""
+          "value": "Denison, \"United States Census, 1900\""
         }
       ]
     },
@@ -22380,73 +22446,38 @@
       ]
     },
     {
-      "id": "9ZVS-888",
-      "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:VRL5-W6K",
+      "id": "MMJ1-31Q",
       "attribution": {
         "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-6SSD",
+          "resourceId": "cis.user.MMM9-6SSD"
         },
         "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-H3R9",
-          "resourceId": "cis.user.MMM9-H3R9"
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-6SSD",
+          "resourceId": "cis.user.MMM9-6SSD"
         },
-        "modified": 1489624741990,
-        "created": 1422933891498
+        "modified": 1393313462000,
+        "created": 1393313462000
       },
-      "resourceType": "FSREADONLY",
+      "resourceType": "LEGACY",
       "links": {
         "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/9ZVS-888"
+          "href": "https://familysearch.org/platform/sources/descriptions/MMJ1-31Q"
         }
       },
       "citations": [
         {
-          "value": "\"Utah, County Marriages, 1887-1940\", database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/VRL5-W6K : 25 January 2016), Hyrum Denison in entry for Marion Jones and Cleo Denison, 1934."
+          "value": "Electronic document, Utah States Death Certificate, Utah State Board of Health, Archive, Utah State Archives, http://historyresearch.utah.gov/indexes/index.html"
         }
       ],
       "titles": [
         {
-          "value": "Hyrum Denison in entry for Marion Jones and Cleo Denison, \"Utah, County Marriages, 1887-1940\""
-        }
-      ]
-    },
-    {
-      "id": "M9KJ-CGW",
-      "lang": "en_US,EN;Q=0.8",
-      "about": "http://search.ancestry.com/cgi-bin/sse.dll?indiv=1&db=1870usfedcen&rank=1&new=1&MSAV=0&msT=1&gss=angs-d&gsfn=Hans&gsln=dineson&msbdy=1824&msbpn__ftp=denmark&msrpn__ftp=Utah%2c+USA&msrpn=47&msrpn_PInfo=5-|0|1652393|0|2|3249|47|0|0|0|0|&uidh=zvk&pcat=35&fh=0&h=14637132&recoff=&ml_rpos=1",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-XVV7",
-          "resourceId": "cis.user.MMMM-XVV7"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-XVV7",
-          "resourceId": "cis.user.MMMM-XVV7"
-        },
-        "modified": 1404863885676,
-        "created": 1404862510889
-      },
-      "resourceType": "DEFAULT",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/M9KJ-CGW"
-        }
-      },
-      "citations": [
-        {
-          "value": "Ancestry.com; 1870 United States Federal Census, indexed as Hyman Denaim\nManti Ward 4, Sanpete County, Utah Territory, Image 1, Page 1, Family 2"
-        }
-      ],
-      "titles": [
-        {
-          "value": "1870 United States Federal Census for Hyrum Denison"
+          "value": "Legacy NFS Source: Hyrum Denison - Government record: Death record or certificate: death: 1 June 1932; Manti, Sanpete, Utah, United States"
         }
       ],
       "notes": [
         {
-          "text": "Denaim, Hyrum, age 5, Male, White, At Home, Born in Utah, Father of foreign birth, Mother of foreign birth"
+          "text": "Government record: Death record or certificate: death: 1 June 1932; Manti, Sanpete, Utah, United States"
         }
       ]
     },
@@ -22488,6 +22519,142 @@
       ]
     },
     {
+      "id": "MMMM-ZXL",
+      "about": "https://familysearch.org/ark:/61903/1:1:MNS2-8T8",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-NBRH",
+          "resourceId": "cis.user.MMMM-NBRH"
+        },
+        "modified": 1489497675433,
+        "created": 1330326116000
+      },
+      "resourceType": "DEFAULT",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/MMMM-ZXL"
+        }
+      },
+      "citations": [
+        {
+          "value": ""
+        }
+      ],
+      "titles": [
+        {
+          "value": "United States Census, 1880 for Hyrum Denison"
+        }
+      ],
+      "notes": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "9X2F-27K",
+      "lang": "*",
+      "about": "http://search.ancestry.com/cgi-bin/sse.dll?db=1880usfedcen&h=15540511&ti=0&indiv=try&gss=pt",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-3Q2H",
+          "resourceId": "cis.user.MMMM-3Q2H"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-3Q2H",
+          "resourceId": "cis.user.MMMM-3Q2H"
+        },
+        "modified": 1460411783352,
+        "created": 1460411783352
+      },
+      "resourceType": "DEFAULT",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/9X2F-27K"
+        }
+      },
+      "citations": [
+        {
+          "value": "1880 United States Federal Census"
+        }
+      ],
+      "titles": [
+        {
+          "value": "1880 United States Federal Census"
+        }
+      ]
+    },
+    {
+      "id": "98MJ-217",
+      "lang": "en_US",
+      "about": "https://familysearch.org/ark:/61903/1:1:VRLG-D4V",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-SQ2S",
+          "resourceId": "cis.user.MMM9-SQ2S"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-SQ2S",
+          "resourceId": "cis.user.MMM9-SQ2S"
+        },
+        "modified": 1427146334530,
+        "created": 1427146334530
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/98MJ-217"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"Utah, County Marriages, 1887-1940\", database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/VRLG-D4V : 25 January 2016), Hyrum Denison in entry for Hans Peter Denison and Sarah Isaacson, 1926."
+        }
+      ],
+      "titles": [
+        {
+          "value": "Hyrum Denison in entry for Hans Peter Denison and Sarah Isaacson, \"Utah, County Marriages, 1887-1940\""
+        }
+      ]
+    },
+    {
+      "id": "MSG9-SNC",
+      "lang": "en_US",
+      "about": "https://familysearch.org/ark:/61903/1:1:VRLH-9P2",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-MTCZ",
+          "resourceId": "cis.user.MMMM-MTCZ"
+        },
+        "modified": 1489570160828,
+        "created": 1410482982000
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/MSG9-SNC"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"Utah, County Marriages, 1887-1940\", database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/VRLH-9P2 : 25 January 2016), Hyrum Denison in entry for Ardelle William Phillips and Barbara Ellen Denison, 1920."
+        }
+      ],
+      "titles": [
+        {
+          "value": "Hyrum Denison in entry for Ardelle William Phillips and Barbara Ellen Denison, \"Utah, County Marriages, 1887-1940\""
+        }
+      ]
+    },
+    {
       "id": "MMJ1-3BK",
       "attribution": {
         "contributor": {
@@ -22524,9 +22691,42 @@
       ]
     },
     {
-      "id": "98MV-HZC",
+      "id": "9X2F-27Q",
+      "lang": "*",
+      "about": "http://search.ancestry.com/cgi-bin/sse.dll?db=utahdeathindex&h=137651&ti=0&indiv=try&gss=pt",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-3Q2H",
+          "resourceId": "cis.user.MMMM-3Q2H"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-3Q2H",
+          "resourceId": "cis.user.MMMM-3Q2H"
+        },
+        "modified": 1460411780088,
+        "created": 1460411780088
+      },
+      "resourceType": "DEFAULT",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/9X2F-27Q"
+        }
+      },
+      "citations": [
+        {
+          "value": "Utah Death Index, 1905-1951"
+        }
+      ],
+      "titles": [
+        {
+          "value": "Utah Death Index, 1905-1951"
+        }
+      ]
+    },
+    {
+      "id": "98MJ-KNG",
       "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:VRL5-9MF",
+      "about": "https://familysearch.org/ark:/61903/1:1:QVK5-NGK5",
       "attribution": {
         "contributor": {
           "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-SQ2S",
@@ -22536,30 +22736,67 @@
           "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-SQ2S",
           "resourceId": "cis.user.MMM9-SQ2S"
         },
-        "modified": 1427150174218,
-        "created": 1427150174218
+        "modified": 1427146042757,
+        "created": 1427146042757
       },
       "resourceType": "FSREADONLY",
       "links": {
         "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/98MV-HZC"
+          "href": "https://familysearch.org/platform/sources/descriptions/98MJ-KNG"
         }
       },
       "citations": [
         {
-          "value": "\"Utah, County Marriages, 1887-1940\", database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/VRL5-9MF : 25 January 2016), Hyrum Denison in entry for Leslie J Anderson and Iris Denison, 1931."
+          "value": "\"Find A Grave Index,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/QVK5-NGK5 : 13 December 2015), Hyrum Denison, 1932; Burial, Manti, Sanpete, Utah, United States of America, Manti Cemetery; citing record ID 48322049, Find a Grave, http://www.findagrave.com."
         }
       ],
       "titles": [
         {
-          "value": "Hyrum Denison in entry for Leslie J Anderson and Iris Denison, \"Utah, County Marriages, 1887-1940\""
+          "value": "Hyrum Denison, \"Find A Grave Index\""
         }
       ]
     },
     {
-      "id": "MSG9-CK8",
+      "id": "MMMM-ZX2",
+      "about": "https://familysearch.org/ark:/61903/1:1:F8P4-WLD",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-NBRH",
+          "resourceId": "cis.user.MMMM-NBRH"
+        },
+        "modified": 1489547957082,
+        "created": 1330326064000
+      },
+      "resourceType": "DEFAULT",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/MMMM-ZX2"
+        }
+      },
+      "citations": [
+        {
+          "value": ""
+        }
+      ],
+      "titles": [
+        {
+          "value": "1891 - Utah Marriages, 1887-1966 for Hyrum Denison"
+        }
+      ],
+      "notes": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "MSG9-V3Z",
       "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:VRLH-9P8",
+      "about": "https://familysearch.org/ark:/61903/1:1:VRL5-ZFR",
       "attribution": {
         "contributor": {
           "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
@@ -22569,23 +22806,23 @@
           "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-MTCZ",
           "resourceId": "cis.user.MMMM-MTCZ"
         },
-        "modified": 1489570040435,
-        "created": 1410485294832
+        "modified": 1489570059644,
+        "created": 1410488197312
       },
       "resourceType": "FSREADONLY",
       "links": {
         "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/MSG9-CK8"
+          "href": "https://familysearch.org/platform/sources/descriptions/MSG9-V3Z"
         }
       },
       "citations": [
         {
-          "value": "\"Utah, County Marriages, 1887-1940\", database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/VRLH-9P8 : 25 January 2016), Hyrum Denison in entry for J Melvin Denison and Lenore Gottfredson, 1920."
+          "value": "\"Utah, County Marriages, 1887-1940\", database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/VRL5-ZFR : 25 January 2016), Hyrum Denison in entry for Edwin Schramm Carpenter and Bertha Rebecca Denison, 1924."
         }
       ],
       "titles": [
         {
-          "value": "Hyrum Denison in entry for J Melvin Denison and Lenore Gottfredson, \"Utah, County Marriages, 1887-1940\""
+          "value": "Hyrum Denison in entry for Edwin Schramm Carpenter and Bertha Rebecca Denison, \"Utah, County Marriages, 1887-1940\""
         }
       ]
     },
@@ -22654,72 +22891,6 @@
           "value": "Hyrum Denison in entry for Denison, \"Utah, Birth Certificates, 1903-1914\""
         }
       ]
-    },
-    {
-      "id": "9X2F-278",
-      "lang": "*",
-      "about": "http://search.ancestry.com/cgi-bin/sse.dll?db=1930usfedcen&h=121942551&ti=0&indiv=try&gss=pt",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-3Q2H",
-          "resourceId": "cis.user.MMMM-3Q2H"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-3Q2H",
-          "resourceId": "cis.user.MMMM-3Q2H"
-        },
-        "modified": 1460411781649,
-        "created": 1460411781649
-      },
-      "resourceType": "DEFAULT",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/9X2F-278"
-        }
-      },
-      "citations": [
-        {
-          "value": "1930 United States Federal Census"
-        }
-      ],
-      "titles": [
-        {
-          "value": "1930 United States Federal Census"
-        }
-      ]
-    },
-    {
-      "id": "966H-V85",
-      "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:QKDV-8Z8S",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-3V32",
-          "resourceId": "cis.user.MMM9-3V32"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-3V32",
-          "resourceId": "cis.user.MMM9-3V32"
-        },
-        "modified": 1451853343855,
-        "created": 1451853343855
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/966H-V85"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"Utah Death Certificates, 1904-1964\", database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/QKDV-8Z8S : 25 September 2015), Hyrum Denison in entry for Emily Denison Anderson, 1961."
-        }
-      ],
-      "titles": [
-        {
-          "value": "Hyrum Denison in entry for Emily Denison Anderson, \"Utah Death Certificates, 1904-1964\""
-        }
-      ]
     }
   ],
   "places": [
@@ -22765,6 +22936,21 @@
         {
           "lang": "und",
           "value": "Sanpete, Utah, United States"
+        }
+      ]
+    },
+    {
+      "id": "pd_39.267009x-111.5387",
+      "latitude": 39.267009,
+      "longitude": -111.5387,
+      "names": [
+        {
+          "lang": "en-US",
+          "value": "Manti Election Precinct, Sanpete, Utah, United States"
+        },
+        {
+          "lang": "und",
+          "value": "Manti City, Manti Election Precinct, Sanpete, Utah, United States"
         }
       ]
     },
@@ -24790,6 +24976,93 @@
       }
     },
     {
+      "id": "M1K8-G8J",
+      "father": {
+        "resource": "#KWCC-J9N",
+        "resourceId": "KWCC-J9N"
+      },
+      "mother": {
+        "resource": "https://familysearch.org/platform/tree/persons/KWC2-F5D",
+        "resourceId": "KWC2-F5D"
+      },
+      "child": {
+        "resource": "https://familysearch.org/platform/tree/persons/LRYB-S1Q",
+        "resourceId": "LRYB-S1Q"
+      },
+      "links": {
+        "mother": {
+          "href": "https://familysearch.org/platform/tree/persons/KWC2-F5D?relatives=true&sourceDescriptions=true"
+        },
+        "father": {
+          "href": "https://familysearch.org/platform/tree/persons/KWCC-J9N?relatives=true&sourceDescriptions=true"
+        },
+        "relationship": {
+          "href": "https://familysearch.org/platform/tree/child-and-parents-relationships/M1K8-G8J"
+        },
+        "child": {
+          "href": "https://familysearch.org/platform/tree/persons/LRYB-S1Q?relatives=true&sourceDescriptions=true"
+        }
+      }
+    },
+    {
+      "id": "M1K8-PB6",
+      "father": {
+        "resource": "#KWCC-J9N",
+        "resourceId": "KWCC-J9N"
+      },
+      "mother": {
+        "resource": "https://familysearch.org/platform/tree/persons/KWC2-F5D",
+        "resourceId": "KWC2-F5D"
+      },
+      "child": {
+        "resource": "https://familysearch.org/platform/tree/persons/LRYB-M5K",
+        "resourceId": "LRYB-M5K"
+      },
+      "links": {
+        "mother": {
+          "href": "https://familysearch.org/platform/tree/persons/KWC2-F5D?relatives=true&sourceDescriptions=true"
+        },
+        "father": {
+          "href": "https://familysearch.org/platform/tree/persons/KWCC-J9N?relatives=true&sourceDescriptions=true"
+        },
+        "relationship": {
+          "href": "https://familysearch.org/platform/tree/child-and-parents-relationships/M1K8-PB6"
+        },
+        "child": {
+          "href": "https://familysearch.org/platform/tree/persons/LRYB-M5K?relatives=true&sourceDescriptions=true"
+        }
+      }
+    },
+    {
+      "id": "M1K8-K34",
+      "father": {
+        "resource": "#KWCC-J9N",
+        "resourceId": "KWCC-J9N"
+      },
+      "mother": {
+        "resource": "https://familysearch.org/platform/tree/persons/KWC2-F5D",
+        "resourceId": "KWC2-F5D"
+      },
+      "child": {
+        "resource": "https://familysearch.org/platform/tree/persons/LRYY-YLL",
+        "resourceId": "LRYY-YLL"
+      },
+      "links": {
+        "mother": {
+          "href": "https://familysearch.org/platform/tree/persons/KWC2-F5D?relatives=true&sourceDescriptions=true"
+        },
+        "father": {
+          "href": "https://familysearch.org/platform/tree/persons/KWCC-J9N?relatives=true&sourceDescriptions=true"
+        },
+        "relationship": {
+          "href": "https://familysearch.org/platform/tree/child-and-parents-relationships/M1K8-K34"
+        },
+        "child": {
+          "href": "https://familysearch.org/platform/tree/persons/LRYY-YLL?relatives=true&sourceDescriptions=true"
+        }
+      }
+    },
+    {
       "id": "M33D-B3W",
       "father": {
         "resource": "https://familysearch.org/platform/tree/persons/KWC1-7V5",
@@ -25163,6 +25436,35 @@
         },
         "child": {
           "href": "https://familysearch.org/platform/tree/persons/KWCF-CT5?relatives=true&sourceDescriptions=true"
+        }
+      }
+    },
+    {
+      "id": "M33D-BDJ",
+      "father": {
+        "resource": "#KWCZ-RW8",
+        "resourceId": "KWCZ-RW8"
+      },
+      "mother": {
+        "resource": "https://familysearch.org/platform/tree/persons/KWCZ-RWF",
+        "resourceId": "KWCZ-RWF"
+      },
+      "child": {
+        "resource": "https://familysearch.org/platform/tree/persons/KWCV-VBS",
+        "resourceId": "KWCV-VBS"
+      },
+      "links": {
+        "mother": {
+          "href": "https://familysearch.org/platform/tree/persons/KWCZ-RWF?relatives=true&sourceDescriptions=true"
+        },
+        "father": {
+          "href": "https://familysearch.org/platform/tree/persons/KWCZ-RW8?relatives=true&sourceDescriptions=true"
+        },
+        "relationship": {
+          "href": "https://familysearch.org/platform/tree/child-and-parents-relationships/M33D-BDJ"
+        },
+        "child": {
+          "href": "https://familysearch.org/platform/tree/persons/KWCV-VBS?relatives=true&sourceDescriptions=true"
         }
       }
     },

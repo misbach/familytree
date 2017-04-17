@@ -365,7 +365,7 @@
           "href": "https://familysearch.org/platform/tree/persons/KWJ8-FYQ/families?sourceDescriptions=true"
         },
         "portrait": {
-          "href": "https://raw.githubusercontent.com/misbach/familytree/master/people/KWJ8-FYQ/KWJ8-FYQ.jpg"
+          "href": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/KWJ8-FYQ/KWJ8-FYQ.jpg"
         },
         "matches": {
           "href": "https://familysearch.org/platform/tree/persons/KWJ8-FYQ/matches"
@@ -1903,88 +1903,60 @@
         "familiesAsParent": [
           {
             "parent1": {
-              "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KWJ8-FYQ/KWJ8-FYQ.json",
+              "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/KWJ8-FYQ/KWJ8-FYQ.json",
               "resourceId": "KWJ8-FYQ"
             },
             "parent2": {
-              "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KWV7-4YK/KWV7-4YK.json",
+              "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/KWV7-4YK/KWV7-4YK.json",
               "resourceId": "KWV7-4YK"
             },
             "children": [
               {
-                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KWVH-514/KWVH-514.json",
-                "resourceId": "KWVH-514"
-              },
-              {
-                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KWJX-CLW/KWJX-CLW.json",
-                "resourceId": "KWJX-CLW"
-              },
-              {
-                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KWVH-513/KWVH-513.json",
-                "resourceId": "KWVH-513"
-              },
-              {
-                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KWNC-PNN/KWNC-PNN.json",
-                "resourceId": "KWNC-PNN"
-              },
-              {
-                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KWCT-DQV/KWCT-DQV.json",
-                "resourceId": "KWCT-DQV"
-              },
-              {
-                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KW87-MBP/KW87-MBP.json",
-                "resourceId": "KW87-MBP"
-              },
-              {
-                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KW8M-JSQ/KW8M-JSQ.json",
-                "resourceId": "KW8M-JSQ"
-              },
-              {
-                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KWCQ-K6P/KWCQ-K6P.json",
+                "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/KWCQ-K6P/KWCQ-K6P.json",
                 "resourceId": "KWCQ-K6P"
               }
             ]
           },
           {
             "parent1": {
-              "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KWJ8-FYQ/KWJ8-FYQ.json",
+              "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/KWJ8-FYQ/KWJ8-FYQ.json",
               "resourceId": "KWJ8-FYQ"
             },
             "parent2": {
-              "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KWJ8-FY3/KWJ8-FY3.json",
+              "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/KWJ8-FY3/KWJ8-FY3.json",
               "resourceId": "KWJ8-FY3"
             },
             "children": [
               {
-                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KWZ7-8FW/KWZ7-8FW.json",
+                "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/KWZ7-8FW/KWZ7-8FW.json",
                 "resourceId": "KWZ7-8FW"
               }
             ]
           },
           {
             "parent1": {
-              "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KWJ8-FYQ/KWJ8-FYQ.json",
+              "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/KWJ8-FYQ/KWJ8-FYQ.json",
               "resourceId": "KWJ8-FYQ"
             },
             "parent2": {
-              "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KWVQ-ZMN/KWVQ-ZMN.json",
+              "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/KWVQ-ZMN/KWVQ-ZMN.json",
               "resourceId": "KWVQ-ZMN"
             },
             "children": [
               {
-                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/MWCS-XZM/MWCS-XZM.json",
+                "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/MWCS-XZM/MWCS-XZM.json",
                 "resourceId": "MWCS-XZM"
               },
               {
-                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/K2W3-4DK/K2W3-4DK.json",
+                "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/K2W3-4DK/K2W3-4DK.json",
                 "resourceId": "K2W3-4DK"
               },
               {
-                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KWJ4-GJK/KWJ4-GJK.json",
+                "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/KWJ4-GJK/KWJ4-GJK.json",
                 "resourceId": "KWJ4-GJK"
               },
               {
-                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KFJM-HN6/KFJM-HN6.json",
+                "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/KFJM-HN6/KFJM-HN6.json",
                 "resourceId": "KFJM-HN6"
               }
             ]
@@ -1993,16 +1965,16 @@
         "familiesAsChild": [
           {
             "parent1": {
-              "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/LCPV-M7P/LCPV-M7P.json",
+              "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/LCPV-M7P/LCPV-M7P.json",
               "resourceId": "LCPV-M7P"
             },
             "parent2": {
-              "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/MW2W-VCW/MW2W-VCW.json",
+              "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/MW2W-VCW/MW2W-VCW.json",
               "resourceId": "MW2W-VCW"
             },
             "children": [
               {
-                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KWJ8-FYQ/KWJ8-FYQ.json",
+                "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/KWJ8-FYQ/KWJ8-FYQ.json",
                 "resourceId": "KWJ8-FYQ"
               }
             ]
@@ -2139,6 +2111,19 @@
         }
       },
       "sources": [
+        {
+          "id": "0aba5de2-fb1a-4ead-a97d-255a0aaf071e",
+          "links": {
+            "source-reference": {
+              "href": "https://familysearch.org/platform/tree/persons/KWJ8-FYQ/source-references/0aba5de2-fb1a-4ead-a97d-255a0aaf071e"
+            },
+            "description": {
+              "href": "https://familysearch.org/platform/sources/descriptions/9K98-4DK"
+            }
+          },
+          "description": "https://familysearch.org/platform/sources/descriptions/9K98-4DK",
+          "descriptionId": "9K98-4DK"
+        },
         {
           "id": "d2b29662-7130-4a14-a289-9fe6557cda3a",
           "links": {
@@ -2724,11 +2709,11 @@
           },
           "place": {
             "original": "Gunnison Precinct Gunnison town, Sanpete, Utah, United States",
-            "description": "#pd_39.12879x-111.881699",
+            "description": "#pd_39.25x-111.5",
             "normalized": [
               {
                 "lang": "en-US",
-                "value": "Gunnison Election Precinct, Sanpete, Utah, United States"
+                "value": "Sanpete, Utah, United States"
               },
               {
                 "lang": "und",
@@ -3593,11 +3578,11 @@
           },
           "place": {
             "original": "Portland City no 3, United States, Oregon",
-            "description": "#pd_45.48845x-122.75264",
+            "description": "#pd_44.000278x-120.50028",
             "normalized": [
               {
                 "lang": "en-US",
-                "value": "Portland, Washington, Oregon, United States"
+                "value": "Oregon, United States"
               },
               {
                 "lang": "und",
@@ -9599,6 +9584,19 @@
       },
       "sources": [
         {
+          "id": "135c3042-ea6f-47a7-a4f9-3133b44d0ed5",
+          "links": {
+            "source-reference": {
+              "href": "https://familysearch.org/platform/tree/persons/KWJ8-FYQ/source-references/135c3042-ea6f-47a7-a4f9-3133b44d0ed5"
+            },
+            "description": {
+              "href": "https://familysearch.org/platform/sources/descriptions/9VB5-WX6"
+            }
+          },
+          "description": "https://familysearch.org/platform/sources/descriptions/9VB5-WX6",
+          "descriptionId": "9VB5-WX6"
+        },
+        {
           "id": "2d620aa0-d1da-4573-88a9-ccb2869ff024",
           "links": {
             "source-reference": {
@@ -12524,6 +12522,19 @@
         }
       },
       "sources": [
+        {
+          "id": "006fd386-d878-47db-9db6-5cb894474ec7",
+          "links": {
+            "source-reference": {
+              "href": "https://familysearch.org/platform/tree/persons/KWJ8-FYQ/source-references/006fd386-d878-47db-9db6-5cb894474ec7"
+            },
+            "description": {
+              "href": "https://familysearch.org/platform/sources/descriptions/M224-VTK"
+            }
+          },
+          "description": "https://familysearch.org/platform/sources/descriptions/M224-VTK",
+          "descriptionId": "M224-VTK"
+        },
         {
           "id": "ab31bc18-810d-481e-b3e9-4ff6a7c8b4da",
           "links": {
@@ -16295,11 +16306,11 @@
           },
           "place": {
             "original": "Manti Election Precinct, Manti City, Sanpete, Utah",
-            "description": "#pd_39.267x-111.637",
+            "description": "#pd_39.267009x-111.5387",
             "normalized": [
               {
                 "lang": "en-US",
-                "value": "Manti, Sanpete, Utah, United States"
+                "value": "Manti Election Precinct, Sanpete, Utah, United States"
               },
               {
                 "lang": "und",
@@ -21402,295 +21413,40 @@
       ]
     },
     {
-      "id": "M9XJ-K2S",
-      "about": "https://familysearch.org/ark:/61903/1:1:MNS2-8T4",
+      "id": "MSJQ-ZK9",
+      "lang": "en_US,EN;Q=0.8",
+      "about": "http://www.sa.dk/content/dk/ao-forside/find_kirkeboger#",
       "attribution": {
         "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-6SSD",
+          "resourceId": "cis.user.MMM9-6SSD"
         },
         "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-XVV7",
-          "resourceId": "cis.user.MMMM-XVV7"
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-6SSD",
+          "resourceId": "cis.user.MMM9-6SSD"
         },
-        "modified": 1489547948346,
-        "created": 1403664596967
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/M9XJ-K2S"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"United States Census, 1880,\" database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/MNS2-8T4 : 14 July 2016), Hans Denison, Manti, Sanpete, Utah, United States; citing enumeration district ED 65, sheet 415A, NARA microfilm publication T9 (Washington D.C.: National Archives and Records Administration, n.d.), roll 1337; FHL microfilm 1,255,337.\n"
-        }
-      ],
-      "titles": [
-        {
-          "value": "Hans Denison, \"United States Census, 1880\""
-        }
-      ]
-    },
-    {
-      "id": "MMDV-Y9P",
-      "about": "https://familysearch.org/ark:/61903/1:1:XZGG-WM7",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-BPZ3",
-          "resourceId": "cis.user.MMMM-BPZ3"
-        },
-        "modified": 1489547946471,
-        "created": 1386088650000
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/MMDV-Y9P"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"Utah Death Certificates, 1904-1964\", database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/XZGG-WM7 : 11 September 2015), Hans Denison in entry for Joseph Denison Sr., 1925."
-        }
-      ],
-      "titles": [
-        {
-          "value": "1925 - Hans Denison in entry for Joseph Denison Sr., \"Utah Death Certificates, 1904-1956\""
-        }
-      ],
-      "notes": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "id": "M9XJ-T71",
-      "about": "https://familysearch.org/ark:/61903/1:1:XZPS-GM7",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-XVV7",
-          "resourceId": "cis.user.MMMM-XVV7"
-        },
-        "modified": 1489547964525,
-        "created": 1403667946315
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/M9XJ-T71"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"Utah Death Certificates, 1904-1964\", database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/XZPS-GM7 : 11 September 2015), Hans Denison in entry for Johanna Denison Henningson, 1932."
-        }
-      ],
-      "titles": [
-        {
-          "value": "1932 - Hans Denison in entry for Johanna Denison Henningson, \"Utah Death Certificates, 1904-1956\""
-        }
-      ],
-      "notes": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "id": "MMDV-TBS",
-      "about": "https://familysearch.org/ark:/61903/1:1:XZPS-5TT",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-BPZ3",
-          "resourceId": "cis.user.MMMM-BPZ3"
-        },
-        "modified": 1489547946757,
-        "created": 1386088269000
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/MMDV-TBS"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"Utah Death Certificates, 1904-1964\", database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/XZPS-5TT : 11 September 2015), Hans Denison in entry for Hyrum Denison, 1932."
-        }
-      ],
-      "titles": [
-        {
-          "value": "1932 - Hans Denison in entry for Hyrum Denison, \"Utah Death Certificates, 1904-1956\""
-        }
-      ],
-      "notes": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "id": "MMWT-YFM",
-      "about": "https://dcms.lds.org/delivery/DeliveryManagerServlet?dps_pid=IE102301",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-6R15",
-          "resourceId": "cis.user.MMM9-6R15"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-6R15",
-          "resourceId": "cis.user.MMM9-6R15"
-        },
-        "modified": 1375378316000,
-        "created": 1375378316000
+        "modified": 1408045372589,
+        "created": 1408045372589
       },
       "resourceType": "DEFAULT",
       "links": {
         "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/MMWT-YFM"
+          "href": "https://familysearch.org/platform/sources/descriptions/MSJQ-ZK9"
         }
       },
       "citations": [
         {
-          "value": "familysearch.org books"
+          "value": "Internet; Danish Archives; \"Arkivalier online\";\nFrom the link above:\nSelect \"Kirkebøger\" in the first box.  A new screen will come up.\nSelect \"København\" in the Vælg amt dropdown box.\nSelect \"Sokkelund\" in the Vælg herred dropdown box.\nSelect \"Gentofte\" in the Vælg sogn dropdown box.  Screen will refresh.\nClick on \"Gentofte\" in the third line, 1814 - 1826  "
         }
       ],
       "titles": [
         {
-          "value": "Pioneers and prominent men of Utah : comprising photographs, genealogies, biographies"
+          "value": "1824 - Hans Rasmusen Dinesen, \"Denmark; Kirkebøger, København, Sokkelund, Gentofte, 1814-1826\""
         }
       ],
       "notes": [
         {
-          "text": "\"Pioneers are those men and women who came to Utah by wagon, hand cart, or afoot, between July 23, 1847, and December 30, 1868, before the railroad. Prominent men are stake presidents, ward bishops, governors, members of the bench, etc. who came to Utah a\n\nEsshom, Frank, 1844-"
-        }
-      ]
-    },
-    {
-      "id": "MM1S-FK1",
-      "about": "http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&GRid=42864730",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-3DHK",
-          "resourceId": "cis.user.MMM9-3DHK"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-3DHK",
-          "resourceId": "cis.user.MMM9-3DHK"
-        },
-        "modified": 1397598910985,
-        "created": 1397598910985
-      },
-      "resourceType": "DEFAULT",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/MM1S-FK1"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"Hans Dinesen (1824 - 1904) - Find A Grave Memorial.\" Hans Dinesen (1824 - 1904) - Find A Grave Memorial. N.p., n.d. Web. 15 Apr. 2014.."
-        }
-      ],
-      "titles": [
-        {
-          "value": "Hans Dinesen (1824 - 1904) - Find A Grave Memorial"
-        }
-      ],
-      "notes": [
-        {
-          "text": "This source was added by the free service available at RecordSeek.com."
-        }
-      ]
-    },
-    {
-      "id": "9J4W-H72",
-      "lang": "en",
-      "about": "https://www.myheritage.com/research/record-10455-11154359/hans-dinesen-in-denmark-church-records?s=249283791",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-4B2X",
-          "resourceId": "cis.user.MMMM-4B2X"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-4B2X",
-          "resourceId": "cis.user.MMMM-4B2X"
-        },
-        "modified": 1481501296000,
-        "created": 1481501296000
-      },
-      "resourceType": "DEFAULT",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/9J4W-H72"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"Hans Dinesen - Denmark Church Records, 1813-1919 - MyHeritage.\" Hans Dinesen - Denmark Church Records, 1813-1919 - MyHeritage. N.p., n.d. Web. 11 Dec. 2016. <https://www.myheritage.com/research/record-10455-11154359/hans-dinesen-in-denmark-church-records?s=249283791>."
-        }
-      ],
-      "titles": [
-        {
-          "value": "Hans Dinesen - Denmark Church Records, 1813-1919 - MyHeritage"
-        }
-      ],
-      "notes": [
-        {
-          "text": "Hans Dinesen Record type:\tMarriage\n\nBook\nCountry:\tDenmark\tVolume date:\t1839-1867\tRecord type:\tMarriage\nCounty:\tKøbenhavn\tBook:\t5\t\t\nParish:\tGentofte\tPage:\t323-324"
-        }
-      ]
-    },
-    {
-      "id": "9N3D-X8N",
-      "lang": "en",
-      "about": "http://www.denisonorg.org/",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-3Q2T",
-          "resourceId": "cis.user.MMMM-3Q2T"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-3Q2T",
-          "resourceId": "cis.user.MMMM-3Q2T"
-        },
-        "modified": 1472583088653,
-        "created": 1472583088653
-      },
-      "resourceType": "DEFAULT",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/9N3D-X8N"
-        }
-      },
-      "citations": [
-        {
-          "value": "Many written histories available by search box at top of URL.  Updated from time to time."
-        }
-      ],
-      "titles": [
-        {
-          "value": "Collection of histories relating to Hans Dinesen and his posterity"
-        }
-      ],
-      "notes": [
-        {
-          "text": ""
+          "text": "The image is of a handwritten page from the above named Church Book [In Danish].\n\nOpslag 57\nEntry # 16\nBirth date:     20th July 1824\nChild's Name:     Hans\nBaptism:     29th August [1824]\nFather:     Rasmus Dinessen\nMother:     Inger Mortensdatter"
         }
       ]
     },
@@ -21733,9 +21489,79 @@
       ]
     },
     {
-      "id": "MSLW-2XN",
+      "id": "966H-YLY",
       "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:QVSF-1S74",
+      "about": "https://familysearch.org/ark:/61903/1:1:QVSF-PMX8",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-329G",
+          "resourceId": "cis.user.MMM9-329G"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-329G",
+          "resourceId": "cis.user.MMM9-329G"
+        },
+        "modified": 1451855231653,
+        "created": 1451855231653
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/966H-YLY"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"Utah, Obituaries from Utah Newspapers, 1850-2005,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/QVSF-PMX8 : 8 October 2015), Hans Denison in entry for Ephraim Denison, 28 Oct 1921; citing Manti Messenger, The University of Utah. J. Willard Marriott Library, Salt Lake City."
+        }
+      ],
+      "titles": [
+        {
+          "value": "Hans Denison in entry for Ephraim Denison, \"Utah, Obituaries from Utah Newspapers, 1850-2005\""
+        }
+      ]
+    },
+    {
+      "id": "MSJN-6SF",
+      "lang": "en_US,EN;Q=0.8",
+      "about": "http://www.ddd.dda.dk/asp/vishusstand_en.asp",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-6SSD",
+          "resourceId": "cis.user.MMM9-6SSD"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-6SSD",
+          "resourceId": "cis.user.MMM9-6SSD"
+        },
+        "modified": 1408292875283,
+        "created": 1408292875283
+      },
+      "resourceType": "DEFAULT",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/MSJN-6SF"
+        }
+      },
+      "citations": [
+        {
+          "value": "Internet; Danish Archives [Statens Arkiver]; http://www.ddd.dda.dk/"
+        }
+      ],
+      "titles": [
+        {
+          "value": "1850 - Hans Dinesen, \"1850 Danish Census\""
+        }
+      ],
+      "notes": [
+        {
+          "text": "Name:     Hans Dinesen\nAge:     26\nMarital Status:     Gift\nPosition in Household:     \nOccupation:     Indsidder, Arbeidsmand, Huusfader, indkaldt til Krigstjeneste\nBirth place:     i Sognet"
+        }
+      ]
+    },
+    {
+      "id": "M9XJ-T71",
+      "about": "https://familysearch.org/ark:/61903/1:1:XZPS-GM7",
       "attribution": {
         "contributor": {
           "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
@@ -21745,93 +21571,28 @@
           "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-XVV7",
           "resourceId": "cis.user.MMMM-XVV7"
         },
-        "modified": 1489569448426,
-        "created": 1410112180672
+        "modified": 1489547964525,
+        "created": 1403667946315
       },
       "resourceType": "FSREADONLY",
       "links": {
         "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/MSLW-2XN"
+          "href": "https://familysearch.org/platform/sources/descriptions/M9XJ-T71"
         }
       },
       "citations": [
         {
-          "value": "\"Utah, Obituaries from Utah Newspapers, 1850-2005,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/QVSF-1S74 : 8 October 2015), Hans Denison in entry for Mr Hyrum Denison, 03 Jun 1932; citing Salt Lake Telegram 13, The University of Utah. J. Willard Marriott Library, Salt Lake City."
+          "value": "\"Utah Death Certificates, 1904-1964\", database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/XZPS-GM7 : 11 September 2015), Hans Denison in entry for Johanna Denison Henningson, 1932."
         }
       ],
       "titles": [
         {
-          "value": "1932 - Hans Denison in entry for Mr Hyrum Denison, \"Utah, Obituaries from Utah Newspapers, 1850-2005\""
+          "value": "1932 - Hans Denison in entry for Johanna Denison Henningson, \"Utah Death Certificates, 1904-1956\""
         }
       ],
       "notes": [
         {
           "text": ""
-        }
-      ]
-    },
-    {
-      "id": "MMD6-6NB",
-      "about": "https://familysearch.org/ark:/61903/1:1:KL71-SSF",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-9823",
-          "resourceId": "cis.user.MMMM-9823"
-        },
-        "modified": 1489517818250,
-        "created": 1385656810000
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/MMD6-6NB"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"Utah, Pioneers and Prominent Men of Utah, 1847-1868,\" database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/KL71-SSF : 12 December 2014), Hans Denison, ; excerpted from Frank Esshom, Pioneers and Prominent Men of Utah: Comprising Photographs, Genealogies, Biographies (Salt Lake City, Utah: Utah Pioneers Books, 1913)."
-        }
-      ],
-      "titles": [
-        {
-          "value": "Hans Denison, \"Utah, Pioneers and Prominent Men of Utah, 1847-1868\""
-        }
-      ]
-    },
-    {
-      "id": "98WD-1RF",
-      "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:QVG4-LGCB",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-3V59",
-          "resourceId": "cis.user.MMM9-3V59"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-3V59",
-          "resourceId": "cis.user.MMM9-3V59"
-        },
-        "modified": 1429119157986,
-        "created": 1429119157986
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/98WD-1RF"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"Find A Grave Index,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/QVG4-LGCB : 13 December 2015), Hans Denisen, 1904; Burial, Manti, Sanpete, Utah, United States of America, Manti Cemetery; citing record ID 114773496, Find a Grave, http://www.findagrave.com."
-        }
-      ],
-      "titles": [
-        {
-          "value": "Hans Denisen, \"Find A Grave Index\""
         }
       ]
     },
@@ -21902,104 +21663,183 @@
       ]
     },
     {
-      "id": "MMQF-7JY",
-      "about": "https://familysearch.org/ark:/61903/1:1:MMRP-TGN",
+      "id": "ML78-V7B",
+      "lang": "en-us",
+      "about": "https://familysearch.org/ark:/61903/1:1:XYHY-KB3",
       "attribution": {
         "contributor": {
           "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
           "resourceId": "cis.wkca.MMMM-M93P"
         },
         "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-XVV7",
-          "resourceId": "cis.user.MMMM-XVV7"
-        },
-        "modified": 1489510544924,
-        "created": 1370031510000
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/MMQF-7JY"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"United States Census, 1900,\" database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/MMRP-TGN : accessed 7 April 2017), Hans Dinesen, Manti Precinct Manti city, Sanpete, Utah, United States; citing enumeration district (ED) 125, sheet 14B, family 268, NARA microfilm publication T623 (Washington, D.C.: National Archives and Records Administration, 1972.); FHL microfilm 1,241,686.\n"
-        }
-      ],
-      "titles": [
-        {
-          "value": "Hans Dinesen, \"United States Census, 1900\""
-        }
-      ]
-    },
-    {
-      "id": "966H-YLY",
-      "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:QVSF-PMX8",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-329G",
-          "resourceId": "cis.user.MMM9-329G"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-329G",
-          "resourceId": "cis.user.MMM9-329G"
-        },
-        "modified": 1451855231653,
-        "created": 1451855231653
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/966H-YLY"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"Utah, Obituaries from Utah Newspapers, 1850-2005,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/QVSF-PMX8 : 8 October 2015), Hans Denison in entry for Ephraim Denison, 28 Oct 1921; citing Manti Messenger, The University of Utah. J. Willard Marriott Library, Salt Lake City."
-        }
-      ],
-      "titles": [
-        {
-          "value": "Hans Denison in entry for Ephraim Denison, \"Utah, Obituaries from Utah Newspapers, 1850-2005\""
-        }
-      ]
-    },
-    {
-      "id": "M9XJ-R23",
-      "about": "https://familysearch.org/ark:/61903/1:1:XZ24-D5D",
-      "attribution": {
-        "contributor": {
           "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
           "resourceId": "cis.wkca.MMMM-M93P"
         },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-XVV7",
-          "resourceId": "cis.user.MMMM-XVV7"
-        },
-        "modified": 1489547964810,
-        "created": 1403667652782
+        "modified": 1415359775716,
+        "created": 1415359775716
       },
-      "resourceType": "FSREADONLY",
+      "resourceType": "IGI",
       "links": {
         "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/M9XJ-R23"
+          "href": "https://familysearch.org/platform/sources/descriptions/ML78-V7B"
         }
       },
       "citations": [
         {
-          "value": "\"Utah Death Certificates, 1904-1964\", database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/XZ24-D5D : 11 September 2015), Hans Denison in entry for Ephraim M Denison, 1921."
+          "value": "\"Denmark Baptisms, 1618-1923,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/XYHY-KB3 : 6 December 2014), Hans Rasmussen, 29 Aug 1824; citing , GENTOFTE, KOBENHAVN, DENMARK; FHL microfilm 48,204."
         }
       ],
       "titles": [
         {
-          "value": "1921 - Hans Denison in entry for Ephraim M Denison, \"Utah Death Certificates, 1904-1956\""
+          "value": "Hans Rasmussen, \"Denmark Baptisms, 1618-1923\""
         }
       ],
       "notes": [
         {
-          "text": ""
+          "text": "This extracted record was used to create this person in Family Tree."
+        }
+      ]
+    },
+    {
+      "id": "M93Z-D92",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-H1Z3",
+          "resourceId": "cis.user.MMMM-H1Z3"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-H1Z3",
+          "resourceId": "cis.user.MMMM-H1Z3"
+        },
+        "modified": 1401246416288,
+        "created": 1401246416288
+      },
+      "resourceType": "LEGACY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/M93Z-D92"
+        }
+      },
+      "citations": [
+        {
+          "value": "Hans Dinesen's diary"
+        }
+      ],
+      "titles": [
+        {
+          "value": "Legacy NFS Source: Hans Dinesen Sr - "
+        }
+      ],
+      "notes": [
+        {
+          "text": "Page 3 of his diary. Baptized by Mr. K. H. Brun (also baptized same day - his wife, his sister and her husband.) Confirmed by Erastus Snow.  \nPage 3 of his diary. Baptized by Mr. K. H. Brun (also baptized same day - his wife, his sister and her husband.) Confirmed by Erastus Snow."
+        }
+      ]
+    },
+    {
+      "id": "MMWT-YFM",
+      "about": "https://dcms.lds.org/delivery/DeliveryManagerServlet?dps_pid=IE102301",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-6R15",
+          "resourceId": "cis.user.MMM9-6R15"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-6R15",
+          "resourceId": "cis.user.MMM9-6R15"
+        },
+        "modified": 1375378316000,
+        "created": 1375378316000
+      },
+      "resourceType": "DEFAULT",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/MMWT-YFM"
+        }
+      },
+      "citations": [
+        {
+          "value": "familysearch.org books"
+        }
+      ],
+      "titles": [
+        {
+          "value": "Pioneers and prominent men of Utah : comprising photographs, genealogies, biographies"
+        }
+      ],
+      "notes": [
+        {
+          "text": "\"Pioneers are those men and women who came to Utah by wagon, hand cart, or afoot, between July 23, 1847, and December 30, 1868, before the railroad. Prominent men are stake presidents, ward bishops, governors, members of the bench, etc. who came to Utah a\n\nEsshom, Frank, 1844-"
+        }
+      ]
+    },
+    {
+      "id": "MSJ8-3XK",
+      "lang": "en_US,EN;Q=0.8",
+      "about": "http://www.sa.dk/content/dk/ao-forside/find_kirkeboger#",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-6SSD",
+          "resourceId": "cis.user.MMM9-6SSD"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-6SSD",
+          "resourceId": "cis.user.MMM9-6SSD"
+        },
+        "modified": 1408163914587,
+        "created": 1408163914587
+      },
+      "resourceType": "DEFAULT",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/MSJ8-3XK"
+        }
+      },
+      "citations": [
+        {
+          "value": "Internet; Danish Archives; \"Arkivalier online\";\nFrom the link above:\nSelect \"Kirkebøger\" in the first box.  A new screen will come up.\nSelect \"København\" in the Vælg amt dropdown box.\nSelect \"Sokkelund\" in the Vælg herred dropdown box.\nSelect \"Gentofte\" in the Vælg sogn dropdown box.  Screen will refresh.\nClick on \"Gentofte\" in the tenth line, 1839 - 1867  K   V   [Confirmations  Marriages]"
+        }
+      ],
+      "titles": [
+        {
+          "value": "1846 - Hans Dinersen, \"Denmark; Kirkebøger, København, Sokkelund, Gentofte, Gentofte 1839-1867\""
+        }
+      ],
+      "notes": [
+        {
+          "text": "The image is of a handwritten page from the above named Church Book [In Danish].\n\nOpslag:     163\nEntry #:     30\nGroom's name:     Hans Dinersen\nAge:     22 years\nBride's name:     Johanne Jakobsen\nResidence:     ?Kirkysolm? Sogn\nAge:     21 years\nMarriage date November 22nd [1846]"
+        }
+      ]
+    },
+    {
+      "id": "MMD6-6NB",
+      "about": "https://familysearch.org/ark:/61903/1:1:KL71-SSF",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-9823",
+          "resourceId": "cis.user.MMMM-9823"
+        },
+        "modified": 1489517818250,
+        "created": 1385656810000
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/MMD6-6NB"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"Utah, Pioneers and Prominent Men of Utah, 1847-1868,\" database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/KL71-SSF : 12 December 2014), Hans Denison, ; excerpted from Frank Esshom, Pioneers and Prominent Men of Utah: Comprising Photographs, Genealogies, Biographies (Salt Lake City, Utah: Utah Pioneers Books, 1913)."
+        }
+      ],
+      "titles": [
+        {
+          "value": "Hans Denison, \"Utah, Pioneers and Prominent Men of Utah, 1847-1868\""
         }
       ]
     },
@@ -22042,149 +21882,6 @@
       ]
     },
     {
-      "id": "M3SH-5L1",
-      "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:FLR3-GZC",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-6R15",
-          "resourceId": "cis.user.MMM9-6R15"
-        },
-        "modified": 1489588937534,
-        "created": 1415307699866
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/M3SH-5L1"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"Utah, Veterans with Federal Service Buried in Utah, Territorial to 1966,\" database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/FLR3-GZC : 6 December 2014), Hans Denison, 13 Jan 1904; citing City Cemetery, , military unit Capt John Tuttle Inf, Ut Terr Mil, Blackhawk, State Archives, Capitol Building, Salt Lake City; FHL microfilm 485,497."
-        }
-      ],
-      "titles": [
-        {
-          "value": "Hans Denison, \"Utah, Veterans with Federal Service Buried in Utah, Territorial to 1966\""
-        }
-      ]
-    },
-    {
-      "id": "M93Z-D92",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-H1Z3",
-          "resourceId": "cis.user.MMMM-H1Z3"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-H1Z3",
-          "resourceId": "cis.user.MMMM-H1Z3"
-        },
-        "modified": 1401246416288,
-        "created": 1401246416288
-      },
-      "resourceType": "LEGACY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/M93Z-D92"
-        }
-      },
-      "citations": [
-        {
-          "value": "Hans Dinesen's diary"
-        }
-      ],
-      "titles": [
-        {
-          "value": "Legacy NFS Source: Hans Dinesen Sr - "
-        }
-      ],
-      "notes": [
-        {
-          "text": "Page 3 of his diary. Baptized by Mr. K. H. Brun (also baptized same day - his wife, his sister and her husband.) Confirmed by Erastus Snow.  \nPage 3 of his diary. Baptized by Mr. K. H. Brun (also baptized same day - his wife, his sister and her husband.) Confirmed by Erastus Snow."
-        }
-      ]
-    },
-    {
-      "id": "MMDV-TPV",
-      "about": "https://familysearch.org/ark:/61903/1:1:XZPV-JBB",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-BPZ3",
-          "resourceId": "cis.user.MMMM-BPZ3"
-        },
-        "modified": 1489547947583,
-        "created": 1386087930000
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/MMDV-TPV"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"Utah Death Certificates, 1904-1964\", database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/XZPV-JBB : 11 September 2015), Hans Dennison, 1904."
-        }
-      ],
-      "titles": [
-        {
-          "value": "1904 - Hans Dennison, \"Utah Death Certificates, 1904-1956\""
-        }
-      ],
-      "notes": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "id": "MMDV-TRF",
-      "about": "https://familysearch.org/ark:/61903/1:1:VRLL-BXC",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-BPZ3",
-          "resourceId": "cis.user.MMMM-BPZ3"
-        },
-        "modified": 1489547946937,
-        "created": 1386088051000
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/MMDV-TRF"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"Utah, County Marriages, 1887-1940\", database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/VRLL-BXC : 25 January 2016), Hans Dennison in entry for William L Marble and Hannah Henningson, 1927."
-        }
-      ],
-      "titles": [
-        {
-          "value": "1927 - Hans Dennison in entry for William L Marble and Hannah Henningson, \"Utah, County Marriages, 1887-1937\""
-        }
-      ],
-      "notes": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
       "id": "MSVL-6HL",
       "lang": "en_US,EN;Q=0.8",
       "about": "http://www.sa.dk/content/dk/ao-forside/find_folketallinger#",
@@ -22223,115 +21920,136 @@
       ]
     },
     {
-      "id": "MSJQ-ZK9",
-      "lang": "en_US,EN;Q=0.8",
-      "about": "http://www.sa.dk/content/dk/ao-forside/find_kirkeboger#",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-6SSD",
-          "resourceId": "cis.user.MMM9-6SSD"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-6SSD",
-          "resourceId": "cis.user.MMM9-6SSD"
-        },
-        "modified": 1408045372589,
-        "created": 1408045372589
-      },
-      "resourceType": "DEFAULT",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/MSJQ-ZK9"
-        }
-      },
-      "citations": [
-        {
-          "value": "Internet; Danish Archives; \"Arkivalier online\";\nFrom the link above:\nSelect \"Kirkebøger\" in the first box.  A new screen will come up.\nSelect \"København\" in the Vælg amt dropdown box.\nSelect \"Sokkelund\" in the Vælg herred dropdown box.\nSelect \"Gentofte\" in the Vælg sogn dropdown box.  Screen will refresh.\nClick on \"Gentofte\" in the third line, 1814 - 1826  "
-        }
-      ],
-      "titles": [
-        {
-          "value": "1824 - Hans Rasmusen Dinesen, \"Denmark; Kirkebøger, København, Sokkelund, Gentofte, 1814-1826\""
-        }
-      ],
-      "notes": [
-        {
-          "text": "The image is of a handwritten page from the above named Church Book [In Danish].\n\nOpslag 57\nEntry # 16\nBirth date:     20th July 1824\nChild's Name:     Hans\nBaptism:     29th August [1824]\nFather:     Rasmus Dinessen\nMother:     Inger Mortensdatter"
-        }
-      ]
-    },
-    {
-      "id": "MSJN-6SF",
-      "lang": "en_US,EN;Q=0.8",
-      "about": "http://www.ddd.dda.dk/asp/vishusstand_en.asp",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-6SSD",
-          "resourceId": "cis.user.MMM9-6SSD"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-6SSD",
-          "resourceId": "cis.user.MMM9-6SSD"
-        },
-        "modified": 1408292875283,
-        "created": 1408292875283
-      },
-      "resourceType": "DEFAULT",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/MSJN-6SF"
-        }
-      },
-      "citations": [
-        {
-          "value": "Internet; Danish Archives [Statens Arkiver]; http://www.ddd.dda.dk/"
-        }
-      ],
-      "titles": [
-        {
-          "value": "1850 - Hans Dinesen, \"1850 Danish Census\""
-        }
-      ],
-      "notes": [
-        {
-          "text": "Name:     Hans Dinesen\nAge:     26\nMarital Status:     Gift\nPosition in Household:     \nOccupation:     Indsidder, Arbeidsmand, Huusfader, indkaldt til Krigstjeneste\nBirth place:     i Sognet"
-        }
-      ]
-    },
-    {
-      "id": "MM1S-2YB",
-      "about": "https://familysearch.org/ark:/61903/1:1:XZPV-VMY",
+      "id": "M3SH-5L1",
+      "lang": "en_US",
+      "about": "https://familysearch.org/ark:/61903/1:1:FLR3-GZC",
       "attribution": {
         "contributor": {
           "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
           "resourceId": "cis.wkca.MMMM-M93P"
         },
         "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-3DHK",
-          "resourceId": "cis.user.MMM9-3DHK"
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-6R15",
+          "resourceId": "cis.user.MMM9-6R15"
         },
-        "modified": 1489547944937,
-        "created": 1397603849404
+        "modified": 1489588937534,
+        "created": 1415307699866
       },
       "resourceType": "FSREADONLY",
       "links": {
         "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/MM1S-2YB"
+          "href": "https://familysearch.org/platform/sources/descriptions/M3SH-5L1"
         }
       },
       "citations": [
         {
-          "value": "\"Utah Death Certificates, 1904-1964\", database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/XZPV-VMY : 11 September 2015), Hans Denison in entry for Jens Denison, 1904."
+          "value": "\"Utah, Veterans with Federal Service Buried in Utah, Territorial to 1966,\" database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/FLR3-GZC : 6 December 2014), Hans Denison, 13 Jan 1904; citing City Cemetery, , military unit Capt John Tuttle Inf, Ut Terr Mil, Blackhawk, State Archives, Capitol Building, Salt Lake City; FHL microfilm 485,497."
         }
       ],
       "titles": [
         {
-          "value": "1904 - Hans Denison in entry for Jens Denison, \"Utah Death Certificates, 1904-1956\""
+          "value": "Hans Denison, \"Utah, Veterans with Federal Service Buried in Utah, Territorial to 1966\""
+        }
+      ]
+    },
+    {
+      "id": "MM1S-FK1",
+      "about": "http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&GRid=42864730",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-3DHK",
+          "resourceId": "cis.user.MMM9-3DHK"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-3DHK",
+          "resourceId": "cis.user.MMM9-3DHK"
+        },
+        "modified": 1397598910985,
+        "created": 1397598910985
+      },
+      "resourceType": "DEFAULT",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/MM1S-FK1"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"Hans Dinesen (1824 - 1904) - Find A Grave Memorial.\" Hans Dinesen (1824 - 1904) - Find A Grave Memorial. N.p., n.d. Web. 15 Apr. 2014.."
+        }
+      ],
+      "titles": [
+        {
+          "value": "Hans Dinesen (1824 - 1904) - Find A Grave Memorial"
         }
       ],
       "notes": [
         {
-          "text": ""
+          "text": "This source was added by the free service available at RecordSeek.com."
+        }
+      ]
+    },
+    {
+      "id": "M9XJ-K2S",
+      "about": "https://familysearch.org/ark:/61903/1:1:MNS2-8T4",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-XVV7",
+          "resourceId": "cis.user.MMMM-XVV7"
+        },
+        "modified": 1489547948346,
+        "created": 1403664596967
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/M9XJ-K2S"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"United States Census, 1880,\" database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/MNS2-8T4 : 14 July 2016), Hans Denison, Manti, Sanpete, Utah, United States; citing enumeration district ED 65, sheet 415A, NARA microfilm publication T9 (Washington D.C.: National Archives and Records Administration, n.d.), roll 1337; FHL microfilm 1,255,337.\n"
+        }
+      ],
+      "titles": [
+        {
+          "value": "Hans Denison, \"United States Census, 1880\""
+        }
+      ]
+    },
+    {
+      "id": "MMQF-7JY",
+      "about": "https://familysearch.org/ark:/61903/1:1:MMRP-TGN",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-XVV7",
+          "resourceId": "cis.user.MMMM-XVV7"
+        },
+        "modified": 1489510544924,
+        "created": 1370031510000
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/MMQF-7JY"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"United States Census, 1900,\" database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/MMRP-TGN : accessed 11 April 2017), Hans Dinesen, Manti Precinct Manti city, Sanpete, Utah, United States; citing enumeration district (ED) 125, sheet 14B, family 268, NARA microfilm publication T623 (Washington, D.C.: National Archives and Records Administration, 1972.); FHL microfilm 1,241,686.\n"
+        }
+      ],
+      "titles": [
+        {
+          "value": "Hans Dinesen, \"United States Census, 1900\""
         }
       ]
     },
@@ -22374,66 +22092,34 @@
       ]
     },
     {
-      "id": "M9ZY-QX7",
-      "about": "https://familysearch.org/ark:/61903/1:1:MH27-RV3",
+      "id": "MM1S-2YB",
+      "about": "https://familysearch.org/ark:/61903/1:1:XZPV-VMY",
       "attribution": {
         "contributor": {
           "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
           "resourceId": "cis.wkca.MMMM-M93P"
         },
         "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-XVV7",
-          "resourceId": "cis.user.MMMM-XVV7"
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-3DHK",
+          "resourceId": "cis.user.MMM9-3DHK"
         },
-        "modified": 1489545390132,
-        "created": 1402855310260
+        "modified": 1489547944937,
+        "created": 1397603849404
       },
       "resourceType": "FSREADONLY",
       "links": {
         "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/M9ZY-QX7"
+          "href": "https://familysearch.org/platform/sources/descriptions/MM1S-2YB"
         }
       },
       "citations": [
         {
-          "value": "\"United States Census, 1860\", database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/MH27-RV3 : 30 December 2015), Hans Dinson, 1860."
+          "value": "\"Utah Death Certificates, 1904-1964\", database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/XZPV-VMY : 11 September 2015), Hans Denison in entry for Jens Denison, 1904."
         }
       ],
       "titles": [
         {
-          "value": "Hans Dinson, \"United States Census, 1860\""
-        }
-      ]
-    },
-    {
-      "id": "MMDV-T5X",
-      "about": "https://familysearch.org/ark:/61903/1:1:XZGP-TYQ",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-BPZ3",
-          "resourceId": "cis.user.MMMM-BPZ3"
-        },
-        "modified": 1489547947321,
-        "created": 1386087979000
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/MMDV-T5X"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"Utah Death Certificates, 1904-1964\", database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/XZGP-TYQ : 11 September 2015), Hans Dennison Sr. in entry for Hans Dennison Jr., 1926."
-        }
-      ],
-      "titles": [
-        {
-          "value": "1926 - Hans Dennison Sr. in entry for Hans Dennison Jr., \"Utah Death Certificates, 1904-1956\""
+          "value": "1904 - Hans Denison in entry for Jens Denison, \"Utah Death Certificates, 1904-1956\""
         }
       ],
       "notes": [
@@ -22443,34 +22129,34 @@
       ]
     },
     {
-      "id": "M9XJ-R57",
-      "about": "https://familysearch.org/ark:/61903/1:1:XZLL-Y9F",
+      "id": "MMDV-TPV",
+      "about": "https://familysearch.org/ark:/61903/1:1:XZPV-JBB",
       "attribution": {
         "contributor": {
           "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
           "resourceId": "cis.wkca.MMMM-M93P"
         },
         "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-XVV7",
-          "resourceId": "cis.user.MMMM-XVV7"
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-BPZ3",
+          "resourceId": "cis.user.MMMM-BPZ3"
         },
-        "modified": 1489547964818,
-        "created": 1403667725650
+        "modified": 1489547947583,
+        "created": 1386087930000
       },
       "resourceType": "FSREADONLY",
       "links": {
         "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/M9XJ-R57"
+          "href": "https://familysearch.org/platform/sources/descriptions/MMDV-TPV"
         }
       },
       "citations": [
         {
-          "value": "\"Utah Death Certificates, 1904-1964\", database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/XZLL-Y9F : 11 September 2015), Hans Dennison in entry for Christian Dennison, 1951."
+          "value": "\"Utah Death Certificates, 1904-1964\", database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/XZPV-JBB : 11 September 2015), Hans Dennison, 1904."
         }
       ],
       "titles": [
         {
-          "value": "1951 - Hans Dennison in entry for Christian Dennison, \"Utah Death Certificates, 1904-1956\""
+          "value": "1904 - Hans Dennison, \"Utah Death Certificates, 1904-1956\""
         }
       ],
       "notes": [
@@ -22518,78 +22204,403 @@
       ]
     },
     {
-      "id": "ML78-V7B",
-      "lang": "en-us",
-      "about": "https://familysearch.org/ark:/61903/1:1:XYHY-KB3",
+      "id": "MMDV-T5X",
+      "about": "https://familysearch.org/ark:/61903/1:1:XZGP-TYQ",
       "attribution": {
         "contributor": {
           "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
           "resourceId": "cis.wkca.MMMM-M93P"
         },
         "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-BPZ3",
+          "resourceId": "cis.user.MMMM-BPZ3"
         },
-        "modified": 1415359775716,
-        "created": 1415359775716
+        "modified": 1489547947321,
+        "created": 1386087979000
       },
-      "resourceType": "IGI",
+      "resourceType": "FSREADONLY",
       "links": {
         "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/ML78-V7B"
+          "href": "https://familysearch.org/platform/sources/descriptions/MMDV-T5X"
         }
       },
       "citations": [
         {
-          "value": "\"Denmark Baptisms, 1618-1923,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/XYHY-KB3 : 6 December 2014), Hans Rasmussen, 29 Aug 1824; citing , GENTOFTE, KOBENHAVN, DENMARK; FHL microfilm 48,204."
+          "value": "\"Utah Death Certificates, 1904-1964\", database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/XZGP-TYQ : 11 September 2015), Hans Dennison Sr. in entry for Hans Dennison Jr., 1926."
         }
       ],
       "titles": [
         {
-          "value": "Hans Rasmussen, \"Denmark Baptisms, 1618-1923\""
+          "value": "1926 - Hans Dennison Sr. in entry for Hans Dennison Jr., \"Utah Death Certificates, 1904-1956\""
         }
       ],
       "notes": [
         {
-          "text": "This extracted record was used to create this person in Family Tree."
+          "text": ""
         }
       ]
     },
     {
-      "id": "MSJ8-3XK",
-      "lang": "en_US,EN;Q=0.8",
-      "about": "http://www.sa.dk/content/dk/ao-forside/find_kirkeboger#",
+      "id": "MMDV-Y9P",
+      "about": "https://familysearch.org/ark:/61903/1:1:XZGG-WM7",
       "attribution": {
         "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-6SSD",
-          "resourceId": "cis.user.MMM9-6SSD"
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
         },
         "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-6SSD",
-          "resourceId": "cis.user.MMM9-6SSD"
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-BPZ3",
+          "resourceId": "cis.user.MMMM-BPZ3"
         },
-        "modified": 1408163914587,
-        "created": 1408163914587
+        "modified": 1489547946471,
+        "created": 1386088650000
       },
-      "resourceType": "DEFAULT",
+      "resourceType": "FSREADONLY",
       "links": {
         "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/MSJ8-3XK"
+          "href": "https://familysearch.org/platform/sources/descriptions/MMDV-Y9P"
         }
       },
       "citations": [
         {
-          "value": "Internet; Danish Archives; \"Arkivalier online\";\nFrom the link above:\nSelect \"Kirkebøger\" in the first box.  A new screen will come up.\nSelect \"København\" in the Vælg amt dropdown box.\nSelect \"Sokkelund\" in the Vælg herred dropdown box.\nSelect \"Gentofte\" in the Vælg sogn dropdown box.  Screen will refresh.\nClick on \"Gentofte\" in the tenth line, 1839 - 1867  K   V   [Confirmations  Marriages]"
+          "value": "\"Utah Death Certificates, 1904-1964\", database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/XZGG-WM7 : 11 September 2015), Hans Denison in entry for Joseph Denison Sr., 1925."
         }
       ],
       "titles": [
         {
-          "value": "1846 - Hans Dinersen, \"Denmark; Kirkebøger, København, Sokkelund, Gentofte, Gentofte 1839-1867\""
+          "value": "1925 - Hans Denison in entry for Joseph Denison Sr., \"Utah Death Certificates, 1904-1956\""
         }
       ],
       "notes": [
         {
-          "text": "The image is of a handwritten page from the above named Church Book [In Danish].\n\nOpslag:     163\nEntry #:     30\nGroom's name:     Hans Dinersen\nAge:     22 years\nBride's name:     Johanne Jakobsen\nResidence:     ?Kirkysolm? Sogn\nAge:     21 years\nMarriage date November 22nd [1846]"
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "M9ZY-QX7",
+      "about": "https://familysearch.org/ark:/61903/1:1:MH27-RV3",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-XVV7",
+          "resourceId": "cis.user.MMMM-XVV7"
+        },
+        "modified": 1489545390132,
+        "created": 1402855310260
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/M9ZY-QX7"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"United States Census, 1860\", database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/MH27-RV3 : 30 December 2015), Hans Dinson, 1860."
+        }
+      ],
+      "titles": [
+        {
+          "value": "Hans Dinson, \"United States Census, 1860\""
+        }
+      ]
+    },
+    {
+      "id": "9J4W-H72",
+      "lang": "en",
+      "about": "https://www.myheritage.com/research/record-10455-11154359/hans-dinesen-in-denmark-church-records?s=249283791",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-4B2X",
+          "resourceId": "cis.user.MMMM-4B2X"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-4B2X",
+          "resourceId": "cis.user.MMMM-4B2X"
+        },
+        "modified": 1481501296000,
+        "created": 1481501296000
+      },
+      "resourceType": "DEFAULT",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/9J4W-H72"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"Hans Dinesen - Denmark Church Records, 1813-1919 - MyHeritage.\" Hans Dinesen - Denmark Church Records, 1813-1919 - MyHeritage. N.p., n.d. Web. 11 Dec. 2016. <https://www.myheritage.com/research/record-10455-11154359/hans-dinesen-in-denmark-church-records?s=249283791>."
+        }
+      ],
+      "titles": [
+        {
+          "value": "Hans Dinesen - Denmark Church Records, 1813-1919 - MyHeritage"
+        }
+      ],
+      "notes": [
+        {
+          "text": "Hans Dinesen Record type:\tMarriage\n\nBook\nCountry:\tDenmark\tVolume date:\t1839-1867\tRecord type:\tMarriage\nCounty:\tKøbenhavn\tBook:\t5\t\t\nParish:\tGentofte\tPage:\t323-324"
+        }
+      ]
+    },
+    {
+      "id": "MSLW-2XN",
+      "lang": "en_US",
+      "about": "https://familysearch.org/ark:/61903/1:1:QVSF-1S74",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-XVV7",
+          "resourceId": "cis.user.MMMM-XVV7"
+        },
+        "modified": 1489569448426,
+        "created": 1410112180672
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/MSLW-2XN"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"Utah, Obituaries from Utah Newspapers, 1850-2005,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/QVSF-1S74 : 8 October 2015), Hans Denison in entry for Mr Hyrum Denison, 03 Jun 1932; citing Salt Lake Telegram 13, The University of Utah. J. Willard Marriott Library, Salt Lake City."
+        }
+      ],
+      "titles": [
+        {
+          "value": "1932 - Hans Denison in entry for Mr Hyrum Denison, \"Utah, Obituaries from Utah Newspapers, 1850-2005\""
+        }
+      ],
+      "notes": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "M9XJ-R23",
+      "about": "https://familysearch.org/ark:/61903/1:1:XZ24-D5D",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-XVV7",
+          "resourceId": "cis.user.MMMM-XVV7"
+        },
+        "modified": 1489547964810,
+        "created": 1403667652782
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/M9XJ-R23"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"Utah Death Certificates, 1904-1964\", database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/XZ24-D5D : 11 September 2015), Hans Denison in entry for Ephraim M Denison, 1921."
+        }
+      ],
+      "titles": [
+        {
+          "value": "1921 - Hans Denison in entry for Ephraim M Denison, \"Utah Death Certificates, 1904-1956\""
+        }
+      ],
+      "notes": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "9N3D-X8N",
+      "lang": "en",
+      "about": "http://www.denisonorg.org/",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-3Q2T",
+          "resourceId": "cis.user.MMMM-3Q2T"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-3Q2T",
+          "resourceId": "cis.user.MMMM-3Q2T"
+        },
+        "modified": 1472583088653,
+        "created": 1472583088653
+      },
+      "resourceType": "DEFAULT",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/9N3D-X8N"
+        }
+      },
+      "citations": [
+        {
+          "value": "Many written histories available by search box at top of URL.  Updated from time to time."
+        }
+      ],
+      "titles": [
+        {
+          "value": "Collection of histories relating to Hans Dinesen and his posterity"
+        }
+      ],
+      "notes": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "M9XJ-R57",
+      "about": "https://familysearch.org/ark:/61903/1:1:XZLL-Y9F",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-XVV7",
+          "resourceId": "cis.user.MMMM-XVV7"
+        },
+        "modified": 1489547964818,
+        "created": 1403667725650
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/M9XJ-R57"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"Utah Death Certificates, 1904-1964\", database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/XZLL-Y9F : 11 September 2015), Hans Dennison in entry for Christian Dennison, 1951."
+        }
+      ],
+      "titles": [
+        {
+          "value": "1951 - Hans Dennison in entry for Christian Dennison, \"Utah Death Certificates, 1904-1956\""
+        }
+      ],
+      "notes": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "MMDV-TBS",
+      "about": "https://familysearch.org/ark:/61903/1:1:XZPS-5TT",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-BPZ3",
+          "resourceId": "cis.user.MMMM-BPZ3"
+        },
+        "modified": 1489547946757,
+        "created": 1386088269000
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/MMDV-TBS"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"Utah Death Certificates, 1904-1964\", database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/XZPS-5TT : 11 September 2015), Hans Denison in entry for Hyrum Denison, 1932."
+        }
+      ],
+      "titles": [
+        {
+          "value": "1932 - Hans Denison in entry for Hyrum Denison, \"Utah Death Certificates, 1904-1956\""
+        }
+      ],
+      "notes": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "MMDV-TRF",
+      "about": "https://familysearch.org/ark:/61903/1:1:VRLL-BXC",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-BPZ3",
+          "resourceId": "cis.user.MMMM-BPZ3"
+        },
+        "modified": 1489547946937,
+        "created": 1386088051000
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/MMDV-TRF"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"Utah, County Marriages, 1887-1940\", database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/VRLL-BXC : 25 January 2016), Hans Dennison in entry for William L Marble and Hannah Henningson, 1927."
+        }
+      ],
+      "titles": [
+        {
+          "value": "1927 - Hans Dennison in entry for William L Marble and Hannah Henningson, \"Utah, County Marriages, 1887-1937\""
+        }
+      ],
+      "notes": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "98WD-1RF",
+      "lang": "en_US",
+      "about": "https://familysearch.org/ark:/61903/1:1:QVG4-LGCB",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-3V59",
+          "resourceId": "cis.user.MMM9-3V59"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-3V59",
+          "resourceId": "cis.user.MMM9-3V59"
+        },
+        "modified": 1429119157986,
+        "created": 1429119157986
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/98WD-1RF"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"Find A Grave Index,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/QVG4-LGCB : 13 December 2015), Hans Denisen, 1904; Burial, Manti, Sanpete, Utah, United States of America, Manti Cemetery; citing record ID 114773496, Find a Grave, http://www.findagrave.com."
+        }
+      ],
+      "titles": [
+        {
+          "value": "Hans Denisen, \"Find A Grave Index\""
         }
       ]
     }
@@ -22641,13 +22652,13 @@
       ]
     },
     {
-      "id": "pd_39.12879x-111.881699",
-      "latitude": 39.12879,
-      "longitude": -111.881699,
+      "id": "pd_39.25x-111.5",
+      "latitude": 39.25,
+      "longitude": -111.5,
       "names": [
         {
           "lang": "en-US",
-          "value": "Gunnison Election Precinct, Sanpete, Utah, United States"
+          "value": "Sanpete, Utah, United States"
         },
         {
           "lang": "und",
@@ -22701,13 +22712,13 @@
       ]
     },
     {
-      "id": "pd_45.48845x-122.75264",
-      "latitude": 45.48845,
-      "longitude": -122.75264,
+      "id": "pd_44.000278x-120.50028",
+      "latitude": 44.000278,
+      "longitude": -120.50028,
       "names": [
         {
           "lang": "en-US",
-          "value": "Portland, Washington, Oregon, United States"
+          "value": "Oregon, United States"
         },
         {
           "lang": "und",
@@ -22742,21 +22753,6 @@
         {
           "lang": "und",
           "value": "Imbler, Union, Oregon, United States"
-        }
-      ]
-    },
-    {
-      "id": "pd_44.000278x-120.50028",
-      "latitude": 44.000278,
-      "longitude": -120.50028,
-      "names": [
-        {
-          "lang": "en-US",
-          "value": "Oregon, United States"
-        },
-        {
-          "lang": "und",
-          "value": "Everett, Oregon, United States"
         }
       ]
     },
@@ -23042,6 +23038,21 @@
         {
           "lang": "und",
           "value": "Castle Dale, Emery, Utah, United States"
+        }
+      ]
+    },
+    {
+      "id": "pd_39.267009x-111.5387",
+      "latitude": 39.267009,
+      "longitude": -111.5387,
+      "names": [
+        {
+          "lang": "en-US",
+          "value": "Manti Election Precinct, Sanpete, Utah, United States"
+        },
+        {
+          "lang": "und",
+          "value": "Manti City, Manti Election Precinct, Sanpete, Utah, United States"
         }
       ]
     },

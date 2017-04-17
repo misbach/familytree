@@ -58,7 +58,7 @@
           "href": "https://familysearch.org/platform/tree/persons/LJLG-19M/families?sourceDescriptions=true"
         },
         "portrait": {
-          "href": "https://raw.githubusercontent.com/misbach/familytree/master/people/LJLG-19M/LJLG-19M.jpg"
+          "href": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/LJLG-19M/LJLG-19M.jpg"
         },
         "matches": {
           "href": "https://familysearch.org/platform/tree/persons/LJLG-19M/matches"
@@ -667,74 +667,29 @@
         "familiesAsParent": [
           {
             "parent1": {
-              "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/LHRB-D4G/LHRB-D4G.json",
+              "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/LHRB-D4G/LHRB-D4G.json",
               "resourceId": "LHRB-D4G"
             },
             "parent2": {
-              "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/LJLG-19M/LJLG-19M.json",
+              "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/LJLG-19M/LJLG-19M.json",
               "resourceId": "LJLG-19M"
             },
-            "children": [
-              {
-                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KL2Z-7Y4/KL2Z-7Y4.json",
-                "resourceId": "KL2Z-7Y4"
-              },
-              {
-                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KN7J-74C/KN7J-74C.json",
-                "resourceId": "KN7J-74C"
-              },
-              {
-                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/MGGR-4J8/MGGR-4J8.json",
-                "resourceId": "MGGR-4J8"
-              },
-              {
-                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/278L-9NW/278L-9NW.json",
-                "resourceId": "278L-9NW"
-              },
-              {
-                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KP9B-3QL/KP9B-3QL.json",
-                "resourceId": "KP9B-3QL"
-              },
-              {
-                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KPSK-XQ4/KPSK-XQ4.json",
-                "resourceId": "KPSK-XQ4"
-              },
-              {
-                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/MGGT-GJ9/MGGT-GJ9.json",
-                "resourceId": "MGGT-GJ9"
-              },
-              {
-                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KN7J-7H9/KN7J-7H9.json",
-                "resourceId": "KN7J-7H9"
-              },
-              {
-                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KN72-QLB/KN72-QLB.json",
-                "resourceId": "KN72-QLB"
-              },
-              {
-                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KP9B-SXR/KP9B-SXR.json",
-                "resourceId": "KP9B-SXR"
-              },
-              {
-                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/LZPX-2XZ/LZPX-2XZ.json",
-                "resourceId": "LZPX-2XZ"
-              }
-            ]
+            "children": []
           }
         ],
         "familiesAsChild": [
           {
             "parent1": {
-              "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/LWC2-P7H/LWC2-P7H.json",
+              "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/LWC2-P7H/LWC2-P7H.json",
               "resourceId": "LWC2-P7H"
             },
             "parent2": {
-              "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/LCPZ-YL9/LCPZ-YL9.json",
+              "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/LCPZ-YL9/LCPZ-YL9.json",
               "resourceId": "LCPZ-YL9"
             },
             "children": [
               {
-                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/LJLG-19M/LJLG-19M.json",
+                "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/LJLG-19M/LJLG-19M.json",
                 "resourceId": "LJLG-19M"
               }
             ]
@@ -11087,156 +11042,6 @@
       ]
     },
     {
-      "id": "M9DR-ZS6",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-CCHY",
-          "resourceId": "cis.user.MMMM-CCHY"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-CCHY",
-          "resourceId": "cis.user.MMMM-CCHY"
-        },
-        "modified": 1403168977362,
-        "created": 1403168977362
-      },
-      "resourceType": "LEGACY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/M9DR-ZS6"
-        }
-      },
-      "citations": [
-        {
-          "value": "The Church of Jesus Christ of Latter-day Saints, International Genealogical Index (R) (Copyright (c) 1980, 2002, data as of February 1, 2006), Family History Library, 35 N West Temple Street, Salt Lake City, Utah 84150  USA, 35 N West Temple Street, Salt Lake City, Utah 84150  USA"
-        }
-      ],
-      "titles": [
-        {
-          "value": "Legacy NFS Source: Susanna Lawrence - "
-        }
-      ],
-      "notes": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "id": "MRTR-ZG9",
-      "lang": "en-us",
-      "about": "https://familysearch.org/ark:/61903/1:1:F74Y-19V",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "modified": 1415375810882,
-        "created": 1415375810882
-      },
-      "resourceType": "IGI",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/MRTR-ZG9"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"Connecticut Births and Christenings, 1649-1906,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/F74Y-19V : 3 December 2014), Susanah in entry for Nathan Williams, 01 Mar 1722; citing ; FHL microfilm unknown."
-        }
-      ],
-      "titles": [
-        {
-          "value": "Susanah in entry for Nathan Williams, \"Connecticut Births and Christenings, 1649-1906\""
-        }
-      ],
-      "notes": [
-        {
-          "text": "This extracted record was used to create this person in Family Tree."
-        }
-      ]
-    },
-    {
-      "id": "MRTK-FYL",
-      "lang": "en-us",
-      "about": "https://familysearch.org/ark:/61903/1:1:F74Y-1M3",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "modified": 1415375785495,
-        "created": 1415375785495
-      },
-      "resourceType": "IGI",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/MRTK-FYL"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"Connecticut Births and Christenings, 1649-1906,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/F74Y-1M3 : 3 December 2014), Susanah in entry for Joseph Williams, 18 Apr 1713; citing ; FHL microfilm unknown."
-        }
-      ],
-      "titles": [
-        {
-          "value": "Susanah in entry for Joseph Williams, \"Connecticut Births and Christenings, 1649-1906\""
-        }
-      ],
-      "notes": [
-        {
-          "text": "This extracted record was used to create this person in Family Tree."
-        }
-      ]
-    },
-    {
-      "id": "MRR1-T64",
-      "lang": "en-us",
-      "about": "https://familysearch.org/ark:/61903/1:1:F7WP-23K",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "modified": 1415375707103,
-        "created": 1415375707103
-      },
-      "resourceType": "IGI",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/MRR1-T64"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"Connecticut Births and Christenings, 1649-1906,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/F7WP-23K : 3 December 2014), Suesanna in entry for Anne Williams, 14 Aug 1728; citing ; FHL microfilm unknown."
-        }
-      ],
-      "titles": [
-        {
-          "value": "Suesanna in entry for Anne Williams, \"Connecticut Births and Christenings, 1649-1906\""
-        }
-      ],
-      "notes": [
-        {
-          "text": "This extracted record was used to create this person in Family Tree."
-        }
-      ]
-    },
-    {
       "id": "MRTR-CJ8",
       "lang": "en-us",
       "about": "https://familysearch.org/ark:/61903/1:1:F74Y-19M",
@@ -11275,9 +11080,45 @@
       ]
     },
     {
-      "id": "MRTK-N83",
+      "id": "M9DR-ZS6",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-CCHY",
+          "resourceId": "cis.user.MMMM-CCHY"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-CCHY",
+          "resourceId": "cis.user.MMMM-CCHY"
+        },
+        "modified": 1403168977362,
+        "created": 1403168977362
+      },
+      "resourceType": "LEGACY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/M9DR-ZS6"
+        }
+      },
+      "citations": [
+        {
+          "value": "The Church of Jesus Christ of Latter-day Saints, International Genealogical Index (R) (Copyright (c) 1980, 2002, data as of February 1, 2006), Family History Library, 35 N West Temple Street, Salt Lake City, Utah 84150  USA, 35 N West Temple Street, Salt Lake City, Utah 84150  USA"
+        }
+      ],
+      "titles": [
+        {
+          "value": "Legacy NFS Source: Susanna Lawrence - "
+        }
+      ],
+      "notes": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "MRTK-FYL",
       "lang": "en-us",
-      "about": "https://familysearch.org/ark:/61903/1:1:F74Y-1MW",
+      "about": "https://familysearch.org/ark:/61903/1:1:F74Y-1M3",
       "attribution": {
         "contributor": {
           "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
@@ -11293,12 +11134,12 @@
       "resourceType": "IGI",
       "links": {
         "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/MRTK-N83"
+          "href": "https://familysearch.org/platform/sources/descriptions/MRTK-FYL"
         }
       },
       "citations": [
         {
-          "value": "\"Connecticut Births and Christenings, 1649-1906,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/F74Y-1MW : 3 December 2014), Susanah in entry for Joseph Williams, 17 Jun 1714; citing ; FHL microfilm unknown."
+          "value": "\"Connecticut Births and Christenings, 1649-1906,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/F74Y-1M3 : 3 December 2014), Susanah in entry for Joseph Williams, 18 Apr 1713; citing ; FHL microfilm unknown."
         }
       ],
       "titles": [
@@ -11351,47 +11192,9 @@
       ]
     },
     {
-      "id": "MRBK-QXG",
+      "id": "MRTR-ZG9",
       "lang": "en-us",
-      "about": "https://familysearch.org/ark:/61903/1:1:F74Y-BPK",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "modified": 1415375998725,
-        "created": 1415375998725
-      },
-      "resourceType": "IGI",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/MRBK-QXG"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"Connecticut Births and Christenings, 1649-1906,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/F74Y-BPK : 3 December 2014), Susannah in entry for Elisha Or Elihu Williams, 23 May 1725; citing ; FHL microfilm unknown."
-        }
-      ],
-      "titles": [
-        {
-          "value": "Susannah in entry for Elisha Or Elihu Williams, \"Connecticut Births and Christenings, 1649-1906\""
-        }
-      ],
-      "notes": [
-        {
-          "text": "This extracted record was used to create this person in Family Tree."
-        }
-      ]
-    },
-    {
-      "id": "MRTR-Z1Y",
-      "lang": "en-us",
-      "about": "https://familysearch.org/ark:/61903/1:1:F74Y-195",
+      "about": "https://familysearch.org/ark:/61903/1:1:F74Y-19V",
       "attribution": {
         "contributor": {
           "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
@@ -11407,17 +11210,93 @@
       "resourceType": "IGI",
       "links": {
         "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/MRTR-Z1Y"
+          "href": "https://familysearch.org/platform/sources/descriptions/MRTR-ZG9"
         }
       },
       "citations": [
         {
-          "value": "\"Connecticut Births and Christenings, 1649-1906,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/F74Y-195 : 3 December 2014), Suesanna in entry for Ebenezer Williams, 08 Sep 1730; citing ; FHL microfilm unknown."
+          "value": "\"Connecticut Births and Christenings, 1649-1906,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/F74Y-19V : 3 December 2014), Susanah in entry for Nathan Williams, 01 Mar 1722; citing ; FHL microfilm unknown."
         }
       ],
       "titles": [
         {
-          "value": "Suesanna in entry for Ebenezer Williams, \"Connecticut Births and Christenings, 1649-1906\""
+          "value": "Susanah in entry for Nathan Williams, \"Connecticut Births and Christenings, 1649-1906\""
+        }
+      ],
+      "notes": [
+        {
+          "text": "This extracted record was used to create this person in Family Tree."
+        }
+      ]
+    },
+    {
+      "id": "MRBQ-2Q1",
+      "lang": "en-us",
+      "about": "https://familysearch.org/ark:/61903/1:1:F7WP-KLD",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "modified": 1415375947890,
+        "created": 1415375947890
+      },
+      "resourceType": "IGI",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/MRBQ-2Q1"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"Connecticut Births and Christenings, 1649-1906,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/F7WP-KLD : 3 December 2014), Susanah in entry for Elizabeth Williams, 16 Oct 1711; citing ; FHL microfilm unknown."
+        }
+      ],
+      "titles": [
+        {
+          "value": "Susanah in entry for Elizabeth Williams, \"Connecticut Births and Christenings, 1649-1906\""
+        }
+      ],
+      "notes": [
+        {
+          "text": "This extracted record was used to create this person in Family Tree."
+        }
+      ]
+    },
+    {
+      "id": "MRTK-N83",
+      "lang": "en-us",
+      "about": "https://familysearch.org/ark:/61903/1:1:F74Y-1MW",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "modified": 1415375785495,
+        "created": 1415375785495
+      },
+      "resourceType": "IGI",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/MRTK-N83"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"Connecticut Births and Christenings, 1649-1906,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/F74Y-1MW : 3 December 2014), Susanah in entry for Joseph Williams, 17 Jun 1714; citing ; FHL microfilm unknown."
+        }
+      ],
+      "titles": [
+        {
+          "value": "Susanah in entry for Joseph Williams, \"Connecticut Births and Christenings, 1649-1906\""
         }
       ],
       "notes": [
@@ -11465,9 +11344,9 @@
       ]
     },
     {
-      "id": "MRBQ-2Q1",
+      "id": "MRR1-T64",
       "lang": "en-us",
-      "about": "https://familysearch.org/ark:/61903/1:1:F7WP-KLD",
+      "about": "https://familysearch.org/ark:/61903/1:1:F7WP-23K",
       "attribution": {
         "contributor": {
           "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
@@ -11477,23 +11356,99 @@
           "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
           "resourceId": "cis.wkca.MMMM-M93P"
         },
-        "modified": 1415375947890,
-        "created": 1415375947890
+        "modified": 1415375707103,
+        "created": 1415375707103
       },
       "resourceType": "IGI",
       "links": {
         "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/MRBQ-2Q1"
+          "href": "https://familysearch.org/platform/sources/descriptions/MRR1-T64"
         }
       },
       "citations": [
         {
-          "value": "\"Connecticut Births and Christenings, 1649-1906,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/F7WP-KLD : 3 December 2014), Susanah in entry for Elizabeth Williams, 16 Oct 1711; citing ; FHL microfilm unknown."
+          "value": "\"Connecticut Births and Christenings, 1649-1906,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/F7WP-23K : 3 December 2014), Suesanna in entry for Anne Williams, 14 Aug 1728; citing ; FHL microfilm unknown."
         }
       ],
       "titles": [
         {
-          "value": "Susanah in entry for Elizabeth Williams, \"Connecticut Births and Christenings, 1649-1906\""
+          "value": "Suesanna in entry for Anne Williams, \"Connecticut Births and Christenings, 1649-1906\""
+        }
+      ],
+      "notes": [
+        {
+          "text": "This extracted record was used to create this person in Family Tree."
+        }
+      ]
+    },
+    {
+      "id": "MRTR-Z1Y",
+      "lang": "en-us",
+      "about": "https://familysearch.org/ark:/61903/1:1:F74Y-195",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "modified": 1415375810882,
+        "created": 1415375810882
+      },
+      "resourceType": "IGI",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/MRTR-Z1Y"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"Connecticut Births and Christenings, 1649-1906,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/F74Y-195 : 3 December 2014), Suesanna in entry for Ebenezer Williams, 08 Sep 1730; citing ; FHL microfilm unknown."
+        }
+      ],
+      "titles": [
+        {
+          "value": "Suesanna in entry for Ebenezer Williams, \"Connecticut Births and Christenings, 1649-1906\""
+        }
+      ],
+      "notes": [
+        {
+          "text": "This extracted record was used to create this person in Family Tree."
+        }
+      ]
+    },
+    {
+      "id": "MRBK-QXG",
+      "lang": "en-us",
+      "about": "https://familysearch.org/ark:/61903/1:1:F74Y-BPK",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "modified": 1415375998725,
+        "created": 1415375998725
+      },
+      "resourceType": "IGI",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/MRBK-QXG"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"Connecticut Births and Christenings, 1649-1906,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/F74Y-BPK : 3 December 2014), Susannah in entry for Elisha Or Elihu Williams, 23 May 1725; citing ; FHL microfilm unknown."
+        }
+      ],
+      "titles": [
+        {
+          "value": "Susannah in entry for Elisha Or Elihu Williams, \"Connecticut Births and Christenings, 1649-1906\""
         }
       ],
       "notes": [

@@ -297,7 +297,7 @@
           "href": "https://familysearch.org/platform/tree/persons/KWCG-VGR/families?sourceDescriptions=true"
         },
         "portrait": {
-          "href": "https://raw.githubusercontent.com/misbach/familytree/master/people/KWCG-VGR/KWCG-VGR.jpg"
+          "href": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/KWCG-VGR/KWCG-VGR.jpg"
         },
         "matches": {
           "href": "https://familysearch.org/platform/tree/persons/KWCG-VGR/matches"
@@ -1642,11 +1642,11 @@
           },
           "place": {
             "original": "ED 171 Heber Precinct Heber City, Wasatch, Utah, United States",
-            "description": "#pd_40.50694x-111.412498",
+            "description": "#pd_40.37556x-111.125557",
             "normalized": [
               {
                 "lang": "en-US",
-                "value": "Heber City, Wasatch, Utah, United States"
+                "value": "Wasatch, Utah, United States"
               },
               {
                 "lang": "und",
@@ -1923,41 +1923,17 @@
         "familiesAsParent": [
           {
             "parent1": {
-              "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KWCG-VGR/KWCG-VGR.json",
+              "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/KWCG-VGR/KWCG-VGR.json",
               "resourceId": "KWCG-VGR"
             },
             "parent2": {
-              "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KWCG-VG1/KWCG-VG1.json",
+              "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/KWCG-VG1/KWCG-VG1.json",
               "resourceId": "KWCG-VG1"
             },
             "children": [
               {
-                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KW8D-KVY/KW8D-KVY.json",
-                "resourceId": "KW8D-KVY"
-              },
-              {
-                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KWZF-6HM/KWZF-6HM.json",
-                "resourceId": "KWZF-6HM"
-              },
-              {
-                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KWJ3-HY1/KWJ3-HY1.json",
-                "resourceId": "KWJ3-HY1"
-              },
-              {
-                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KWCJ-RN4/KWCJ-RN4.json",
+                "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/KWCJ-RN4/KWCJ-RN4.json",
                 "resourceId": "KWCJ-RN4"
-              },
-              {
-                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KW8V-XSM/KW8V-XSM.json",
-                "resourceId": "KW8V-XSM"
-              },
-              {
-                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KWCS-T2N/KWCS-T2N.json",
-                "resourceId": "KWCS-T2N"
-              },
-              {
-                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KWC3-CV6/KWC3-CV6.json",
-                "resourceId": "KWC3-CV6"
               }
             ]
           }
@@ -1965,16 +1941,16 @@
         "familiesAsChild": [
           {
             "parent1": {
-              "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KWJ4-C4J/KWJ4-C4J.json",
+              "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/KWJ4-C4J/KWJ4-C4J.json",
               "resourceId": "KWJ4-C4J"
             },
             "parent2": {
-              "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KWJ4-C4X/KWJ4-C4X.json",
+              "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/KWJ4-C4X/KWJ4-C4X.json",
               "resourceId": "KWJ4-C4X"
             },
             "children": [
               {
-                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KWCG-VGR/KWCG-VGR.json",
+                "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/KWCG-VGR/KWCG-VGR.json",
                 "resourceId": "KWCG-VGR"
               }
             ]
@@ -2611,11 +2587,11 @@
           },
           "place": {
             "original": "ED 171 Heber Precinct Heber City, Wasatch, Utah, United States",
-            "description": "#pd_40.50694x-111.412498",
+            "description": "#pd_40.37556x-111.125557",
             "normalized": [
               {
                 "lang": "en-US",
-                "value": "Heber City, Wasatch, Utah, United States"
+                "value": "Wasatch, Utah, United States"
               },
               {
                 "lang": "und",
@@ -2655,11 +2631,11 @@
           },
           "place": {
             "original": "Heber Ward 1, , Utah",
-            "description": "#pd_40.50694x-111.412498",
+            "description": "#pd_40.37556x-111.125557",
             "normalized": [
               {
                 "lang": "en-US",
-                "value": "Heber City, Wasatch, Utah, United States"
+                "value": "Wasatch, Utah, United States"
               },
               {
                 "lang": "und",
@@ -4155,11 +4131,11 @@
           },
           "place": {
             "original": "Heber Ward 1, , Utah",
-            "description": "#pd_40.50694x-111.412498",
+            "description": "#pd_40.37556x-111.125557",
             "normalized": [
               {
                 "lang": "en-US",
-                "value": "Heber City, Wasatch, Utah, United States"
+                "value": "Wasatch, Utah, United States"
               },
               {
                 "lang": "und",
@@ -5224,11 +5200,11 @@
           },
           "place": {
             "original": "ED 171 Heber Precinct Heber City, Wasatch, Utah, United States",
-            "description": "#pd_40.50694x-111.412498",
+            "description": "#pd_40.37556x-111.125557",
             "normalized": [
               {
                 "lang": "en-US",
-                "value": "Heber City, Wasatch, Utah, United States"
+                "value": "Wasatch, Utah, United States"
               },
               {
                 "lang": "und",
@@ -5268,11 +5244,11 @@
           },
           "place": {
             "original": "Heber Ward 1, , Utah",
-            "description": "#pd_40.50694x-111.412498",
+            "description": "#pd_40.37556x-111.125557",
             "normalized": [
               {
                 "lang": "en-US",
-                "value": "Heber City, Wasatch, Utah, United States"
+                "value": "Wasatch, Utah, United States"
               },
               {
                 "lang": "und",
@@ -5650,6 +5626,45 @@
         }
       },
       "sources": [
+        {
+          "id": "4330fcf0-8944-4105-9907-9962eff7e02b",
+          "links": {
+            "source-reference": {
+              "href": "https://familysearch.org/platform/tree/persons/KWCG-VGR/source-references/4330fcf0-8944-4105-9907-9962eff7e02b"
+            },
+            "description": {
+              "href": "https://familysearch.org/platform/sources/descriptions/9VY6-F39"
+            }
+          },
+          "description": "https://familysearch.org/platform/sources/descriptions/9VY6-F39",
+          "descriptionId": "9VY6-F39"
+        },
+        {
+          "id": "c5827aaf-6bbe-47dd-b78d-36e7d65a7611",
+          "links": {
+            "source-reference": {
+              "href": "https://familysearch.org/platform/tree/persons/KWCG-VGR/source-references/c5827aaf-6bbe-47dd-b78d-36e7d65a7611"
+            },
+            "description": {
+              "href": "https://familysearch.org/platform/sources/descriptions/9VY6-X9V"
+            }
+          },
+          "description": "https://familysearch.org/platform/sources/descriptions/9VY6-X9V",
+          "descriptionId": "9VY6-X9V"
+        },
+        {
+          "id": "8ffef005-6ede-4808-8f0d-21f052f7b17a",
+          "links": {
+            "source-reference": {
+              "href": "https://familysearch.org/platform/tree/persons/KWCG-VGR/source-references/8ffef005-6ede-4808-8f0d-21f052f7b17a"
+            },
+            "description": {
+              "href": "https://familysearch.org/platform/sources/descriptions/9VY6-7XT"
+            }
+          },
+          "description": "https://familysearch.org/platform/sources/descriptions/9VY6-7XT",
+          "descriptionId": "9VY6-7XT"
+        },
         {
           "id": "2105afbf-dfc7-4b34-af45-dc17cc55681c",
           "links": {
@@ -6075,11 +6090,11 @@
           },
           "place": {
             "original": "ED 171 Heber Precinct Heber City, Wasatch, Utah, United States",
-            "description": "#pd_40.50694x-111.412498",
+            "description": "#pd_40.37556x-111.125557",
             "normalized": [
               {
                 "lang": "en-US",
-                "value": "Heber City, Wasatch, Utah, United States"
+                "value": "Wasatch, Utah, United States"
               },
               {
                 "lang": "und",
@@ -7645,11 +7660,11 @@
           },
           "place": {
             "original": "Heber Ward 1, , Utah",
-            "description": "#pd_40.50694x-111.412498",
+            "description": "#pd_40.37556x-111.125557",
             "normalized": [
               {
                 "lang": "en-US",
-                "value": "Heber City, Wasatch, Utah, United States"
+                "value": "Wasatch, Utah, United States"
               },
               {
                 "lang": "und",
@@ -8695,11 +8710,11 @@
           },
           "place": {
             "original": "Heber Ward 1, , Utah",
-            "description": "#pd_40.50694x-111.412498",
+            "description": "#pd_40.37556x-111.125557",
             "normalized": [
               {
                 "lang": "en-US",
-                "value": "Heber City, Wasatch, Utah, United States"
+                "value": "Wasatch, Utah, United States"
               },
               {
                 "lang": "und",
@@ -9646,19 +9661,6 @@
         }
       },
       "sources": [
-        {
-          "id": "21cbcc46-3e0e-4217-a8c8-51c28788e752",
-          "links": {
-            "source-reference": {
-              "href": "https://familysearch.org/platform/tree/persons/KWCG-VGR/source-references/21cbcc46-3e0e-4217-a8c8-51c28788e752"
-            },
-            "description": {
-              "href": "https://familysearch.org/platform/sources/descriptions/9VP7-SB5"
-            }
-          },
-          "description": "https://familysearch.org/platform/sources/descriptions/9VP7-SB5",
-          "descriptionId": "9VP7-SB5"
-        },
         {
           "id": "a9f43790-cc7b-41ae-b036-3beb7f252fda",
           "links": {
@@ -10718,46 +10720,6 @@
           "links": {
             "conclusion": {
               "href": "https://familysearch.org/platform/tree/persons/KWJ4-C4J/conclusions/f15f1fc6-2654-4f5e-b47b-5f3422a0229a"
-            }
-          }
-        },
-        {
-          "id": "4a87bd01-8960-4dfe-8799-79d64e10696d",
-          "attribution": {
-            "contributor": {
-              "resource": "https://familysearch.org/platform/users/agents/MMFL-GJR",
-              "resourceId": "MMFL-GJR"
-            },
-            "modified": 1491171661884
-          },
-          "type": "http://gedcomx.org/Residence",
-          "date": {
-            "original": "1891",
-            "formal": "+1891",
-            "normalized": [
-              {
-                "lang": "en-US",
-                "value": "1891"
-              }
-            ]
-          },
-          "place": {
-            "original": "Great Harwood, Lancashire, England",
-            "description": "#pd_53.79299x-2.406864",
-            "normalized": [
-              {
-                "lang": "en-US",
-                "value": "Great Harwood, Lancashire, England, United Kingdom"
-              },
-              {
-                "lang": "en",
-                "value": "Great Harwood, Lancashire, England, United Kingdom"
-              }
-            ]
-          },
-          "links": {
-            "conclusion": {
-              "href": "https://familysearch.org/platform/tree/persons/KWJ4-C4J/conclusions/4a87bd01-8960-4dfe-8799-79d64e10696d"
             }
           }
         },
@@ -15949,142 +15911,6 @@
       }
     },
     {
-      "id": "9JK9-31D",
-      "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:QKDW-YBG1",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-DP1C",
-          "resourceId": "cis.user.MMMM-DP1C"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-DP1C",
-          "resourceId": "cis.user.MMMM-DP1C"
-        },
-        "modified": 1484783861985,
-        "created": 1484783861985
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/9JK9-31D"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"Utah, Missionary Department Missionary Registers, 1860-1937,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/QKDW-YBG1 : 26 February 2016), George A Clegg, Eastern States; records extracted by FamilySearch and images digitized by Church History library, The Church of Jesus Christ of Latter-day Saints; citing Missionary Register v. 3, Missionary department missionary registers 1860-1959, CR 301 22, Church History Library, Salt lake City, Utah.\n"
-        }
-      ],
-      "titles": [
-        {
-          "value": "George A Clegg, \"Utah, Missionary Department Missionary Registers, 1860-1937\""
-        }
-      ]
-    },
-    {
-      "id": "96HD-MD9",
-      "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:XZPB-3FY",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-4Z1V",
-          "resourceId": "cis.user.MMMM-4Z1V"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-4Z1V",
-          "resourceId": "cis.user.MMMM-4Z1V"
-        },
-        "modified": 1450224941901,
-        "created": 1450224941901
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/96HD-MD9"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"Utah Death Certificates, 1904-1964\", database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/XZPB-3FY : 11 September 2015), George A. Clegg in entry for Sarah Elizabeth Clegg, 1955."
-        }
-      ],
-      "titles": [
-        {
-          "value": "George A. Clegg in entry for Sarah Elizabeth Clegg, \"Utah Death Certificates, 1904-1964\""
-        }
-      ]
-    },
-    {
-      "id": "MMMM-ZXV",
-      "about": "https://familysearch.org/ark:/61903/1:1:MNSL-2S8",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-NBRH",
-          "resourceId": "cis.user.MMMM-NBRH"
-        },
-        "modified": 1489497674680,
-        "created": 1330325788000
-      },
-      "resourceType": "DEFAULT",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/MMMM-ZXV"
-        }
-      },
-      "citations": [
-        {
-          "value": ""
-        }
-      ],
-      "titles": [
-        {
-          "value": "United States Census, 1880 for George A. Clegg"
-        }
-      ],
-      "notes": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "id": "9FJJ-VY3",
-      "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:Q2MB-3MLJ",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-VCXQ",
-          "resourceId": "cis.user.MMM9-VCXQ"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-VCXQ",
-          "resourceId": "cis.user.MMM9-VCXQ"
-        },
-        "modified": 1467919481903,
-        "created": 1467919481903
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/9FJJ-VY3"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"Utah, County Marriages, 1887-1940\", database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/Q2MB-3MLJ : 2 February 2016), Geo A Clegg in entry for Elmo George Clegg and Ruby Mitchell, 1933."
-        }
-      ],
-      "titles": [
-        {
-          "value": "Geo A Clegg in entry for Elmo George Clegg and Ruby Mitchell, \"Utah, County Marriages, 1887-1940\""
-        }
-      ]
-    },
-    {
       "id": "9F9Z-VNF",
       "lang": "en_US",
       "about": "https://familysearch.org/ark:/61903/1:1:F82S-PTG",
@@ -16114,171 +15940,6 @@
       "titles": [
         {
           "value": "George Clegg in entry for <Unknown>, \"Utah Births and Christenings, 1892-1941\""
-        }
-      ]
-    },
-    {
-      "id": "9JVD-727",
-      "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:QKD4-ML2K",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-4Y17",
-          "resourceId": "cis.user.MMMM-4Y17"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-4Y17",
-          "resourceId": "cis.user.MMMM-4Y17"
-        },
-        "modified": 1484624419218,
-        "created": 1484624419218
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/9JVD-727"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"Utah, Missionary Department Missionary Registers, 1860-1937,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/QKD4-ML2K : 26 February 2016), Geo Almon Clegg, Northwestern States; records extracted by FamilySearch and images digitized by Church History library, The Church of Jesus Christ of Latter-day Saints; citing Missionary Register v. 5, Missionary department missionary registers 1860-1959, CR 301 22, Church History Library, Salt lake City, Utah.\n"
-        }
-      ],
-      "titles": [
-        {
-          "value": "Geo Almon Clegg, \"Utah, Missionary Department Missionary Registers, 1860-1937\""
-        }
-      ]
-    },
-    {
-      "id": "96CS-KXN",
-      "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:VRLP-2RC",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-4Z1V",
-          "resourceId": "cis.user.MMMM-4Z1V"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-4Z1V",
-          "resourceId": "cis.user.MMMM-4Z1V"
-        },
-        "modified": 1450475360999,
-        "created": 1450475360999
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/96CS-KXN"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"Utah, County Marriages, 1887-1940\", database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/VRLP-2RC : 25 January 2016), Geo A Clegg in entry for John Byron Yeates and Bertha May Clegg, 1930."
-        }
-      ],
-      "titles": [
-        {
-          "value": "Geo A Clegg in entry for John Byron Yeates and Bertha May Clegg, \"Utah, County Marriages, 1887-1940\""
-        }
-      ]
-    },
-    {
-      "id": "96DX-BG3",
-      "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:QKDV-XKBN",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-4Z1V",
-          "resourceId": "cis.user.MMMM-4Z1V"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-4Z1V",
-          "resourceId": "cis.user.MMMM-4Z1V"
-        },
-        "modified": 1451608952148,
-        "created": 1451608952148
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/96DX-BG3"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"Utah Death Certificates, 1904-1964\", database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/QKDV-XKBN : 25 September 2015), George A Clegg in entry for Christy Brierley, 1964."
-        }
-      ],
-      "titles": [
-        {
-          "value": "George A Clegg in entry for Christy Brierley, \"Utah Death Certificates, 1904-1964\""
-        }
-      ]
-    },
-    {
-      "id": "MSTW-G2Y",
-      "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:F8P5-M8M",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-Z3L2",
-          "resourceId": "cis.user.MMMM-Z3L2"
-        },
-        "modified": 1489577500430,
-        "created": 1412543490679
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/MSTW-G2Y"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"Utah Marriages, 1887-1935,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/F8P5-M8M : 5 December 2014), George A. Clegg and Sarah E. Giles, 24 Oct 1894; citing Salt Lake, Salt Lake, Utah; FHL microfilm 482,527."
-        }
-      ],
-      "titles": [
-        {
-          "value": "George A. Clegg, \"Utah Marriages, 1887-1935\""
-        }
-      ]
-    },
-    {
-      "id": "9VL7-BZ7",
-      "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:QK57-BJPD",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-4Z1V",
-          "resourceId": "cis.user.MMMM-4Z1V"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-4Z1V",
-          "resourceId": "cis.user.MMMM-4Z1V"
-        },
-        "modified": 1490911356774,
-        "created": 1490911356774
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/9VL7-BZ7"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"United States, GenealogyBank Obituaries, 1980-2014,\" database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/QK57-BJPD : 25 October 2016), George Clegg in entry for Bertha Mae Clegg Yeates, Logan, Utah, United States, 04 Jul 2000; from \"Recent Newspaper Obituaries (1977 - Today),\" database, GenealogyBank.com (http://www.genealogybank.com : 2014); citing Herald Journal, The, born-digital text."
-        }
-      ],
-      "titles": [
-        {
-          "value": "George Clegg in entry for Bertha Mae Clegg Yeates, \"United States, GenealogyBank Obituaries, 1980-2014\""
         }
       ]
     },
@@ -16316,9 +15977,141 @@
       ]
     },
     {
-      "id": "MSTW-K6N",
+      "id": "96CS-8KV",
       "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:XZPN-YP1",
+      "about": "https://familysearch.org/ark:/61903/1:1:QKD2-GGS4",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-4Z1V",
+          "resourceId": "cis.user.MMMM-4Z1V"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-4Z1V",
+          "resourceId": "cis.user.MMMM-4Z1V"
+        },
+        "modified": 1450473589688,
+        "created": 1450473589688
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/96CS-8KV"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"BillionGraves Index,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/QKD2-GGS4 : 15 September 2015), George A Clegg, died 09 Feb 1935; citing BillionGraves (http://www.billiongraves.com : 2012), Burial at Heber City Cemetery, Heber, Wasatch, Utah, United States."
+        }
+      ],
+      "titles": [
+        {
+          "value": "George A Clegg, \"BillionGraves Index\""
+        }
+      ]
+    },
+    {
+      "id": "9VL7-TVV",
+      "lang": "en_US",
+      "about": "https://familysearch.org/ark:/61903/1:1:QKR7-SQDZ",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-4Z1V",
+          "resourceId": "cis.user.MMMM-4Z1V"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-4Z1V",
+          "resourceId": "cis.user.MMMM-4Z1V"
+        },
+        "modified": 1490911192616,
+        "created": 1490911192616
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/9VL7-TVV"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"United States, GenealogyBank Obituaries, 1980-2014,\" database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/QKR7-SQDZ : 25 October 2016), George Clegg in entry for Bertha Mae Clegg Yeates, Salt Lake City, Utah, United States, 04 Jul 2000; from \"Recent Newspaper Obituaries (1977 - Today),\" database, GenealogyBank.com (http://www.genealogybank.com : 2014); citing Deseret News, The, born-digital text."
+        }
+      ],
+      "titles": [
+        {
+          "value": "George Clegg in entry for Bertha Mae Clegg Yeates, \"United States, GenealogyBank Obituaries, 1980-2014\""
+        }
+      ]
+    },
+    {
+      "id": "969Q-1K2",
+      "lang": "en_US",
+      "about": "https://familysearch.org/ark:/61903/1:1:F82S-YQT",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-329G",
+          "resourceId": "cis.user.MMM9-329G"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-329G",
+          "resourceId": "cis.user.MMM9-329G"
+        },
+        "modified": 1447693499371,
+        "created": 1447693499371
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/969Q-1K2"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"Utah Births and Christenings, 1892-1941,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/F82S-YQT : 12 December 2014), George Clegg in entry for null, 11 Jan 1903; citing Heber, Wasatch, Utah, reference 760; FHL microfilm 483,507."
+        }
+      ],
+      "titles": [
+        {
+          "value": "George Clegg in entry for <Unknown>, \"Utah Births and Christenings, 1892-1941\""
+        }
+      ]
+    },
+    {
+      "id": "98T1-B45",
+      "lang": "en_US",
+      "about": "https://familysearch.org/ark:/61903/1:1:QV2S-GWKL",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-329G",
+          "resourceId": "cis.user.MMM9-329G"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-329G",
+          "resourceId": "cis.user.MMM9-329G"
+        },
+        "modified": 1436285406733,
+        "created": 1436285406733
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/98T1-B45"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"Find A Grave Index,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/QV2S-GWKL : 13 December 2015), George almon Clegg, 1935; Burial, Heber City, Wasatch, Utah, United States of America, Heber City Cemetery; citing record ID 55386390, Find a Grave, http://www.findagrave.com."
+        }
+      ],
+      "titles": [
+        {
+          "value": "George almon Clegg, \"Find A Grave Index\""
+        }
+      ]
+    },
+    {
+      "id": "MSTW-G2Y",
+      "lang": "en_US",
+      "about": "https://familysearch.org/ark:/61903/1:1:F8P5-M8M",
       "attribution": {
         "contributor": {
           "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
@@ -16328,56 +16121,23 @@
           "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-Z3L2",
           "resourceId": "cis.user.MMMM-Z3L2"
         },
-        "modified": 1489577492837,
-        "created": 1412542634754
+        "modified": 1489577500430,
+        "created": 1412543490679
       },
       "resourceType": "FSREADONLY",
       "links": {
         "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/MSTW-K6N"
+          "href": "https://familysearch.org/platform/sources/descriptions/MSTW-G2Y"
         }
       },
       "citations": [
         {
-          "value": "\"Utah Death Certificates, 1904-1964\", database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/XZPN-YP1 : 11 September 2015), George Almont Clegg, 1935."
+          "value": "\"Utah Marriages, 1887-1935,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/F8P5-M8M : 5 December 2014), George A. Clegg and Sarah E. Giles, 24 Oct 1894; citing Salt Lake, Salt Lake, Utah; FHL microfilm 482,527."
         }
       ],
       "titles": [
         {
-          "value": "George Almont Clegg, \"Utah Death Certificates, 1904-1964\""
-        }
-      ]
-    },
-    {
-      "id": "M9NR-K2F",
-      "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:M5XM-FVB",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-3V32",
-          "resourceId": "cis.user.MMM9-3V32"
-        },
-        "modified": 1489549059529,
-        "created": 1404059017193
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/M9NR-K2F"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"United States Census, 1910,\" database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/M5XM-FVB : accessed 7 April 2017), George A Clegg, Heber Ward 1, Wasatch, Utah, United States; citing enumeration district (ED) ED 206, sheet 5B, family 96, NARA microfilm publication T624 (Washington D.C.: National Archives and Records Administration, 1982), roll 1610; FHL microfilm 1,375,623.\n"
-        }
-      ],
-      "titles": [
-        {
-          "value": "George A Clegg, \"United States Census, 1910\""
+          "value": "George A. Clegg, \"Utah Marriages, 1887-1935\""
         }
       ]
     },
@@ -16420,72 +16180,6 @@
       ]
     },
     {
-      "id": "9VL7-TVV",
-      "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:QKR7-SQDZ",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-4Z1V",
-          "resourceId": "cis.user.MMMM-4Z1V"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-4Z1V",
-          "resourceId": "cis.user.MMMM-4Z1V"
-        },
-        "modified": 1490911192616,
-        "created": 1490911192616
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/9VL7-TVV"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"United States, GenealogyBank Obituaries, 1980-2014,\" database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/QKR7-SQDZ : 25 October 2016), George Clegg in entry for Bertha Mae Clegg Yeates, Salt Lake City, Utah, United States, 04 Jul 2000; from \"Recent Newspaper Obituaries (1977 - Today),\" database, GenealogyBank.com (http://www.genealogybank.com : 2014); citing Deseret News, The, born-digital text."
-        }
-      ],
-      "titles": [
-        {
-          "value": "George Clegg in entry for Bertha Mae Clegg Yeates, \"United States, GenealogyBank Obituaries, 1980-2014\""
-        }
-      ]
-    },
-    {
-      "id": "96CS-8KV",
-      "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:QKD2-GGS4",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-4Z1V",
-          "resourceId": "cis.user.MMMM-4Z1V"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-4Z1V",
-          "resourceId": "cis.user.MMMM-4Z1V"
-        },
-        "modified": 1450473589688,
-        "created": 1450473589688
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/96CS-8KV"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"BillionGraves Index,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/QKD2-GGS4 : 15 September 2015), George A Clegg, died 09 Feb 1935; citing BillionGraves (http://www.billiongraves.com : 2012), Burial at Heber City Cemetery, Heber, Wasatch, Utah, United States."
-        }
-      ],
-      "titles": [
-        {
-          "value": "George A Clegg, \"BillionGraves Index\""
-        }
-      ]
-    },
-    {
       "id": "9D25-9Q6",
       "lang": "en_US",
       "about": "https://familysearch.org/ark:/61903/1:1:QV5H-L4HH",
@@ -16519,9 +16213,9 @@
       ]
     },
     {
-      "id": "968Z-999",
+      "id": "9VL7-BZ7",
       "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:QVSF-1R3B",
+      "about": "https://familysearch.org/ark:/61903/1:1:QK57-BJPD",
       "attribution": {
         "contributor": {
           "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-4Z1V",
@@ -16531,295 +16225,23 @@
           "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-4Z1V",
           "resourceId": "cis.user.MMMM-4Z1V"
         },
-        "modified": 1451272853532,
-        "created": 1451272853532
+        "modified": 1490911356774,
+        "created": 1490911356774
       },
       "resourceType": "FSREADONLY",
       "links": {
         "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/968Z-999"
+          "href": "https://familysearch.org/platform/sources/descriptions/9VL7-BZ7"
         }
       },
       "citations": [
         {
-          "value": "\"Utah, Obituaries from Utah Newspapers, 1850-2005,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/QVSF-1R3B : 8 October 2015), Mr George A Clegg in entry for Mrs Margaret Ann Clegg Brierly, 14 Jan 1932; citing Salt Lake Telegram 13, The University of Utah. J. Willard Marriott Library, Salt Lake City."
+          "value": "\"United States, GenealogyBank Obituaries, 1980-2014,\" database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/QK57-BJPD : 25 October 2016), George Clegg in entry for Bertha Mae Clegg Yeates, Logan, Utah, United States, 04 Jul 2000; from \"Recent Newspaper Obituaries (1977 - Today),\" database, GenealogyBank.com (http://www.genealogybank.com : 2014); citing Herald Journal, The, born-digital text."
         }
       ],
       "titles": [
         {
-          "value": "Mr George A Clegg in entry for Mrs Margaret Ann Clegg Brierly, \"Utah, Obituaries from Utah Newspapers, 1850-2005\""
-        }
-      ]
-    },
-    {
-      "id": "98T1-B45",
-      "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:QV2S-GWKL",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-329G",
-          "resourceId": "cis.user.MMM9-329G"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-329G",
-          "resourceId": "cis.user.MMM9-329G"
-        },
-        "modified": 1436285406733,
-        "created": 1436285406733
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/98T1-B45"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"Find A Grave Index,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/QV2S-GWKL : 13 December 2015), George almon Clegg, 1935; Burial, Heber City, Wasatch, Utah, United States of America, Heber City Cemetery; citing record ID 55386390, Find a Grave, http://www.findagrave.com."
-        }
-      ],
-      "titles": [
-        {
-          "value": "George almon Clegg, \"Find A Grave Index\""
-        }
-      ]
-    },
-    {
-      "id": "MST4-QVR",
-      "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:XZPS-JL9",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-Z3L2",
-          "resourceId": "cis.user.MMMM-Z3L2"
-        },
-        "modified": 1489577526916,
-        "created": 1412546170106
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/MST4-QVR"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"Utah Death Certificates, 1904-1964\", database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/XZPS-JL9 : 11 September 2015), George A. Clegg in entry for Margaret Ann Brierley, 1932."
-        }
-      ],
-      "titles": [
-        {
-          "value": "George A. Clegg in entry for Margaret Ann Brierley, \"Utah Death Certificates, 1904-1964\""
-        }
-      ]
-    },
-    {
-      "id": "MST4-7WS",
-      "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:F8PP-34Q",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-Z3L2",
-          "resourceId": "cis.user.MMMM-Z3L2"
-        },
-        "modified": 1489577528450,
-        "created": 1412546306921
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/MST4-7WS"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"Utah Marriages, 1887-1935,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/F8PP-34Q : 5 December 2014), Geo. A. Clegg in entry for John Byron Yeates and Bertha Mae Clegg, 10 Jun 1930; citing Utah Co., Utah; FHL microfilm 482,950."
-        }
-      ],
-      "titles": [
-        {
-          "value": "Geo. A. Clegg in entry for John Byron Yeates and Bertha Mae Clegg, \"Utah Marriages, 1887-1935\""
-        }
-      ]
-    },
-    {
-      "id": "MST4-QCF",
-      "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:F8PR-MML",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-Z3L2",
-          "resourceId": "cis.user.MMMM-Z3L2"
-        },
-        "modified": 1489577526209,
-        "created": 1412546082524
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/MST4-QCF"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"Utah Marriages, 1887-1935,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/F8PR-MML : 5 December 2014), Geo. A. Clegg in entry for Richard Brierley and Margaret Ann Clegg, 30 Jun 1921; citing , Utah, Utah; FHL microfilm 482,948."
-        }
-      ],
-      "titles": [
-        {
-          "value": "Geo. A. Clegg in entry for Richard Brierley and Margaret Ann Clegg, \"Utah Marriages, 1887-1935\""
-        }
-      ]
-    },
-    {
-      "id": "MM78-8BZ",
-      "about": "http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&GRid=55386390",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-7FJD",
-          "resourceId": "cis.user.MMM9-7FJD"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-7FJD",
-          "resourceId": "cis.user.MMM9-7FJD"
-        },
-        "modified": 1372809473000,
-        "created": 1372809473000
-      },
-      "resourceType": "DEFAULT",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/MM78-8BZ"
-        }
-      },
-      "citations": [
-        {
-          "value": "Heber City Cemetery, Heber City, Wasatch, Utah, United States; Burial Record for George A Clegg, 1870-1935"
-        }
-      ],
-      "titles": [
-        {
-          "value": "Heber City Cemetery, Utah"
-        }
-      ],
-      "notes": [
-        {
-          "text": "George A Clegg, gender, birth/death dates, place of burial"
-        }
-      ]
-    },
-    {
-      "id": "969Q-1K2",
-      "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:F82S-YQT",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-329G",
-          "resourceId": "cis.user.MMM9-329G"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-329G",
-          "resourceId": "cis.user.MMM9-329G"
-        },
-        "modified": 1447693499371,
-        "created": 1447693499371
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/969Q-1K2"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"Utah Births and Christenings, 1892-1941,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/F82S-YQT : 12 December 2014), George Clegg in entry for null, 11 Jan 1903; citing Heber, Wasatch, Utah, reference 760; FHL microfilm 483,507."
-        }
-      ],
-      "titles": [
-        {
-          "value": "George Clegg in entry for <Unknown>, \"Utah Births and Christenings, 1892-1941\""
-        }
-      ]
-    },
-    {
-      "id": "MMMM-VB1",
-      "about": "http://clegghistory.org/death_cert_geo_a_clegg.jpg",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-NBRH",
-          "resourceId": "cis.user.MMMM-NBRH"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-NBRH",
-          "resourceId": "cis.user.MMMM-NBRH"
-        },
-        "modified": 1334607092000,
-        "created": 1334607092000
-      },
-      "resourceType": "DEFAULT",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/MMMM-VB1"
-        }
-      },
-      "citations": [
-        {
-          "value": ""
-        }
-      ],
-      "titles": [
-        {
-          "value": "George Almon Clegg Death Certificate"
-        }
-      ],
-      "notes": [
-        {
-          "text": "Cause of death is: Chronic Interstitial Nephritis; Artero Sclerosis"
-        }
-      ]
-    },
-    {
-      "id": "MST4-7X2",
-      "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:XZ24-FLW",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-Z3L2",
-          "resourceId": "cis.user.MMMM-Z3L2"
-        },
-        "modified": 1489577529188,
-        "created": 1412546391829
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/MST4-7X2"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"Utah Death Certificates, 1904-1964\", database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/XZ24-FLW : 11 September 2015), Geo. A. Clegg in entry for Rillia Viona Kummer, 1921."
-        }
-      ],
-      "titles": [
-        {
-          "value": "Geo. A. Clegg in entry for Rillia Viona Kummer, \"Utah Death Certificates, 1904-1964\""
+          "value": "George Clegg in entry for Bertha Mae Clegg Yeates, \"United States, GenealogyBank Obituaries, 1980-2014\""
         }
       ]
     },
@@ -16857,143 +16279,68 @@
       ]
     },
     {
-      "id": "MSVG-NMH",
+      "id": "9JK9-31D",
       "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:M8P2-893",
+      "about": "https://familysearch.org/ark:/61903/1:1:QKDW-YBG1",
       "attribution": {
         "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-DP1C",
+          "resourceId": "cis.user.MMMM-DP1C"
         },
         "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-XTWJ",
-          "resourceId": "cis.user.MMMM-XTWJ"
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-DP1C",
+          "resourceId": "cis.user.MMMM-DP1C"
         },
-        "modified": 1489521626262,
-        "created": 1408910520795
+        "modified": 1484783861985,
+        "created": 1484783861985
       },
       "resourceType": "FSREADONLY",
       "links": {
         "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/MSVG-NMH"
+          "href": "https://familysearch.org/platform/sources/descriptions/9JK9-31D"
         }
       },
       "citations": [
         {
-          "value": "\"United States Census, 1920,\" database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/M8P2-893 : accessed 30 March 2017), George A Clegg, Heber, Wasatch, Utah, United States; citing  ED 139, sheet 8A, line 6, family 126, NARA microfilm publication T625 (Washington D.C.: National Archives and Records Administration, 1992), roll 1867; FHL microfilm 1,821,867."
+          "value": "\"Utah, Missionary Department Missionary Registers, 1860-1937,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/QKDW-YBG1 : 26 February 2016), George A Clegg, Eastern States; records extracted by FamilySearch and images digitized by Church History library, The Church of Jesus Christ of Latter-day Saints; citing Missionary Register v. 3, Missionary department missionary registers 1860-1959, CR 301 22, Church History Library, Salt lake City, Utah.\n"
         }
       ],
       "titles": [
         {
-          "value": "George A Clegg, \"United States Census, 1920\""
+          "value": "George A Clegg, \"Utah, Missionary Department Missionary Registers, 1860-1937\""
         }
       ]
     },
     {
-      "id": "M9NR-K12",
+      "id": "9JVD-727",
       "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:VRLC-M8Y",
+      "about": "https://familysearch.org/ark:/61903/1:1:QKD4-ML2K",
       "attribution": {
         "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-4Y17",
+          "resourceId": "cis.user.MMMM-4Y17"
         },
         "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-3V32",
-          "resourceId": "cis.user.MMM9-3V32"
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-4Y17",
+          "resourceId": "cis.user.MMMM-4Y17"
         },
-        "modified": 1489559476649,
-        "created": 1404059185163
+        "modified": 1484624419218,
+        "created": 1484624419218
       },
       "resourceType": "FSREADONLY",
       "links": {
         "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/M9NR-K12"
+          "href": "https://familysearch.org/platform/sources/descriptions/9JVD-727"
         }
       },
       "citations": [
         {
-          "value": "\"Utah, County Marriages, 1887-1940\", database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/VRLC-M8Y : 25 January 2016), George A Clegg and Sarah E Giles, 1894."
+          "value": "\"Utah, Missionary Department Missionary Registers, 1860-1937,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/QKD4-ML2K : 26 February 2016), Geo Almon Clegg, Northwestern States; records extracted by FamilySearch and images digitized by Church History library, The Church of Jesus Christ of Latter-day Saints; citing Missionary Register v. 5, Missionary department missionary registers 1860-1959, CR 301 22, Church History Library, Salt lake City, Utah.\n"
         }
       ],
       "titles": [
         {
-          "value": "1894  George A Clegg, \"Utah, County Marriages, 1887-1937\""
-        }
-      ],
-      "notes": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "id": "MST4-7G6",
-      "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:MMRY-C8Z",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-Z3L2",
-          "resourceId": "cis.user.MMMM-Z3L2"
-        },
-        "modified": 1489577529694,
-        "created": 1412546466041
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/MST4-7G6"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"United States Census, 1900,\" database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/MMRY-C8Z : accessed 7 April 2017), A. George Clegg, Heber Precinct Heber City, Wasatch, Utah, United States; citing enumeration district (ED) 171, sheet 15A, family 279, NARA microfilm publication T623 (Washington, D.C.: National Archives and Records Administration, 1972.); FHL microfilm 1,241,688.\n"
-        }
-      ],
-      "titles": [
-        {
-          "value": "A. George Clegg, \"United States Census, 1900\""
-        }
-      ]
-    },
-    {
-      "id": "M991-V9H",
-      "about": "http://billiongraves.com/pages/record/GeorgeAClegg/2224894?utm_campaign=treeconnect&utm_source=familysearch.org&utm_medium=sourcelink",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM3-K5YK",
-          "resourceId": "cis.user.MMM3-K5YK"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM3-K5YK",
-          "resourceId": "cis.user.MMM3-K5YK"
-        },
-        "modified": 1400448032652,
-        "created": 1400448032652
-      },
-      "resourceType": "DEFAULT",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/M991-V9H"
-        }
-      },
-      "citations": [
-        {
-          "value": "Transcription of headstone image from billiongraves.com. Image taken at Heber City Cemetery (Heber, Wasatch, Utah, United States) on 26 September 2012"
-        }
-      ],
-      "titles": [
-        {
-          "value": "Headstone image of George A. Clegg from billiongraves.com"
-        }
-      ],
-      "notes": [
-        {
-          "text": "Name: George A. Clegg\nBirth: 4 January 1870\nDeath: 9 February 1935\nBurial: Heber City Cemetery, Heber, Wasatch, Utah, United States"
+          "value": "Geo Almon Clegg, \"Utah, Missionary Department Missionary Registers, 1860-1937\""
         }
       ]
     },
@@ -17027,6 +16374,138 @@
       "titles": [
         {
           "value": "George A Clegg in entry for Almon Giles Clegg, \"Utah, Missionary Department Missionary Registers, 1860-1937\""
+        }
+      ]
+    },
+    {
+      "id": "96DX-BG3",
+      "lang": "en_US",
+      "about": "https://familysearch.org/ark:/61903/1:1:QKDV-XKBN",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-4Z1V",
+          "resourceId": "cis.user.MMMM-4Z1V"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-4Z1V",
+          "resourceId": "cis.user.MMMM-4Z1V"
+        },
+        "modified": 1451608952148,
+        "created": 1451608952148
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/96DX-BG3"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"Utah Death Certificates, 1904-1964\", database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/QKDV-XKBN : 25 September 2015), George A Clegg in entry for Christy Brierley, 1964."
+        }
+      ],
+      "titles": [
+        {
+          "value": "George A Clegg in entry for Christy Brierley, \"Utah Death Certificates, 1904-1964\""
+        }
+      ]
+    },
+    {
+      "id": "968Z-999",
+      "lang": "en_US",
+      "about": "https://familysearch.org/ark:/61903/1:1:QVSF-1R3B",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-4Z1V",
+          "resourceId": "cis.user.MMMM-4Z1V"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-4Z1V",
+          "resourceId": "cis.user.MMMM-4Z1V"
+        },
+        "modified": 1451272853532,
+        "created": 1451272853532
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/968Z-999"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"Utah, Obituaries from Utah Newspapers, 1850-2005,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/QVSF-1R3B : 8 October 2015), Mr George A Clegg in entry for Mrs Margaret Ann Clegg Brierly, 14 Jan 1932; citing Salt Lake Telegram 13, The University of Utah. J. Willard Marriott Library, Salt Lake City."
+        }
+      ],
+      "titles": [
+        {
+          "value": "Mr George A Clegg in entry for Mrs Margaret Ann Clegg Brierly, \"Utah, Obituaries from Utah Newspapers, 1850-2005\""
+        }
+      ]
+    },
+    {
+      "id": "96CS-KXN",
+      "lang": "en_US",
+      "about": "https://familysearch.org/ark:/61903/1:1:VRLP-2RC",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-4Z1V",
+          "resourceId": "cis.user.MMMM-4Z1V"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-4Z1V",
+          "resourceId": "cis.user.MMMM-4Z1V"
+        },
+        "modified": 1450475360999,
+        "created": 1450475360999
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/96CS-KXN"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"Utah, County Marriages, 1887-1940\", database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/VRLP-2RC : 25 January 2016), Geo A Clegg in entry for John Byron Yeates and Bertha May Clegg, 1930."
+        }
+      ],
+      "titles": [
+        {
+          "value": "Geo A Clegg in entry for John Byron Yeates and Bertha May Clegg, \"Utah, County Marriages, 1887-1940\""
+        }
+      ]
+    },
+    {
+      "id": "96HD-MD9",
+      "lang": "en_US",
+      "about": "https://familysearch.org/ark:/61903/1:1:XZPB-3FY",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-4Z1V",
+          "resourceId": "cis.user.MMMM-4Z1V"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-4Z1V",
+          "resourceId": "cis.user.MMMM-4Z1V"
+        },
+        "modified": 1450224941901,
+        "created": 1450224941901
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/96HD-MD9"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"Utah Death Certificates, 1904-1964\", database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/XZPB-3FY : 11 September 2015), George A. Clegg in entry for Sarah Elizabeth Clegg, 1955."
+        }
+      ],
+      "titles": [
+        {
+          "value": "George A. Clegg in entry for Sarah Elizabeth Clegg, \"Utah Death Certificates, 1904-1964\""
         }
       ]
     },
@@ -17120,12 +16599,528 @@
       },
       "citations": [
         {
-          "value": "\"United States Census, 1930,\" database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/XH6G-B8X : accessed 7 April 2017), George Clegg, Heber, Wasatch, Utah, United States; citing enumeration district (ED) ED 5, sheet 17B, line 74, family 383, NARA microfilm publication T626 (Washington D.C.: National Archives and Records Administration, 2002), roll 2424; FHL microfilm 2,342,158.\n"
+          "value": "\"United States Census, 1930,\" database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/XH6G-B8X : accessed 14 April 2017), George Clegg, Heber, Wasatch, Utah, United States; citing enumeration district (ED) ED 5, sheet 17B, line 74, family 383, NARA microfilm publication T626 (Washington D.C.: National Archives and Records Administration, 2002), roll 2424; FHL microfilm 2,342,158.\n"
         }
       ],
       "titles": [
         {
           "value": "George Clegg, \"United States Census, 1930\""
+        }
+      ]
+    },
+    {
+      "id": "M991-V9H",
+      "about": "http://billiongraves.com/pages/record/GeorgeAClegg/2224894?utm_campaign=treeconnect&utm_source=familysearch.org&utm_medium=sourcelink",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM3-K5YK",
+          "resourceId": "cis.user.MMM3-K5YK"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM3-K5YK",
+          "resourceId": "cis.user.MMM3-K5YK"
+        },
+        "modified": 1400448032652,
+        "created": 1400448032652
+      },
+      "resourceType": "DEFAULT",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/M991-V9H"
+        }
+      },
+      "citations": [
+        {
+          "value": "Transcription of headstone image from billiongraves.com. Image taken at Heber City Cemetery (Heber, Wasatch, Utah, United States) on 26 September 2012"
+        }
+      ],
+      "titles": [
+        {
+          "value": "Headstone image of George A. Clegg from billiongraves.com"
+        }
+      ],
+      "notes": [
+        {
+          "text": "Name: George A. Clegg\nBirth: 4 January 1870\nDeath: 9 February 1935\nBurial: Heber City Cemetery, Heber, Wasatch, Utah, United States"
+        }
+      ]
+    },
+    {
+      "id": "MSTW-K6N",
+      "lang": "en_US",
+      "about": "https://familysearch.org/ark:/61903/1:1:XZPN-YP1",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-Z3L2",
+          "resourceId": "cis.user.MMMM-Z3L2"
+        },
+        "modified": 1489577492837,
+        "created": 1412542634754
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/MSTW-K6N"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"Utah Death Certificates, 1904-1964\", database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/XZPN-YP1 : 11 September 2015), George Almont Clegg, 1935."
+        }
+      ],
+      "titles": [
+        {
+          "value": "George Almont Clegg, \"Utah Death Certificates, 1904-1964\""
+        }
+      ]
+    },
+    {
+      "id": "MST4-7X2",
+      "lang": "en_US",
+      "about": "https://familysearch.org/ark:/61903/1:1:XZ24-FLW",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-Z3L2",
+          "resourceId": "cis.user.MMMM-Z3L2"
+        },
+        "modified": 1489577529188,
+        "created": 1412546391829
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/MST4-7X2"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"Utah Death Certificates, 1904-1964\", database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/XZ24-FLW : 11 September 2015), Geo. A. Clegg in entry for Rillia Viona Kummer, 1921."
+        }
+      ],
+      "titles": [
+        {
+          "value": "Geo. A. Clegg in entry for Rillia Viona Kummer, \"Utah Death Certificates, 1904-1964\""
+        }
+      ]
+    },
+    {
+      "id": "MST4-7WS",
+      "lang": "en_US",
+      "about": "https://familysearch.org/ark:/61903/1:1:F8PP-34Q",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-Z3L2",
+          "resourceId": "cis.user.MMMM-Z3L2"
+        },
+        "modified": 1489577528450,
+        "created": 1412546306921
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/MST4-7WS"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"Utah Marriages, 1887-1935,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/F8PP-34Q : 5 December 2014), Geo. A. Clegg in entry for John Byron Yeates and Bertha Mae Clegg, 10 Jun 1930; citing Utah Co., Utah; FHL microfilm 482,950."
+        }
+      ],
+      "titles": [
+        {
+          "value": "Geo. A. Clegg in entry for John Byron Yeates and Bertha Mae Clegg, \"Utah Marriages, 1887-1935\""
+        }
+      ]
+    },
+    {
+      "id": "9FJJ-VY3",
+      "lang": "en_US",
+      "about": "https://familysearch.org/ark:/61903/1:1:Q2MB-3MLJ",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-VCXQ",
+          "resourceId": "cis.user.MMM9-VCXQ"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-VCXQ",
+          "resourceId": "cis.user.MMM9-VCXQ"
+        },
+        "modified": 1467919481903,
+        "created": 1467919481903
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/9FJJ-VY3"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"Utah, County Marriages, 1887-1940\", database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/Q2MB-3MLJ : 2 February 2016), Geo A Clegg in entry for Elmo George Clegg and Ruby Mitchell, 1933."
+        }
+      ],
+      "titles": [
+        {
+          "value": "Geo A Clegg in entry for Elmo George Clegg and Ruby Mitchell, \"Utah, County Marriages, 1887-1940\""
+        }
+      ]
+    },
+    {
+      "id": "96HD-MN7",
+      "lang": "en_US",
+      "about": "https://familysearch.org/ark:/61903/1:1:KZLJ-GV5",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-4Z1V",
+          "resourceId": "cis.user.MMMM-4Z1V"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-4Z1V",
+          "resourceId": "cis.user.MMMM-4Z1V"
+        },
+        "modified": 1450224979853,
+        "created": 1450224979853
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/96HD-MN7"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"BillionGraves Index,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/KZLJ-GV5 : 24 June 2015), George A. Clegg, died 09 Feb 1935; citing BillionGraves (http://www.billiongraves.com : 2012), Burial at Heber City Cemetery, Heber, Wasatch, Utah, United States."
+        }
+      ],
+      "titles": [
+        {
+          "value": "George A. Clegg, \"BillionGraves Index\""
+        }
+      ]
+    },
+    {
+      "id": "MM78-8BZ",
+      "about": "http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&GRid=55386390",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-7FJD",
+          "resourceId": "cis.user.MMM9-7FJD"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-7FJD",
+          "resourceId": "cis.user.MMM9-7FJD"
+        },
+        "modified": 1372809473000,
+        "created": 1372809473000
+      },
+      "resourceType": "DEFAULT",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/MM78-8BZ"
+        }
+      },
+      "citations": [
+        {
+          "value": "Heber City Cemetery, Heber City, Wasatch, Utah, United States; Burial Record for George A Clegg, 1870-1935"
+        }
+      ],
+      "titles": [
+        {
+          "value": "Heber City Cemetery, Utah"
+        }
+      ],
+      "notes": [
+        {
+          "text": "George A Clegg, gender, birth/death dates, place of burial"
+        }
+      ]
+    },
+    {
+      "id": "MMMM-ZXV",
+      "about": "https://familysearch.org/ark:/61903/1:1:MNSL-2S8",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-NBRH",
+          "resourceId": "cis.user.MMMM-NBRH"
+        },
+        "modified": 1489497674680,
+        "created": 1330325788000
+      },
+      "resourceType": "DEFAULT",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/MMMM-ZXV"
+        }
+      },
+      "citations": [
+        {
+          "value": ""
+        }
+      ],
+      "titles": [
+        {
+          "value": "United States Census, 1880 for George A. Clegg"
+        }
+      ],
+      "notes": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "MST4-7G6",
+      "lang": "en_US",
+      "about": "https://familysearch.org/ark:/61903/1:1:MMRY-C8Z",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-Z3L2",
+          "resourceId": "cis.user.MMMM-Z3L2"
+        },
+        "modified": 1489577529694,
+        "created": 1412546466041
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/MST4-7G6"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"United States Census, 1900,\" database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/MMRY-C8Z : accessed 12 April 2017), A. George Clegg, Heber Precinct Heber City, Wasatch, Utah, United States; citing enumeration district (ED) 171, sheet 15A, family 279, NARA microfilm publication T623 (Washington, D.C.: National Archives and Records Administration, 1972.); FHL microfilm 1,241,688.\n"
+        }
+      ],
+      "titles": [
+        {
+          "value": "A. George Clegg, \"United States Census, 1900\""
+        }
+      ]
+    },
+    {
+      "id": "MST4-QCF",
+      "lang": "en_US",
+      "about": "https://familysearch.org/ark:/61903/1:1:F8PR-MML",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-Z3L2",
+          "resourceId": "cis.user.MMMM-Z3L2"
+        },
+        "modified": 1489577526209,
+        "created": 1412546082524
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/MST4-QCF"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"Utah Marriages, 1887-1935,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/F8PR-MML : 5 December 2014), Geo. A. Clegg in entry for Richard Brierley and Margaret Ann Clegg, 30 Jun 1921; citing , Utah, Utah; FHL microfilm 482,948."
+        }
+      ],
+      "titles": [
+        {
+          "value": "Geo. A. Clegg in entry for Richard Brierley and Margaret Ann Clegg, \"Utah Marriages, 1887-1935\""
+        }
+      ]
+    },
+    {
+      "id": "M9NR-K12",
+      "lang": "en_US",
+      "about": "https://familysearch.org/ark:/61903/1:1:VRLC-M8Y",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-3V32",
+          "resourceId": "cis.user.MMM9-3V32"
+        },
+        "modified": 1489559476649,
+        "created": 1404059185163
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/M9NR-K12"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"Utah, County Marriages, 1887-1940\", database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/VRLC-M8Y : 25 January 2016), George A Clegg and Sarah E Giles, 1894."
+        }
+      ],
+      "titles": [
+        {
+          "value": "1894  George A Clegg, \"Utah, County Marriages, 1887-1937\""
+        }
+      ],
+      "notes": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "M9NR-K2F",
+      "lang": "en_US",
+      "about": "https://familysearch.org/ark:/61903/1:1:M5XM-FVB",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-3V32",
+          "resourceId": "cis.user.MMM9-3V32"
+        },
+        "modified": 1489549059529,
+        "created": 1404059017193
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/M9NR-K2F"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"United States Census, 1910,\" database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/M5XM-FVB : accessed 12 April 2017), George A Clegg, Heber Ward 1, Wasatch, Utah, United States; citing enumeration district (ED) ED 206, sheet 5B, family 96, NARA microfilm publication T624 (Washington D.C.: National Archives and Records Administration, 1982), roll 1610; FHL microfilm 1,375,623.\n"
+        }
+      ],
+      "titles": [
+        {
+          "value": "George A Clegg, \"United States Census, 1910\""
+        }
+      ]
+    },
+    {
+      "id": "MST4-QVR",
+      "lang": "en_US",
+      "about": "https://familysearch.org/ark:/61903/1:1:XZPS-JL9",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-Z3L2",
+          "resourceId": "cis.user.MMMM-Z3L2"
+        },
+        "modified": 1489577526916,
+        "created": 1412546170106
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/MST4-QVR"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"Utah Death Certificates, 1904-1964\", database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/XZPS-JL9 : 11 September 2015), George A. Clegg in entry for Margaret Ann Brierley, 1932."
+        }
+      ],
+      "titles": [
+        {
+          "value": "George A. Clegg in entry for Margaret Ann Brierley, \"Utah Death Certificates, 1904-1964\""
+        }
+      ]
+    },
+    {
+      "id": "MSVG-NMH",
+      "lang": "en_US",
+      "about": "https://familysearch.org/ark:/61903/1:1:M8P2-893",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-XTWJ",
+          "resourceId": "cis.user.MMMM-XTWJ"
+        },
+        "modified": 1489521626262,
+        "created": 1408910520795
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/MSVG-NMH"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"United States Census, 1920,\" database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/M8P2-893 : accessed 14 April 2017), George A Clegg, Heber, Wasatch, Utah, United States; citing  ED 139, sheet 8A, line 6, family 126, NARA microfilm publication T625 (Washington D.C.: National Archives and Records Administration, 1992), roll 1867; FHL microfilm 1,821,867."
+        }
+      ],
+      "titles": [
+        {
+          "value": "George A Clegg, \"United States Census, 1920\""
+        }
+      ]
+    },
+    {
+      "id": "MMMM-VB1",
+      "about": "http://clegghistory.org/death_cert_geo_a_clegg.jpg",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-NBRH",
+          "resourceId": "cis.user.MMMM-NBRH"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-NBRH",
+          "resourceId": "cis.user.MMMM-NBRH"
+        },
+        "modified": 1334607092000,
+        "created": 1334607092000
+      },
+      "resourceType": "DEFAULT",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/MMMM-VB1"
+        }
+      },
+      "citations": [
+        {
+          "value": ""
+        }
+      ],
+      "titles": [
+        {
+          "value": "George Almon Clegg Death Certificate"
+        }
+      ],
+      "notes": [
+        {
+          "text": "Cause of death is: Chronic Interstitial Nephritis; Artero Sclerosis"
         }
       ]
     },
@@ -17166,39 +17161,6 @@
           "text": "Name: George A. Clegg\nBirth: 4 January 1870\nDeath: 9 February 1935\nBurial: Heber City Cemetery, Heber, Utah, United States\nContributed by: BillionGraves user janetnazer"
         }
       ]
-    },
-    {
-      "id": "96HD-MN7",
-      "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:KZLJ-GV5",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-4Z1V",
-          "resourceId": "cis.user.MMMM-4Z1V"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-4Z1V",
-          "resourceId": "cis.user.MMMM-4Z1V"
-        },
-        "modified": 1450224979853,
-        "created": 1450224979853
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/96HD-MN7"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"BillionGraves Index,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/KZLJ-GV5 : 24 June 2015), George A. Clegg, died 09 Feb 1935; citing BillionGraves (http://www.billiongraves.com : 2012), Burial at Heber City Cemetery, Heber, Wasatch, Utah, United States."
-        }
-      ],
-      "titles": [
-        {
-          "value": "George A. Clegg, \"BillionGraves Index\""
-        }
-      ]
     }
   ],
   "places": [
@@ -17233,13 +17195,13 @@
       ]
     },
     {
-      "id": "pd_40.50694x-111.412498",
-      "latitude": 40.50694,
-      "longitude": -111.412498,
+      "id": "pd_40.37556x-111.125557",
+      "latitude": 40.37556,
+      "longitude": -111.125557,
       "names": [
         {
           "lang": "en-US",
-          "value": "Heber City, Wasatch, Utah, United States"
+          "value": "Wasatch, Utah, United States"
         },
         {
           "lang": "und",
@@ -17274,6 +17236,21 @@
         {
           "lang": "und",
           "value": "Northwestern States, United States"
+        }
+      ]
+    },
+    {
+      "id": "pd_40.50694x-111.412498",
+      "latitude": 40.50694,
+      "longitude": -111.412498,
+      "names": [
+        {
+          "lang": "en-US",
+          "value": "Heber City, Wasatch, Utah, United States"
+        },
+        {
+          "lang": "und",
+          "value": "Heber, Wasatch, Utah, United States"
         }
       ]
     },
@@ -17349,21 +17326,6 @@
         {
           "lang": "en",
           "value": "Logan, Cache, Utah, United States"
-        }
-      ]
-    },
-    {
-      "id": "pd_40.37556x-111.125557",
-      "latitude": 40.37556,
-      "longitude": -111.125557,
-      "names": [
-        {
-          "lang": "en-US",
-          "value": "Wasatch, Utah, United States"
-        },
-        {
-          "lang": "und",
-          "value": "Wasatch, Utah, United States"
         }
       ]
     },
@@ -17484,21 +17446,6 @@
         {
           "lang": "und",
           "value": "Atchison, Atchison, Kansas, United States"
-        }
-      ]
-    },
-    {
-      "id": "pd_53.79299x-2.406864",
-      "latitude": 53.79299,
-      "longitude": -2.406864,
-      "names": [
-        {
-          "lang": "en-US",
-          "value": "Great Harwood, Lancashire, England, United Kingdom"
-        },
-        {
-          "lang": "en",
-          "value": "Great Harwood, Lancashire, England, United Kingdom"
         }
       ]
     },

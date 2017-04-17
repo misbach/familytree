@@ -57,7 +57,7 @@
           "href": "https://familysearch.org/platform/tree/persons/KGJK-M92/families?sourceDescriptions=true"
         },
         "portrait": {
-          "href": "https://raw.githubusercontent.com/misbach/familytree/master/people/KGJK-M92/KGJK-M92.jpg"
+          "href": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/KGJK-M92/KGJK-M92.jpg"
         },
         "matches": {
           "href": "https://familysearch.org/platform/tree/persons/KGJK-M92/matches"
@@ -406,61 +406,17 @@
         "familiesAsParent": [
           {
             "parent1": {
-              "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KLXR-795/KLXR-795.json",
+              "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/KLXR-795/KLXR-795.json",
               "resourceId": "KLXR-795"
             },
             "parent2": {
-              "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KGJK-M92/KGJK-M92.json",
+              "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/KGJK-M92/KGJK-M92.json",
               "resourceId": "KGJK-M92"
             },
             "children": [
               {
-                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/M7FL-RGT/M7FL-RGT.json",
-                "resourceId": "M7FL-RGT"
-              },
-              {
-                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/L6KR-WQ6/L6KR-WQ6.json",
-                "resourceId": "L6KR-WQ6"
-              },
-              {
-                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/M7FL-RZ3/M7FL-RZ3.json",
-                "resourceId": "M7FL-RZ3"
-              },
-              {
-                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/94BK-C2D/94BK-C2D.json",
-                "resourceId": "94BK-C2D"
-              },
-              {
-                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/M7FL-RDY/M7FL-RDY.json",
-                "resourceId": "M7FL-RDY"
-              },
-              {
-                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/K26T-LDP/K26T-LDP.json",
-                "resourceId": "K26T-LDP"
-              },
-              {
-                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/M7FL-YT8/M7FL-YT8.json",
-                "resourceId": "M7FL-YT8"
-              },
-              {
-                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KH5P-VMY/KH5P-VMY.json",
-                "resourceId": "KH5P-VMY"
-              },
-              {
-                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/LW61-WTY/LW61-WTY.json",
+                "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/LW61-WTY/LW61-WTY.json",
                 "resourceId": "LW61-WTY"
-              },
-              {
-                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KL78-NQ8/KL78-NQ8.json",
-                "resourceId": "KL78-NQ8"
-              },
-              {
-                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/K8S8-L7Q/K8S8-L7Q.json",
-                "resourceId": "K8S8-L7Q"
-              },
-              {
-                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KF5J-2MN/KF5J-2MN.json",
-                "resourceId": "KF5J-2MN"
               }
             ]
           }
@@ -468,16 +424,16 @@
         "familiesAsChild": [
           {
             "parent1": {
-              "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/LCPC-FFV/LCPC-FFV.json",
+              "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/LCPC-FFV/LCPC-FFV.json",
               "resourceId": "LCPC-FFV"
             },
             "parent2": {
-              "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/LCPC-FNW/LCPC-FNW.json",
+              "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/LCPC-FNW/LCPC-FNW.json",
               "resourceId": "LCPC-FNW"
             },
             "children": [
               {
-                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KGJK-M92/KGJK-M92.json",
+                "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/KGJK-M92/KGJK-M92.json",
                 "resourceId": "KGJK-M92"
               }
             ]
@@ -9658,38 +9614,6 @@
       }
     },
     {
-      "id": "MMDW-JSZ",
-      "about": "https://familysearch.org/ark:/61903/1:1:F7WC-YBW",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMS-559R",
-          "resourceId": "cis.user.MMMS-559R"
-        },
-        "modified": 1489535465682,
-        "created": 1385180857000
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/MMDW-JSZ"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"Connecticut Births and Christenings, 1649-1906,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/F7WC-YBW : 3 December 2014), Lotilla Butt, 24 Jan 1774; citing ; FHL microfilm unknown."
-        }
-      ],
-      "titles": [
-        {
-          "value": "Lotilla Butt, \"Connecticut, Births and Christenings, 1649-1906\""
-        }
-      ]
-    },
-    {
       "id": "964P-77Y",
       "lang": "en_US",
       "about": "https://familysearch.org/ark:/61903/1:1:QVVW-D52G",
@@ -9719,6 +9643,38 @@
       "titles": [
         {
           "value": "Lotilla Butts Lillie, \"Find A Grave Index\""
+        }
+      ]
+    },
+    {
+      "id": "MMDW-JSZ",
+      "about": "https://familysearch.org/ark:/61903/1:1:F7WC-YBW",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMS-559R",
+          "resourceId": "cis.user.MMMS-559R"
+        },
+        "modified": 1489535465682,
+        "created": 1385180857000
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/MMDW-JSZ"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"Connecticut Births and Christenings, 1649-1906,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/F7WC-YBW : 3 December 2014), Lotilla Butt, 24 Jan 1774; citing ; FHL microfilm unknown."
+        }
+      ],
+      "titles": [
+        {
+          "value": "Lotilla Butt, \"Connecticut, Births and Christenings, 1649-1906\""
         }
       ]
     }

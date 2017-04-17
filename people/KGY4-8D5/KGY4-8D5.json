@@ -110,7 +110,7 @@
           "href": "https://familysearch.org/platform/tree/persons/KGY4-8D5/families?sourceDescriptions=true"
         },
         "portrait": {
-          "href": "https://raw.githubusercontent.com/misbach/familytree/master/people/KGY4-8D5/KGY4-8D5.jpg"
+          "href": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/KGY4-8D5/KGY4-8D5.jpg"
         },
         "matches": {
           "href": "https://familysearch.org/platform/tree/persons/KGY4-8D5/matches"
@@ -872,11 +872,11 @@
           },
           "place": {
             "original": "Marengo Township Marengo city Ward 2, Iowa, Iowa, United States",
-            "description": "#pd_41.81472x-92.12778",
+            "description": "#pd_41.683329x-92.06667",
             "normalized": [
               {
                 "lang": "en-US",
-                "value": "Marengo Township, Iowa, Iowa, United States"
+                "value": "Iowa, Iowa, United States"
               },
               {
                 "lang": "und",
@@ -1119,21 +1119,17 @@
         "familiesAsParent": [
           {
             "parent1": {
-              "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KGY4-8D5/KGY4-8D5.json",
+              "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/KGY4-8D5/KGY4-8D5.json",
               "resourceId": "KGY4-8D5"
             },
             "parent2": {
-              "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KGY4-8KP/KGY4-8KP.json",
+              "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/KGY4-8KP/KGY4-8KP.json",
               "resourceId": "KGY4-8KP"
             },
             "children": [
               {
-                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/LH8M-TX3/LH8M-TX3.json",
+                "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/LH8M-TX3/LH8M-TX3.json",
                 "resourceId": "LH8M-TX3"
-              },
-              {
-                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/MZCY-H5V/MZCY-H5V.json",
-                "resourceId": "MZCY-H5V"
               }
             ]
           }
@@ -1141,16 +1137,16 @@
         "familiesAsChild": [
           {
             "parent1": {
-              "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/LZK2-KKB/LZK2-KKB.json",
+              "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/LZK2-KKB/LZK2-KKB.json",
               "resourceId": "LZK2-KKB"
             },
             "parent2": {
-              "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/LZK2-LD4/LZK2-LD4.json",
+              "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/LZK2-LD4/LZK2-LD4.json",
               "resourceId": "LZK2-LD4"
             },
             "children": [
               {
-                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KGY4-8D5/KGY4-8D5.json",
+                "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/KGY4-8D5/KGY4-8D5.json",
                 "resourceId": "KGY4-8D5"
               }
             ]
@@ -1815,11 +1811,11 @@
           },
           "place": {
             "original": "Sumner Township Ladora town (pt.), Iowa, Iowa, United States",
-            "description": "#pd_41.73722x-92.12639",
+            "description": "#pd_41.683329x-92.06667",
             "normalized": [
               {
                 "lang": "en-US",
-                "value": "Sumner Township, Iowa, Iowa, United States"
+                "value": "Iowa, Iowa, United States"
               },
               {
                 "lang": "und",
@@ -2973,11 +2969,11 @@
           },
           "place": {
             "original": "Marengo Township Marengo city Ward 2, Iowa, Iowa, United States",
-            "description": "#pd_41.81472x-92.12778",
+            "description": "#pd_41.683329x-92.06667",
             "normalized": [
               {
                 "lang": "en-US",
-                "value": "Marengo Township, Iowa, Iowa, United States"
+                "value": "Iowa, Iowa, United States"
               },
               {
                 "lang": "und",
@@ -3619,11 +3615,11 @@
           },
           "place": {
             "original": "Marengo Township Marengo city Ward 2, Iowa, Iowa, United States",
-            "description": "#pd_41.81472x-92.12778",
+            "description": "#pd_41.683329x-92.06667",
             "normalized": [
               {
                 "lang": "en-US",
-                "value": "Marengo Township, Iowa, Iowa, United States"
+                "value": "Iowa, Iowa, United States"
               },
               {
                 "lang": "und",
@@ -4621,11 +4617,11 @@
           },
           "place": {
             "original": "Sumner Township Ladora town (pt.), Iowa, Iowa, United States",
-            "description": "#pd_41.73722x-92.12639",
+            "description": "#pd_41.683329x-92.06667",
             "normalized": [
               {
                 "lang": "en-US",
-                "value": "Sumner Township, Iowa, Iowa, United States"
+                "value": "Iowa, Iowa, United States"
               },
               {
                 "lang": "und",
@@ -6429,6 +6425,39 @@
       }
     },
     {
+      "id": "98K2-186",
+      "lang": "en_US",
+      "about": "https://familysearch.org/ark:/61903/1:1:KMYC-ZLL",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-GBKL",
+          "resourceId": "cis.user.MMMM-GBKL"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-GBKL",
+          "resourceId": "cis.user.MMMM-GBKL"
+        },
+        "modified": 1433717285641,
+        "created": 1433717285641
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/98K2-186"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"United States Census, 1940,\" database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/KMYC-ZLL : accessed 14 April 2017), W H Misbach in household of Millie Cronbaugh, Marengo, Marengo Township, Iowa, Iowa, United States; citing enumeration district (ED) 48-16, sheet 15A, line 1, family 331, Sixteenth Census of the United States, 1940, NARA digital publication T627.  Records of the Bureau of the Census, 1790 - 2007, RG 29. Washington, D.C.: National Archives and Records Administration, 2012, roll 1168.\n"
+        }
+      ],
+      "titles": [
+        {
+          "value": "W H Misbach in household of Millie Cronbaugh, \"United States Census, 1940\""
+        }
+      ]
+    },
+    {
       "id": "MMMM-ZXF",
       "about": "https://familysearch.org/ark:/61903/2:1:MZCY-HPZ",
       "attribution": {
@@ -6466,171 +6495,6 @@
       ]
     },
     {
-      "id": "9X79-RSR",
-      "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:H8Q3-SMM",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-GBKL",
-          "resourceId": "cis.user.MMMM-GBKL"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-GBKL",
-          "resourceId": "cis.user.MMMM-GBKL"
-        },
-        "modified": 1456723736697,
-        "created": 1456723736697
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/9X79-RSR"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"Iowa State Census, 1885,\" database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/H8Q3-SMM : 15 November 2014), Harry Misbach in household of Laurance Misbach, Sumner, Iowa, Iowa; citing p. 3, 1885,  State Historical Society, Des Moines; FHL microfilm 1,021,479."
-        }
-      ],
-      "titles": [
-        {
-          "value": "Harry Misbach in household of Laurance Misbach, \"Iowa State Census, 1885\""
-        }
-      ]
-    },
-    {
-      "id": "98K2-BGF",
-      "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:M813-L1Y",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-GBKL",
-          "resourceId": "cis.user.MMMM-GBKL"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-GBKL",
-          "resourceId": "cis.user.MMMM-GBKL"
-        },
-        "modified": 1433717159892,
-        "created": 1433717159892
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/98K2-BGF"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"United States Census, 1920,\" database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/M813-L1Y : accessed 7 April 2017), William H Misbach in household of Lydia Caswell, Marengo, Iowa, Iowa, United States; citing  ED 54, sheet 10B, line 84, family 301, NARA microfilm publication T625 (Washington D.C.: National Archives and Records Administration, 1992), roll 494; FHL microfilm 1,820,494."
-        }
-      ],
-      "titles": [
-        {
-          "value": "William H Misbach in household of Lydia Caswell, \"United States Census, 1920\""
-        }
-      ]
-    },
-    {
-      "id": "9XHF-F3M",
-      "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:M9K1-QPL",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-GBKL",
-          "resourceId": "cis.user.MMMM-GBKL"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-GBKL",
-          "resourceId": "cis.user.MMMM-GBKL"
-        },
-        "modified": 1457501316982,
-        "created": 1457501316982
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/9XHF-F3M"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"United States Census, 1900,\" database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/M9K1-QPL : accessed 7 April 2017), Harry Mistoch, Marengo Township Marengo city Ward 2, Iowa, Iowa, United States; citing enumeration district (ED) 47, sheet 11B, family 250, NARA microfilm publication T623 (Washington, D.C.: National Archives and Records Administration, 1972.); FHL microfilm 1,240,438.\n"
-        }
-      ],
-      "titles": [
-        {
-          "value": "Harry Mistoch, \"United States Census, 1900\""
-        }
-      ]
-    },
-    {
-      "id": "98K2-1PG",
-      "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:XJH5-L86",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-GBKL",
-          "resourceId": "cis.user.MMMM-GBKL"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-GBKL",
-          "resourceId": "cis.user.MMMM-GBKL"
-        },
-        "modified": 1433717366983,
-        "created": 1433717366983
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/98K2-1PG"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"Iowa, County Marriages, 1838-1934\", database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/XJH5-L86 : 8 March 2016), W.H. Misbach and Maude M. Lillie, 1892."
-        }
-      ],
-      "titles": [
-        {
-          "value": "W.H. Misbach, \"Iowa, County Marriages, 1838-1934\""
-        }
-      ]
-    },
-    {
-      "id": "9X7S-BTX",
-      "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:QK45-VTT7",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-GBKL",
-          "resourceId": "cis.user.MMMM-GBKL"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-GBKL",
-          "resourceId": "cis.user.MMMM-GBKL"
-        },
-        "modified": 1456733411704,
-        "created": 1456733411704
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/9X7S-BTX"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"Iowa State Census, 1915,\" database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/QK45-VTT7 : 5 October 2016), Harry Misbach, 1915; citing Marengo Township, Iowa, Iowa, United States, card no. 490, Iowa State Historical Department, Des Moines; FHL microfilm 1,462,480."
-        }
-      ],
-      "titles": [
-        {
-          "value": "Harry Misbach, \"Iowa State Census, 1915\""
-        }
-      ]
-    },
-    {
       "id": "9VZ8-N52",
       "lang": "en_US,EN;Q=0.8",
       "about": "https://familysearch.org/ark:/61903/1:1:QVGD-JVYY",
@@ -6664,9 +6528,9 @@
       ]
     },
     {
-      "id": "9X79-8C1",
+      "id": "98K2-BGF",
       "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:MDV4-CYM",
+      "about": "https://familysearch.org/ark:/61903/1:1:M813-L1Y",
       "attribution": {
         "contributor": {
           "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-GBKL",
@@ -6676,23 +6540,23 @@
           "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-GBKL",
           "resourceId": "cis.user.MMMM-GBKL"
         },
-        "modified": 1456721724275,
-        "created": 1456721724275
+        "modified": 1433717159892,
+        "created": 1433717159892
       },
       "resourceType": "FSREADONLY",
       "links": {
         "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/9X79-8C1"
+          "href": "https://familysearch.org/platform/sources/descriptions/98K2-BGF"
         }
       },
       "citations": [
         {
-          "value": "\"United States Census, 1870,\" database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/MDV4-CYM : 17 October 2014), Harry Misbach in household of Lawrence Misbach, Iowa, United States; citing p. 2, family 10, NARA microfilm publication M593 (Washington D.C.: National Archives and Records Administration, n.d.); FHL microfilm 545,895."
+          "value": "\"United States Census, 1920,\" database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/M813-L1Y : accessed 17 April 2017), William H Misbach in household of Lydia Caswell, Marengo, Iowa, Iowa, United States; citing  ED 54, sheet 10B, line 84, family 301, NARA microfilm publication T625 (Washington D.C.: National Archives and Records Administration, 1992), roll 494; FHL microfilm 1,820,494."
         }
       ],
       "titles": [
         {
-          "value": "Harry Misbach in household of Lawrence Misbach, \"United States Census, 1870\""
+          "value": "William H Misbach in household of Lydia Caswell, \"United States Census, 1920\""
         }
       ]
     },
@@ -6735,9 +6599,9 @@
       ]
     },
     {
-      "id": "98K2-186",
+      "id": "9X79-8C1",
       "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:KMYC-ZLL",
+      "about": "https://familysearch.org/ark:/61903/1:1:MDV4-CYM",
       "attribution": {
         "contributor": {
           "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-GBKL",
@@ -6747,23 +6611,122 @@
           "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-GBKL",
           "resourceId": "cis.user.MMMM-GBKL"
         },
-        "modified": 1433717285641,
-        "created": 1433717285641
+        "modified": 1456721724275,
+        "created": 1456721724275
       },
       "resourceType": "FSREADONLY",
       "links": {
         "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/98K2-186"
+          "href": "https://familysearch.org/platform/sources/descriptions/9X79-8C1"
         }
       },
       "citations": [
         {
-          "value": "\"United States Census, 1940,\" database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/KMYC-ZLL : accessed 7 April 2017), W H Misbach in household of Millie Cronbaugh, Marengo, Marengo Township, Iowa, Iowa, United States; citing enumeration district (ED) 48-16, sheet 15A, line 1, family 331, Sixteenth Census of the United States, 1940, NARA digital publication T627.  Records of the Bureau of the Census, 1790 - 2007, RG 29. Washington, D.C.: National Archives and Records Administration, 2012, roll 1168.\n"
+          "value": "\"United States Census, 1870,\" database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/MDV4-CYM : 17 October 2014), Harry Misbach in household of Lawrence Misbach, Iowa, United States; citing p. 2, family 10, NARA microfilm publication M593 (Washington D.C.: National Archives and Records Administration, n.d.); FHL microfilm 545,895."
         }
       ],
       "titles": [
         {
-          "value": "W H Misbach in household of Millie Cronbaugh, \"United States Census, 1940\""
+          "value": "Harry Misbach in household of Lawrence Misbach, \"United States Census, 1870\""
+        }
+      ]
+    },
+    {
+      "id": "9XHF-F3M",
+      "lang": "en_US",
+      "about": "https://familysearch.org/ark:/61903/1:1:M9K1-QPL",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-GBKL",
+          "resourceId": "cis.user.MMMM-GBKL"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-GBKL",
+          "resourceId": "cis.user.MMMM-GBKL"
+        },
+        "modified": 1457501316982,
+        "created": 1457501316982
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/9XHF-F3M"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"United States Census, 1900,\" database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/M9K1-QPL : accessed 14 April 2017), Harry Mistoch, Marengo Township Marengo city Ward 2, Iowa, Iowa, United States; citing enumeration district (ED) 47, sheet 11B, family 250, NARA microfilm publication T623 (Washington, D.C.: National Archives and Records Administration, 1972.); FHL microfilm 1,240,438.\n"
+        }
+      ],
+      "titles": [
+        {
+          "value": "Harry Mistoch, \"United States Census, 1900\""
+        }
+      ]
+    },
+    {
+      "id": "98K2-1PG",
+      "lang": "en_US",
+      "about": "https://familysearch.org/ark:/61903/1:1:XJH5-L86",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-GBKL",
+          "resourceId": "cis.user.MMMM-GBKL"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-GBKL",
+          "resourceId": "cis.user.MMMM-GBKL"
+        },
+        "modified": 1433717366983,
+        "created": 1433717366983
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/98K2-1PG"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"Iowa, County Marriages, 1838-1934\", database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/XJH5-L86 : 8 March 2016), W.H. Misbach and Maude M. Lillie, 1892."
+        }
+      ],
+      "titles": [
+        {
+          "value": "W.H. Misbach, \"Iowa, County Marriages, 1838-1934\""
+        }
+      ]
+    },
+    {
+      "id": "9X79-RSR",
+      "lang": "en_US",
+      "about": "https://familysearch.org/ark:/61903/1:1:H8Q3-SMM",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-GBKL",
+          "resourceId": "cis.user.MMMM-GBKL"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-GBKL",
+          "resourceId": "cis.user.MMMM-GBKL"
+        },
+        "modified": 1456723736697,
+        "created": 1456723736697
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/9X79-RSR"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"Iowa State Census, 1885,\" database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/H8Q3-SMM : 15 November 2014), Harry Misbach in household of Laurance Misbach, Sumner, Iowa, Iowa; citing p. 3, 1885,  State Historical Society, Des Moines; FHL microfilm 1,021,479."
+        }
+      ],
+      "titles": [
+        {
+          "value": "Harry Misbach in household of Laurance Misbach, \"Iowa State Census, 1885\""
         }
       ]
     },
@@ -6797,6 +6760,39 @@
       "titles": [
         {
           "value": "William H. Misbach in entry for Raymond Misbach, \"Iowa, County Births, 1880-1935\""
+        }
+      ]
+    },
+    {
+      "id": "9X7S-BTX",
+      "lang": "en_US",
+      "about": "https://familysearch.org/ark:/61903/1:1:QK45-VTT7",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-GBKL",
+          "resourceId": "cis.user.MMMM-GBKL"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-GBKL",
+          "resourceId": "cis.user.MMMM-GBKL"
+        },
+        "modified": 1456733411704,
+        "created": 1456733411704
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/9X7S-BTX"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"Iowa State Census, 1915,\" database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/QK45-VTT7 : 5 October 2016), Harry Misbach, 1915; citing Marengo Township, Iowa, Iowa, United States, card no. 490, Iowa State Historical Department, Des Moines; FHL microfilm 1,462,480."
+        }
+      ],
+      "titles": [
+        {
+          "value": "Harry Misbach, \"Iowa State Census, 1915\""
         }
       ]
     }
@@ -6863,13 +6859,13 @@
       ]
     },
     {
-      "id": "pd_41.81472x-92.12778",
-      "latitude": 41.81472,
-      "longitude": -92.12778,
+      "id": "pd_41.683329x-92.06667",
+      "latitude": 41.683329,
+      "longitude": -92.06667,
       "names": [
         {
           "lang": "en-US",
-          "value": "Marengo Township, Iowa, Iowa, United States"
+          "value": "Iowa, Iowa, United States"
         },
         {
           "lang": "und",
@@ -6919,21 +6915,6 @@
         {
           "lang": "und",
           "value": "Selby, Bureau, Illinois, United States"
-        }
-      ]
-    },
-    {
-      "id": "pd_41.683329x-92.06667",
-      "latitude": 41.683329,
-      "longitude": -92.06667,
-      "names": [
-        {
-          "lang": "en-US",
-          "value": "Iowa, Iowa, United States"
-        },
-        {
-          "lang": "und",
-          "value": "Iowa, Iowa, United States"
         }
       ]
     },

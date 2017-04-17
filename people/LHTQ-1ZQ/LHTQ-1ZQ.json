@@ -76,7 +76,7 @@
           "href": "https://familysearch.org/platform/tree/persons/LHTQ-1ZQ/families?sourceDescriptions=true"
         },
         "portrait": {
-          "href": "https://raw.githubusercontent.com/misbach/familytree/master/people/LHTQ-1ZQ/LHTQ-1ZQ.jpg"
+          "href": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/LHTQ-1ZQ/LHTQ-1ZQ.jpg"
         },
         "matches": {
           "href": "https://familysearch.org/platform/tree/persons/LHTQ-1ZQ/matches"
@@ -967,61 +967,17 @@
         "familiesAsParent": [
           {
             "parent1": {
-              "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/LHTQ-BB7/LHTQ-BB7.json",
+              "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/LHTQ-BB7/LHTQ-BB7.json",
               "resourceId": "LHTQ-BB7"
             },
             "parent2": {
-              "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/LHTQ-1ZQ/LHTQ-1ZQ.json",
+              "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/LHTQ-1ZQ/LHTQ-1ZQ.json",
               "resourceId": "LHTQ-1ZQ"
             },
             "children": [
               {
-                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/L78V-D6M/L78V-D6M.json",
-                "resourceId": "L78V-D6M"
-              },
-              {
-                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/2XSX-SXM/2XSX-SXM.json",
-                "resourceId": "2XSX-SXM"
-              },
-              {
-                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/K8M3-N2V/K8M3-N2V.json",
-                "resourceId": "K8M3-N2V"
-              },
-              {
-                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/L762-C7P/L762-C7P.json",
+                "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/L762-C7P/L762-C7P.json",
                 "resourceId": "L762-C7P"
-              },
-              {
-                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KZ2T-86M/KZ2T-86M.json",
-                "resourceId": "KZ2T-86M"
-              },
-              {
-                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KH18-41V/KH18-41V.json",
-                "resourceId": "KH18-41V"
-              },
-              {
-                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KH3V-2TR/KH3V-2TR.json",
-                "resourceId": "KH3V-2TR"
-              },
-              {
-                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KZ8R-6T9/KZ8R-6T9.json",
-                "resourceId": "KZ8R-6T9"
-              },
-              {
-                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/LHT7-M96/LHT7-M96.json",
-                "resourceId": "LHT7-M96"
-              },
-              {
-                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/K8X1-B8T/K8X1-B8T.json",
-                "resourceId": "K8X1-B8T"
-              },
-              {
-                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/L7LR-D6S/L7LR-D6S.json",
-                "resourceId": "L7LR-D6S"
-              },
-              {
-                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/LHTQ-114/LHTQ-114.json",
-                "resourceId": "LHTQ-114"
               }
             ]
           }
@@ -1029,16 +985,16 @@
         "familiesAsChild": [
           {
             "parent1": {
-              "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/L449-M7Y/L449-M7Y.json",
+              "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/L449-M7Y/L449-M7Y.json",
               "resourceId": "L449-M7Y"
             },
             "parent2": {
-              "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/L7JG-VHQ/L7JG-VHQ.json",
+              "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/L7JG-VHQ/L7JG-VHQ.json",
               "resourceId": "L7JG-VHQ"
             },
             "children": [
               {
-                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/LHTQ-1ZQ/LHTQ-1ZQ.json",
+                "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/LHTQ-1ZQ/LHTQ-1ZQ.json",
                 "resourceId": "LHTQ-1ZQ"
               }
             ]
@@ -2112,11 +2068,11 @@
           },
           "place": {
             "original": "St. Marie Township St. Marie village, Jasper, Illinois, United States",
-            "description": "#pd_38.93222x-88.02333",
+            "description": "#pd_39.00056x-88.166668",
             "normalized": [
               {
                 "lang": "en-US",
-                "value": "Sainte Marie, Ste. Marie Township, Jasper, Illinois, United States"
+                "value": "Jasper, Illinois, United States"
               },
               {
                 "value": "St. Marie Township St. Marie village, Jasper, Illinois, United States"
@@ -3656,10 +3612,10 @@
           "id": "991a0a6e-291e-4f21-a0db-159dd32b100f",
           "attribution": {
             "contributor": {
-              "resource": "https://familysearch.org/platform/users/agents/M1X3-6QM",
-              "resourceId": "M1X3-6QM"
+              "resource": "https://familysearch.org/platform/users/agents/MM6N-6XH",
+              "resourceId": "MM6N-6XH"
             },
-            "modified": 1467065443201
+            "modified": 1491750770277
           },
           "type": "http://gedcomx.org/BirthName",
           "preferred": true,
@@ -3670,11 +3626,11 @@
           },
           "nameForms": [
             {
-              "fullText": "J Ballard Hambrick",
+              "fullText": "J. Ballard Hambrick",
               "parts": [
                 {
                   "type": "http://gedcomx.org/Given",
-                  "value": "J Ballard"
+                  "value": "J. Ballard"
                 },
                 {
                   "type": "http://gedcomx.org/Surname",
@@ -3934,7 +3890,7 @@
         }
       ],
       "display": {
-        "name": "J Ballard Hambrick",
+        "name": "J. Ballard Hambrick",
         "gender": "Male",
         "lifespan": "1855-1918",
         "birthDate": "1855",
@@ -5334,10 +5290,10 @@
           "id": "991a0a6e-291e-4f21-a0db-159dd32b100f",
           "attribution": {
             "contributor": {
-              "resource": "https://familysearch.org/platform/users/agents/MMMM-MMZ",
-              "resourceId": "MMMM-MMZ"
+              "resource": "https://familysearch.org/platform/users/agents/MM6N-6XH",
+              "resourceId": "MM6N-6XH"
             },
-            "modified": 1337548835642
+            "modified": 1491930606086
           },
           "type": "http://gedcomx.org/BirthName",
           "preferred": true,
@@ -5348,11 +5304,11 @@
           },
           "nameForms": [
             {
-              "fullText": "William E Hambrick",
+              "fullText": "William E. Hambrick",
               "parts": [
                 {
                   "type": "http://gedcomx.org/Given",
-                  "value": "William E"
+                  "value": "William E."
                 },
                 {
                   "type": "http://gedcomx.org/Surname",
@@ -5474,7 +5430,7 @@
         }
       ],
       "display": {
-        "name": "William E Hambrick",
+        "name": "William E. Hambrick",
         "gender": "Male",
         "lifespan": "1861-Deceased",
         "birthDate": "30 January 1861",
@@ -6063,11 +6019,11 @@
           },
           "place": {
             "original": "ED 100 St. Marie Township St. Marie village, Jasper, Illinois, United States",
-            "description": "#pd_38.93222x-88.02333",
+            "description": "#pd_39.00056x-88.166668",
             "normalized": [
               {
                 "lang": "en-US",
-                "value": "Sainte Marie, Ste. Marie Township, Jasper, Illinois, United States"
+                "value": "Jasper, Illinois, United States"
               },
               {
                 "lang": "und",
@@ -10495,9 +10451,9 @@
       }
     },
     {
-      "id": "9FX2-3J8",
+      "id": "9FX2-2TK",
       "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:MFLJ-Q5D",
+      "about": "https://familysearch.org/ark:/61903/1:1:M88R-3VK",
       "attribution": {
         "contributor": {
           "resource": "https://familysearch.org/platform/users/agents/cis.user.MM99-BGVL",
@@ -10507,56 +10463,56 @@
           "resource": "https://familysearch.org/platform/users/agents/cis.user.MM99-BGVL",
           "resourceId": "cis.user.MM99-BGVL"
         },
-        "modified": 1467062195185,
-        "created": 1467062195185
+        "modified": 1467066196692,
+        "created": 1467066196692
       },
       "resourceType": "FSREADONLY",
       "links": {
         "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/9FX2-3J8"
+          "href": "https://familysearch.org/platform/sources/descriptions/9FX2-2TK"
         }
       },
       "citations": [
         {
-          "value": "\"United States Census, 1870,\" database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/MFLJ-Q5D : 17 October 2014), Maria Hambrick in household of James L Hambrick, Virginia, United States; citing p. 32, family 250, NARA microfilm publication M593 (Washington D.C.: National Archives and Records Administration, n.d.); FHL microfilm 553,135."
+          "value": "\"United States Census, 1850,\" database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/M88R-3VK : 9 November 2014), Maria Hambrick in household of James Hambrick, Botetourt county, Botetourt, Virginia, United States; citing family 1789, NARA microfilm publication M432 (Washington, D.C.: National Archives and Records Administration, n.d.)."
         }
       ],
       "titles": [
         {
-          "value": "Maria Hambrick in household of James L Hambrick, \"United States Census, 1870\""
+          "value": "Maria Hambrick in household of James Hambrick, \"United States Census, 1850\""
         }
       ]
     },
     {
-      "id": "9JNH-Z9N",
+      "id": "9FX6-7SL",
       "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:X5FX-5GS",
+      "about": "https://familysearch.org/ark:/61903/1:1:V2P6-ZXN",
       "attribution": {
         "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MM9D-KBD9",
-          "resourceId": "cis.user.MM9D-KBD9"
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MM99-BGVL",
+          "resourceId": "cis.user.MM99-BGVL"
         },
         "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MM9D-KBD9",
-          "resourceId": "cis.user.MM9D-KBD9"
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MM99-BGVL",
+          "resourceId": "cis.user.MM99-BGVL"
         },
-        "modified": 1484109784050,
-        "created": 1484109784050
+        "modified": 1466986867619,
+        "created": 1466986867619
       },
       "resourceType": "FSREADONLY",
       "links": {
         "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/9JNH-Z9N"
+          "href": "https://familysearch.org/platform/sources/descriptions/9FX6-7SL"
         }
       },
       "citations": [
         {
-          "value": "\"Virginia Births and Christenings, 1584-1917,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/X5FX-5GS : 5 December 2014), Maria Hambrick in entry for William E Hambrick, 30 Jan 1861; citing Botetourt, Virginia, reference Item 2 p p 50; FHL microfilm 2,046,915."
+          "value": "\"Illinois Marriages, 1815-1935,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/V2P6-ZXN : 29 December 2014), Maria Hites in entry for Ballard Hambric and Mary E. Ivey, 26 May 1889; citing St Marie, Jasper, Illinois; FHL microfilm 1,312,612."
         }
       ],
       "titles": [
         {
-          "value": "Maria Hambrick in entry for William E Hambrick, \"Virginia Births and Christenings, 1584-1917\""
+          "value": "Maria Hites in entry for Ballard Hambric and Mary E. Ivey, \"Illinois Marriages, 1815-1935\""
         }
       ]
     },
@@ -10599,6 +10555,143 @@
       ]
     },
     {
+      "id": "M6NF-9HF",
+      "lang": "en-us",
+      "about": "https://familysearch.org/ark:/61903/1:1:VRPN-MZN",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "modified": 1415336789125,
+        "created": 1415336789125
+      },
+      "resourceType": "IGI",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/M6NF-9HF"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"Virginia Births and Christenings, 1584-1917,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/VRPN-MZN : 5 December 2014), Maria Hambrick in entry for Wm. E. Hambrick, 30 Jan 1861; citing Botetourt County, Virginia, reference ; FHL microfilm 30,732."
+        }
+      ],
+      "titles": [
+        {
+          "value": "Maria Hambrick in entry for Wm. E. Hambrick, \"Virginia Births and Christenings, 1584-1917\""
+        }
+      ],
+      "notes": [
+        {
+          "text": "This extracted record was used to create this person in Family Tree."
+        }
+      ]
+    },
+    {
+      "id": "9FX2-WG9",
+      "lang": "en_US",
+      "about": "https://familysearch.org/ark:/61903/1:1:X5NL-8GZ",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MM99-BGVL",
+          "resourceId": "cis.user.MM99-BGVL"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MM99-BGVL",
+          "resourceId": "cis.user.MM99-BGVL"
+        },
+        "modified": 1467062949159,
+        "created": 1467062949159
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/9FX2-WG9"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"Virginia Births and Christenings, 1584-1917,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/X5NL-8GZ : 5 December 2014), Maria Hambrick in entry for Bell O.E.B. Hambrick, 19 Mar 1856; citing Botetourt County, Virginia, reference p 28; FHL microfilm 30,732."
+        }
+      ],
+      "titles": [
+        {
+          "value": "Maria Hambrick in entry for Bell O.E.B. Hambrick, \"Virginia Births and Christenings, 1584-1917\""
+        }
+      ]
+    },
+    {
+      "id": "9JNH-Z9N",
+      "lang": "en_US",
+      "about": "https://familysearch.org/ark:/61903/1:1:X5FX-5GS",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MM9D-KBD9",
+          "resourceId": "cis.user.MM9D-KBD9"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MM9D-KBD9",
+          "resourceId": "cis.user.MM9D-KBD9"
+        },
+        "modified": 1484109784050,
+        "created": 1484109784050
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/9JNH-Z9N"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"Virginia Births and Christenings, 1584-1917,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/X5FX-5GS : 5 December 2014), Maria Hambrick in entry for William E Hambrick, 30 Jan 1861; citing Botetourt, Virginia, reference Item 2 p p 50; FHL microfilm 2,046,915."
+        }
+      ],
+      "titles": [
+        {
+          "value": "Maria Hambrick in entry for William E Hambrick, \"Virginia Births and Christenings, 1584-1917\""
+        }
+      ]
+    },
+    {
+      "id": "9FX2-3J8",
+      "lang": "en_US",
+      "about": "https://familysearch.org/ark:/61903/1:1:MFLJ-Q5D",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MM99-BGVL",
+          "resourceId": "cis.user.MM99-BGVL"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MM99-BGVL",
+          "resourceId": "cis.user.MM99-BGVL"
+        },
+        "modified": 1467062195185,
+        "created": 1467062195185
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/9FX2-3J8"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"United States Census, 1870,\" database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/MFLJ-Q5D : 17 October 2014), Maria Hambrick in household of James L Hambrick, Virginia, United States; citing p. 32, family 250, NARA microfilm publication M593 (Washington D.C.: National Archives and Records Administration, n.d.); FHL microfilm 553,135."
+        }
+      ],
+      "titles": [
+        {
+          "value": "Maria Hambrick in household of James L Hambrick, \"United States Census, 1870\""
+        }
+      ]
+    },
+    {
       "id": "9ZSN-S1N",
       "lang": "en_US",
       "about": "https://familysearch.org/ark:/61903/1:1:MSW6-QBQ",
@@ -10622,7 +10715,7 @@
       },
       "citations": [
         {
-          "value": "\"United States Census, 1900,\" database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/MSW6-QBQ : accessed 7 April 2017), Mariah Hambrick, St. Marie Township St. Marie village, Jasper, Illinois, United States; citing enumeration district (ED) 100, sheet 4A, family 64, NARA microfilm publication T623 (Washington, D.C.: National Archives and Records Administration, 1972.); FHL microfilm 1,240,308.\n"
+          "value": "\"United States Census, 1900,\" database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/MSW6-QBQ : accessed 14 April 2017), Mariah Hambrick, St. Marie Township St. Marie village, Jasper, Illinois, United States; citing enumeration district (ED) 100, sheet 4A, family 64, NARA microfilm publication T623 (Washington, D.C.: National Archives and Records Administration, 1972.); FHL microfilm 1,240,308.\n"
         }
       ],
       "titles": [
@@ -10661,44 +10754,6 @@
       "titles": [
         {
           "value": "Mariah Hambrick in entry for Bell S. E. B. Hambrick, \"Virginia Births and Christenings, 1584-1917\""
-        }
-      ]
-    },
-    {
-      "id": "M6NF-9HF",
-      "lang": "en-us",
-      "about": "https://familysearch.org/ark:/61903/1:1:VRPN-MZN",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "modified": 1415336789125,
-        "created": 1415336789125
-      },
-      "resourceType": "IGI",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/M6NF-9HF"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"Virginia Births and Christenings, 1584-1917,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/VRPN-MZN : 5 December 2014), Maria Hambrick in entry for Wm. E. Hambrick, 30 Jan 1861; citing Botetourt County, Virginia, reference ; FHL microfilm 30,732."
-        }
-      ],
-      "titles": [
-        {
-          "value": "Maria Hambrick in entry for Wm. E. Hambrick, \"Virginia Births and Christenings, 1584-1917\""
-        }
-      ],
-      "notes": [
-        {
-          "text": "This extracted record was used to create this person in Family Tree."
         }
       ]
     },
@@ -10770,105 +10825,6 @@
       "notes": [
         {
           "text": "Source created by http://RecordSeek.com"
-        }
-      ]
-    },
-    {
-      "id": "9FX2-2TK",
-      "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:M88R-3VK",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MM99-BGVL",
-          "resourceId": "cis.user.MM99-BGVL"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MM99-BGVL",
-          "resourceId": "cis.user.MM99-BGVL"
-        },
-        "modified": 1467066196692,
-        "created": 1467066196692
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/9FX2-2TK"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"United States Census, 1850,\" database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/M88R-3VK : 9 November 2014), Maria Hambrick in household of James Hambrick, Botetourt county, Botetourt, Virginia, United States; citing family 1789, NARA microfilm publication M432 (Washington, D.C.: National Archives and Records Administration, n.d.)."
-        }
-      ],
-      "titles": [
-        {
-          "value": "Maria Hambrick in household of James Hambrick, \"United States Census, 1850\""
-        }
-      ]
-    },
-    {
-      "id": "9FX6-7SL",
-      "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:V2P6-ZXN",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MM99-BGVL",
-          "resourceId": "cis.user.MM99-BGVL"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MM99-BGVL",
-          "resourceId": "cis.user.MM99-BGVL"
-        },
-        "modified": 1466986867619,
-        "created": 1466986867619
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/9FX6-7SL"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"Illinois Marriages, 1815-1935,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/V2P6-ZXN : 29 December 2014), Maria Hites in entry for Ballard Hambric and Mary E. Ivey, 26 May 1889; citing St Marie, Jasper, Illinois; FHL microfilm 1,312,612."
-        }
-      ],
-      "titles": [
-        {
-          "value": "Maria Hites in entry for Ballard Hambric and Mary E. Ivey, \"Illinois Marriages, 1815-1935\""
-        }
-      ]
-    },
-    {
-      "id": "9FX2-WG9",
-      "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:X5NL-8GZ",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MM99-BGVL",
-          "resourceId": "cis.user.MM99-BGVL"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MM99-BGVL",
-          "resourceId": "cis.user.MM99-BGVL"
-        },
-        "modified": 1467062949159,
-        "created": 1467062949159
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/9FX2-WG9"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"Virginia Births and Christenings, 1584-1917,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/X5NL-8GZ : 5 December 2014), Maria Hambrick in entry for Bell O.E.B. Hambrick, 19 Mar 1856; citing Botetourt County, Virginia, reference p 28; FHL microfilm 30,732."
-        }
-      ],
-      "titles": [
-        {
-          "value": "Maria Hambrick in entry for Bell O.E.B. Hambrick, \"Virginia Births and Christenings, 1584-1917\""
         }
       ]
     }
@@ -10947,13 +10903,13 @@
       ]
     },
     {
-      "id": "pd_38.93222x-88.02333",
-      "latitude": 38.93222,
-      "longitude": -88.02333,
+      "id": "pd_39.00056x-88.166668",
+      "latitude": 39.00056,
+      "longitude": -88.166668,
       "names": [
         {
           "lang": "en-US",
-          "value": "Sainte Marie, Ste. Marie Township, Jasper, Illinois, United States"
+          "value": "Jasper, Illinois, United States"
         },
         {
           "value": "St. Marie Township St. Marie village, Jasper, Illinois, United States"
@@ -10975,17 +10931,16 @@
       ]
     },
     {
-      "id": "pd_39.00056x-88.166668",
-      "latitude": 39.00056,
-      "longitude": -88.166668,
+      "id": "pd_38.93222x-88.02333",
+      "latitude": 38.93222,
+      "longitude": -88.02333,
       "names": [
         {
           "lang": "en-US",
-          "value": "Jasper, Illinois, United States"
+          "value": "Sainte Marie, Jasper, Illinois, United States"
         },
         {
-          "lang": "en",
-          "value": "Jasper, Illinois, United States"
+          "value": "Sainte Marie, Jasper, Illinois, United States"
         }
       ]
     },

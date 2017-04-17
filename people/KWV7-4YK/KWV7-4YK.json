@@ -212,7 +212,7 @@
           "href": "https://familysearch.org/platform/tree/persons/KWV7-4YK/families?sourceDescriptions=true"
         },
         "portrait": {
-          "href": "https://raw.githubusercontent.com/misbach/familytree/master/people/KWV7-4YK/KWV7-4YK.jpg"
+          "href": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/KWV7-4YK/KWV7-4YK.jpg"
         },
         "matches": {
           "href": "https://familysearch.org/platform/tree/persons/KWV7-4YK/matches"
@@ -1395,44 +1395,16 @@
         "familiesAsParent": [
           {
             "parent1": {
-              "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KWJ8-FYQ/KWJ8-FYQ.json",
+              "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/KWJ8-FYQ/KWJ8-FYQ.json",
               "resourceId": "KWJ8-FYQ"
             },
             "parent2": {
-              "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KWV7-4YK/KWV7-4YK.json",
+              "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/KWV7-4YK/KWV7-4YK.json",
               "resourceId": "KWV7-4YK"
             },
             "children": [
               {
-                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KWVH-514/KWVH-514.json",
-                "resourceId": "KWVH-514"
-              },
-              {
-                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KWJX-CLW/KWJX-CLW.json",
-                "resourceId": "KWJX-CLW"
-              },
-              {
-                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KWVH-513/KWVH-513.json",
-                "resourceId": "KWVH-513"
-              },
-              {
-                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KWNC-PNN/KWNC-PNN.json",
-                "resourceId": "KWNC-PNN"
-              },
-              {
-                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KWCT-DQV/KWCT-DQV.json",
-                "resourceId": "KWCT-DQV"
-              },
-              {
-                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KW87-MBP/KW87-MBP.json",
-                "resourceId": "KW87-MBP"
-              },
-              {
-                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KW8M-JSQ/KW8M-JSQ.json",
-                "resourceId": "KW8M-JSQ"
-              },
-              {
-                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KWCQ-K6P/KWCQ-K6P.json",
+                "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/KWCQ-K6P/KWCQ-K6P.json",
                 "resourceId": "KWCQ-K6P"
               }
             ]
@@ -1441,16 +1413,16 @@
         "familiesAsChild": [
           {
             "parent1": {
-              "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/LCPV-QSB/LCPV-QSB.json",
+              "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/LCPV-QSB/LCPV-QSB.json",
               "resourceId": "LCPV-QSB"
             },
             "parent2": {
-              "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KZ4W-WX3/KZ4W-WX3.json",
+              "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/KZ4W-WX3/KZ4W-WX3.json",
               "resourceId": "KZ4W-WX3"
             },
             "children": [
               {
-                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KWV7-4YK/KWV7-4YK.json",
+                "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/KWV7-4YK/KWV7-4YK.json",
                 "resourceId": "KWV7-4YK"
               }
             ]
@@ -2301,6 +2273,19 @@
         }
       },
       "sources": [
+        {
+          "id": "135c3042-ea6f-47a7-a4f9-3133b44d0ed5",
+          "links": {
+            "source-reference": {
+              "href": "https://familysearch.org/platform/tree/persons/KWV7-4YK/source-references/135c3042-ea6f-47a7-a4f9-3133b44d0ed5"
+            },
+            "description": {
+              "href": "https://familysearch.org/platform/sources/descriptions/9VB5-WX6"
+            }
+          },
+          "description": "https://familysearch.org/platform/sources/descriptions/9VB5-WX6",
+          "descriptionId": "9VB5-WX6"
+        },
         {
           "id": "2d620aa0-d1da-4573-88a9-ccb2869ff024",
           "links": {
@@ -15402,148 +15387,34 @@
       }
     },
     {
-      "id": "MM1S-NJL",
-      "about": "http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&GRid=50540134",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-6SSD",
-          "resourceId": "cis.user.MMM9-6SSD"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-3DHK",
-          "resourceId": "cis.user.MMM9-3DHK"
-        },
-        "modified": 1408164214427,
-        "created": 1397599749217
-      },
-      "resourceType": "DEFAULT",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/MM1S-NJL"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"Johanne Jacobsen Christoffersen Dinesen (1825 - 1880) - Find A Grave Memorial.\" Johanne Jacobsen Christoffersen Dinesen (1825 - 1880) - Find A Grave Memorial. N.p., n.d. Web. 15 Apr. 2014.."
-        }
-      ],
-      "titles": [
-        {
-          "value": "1880 - Johanne Jacobsen Christoffersen Dinesen (1825 - 1880) - Find A Grave Memorial"
-        }
-      ],
-      "notes": [
-        {
-          "text": "This source was added by the free service available at RecordSeek.com."
-        }
-      ]
-    },
-    {
-      "id": "MSJN-JHF",
-      "lang": "en_US,EN;Q=0.8",
-      "about": "http://www.ddd.dda.dk/asp/vishusstand_en.asp",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-6SSD",
-          "resourceId": "cis.user.MMM9-6SSD"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-6SSD",
-          "resourceId": "cis.user.MMM9-6SSD"
-        },
-        "modified": 1408294587191,
-        "created": 1408294587191
-      },
-      "resourceType": "DEFAULT",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/MSJN-JHF"
-        }
-      },
-      "citations": [
-        {
-          "value": "Internet; Danish Archives [Statens Arkiver]; http://www.ddd.dda.dk/"
-        }
-      ],
-      "titles": [
-        {
-          "value": "1850 - Johanne Jacobsen, \"1850 Danish Census\""
-        }
-      ],
-      "notes": [
-        {
-          "text": "Name:     Johanne Jacobsen\nAge:     25\nMarital Status:     Gift\nPosition in Household:     \nOccupation:     hans Kone\nBirth place:    Birkerød Sogn, Frederiksb. Amt"
-        }
-      ]
-    },
-    {
-      "id": "MSKM-8T2",
-      "lang": "en_US,EN;Q=0.8",
-      "about": "http://www.sa.dk/content/dk/ao-forside/find_kirkeboger#",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-6SSD",
-          "resourceId": "cis.user.MMM9-6SSD"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-6SSD",
-          "resourceId": "cis.user.MMM9-6SSD"
-        },
-        "modified": 1409014705394,
-        "created": 1409012969889
-      },
-      "resourceType": "DEFAULT",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/MSKM-8T2"
-        }
-      },
-      "citations": [
-        {
-          "value": "Internet; Danish Archives; \"Arkivalier online\";\nFrom the link above:\nSelect \"Kirkebøger\" in the first box.  A new screen will come up.\nSelect \"Frederiksborg\" in the Vælg amt dropdown box.\nSelect \"Lynge-Kronborg\" in the Vælg herred dropdown box.\nSelect \"Bikerød\" in the Vælg sogn dropdown box.  Screen will refresh.\nClick on \"Bikerød\" in the fifth line, 1837 - 1849"
-        }
-      ],
-      "titles": [
-        {
-          "value": "1840 - Johanne Jacobsdatter, \"Denmark; Kirkebøger, Frederiksborg, Lynge-Kronborg, Birkerød, 1837-1849\""
-        }
-      ],
-      "notes": [
-        {
-          "text": "The image is of a handwritten page from the above named Church Book [In Danish].\n\nOpslag:     150\nEntry #:     4\nChild's Name:     Johanne Jacobsdatter\nResidence:     Sandborg\nFather's Name:     Jacob Christophersen\nMother's Name:     Stine Hansdatter\nBirth date:     4 December 1825\nBaptism:     12 March 1826\nVaccination:     5 September 1826"
-        }
-      ]
-    },
-    {
-      "id": "MS3M-ZJV",
-      "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:XYNQ-QHT",
+      "id": "MM1S-TQ9",
+      "about": "https://familysearch.org/ark:/61903/1:1:XZGP-TY7",
       "attribution": {
         "contributor": {
           "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
           "resourceId": "cis.wkca.MMMM-M93P"
         },
         "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-33RR",
-          "resourceId": "cis.user.MMM9-33RR"
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-3DHK",
+          "resourceId": "cis.user.MMM9-3DHK"
         },
-        "modified": 1489566381867,
-        "created": 1406735300295
+        "modified": 1489547960164,
+        "created": 1397609127481
       },
       "resourceType": "FSREADONLY",
       "links": {
         "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/MS3M-ZJV"
+          "href": "https://familysearch.org/platform/sources/descriptions/MM1S-TQ9"
         }
       },
       "citations": [
         {
-          "value": "\"Denmark Baptisms, 1618-1923,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/XYNQ-QHT : 6 December 2014), Johanne Jacobsdr in entry for Jens Dinersen, 30 Jan 1849; citing , GENTOFTE, KOBENHAVN, DENMARK; FHL microfilm 48,205."
+          "value": "\"Utah Death Certificates, 1904-1964\", database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/XZGP-TY7 : 11 September 2015), Johanna Jacobsen in entry for Hans Dennison Jr., 1926."
         }
       ],
       "titles": [
         {
-          "value": "1849 - Johanne Jacobsdr in entry for Jens Dinersen, \"Denmark, Baptisms, 1618-1923\""
+          "value": "1926 - Johanna Jacobsen in entry for Hans Dennison Jr., \"Utah Death Certificates, 1904-1956\""
         }
       ],
       "notes": [
@@ -15553,9 +15424,78 @@
       ]
     },
     {
-      "id": "MSKM-F8M",
+      "id": "MS6D-19C",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-NNTQ",
+          "resourceId": "cis.user.MMMM-NNTQ"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-NNTQ",
+          "resourceId": "cis.user.MMMM-NNTQ"
+        },
+        "modified": 1407397757497,
+        "created": 1407397757497
+      },
+      "resourceType": "LEGACY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/MS6D-19C"
+        }
+      },
+      "citations": [
+        {
+          "value": ""
+        }
+      ],
+      "titles": [
+        {
+          "value": "Legacy NFS Source: Johanna Jacobsen Christophersen - Individual or family possessions: birth-name: Johanah Christophersen"
+        }
+      ],
+      "notes": [
+        {
+          "text": "Individual or family possessions: birth-name: Johanah Christophersen"
+        }
+      ]
+    },
+    {
+      "id": "9DW9-NLZ",
+      "lang": "en_US",
+      "about": "https://familysearch.org/ark:/61903/1:1:QK9B-C9WZ",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-BPZ3",
+          "resourceId": "cis.user.MMMM-BPZ3"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-BPZ3",
+          "resourceId": "cis.user.MMMM-BPZ3"
+        },
+        "modified": 1439571249340,
+        "created": 1439571249340
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/9DW9-NLZ"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"Utah Mormon Pioneer Overland Travel Database, 1847-1868\", database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/QK9B-C9WZ : 20 May 2016), Johanne Jacobsen Christofferson Denison, 1853."
+        }
+      ],
+      "titles": [
+        {
+          "value": "Johanne Jacobsen Christofferson Denison, \"Utah Mormon Pioneer Overland Travel Database, 1847-1868\""
+        }
+      ]
+    },
+    {
+      "id": "MSKM-DVG",
       "lang": "en_US,EN;Q=0.8",
-      "about": "http://www.sa.dk/content/dk/ao-forside/find_kirkeboger#",
+      "about": "",
       "attribution": {
         "contributor": {
           "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-6SSD",
@@ -15565,28 +15505,28 @@
           "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-6SSD",
           "resourceId": "cis.user.MMM9-6SSD"
         },
-        "modified": 1409014523463,
-        "created": 1409014523463
+        "modified": 1409013460755,
+        "created": 1409013322767
       },
       "resourceType": "DEFAULT",
       "links": {
         "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/MSKM-F8M"
+          "href": "https://familysearch.org/platform/sources/descriptions/MSKM-DVG"
         }
       },
       "citations": [
         {
-          "value": "Internet; Danish Archives; \"Arkivalier online\";\nFrom the link above:\nSelect \"Kirkebøger\" in the first box.  A new screen will come up.\nSelect \"Frederiksborg\" in the Vælg amt dropdown box.\nSelect \"Lynge-Kronborg\" in the Vælg herred dropdown box.\nSelect \"Bikerød\" in the Vælg sogn dropdown box.  Screen will refresh.\nClick on \"Bikerød\" in the fourth line, 1814 - 1837"
+          "value": "Internet; Familysearch.org; Membership record;"
         }
       ],
       "titles": [
         {
-          "value": "1826 - Johanne Jacobsdatter, \"Denmark; Kirkebøger, Frederiksborg, Lynge-Kronborg, Birkerød, 1814-1837\""
+          "value": "1825 - Johanne Jacobsdatter Christophersen, \"LDS Church Membership\""
         }
       ],
       "notes": [
         {
-          "text": "The image is of a handwritten page from the above named Church Book [In Danish].\n\nOpslag:     166\nEntry #:     10\nChild's Name:     Johanne [Jacobsdatter]\nResidence:     Sandborg\nFather's Name:     Jacob Christophersen\nMother's Name:     Kirstin Hansdatter\nBirth date:     [off edge of image] December 1825\nBaptism:     12 March 1826"
+          "text": "4 December 1825\nSandbjaerg, Birkerod, Fredrick, Denmark"
         }
       ]
     },
@@ -15625,6 +15565,44 @@
       "notes": [
         {
           "text": "This extracted record was used to create this person in Family Tree."
+        }
+      ]
+    },
+    {
+      "id": "MSKM-F8M",
+      "lang": "en_US,EN;Q=0.8",
+      "about": "http://www.sa.dk/content/dk/ao-forside/find_kirkeboger#",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-6SSD",
+          "resourceId": "cis.user.MMM9-6SSD"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-6SSD",
+          "resourceId": "cis.user.MMM9-6SSD"
+        },
+        "modified": 1409014523463,
+        "created": 1409014523463
+      },
+      "resourceType": "DEFAULT",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/MSKM-F8M"
+        }
+      },
+      "citations": [
+        {
+          "value": "Internet; Danish Archives; \"Arkivalier online\";\nFrom the link above:\nSelect \"Kirkebøger\" in the first box.  A new screen will come up.\nSelect \"Frederiksborg\" in the Vælg amt dropdown box.\nSelect \"Lynge-Kronborg\" in the Vælg herred dropdown box.\nSelect \"Bikerød\" in the Vælg sogn dropdown box.  Screen will refresh.\nClick on \"Bikerød\" in the fourth line, 1814 - 1837"
+        }
+      ],
+      "titles": [
+        {
+          "value": "1826 - Johanne Jacobsdatter, \"Denmark; Kirkebøger, Frederiksborg, Lynge-Kronborg, Birkerød, 1814-1837\""
+        }
+      ],
+      "notes": [
+        {
+          "text": "The image is of a handwritten page from the above named Church Book [In Danish].\n\nOpslag:     166\nEntry #:     10\nChild's Name:     Johanne [Jacobsdatter]\nResidence:     Sandborg\nFather's Name:     Jacob Christophersen\nMother's Name:     Kirstin Hansdatter\nBirth date:     [off edge of image] December 1825\nBaptism:     12 March 1826"
         }
       ]
     },
@@ -15700,39 +15678,289 @@
       ]
     },
     {
-      "id": "MM1S-TQ9",
-      "about": "https://familysearch.org/ark:/61903/1:1:XZGP-TY7",
+      "id": "MSLW-GHT",
+      "lang": "en_US",
+      "about": "https://familysearch.org/ark:/61903/1:1:QVSF-1S7H",
       "attribution": {
         "contributor": {
           "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
           "resourceId": "cis.wkca.MMMM-M93P"
         },
         "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-3DHK",
-          "resourceId": "cis.user.MMM9-3DHK"
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-XVV7",
+          "resourceId": "cis.user.MMMM-XVV7"
         },
-        "modified": 1489547960164,
-        "created": 1397609127481
+        "modified": 1489569448172,
+        "created": 1410112887546
       },
       "resourceType": "FSREADONLY",
       "links": {
         "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/MM1S-TQ9"
+          "href": "https://familysearch.org/platform/sources/descriptions/MSLW-GHT"
         }
       },
       "citations": [
         {
-          "value": "\"Utah Death Certificates, 1904-1964\", database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/XZGP-TY7 : 11 September 2015), Johanna Jacobsen in entry for Hans Dennison Jr., 1926."
+          "value": "\"Utah, Obituaries from Utah Newspapers, 1850-2005,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/QVSF-1S7H : 8 October 2015), Johannah Jacobsen Denison in entry for Mr Hyrum Denison, 03 Jun 1932; citing Salt Lake Telegram 13, The University of Utah. J. Willard Marriott Library, Salt Lake City."
         }
       ],
       "titles": [
         {
-          "value": "1926 - Johanna Jacobsen in entry for Hans Dennison Jr., \"Utah Death Certificates, 1904-1956\""
+          "value": "1942 - Johannah Jacobsen Denison in entry for Mr Hyrum Denison, \"Utah, Obituaries from Utah Newspapers, 1850-2005\""
         }
       ],
       "notes": [
         {
           "text": ""
+        }
+      ]
+    },
+    {
+      "id": "MM1S-NJL",
+      "about": "http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&GRid=50540134",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-6SSD",
+          "resourceId": "cis.user.MMM9-6SSD"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-3DHK",
+          "resourceId": "cis.user.MMM9-3DHK"
+        },
+        "modified": 1408164214427,
+        "created": 1397599749217
+      },
+      "resourceType": "DEFAULT",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/MM1S-NJL"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"Johanne Jacobsen Christoffersen Dinesen (1825 - 1880) - Find A Grave Memorial.\" Johanne Jacobsen Christoffersen Dinesen (1825 - 1880) - Find A Grave Memorial. N.p., n.d. Web. 15 Apr. 2014.."
+        }
+      ],
+      "titles": [
+        {
+          "value": "1880 - Johanne Jacobsen Christoffersen Dinesen (1825 - 1880) - Find A Grave Memorial"
+        }
+      ],
+      "notes": [
+        {
+          "text": "This source was added by the free service available at RecordSeek.com."
+        }
+      ]
+    },
+    {
+      "id": "966H-Y5V",
+      "lang": "en_US",
+      "about": "https://familysearch.org/ark:/61903/1:1:QVSF-PMXD",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-329G",
+          "resourceId": "cis.user.MMM9-329G"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-329G",
+          "resourceId": "cis.user.MMM9-329G"
+        },
+        "modified": 1451855251589,
+        "created": 1451855251589
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/966H-Y5V"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"Utah, Obituaries from Utah Newspapers, 1850-2005,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/QVSF-PMXD : 8 October 2015), Johanna Christofferson Denison in entry for Ephraim Denison, 28 Oct 1921; citing Manti Messenger, The University of Utah. J. Willard Marriott Library, Salt Lake City."
+        }
+      ],
+      "titles": [
+        {
+          "value": "Johanna Christofferson Denison in entry for Ephraim Denison, \"Utah, Obituaries from Utah Newspapers, 1850-2005\""
+        }
+      ]
+    },
+    {
+      "id": "M9XJ-KLQ",
+      "about": "https://familysearch.org/ark:/61903/1:1:MNS2-8TH",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-XVV7",
+          "resourceId": "cis.user.MMMM-XVV7"
+        },
+        "modified": 1489547948497,
+        "created": 1403664612540
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/M9XJ-KLQ"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"United States Census, 1880,\" database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/MNS2-8TH : 14 July 2016), Johanna Denison in household of Hans Denison, Manti, Sanpete, Utah, United States; citing enumeration district ED 65, sheet 415A, NARA microfilm publication T9 (Washington D.C.: National Archives and Records Administration, n.d.), roll 1337; FHL microfilm 1,255,337.\n"
+        }
+      ],
+      "titles": [
+        {
+          "value": "Johanna Denison in household of Hans Denison, \"United States Census, 1880\""
+        }
+      ]
+    },
+    {
+      "id": "MSKM-8T2",
+      "lang": "en_US,EN;Q=0.8",
+      "about": "http://www.sa.dk/content/dk/ao-forside/find_kirkeboger#",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-6SSD",
+          "resourceId": "cis.user.MMM9-6SSD"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-6SSD",
+          "resourceId": "cis.user.MMM9-6SSD"
+        },
+        "modified": 1409014705394,
+        "created": 1409012969889
+      },
+      "resourceType": "DEFAULT",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/MSKM-8T2"
+        }
+      },
+      "citations": [
+        {
+          "value": "Internet; Danish Archives; \"Arkivalier online\";\nFrom the link above:\nSelect \"Kirkebøger\" in the first box.  A new screen will come up.\nSelect \"Frederiksborg\" in the Vælg amt dropdown box.\nSelect \"Lynge-Kronborg\" in the Vælg herred dropdown box.\nSelect \"Bikerød\" in the Vælg sogn dropdown box.  Screen will refresh.\nClick on \"Bikerød\" in the fifth line, 1837 - 1849"
+        }
+      ],
+      "titles": [
+        {
+          "value": "1840 - Johanne Jacobsdatter, \"Denmark; Kirkebøger, Frederiksborg, Lynge-Kronborg, Birkerød, 1837-1849\""
+        }
+      ],
+      "notes": [
+        {
+          "text": "The image is of a handwritten page from the above named Church Book [In Danish].\n\nOpslag:     150\nEntry #:     4\nChild's Name:     Johanne Jacobsdatter\nResidence:     Sandborg\nFather's Name:     Jacob Christophersen\nMother's Name:     Stine Hansdatter\nBirth date:     4 December 1825\nBaptism:     12 March 1826\nVaccination:     5 September 1826"
+        }
+      ]
+    },
+    {
+      "id": "9ZBD-T93",
+      "lang": "en_US",
+      "about": "https://familysearch.org/ark:/61903/1:1:KL71-SSJ",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-SQ2S",
+          "resourceId": "cis.user.MMM9-SQ2S"
+        },
+        "modified": 1489564146783,
+        "created": 1426456316219
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/9ZBD-T93"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"Utah, Pioneers and Prominent Men of Utah, 1847-1868,\" database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/KL71-SSJ : 12 December 2014), Johanah Christofferson in entry for Ephraim Denison, ; excerpted from Frank Esshom, Pioneers and Prominent Men of Utah: Comprising Photographs, Genealogies, Biographies (Salt Lake City, Utah: Utah Pioneers Books, 1913)."
+        }
+      ],
+      "titles": [
+        {
+          "value": "Johanah Christofferson in entry for Ephraim Denison, \"Utah, Pioneers and Prominent Men of Utah, 1847-1868\""
+        }
+      ]
+    },
+    {
+      "id": "MS3M-ZJV",
+      "lang": "en_US",
+      "about": "https://familysearch.org/ark:/61903/1:1:XYNQ-QHT",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-33RR",
+          "resourceId": "cis.user.MMM9-33RR"
+        },
+        "modified": 1489566381867,
+        "created": 1406735300295
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/MS3M-ZJV"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"Denmark Baptisms, 1618-1923,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/XYNQ-QHT : 6 December 2014), Johanne Jacobsdr in entry for Jens Dinersen, 30 Jan 1849; citing , GENTOFTE, KOBENHAVN, DENMARK; FHL microfilm 48,205."
+        }
+      ],
+      "titles": [
+        {
+          "value": "1849 - Johanne Jacobsdr in entry for Jens Dinersen, \"Denmark, Baptisms, 1618-1923\""
+        }
+      ],
+      "notes": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "MSJN-JHF",
+      "lang": "en_US,EN;Q=0.8",
+      "about": "http://www.ddd.dda.dk/asp/vishusstand_en.asp",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-6SSD",
+          "resourceId": "cis.user.MMM9-6SSD"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-6SSD",
+          "resourceId": "cis.user.MMM9-6SSD"
+        },
+        "modified": 1408294587191,
+        "created": 1408294587191
+      },
+      "resourceType": "DEFAULT",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/MSJN-JHF"
+        }
+      },
+      "citations": [
+        {
+          "value": "Internet; Danish Archives [Statens Arkiver]; http://www.ddd.dda.dk/"
+        }
+      ],
+      "titles": [
+        {
+          "value": "1850 - Johanne Jacobsen, \"1850 Danish Census\""
+        }
+      ],
+      "notes": [
+        {
+          "text": "Name:     Johanne Jacobsen\nAge:     25\nMarital Status:     Gift\nPosition in Household:     \nOccupation:     hans Kone\nBirth place:    Birkerød Sogn, Frederiksb. Amt"
         }
       ]
     },
@@ -15812,211 +16040,6 @@
       ]
     },
     {
-      "id": "9ZBD-T93",
-      "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:KL71-SSJ",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-SQ2S",
-          "resourceId": "cis.user.MMM9-SQ2S"
-        },
-        "modified": 1489564146783,
-        "created": 1426456316219
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/9ZBD-T93"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"Utah, Pioneers and Prominent Men of Utah, 1847-1868,\" database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/KL71-SSJ : 12 December 2014), Johanah Christofferson in entry for Ephraim Denison, ; excerpted from Frank Esshom, Pioneers and Prominent Men of Utah: Comprising Photographs, Genealogies, Biographies (Salt Lake City, Utah: Utah Pioneers Books, 1913)."
-        }
-      ],
-      "titles": [
-        {
-          "value": "Johanah Christofferson in entry for Ephraim Denison, \"Utah, Pioneers and Prominent Men of Utah, 1847-1868\""
-        }
-      ]
-    },
-    {
-      "id": "966H-Y5V",
-      "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:QVSF-PMXD",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-329G",
-          "resourceId": "cis.user.MMM9-329G"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-329G",
-          "resourceId": "cis.user.MMM9-329G"
-        },
-        "modified": 1451855251589,
-        "created": 1451855251589
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/966H-Y5V"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"Utah, Obituaries from Utah Newspapers, 1850-2005,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/QVSF-PMXD : 8 October 2015), Johanna Christofferson Denison in entry for Ephraim Denison, 28 Oct 1921; citing Manti Messenger, The University of Utah. J. Willard Marriott Library, Salt Lake City."
-        }
-      ],
-      "titles": [
-        {
-          "value": "Johanna Christofferson Denison in entry for Ephraim Denison, \"Utah, Obituaries from Utah Newspapers, 1850-2005\""
-        }
-      ]
-    },
-    {
-      "id": "MS6D-19C",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-NNTQ",
-          "resourceId": "cis.user.MMMM-NNTQ"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-NNTQ",
-          "resourceId": "cis.user.MMMM-NNTQ"
-        },
-        "modified": 1407397757497,
-        "created": 1407397757497
-      },
-      "resourceType": "LEGACY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/MS6D-19C"
-        }
-      },
-      "citations": [
-        {
-          "value": ""
-        }
-      ],
-      "titles": [
-        {
-          "value": "Legacy NFS Source: Johanna Jacobsen Christophersen - Individual or family possessions: birth-name: Johanah Christophersen"
-        }
-      ],
-      "notes": [
-        {
-          "text": "Individual or family possessions: birth-name: Johanah Christophersen"
-        }
-      ]
-    },
-    {
-      "id": "MSKM-DVG",
-      "lang": "en_US,EN;Q=0.8",
-      "about": "",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-6SSD",
-          "resourceId": "cis.user.MMM9-6SSD"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-6SSD",
-          "resourceId": "cis.user.MMM9-6SSD"
-        },
-        "modified": 1409013460755,
-        "created": 1409013322767
-      },
-      "resourceType": "DEFAULT",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/MSKM-DVG"
-        }
-      },
-      "citations": [
-        {
-          "value": "Internet; Familysearch.org; Membership record;"
-        }
-      ],
-      "titles": [
-        {
-          "value": "1825 - Johanne Jacobsdatter Christophersen, \"LDS Church Membership\""
-        }
-      ],
-      "notes": [
-        {
-          "text": "4 December 1825\nSandbjaerg, Birkerod, Fredrick, Denmark"
-        }
-      ]
-    },
-    {
-      "id": "M9XJ-KLQ",
-      "about": "https://familysearch.org/ark:/61903/1:1:MNS2-8TH",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-XVV7",
-          "resourceId": "cis.user.MMMM-XVV7"
-        },
-        "modified": 1489547948497,
-        "created": 1403664612540
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/M9XJ-KLQ"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"United States Census, 1880,\" database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/MNS2-8TH : 14 July 2016), Johanna Denison in household of Hans Denison, Manti, Sanpete, Utah, United States; citing enumeration district ED 65, sheet 415A, NARA microfilm publication T9 (Washington D.C.: National Archives and Records Administration, n.d.), roll 1337; FHL microfilm 1,255,337.\n"
-        }
-      ],
-      "titles": [
-        {
-          "value": "Johanna Denison in household of Hans Denison, \"United States Census, 1880\""
-        }
-      ]
-    },
-    {
-      "id": "9DW9-NLZ",
-      "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:QK9B-C9WZ",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-BPZ3",
-          "resourceId": "cis.user.MMMM-BPZ3"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-BPZ3",
-          "resourceId": "cis.user.MMMM-BPZ3"
-        },
-        "modified": 1439571249340,
-        "created": 1439571249340
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/9DW9-NLZ"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"Utah Mormon Pioneer Overland Travel Database, 1847-1868\", database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/QK9B-C9WZ : 20 May 2016), Johanne Jacobsen Christofferson Denison, 1853."
-        }
-      ],
-      "titles": [
-        {
-          "value": "Johanne Jacobsen Christofferson Denison, \"Utah Mormon Pioneer Overland Travel Database, 1847-1868\""
-        }
-      ]
-    },
-    {
       "id": "M9KJ-ZKV",
       "lang": "en_US,EN;Q=0.8",
       "about": "http://search.ancestry.com/cgi-bin/sse.dll?indiv=1&db=1870usfedcen&rank=1&new=1&MSAV=0&msT=1&gss=angs-d&gsfn=Hans&gsln=dineson&msbdy=1824&msbpn__ftp=denmark&msrpn__ftp=Utah%2c+USA&msrpn=47&msrpn_PInfo=5-|0|1652393|0|2|3249|47|0|0|0|0|&uidh=zvk&pcat=35&fh=0&h=14637132&recoff=&ml_rpos=1",
@@ -16051,44 +16074,6 @@
       "notes": [
         {
           "text": "Denaim, Johanna, age 44, Female, White, Keeping House, Born in Denmark, Father of foreign birth, Mother of foreign birth, "
-        }
-      ]
-    },
-    {
-      "id": "MSLW-GHT",
-      "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:QVSF-1S7H",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-XVV7",
-          "resourceId": "cis.user.MMMM-XVV7"
-        },
-        "modified": 1489569448172,
-        "created": 1410112887546
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/MSLW-GHT"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"Utah, Obituaries from Utah Newspapers, 1850-2005,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/QVSF-1S7H : 8 October 2015), Johannah Jacobsen Denison in entry for Mr Hyrum Denison, 03 Jun 1932; citing Salt Lake Telegram 13, The University of Utah. J. Willard Marriott Library, Salt Lake City."
-        }
-      ],
-      "titles": [
-        {
-          "value": "1942 - Johannah Jacobsen Denison in entry for Mr Hyrum Denison, \"Utah, Obituaries from Utah Newspapers, 1850-2005\""
-        }
-      ],
-      "notes": [
-        {
-          "text": ""
         }
       ]
     }

@@ -552,7 +552,7 @@
           "href": "https://familysearch.org/platform/tree/persons/KW8T-5FZ/families?sourceDescriptions=true"
         },
         "portrait": {
-          "href": "https://raw.githubusercontent.com/misbach/familytree/master/people/KW8T-5FZ/KW8T-5FZ.jpg"
+          "href": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/KW8T-5FZ/KW8T-5FZ.jpg"
         },
         "matches": {
           "href": "https://familysearch.org/platform/tree/persons/KW8T-5FZ/matches"
@@ -1427,11 +1427,11 @@
           },
           "place": {
             "original": "ED 125 Manti Precinct Manti city, Sanpete, Utah, United States",
-            "description": "#pd_39.27288x-111.63384",
+            "description": "#pd_39.25x-111.5",
             "normalized": [
               {
                 "lang": "en-US",
-                "value": "Manti Utah Temple, Manti, Sanpete, Utah, United States"
+                "value": "Sanpete, Utah, United States"
               },
               {
                 "lang": "und",
@@ -1503,57 +1503,17 @@
         "familiesAsParent": [
           {
             "parent1": {
-              "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KW8T-5FZ/KW8T-5FZ.json",
+              "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/KW8T-5FZ/KW8T-5FZ.json",
               "resourceId": "KW8T-5FZ"
             },
             "parent2": {
-              "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KW8T-5FC/KW8T-5FC.json",
+              "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/KW8T-5FC/KW8T-5FC.json",
               "resourceId": "KW8T-5FC"
             },
             "children": [
               {
-                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KWCQ-K65/KWCQ-K65.json",
+                "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/KWCQ-K65/KWCQ-K65.json",
                 "resourceId": "KWCQ-K65"
-              },
-              {
-                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KWZL-VKC/KWZL-VKC.json",
-                "resourceId": "KWZL-VKC"
-              },
-              {
-                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KWVH-ZY6/KWVH-ZY6.json",
-                "resourceId": "KWVH-ZY6"
-              },
-              {
-                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KWVH-ZT5/KWVH-ZT5.json",
-                "resourceId": "KWVH-ZT5"
-              },
-              {
-                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KWVH-ZYS/KWVH-ZYS.json",
-                "resourceId": "KWVH-ZYS"
-              },
-              {
-                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KWC2-6G8/KWC2-6G8.json",
-                "resourceId": "KWC2-6G8"
-              },
-              {
-                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KWCG-935/KWCG-935.json",
-                "resourceId": "KWCG-935"
-              },
-              {
-                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KWC6-FNR/KWC6-FNR.json",
-                "resourceId": "KWC6-FNR"
-              },
-              {
-                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KWZ4-YLG/KWZ4-YLG.json",
-                "resourceId": "KWZ4-YLG"
-              },
-              {
-                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KWVH-ZYH/KWVH-ZYH.json",
-                "resourceId": "KWVH-ZYH"
-              },
-              {
-                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KWVH-ZTB/KWVH-ZTB.json",
-                "resourceId": "KWVH-ZTB"
               }
             ]
           }
@@ -1561,16 +1521,16 @@
         "familiesAsChild": [
           {
             "parent1": {
-              "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/K2X7-ZLH/K2X7-ZLH.json",
+              "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/K2X7-ZLH/K2X7-ZLH.json",
               "resourceId": "K2X7-ZLH"
             },
             "parent2": {
-              "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/K2X7-HKT/K2X7-HKT.json",
+              "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/K2X7-HKT/K2X7-HKT.json",
               "resourceId": "K2X7-HKT"
             },
             "children": [
               {
-                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KW8T-5FZ/KW8T-5FZ.json",
+                "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/KW8T-5FZ/KW8T-5FZ.json",
                 "resourceId": "KW8T-5FZ"
               }
             ]
@@ -3866,11 +3826,11 @@
           },
           "place": {
             "original": "ED 125 Manti Precinct Manti city, Sanpete, Utah, United States",
-            "description": "#pd_39.27288x-111.63384",
+            "description": "#pd_39.25x-111.5",
             "normalized": [
               {
                 "lang": "en-US",
-                "value": "Manti Utah Temple, Manti, Sanpete, Utah, United States"
+                "value": "Sanpete, Utah, United States"
               },
               {
                 "lang": "und",
@@ -4754,11 +4714,11 @@
           },
           "place": {
             "original": "ED 125 Manti Precinct Manti city, Sanpete, Utah, United States",
-            "description": "#pd_39.27288x-111.63384",
+            "description": "#pd_39.25x-111.5",
             "normalized": [
               {
                 "lang": "en-US",
-                "value": "Manti Utah Temple, Manti, Sanpete, Utah, United States"
+                "value": "Sanpete, Utah, United States"
               },
               {
                 "lang": "und",
@@ -6447,11 +6407,11 @@
           },
           "place": {
             "original": "ED 125 Manti Precinct Manti city, Sanpete, Utah, United States",
-            "description": "#pd_39.27288x-111.63384",
+            "description": "#pd_39.25x-111.5",
             "normalized": [
               {
                 "lang": "en-US",
-                "value": "Manti Utah Temple, Manti, Sanpete, Utah, United States"
+                "value": "Sanpete, Utah, United States"
               },
               {
                 "lang": "und",
@@ -9149,11 +9109,11 @@
           },
           "place": {
             "original": "ED 125 Manti Precinct Manti city, Sanpete, Utah, United States",
-            "description": "#pd_39.27288x-111.63384",
+            "description": "#pd_39.25x-111.5",
             "normalized": [
               {
                 "lang": "en-US",
-                "value": "Manti Utah Temple, Manti, Sanpete, Utah, United States"
+                "value": "Sanpete, Utah, United States"
               },
               {
                 "lang": "und",
@@ -10073,6 +10033,19 @@
       },
       "sources": [
         {
+          "id": "6c3ad365-9952-4341-9e3e-b493ad491255",
+          "links": {
+            "source-reference": {
+              "href": "https://familysearch.org/platform/tree/persons/KW8T-5FZ/source-references/6c3ad365-9952-4341-9e3e-b493ad491255"
+            },
+            "description": {
+              "href": "https://familysearch.org/platform/sources/descriptions/9VT2-HYL"
+            }
+          },
+          "description": "https://familysearch.org/platform/sources/descriptions/9VT2-HYL",
+          "descriptionId": "9VT2-HYL"
+        },
+        {
           "id": "4a7a55f3-1bf7-4a7d-8513-4244762ae81e",
           "links": {
             "source-reference": {
@@ -10626,11 +10599,11 @@
           },
           "place": {
             "original": "ED 125 Manti Precinct Manti city, Sanpete, Utah, United States",
-            "description": "#pd_39.27288x-111.63384",
+            "description": "#pd_39.25x-111.5",
             "normalized": [
               {
                 "lang": "en-US",
-                "value": "Manti Utah Temple, Manti, Sanpete, Utah, United States"
+                "value": "Sanpete, Utah, United States"
               },
               {
                 "lang": "und",
@@ -11778,11 +11751,11 @@
           },
           "place": {
             "original": "ED 125 Manti Precinct Manti city, Sanpete, Utah, United States",
-            "description": "#pd_39.27288x-111.63384",
+            "description": "#pd_39.25x-111.5",
             "normalized": [
               {
                 "lang": "en-US",
-                "value": "Manti Utah Temple, Manti, Sanpete, Utah, United States"
+                "value": "Sanpete, Utah, United States"
               },
               {
                 "lang": "und",
@@ -13474,11 +13447,11 @@
           },
           "place": {
             "original": "ED 125 Manti Precinct Manti city, Sanpete, Utah, United States",
-            "description": "#pd_39.27288x-111.63384",
+            "description": "#pd_39.25x-111.5",
             "normalized": [
               {
                 "lang": "en-US",
-                "value": "Manti Utah Temple, Manti, Sanpete, Utah, United States"
+                "value": "Sanpete, Utah, United States"
               },
               {
                 "lang": "und",
@@ -17438,35 +17411,40 @@
       }
     },
     {
-      "id": "98MK-2D7",
-      "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:XZPC-TC3",
+      "id": "MSVM-8JD",
+      "lang": "en_US,EN;Q=0.8",
+      "about": "",
       "attribution": {
         "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-SQ2S",
-          "resourceId": "cis.user.MMM9-SQ2S"
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-XVV7",
+          "resourceId": "cis.user.MMMM-XVV7"
         },
         "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-SQ2S",
-          "resourceId": "cis.user.MMM9-SQ2S"
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-XVV7",
+          "resourceId": "cis.user.MMMM-XVV7"
         },
-        "modified": 1427160547343,
-        "created": 1427160547343
+        "modified": 1408502821478,
+        "created": 1408502821478
       },
-      "resourceType": "FSREADONLY",
+      "resourceType": "DEFAULT",
       "links": {
         "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/98MK-2D7"
+          "href": "https://familysearch.org/platform/sources/descriptions/MSVM-8JD"
         }
       },
       "citations": [
         {
-          "value": "\"Utah Death Certificates, 1904-1964\", database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/XZPC-TC3 : 11 September 2015), John Stutznegger in entry for Barbara Denison, 1937."
+          "value": "Family History Library, Salt Lake City, Film 1045826, 1870, page 161, Line: 139 Female Birth: 62"
         }
       ],
       "titles": [
         {
-          "value": "John Stutznegger in entry for Barbara Denison, \"Utah Death Certificates, 1904-1964\""
+          "value": "1870 - Johannas Sturznenegger in entry for Katharina Barbara Sturznenegger, \"Evangelisch-Reformierte Kirche Herisau (Appenzel) Kirchenbuch 1583-1875\" "
+        }
+      ],
+      "notes": [
+        {
+          "text": "Birth date: August 17 [1870] Child’s name: Katharina Barbara, Father: Johannas Sturznenegger Mother: Katharina Barbara Ramsuer  "
         }
       ]
     },
@@ -17514,77 +17492,6 @@
       }
     },
     {
-      "id": "MSVM-8JD",
-      "lang": "en_US,EN;Q=0.8",
-      "about": "",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-XVV7",
-          "resourceId": "cis.user.MMMM-XVV7"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-XVV7",
-          "resourceId": "cis.user.MMMM-XVV7"
-        },
-        "modified": 1408502821478,
-        "created": 1408502821478
-      },
-      "resourceType": "DEFAULT",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/MSVM-8JD"
-        }
-      },
-      "citations": [
-        {
-          "value": "Family History Library, Salt Lake City, Film 1045826, 1870, page 161, Line: 139 Female Birth: 62"
-        }
-      ],
-      "titles": [
-        {
-          "value": "1870 - Johannas Sturznenegger in entry for Katharina Barbara Sturznenegger, \"Evangelisch-Reformierte Kirche Herisau (Appenzel) Kirchenbuch 1583-1875\" "
-        }
-      ],
-      "notes": [
-        {
-          "text": "Birth date: August 17 [1870] Child’s name: Katharina Barbara, Father: Johannas Sturznenegger Mother: Katharina Barbara Ramsuer  "
-        }
-      ]
-    },
-    {
-      "id": "MSRL-6PH",
-      "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:QVSF-P96G",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-3B2M",
-          "resourceId": "cis.user.MMM9-3B2M"
-        },
-        "modified": 1489576494255,
-        "created": 1412286457252
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/MSRL-6PH"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"Utah, Obituaries from Utah Newspapers, 1850-2005,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/QVSF-P96G : 8 October 2015), John Stutzneggar, 28 Mar 1919; citing Manti Messenger, The University of Utah. J. Willard Marriott Library, Salt Lake City."
-        }
-      ],
-      "titles": [
-        {
-          "value": "John Stutzneggar, \"Utah, Obituaries from Utah Newspapers, 1850-2005\""
-        }
-      ]
-    },
-    {
       "id": "98CV-RCP",
       "lang": "en_US,EN;Q=0.8",
       "about": "",
@@ -17623,9 +17530,9 @@
       ]
     },
     {
-      "id": "MSRL-XCN",
+      "id": "MSRL-6PH",
       "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:XZGN-9NY",
+      "about": "https://familysearch.org/ark:/61903/1:1:QVSF-P96G",
       "attribution": {
         "contributor": {
           "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
@@ -17635,63 +17542,30 @@
           "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-3B2M",
           "resourceId": "cis.user.MMM9-3B2M"
         },
-        "modified": 1489576495484,
-        "created": 1412286631191
+        "modified": 1489576494255,
+        "created": 1412286457252
       },
       "resourceType": "FSREADONLY",
       "links": {
         "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/MSRL-XCN"
+          "href": "https://familysearch.org/platform/sources/descriptions/MSRL-6PH"
         }
       },
       "citations": [
         {
-          "value": "\"Utah Death Certificates, 1904-1964\", database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/XZGN-9NY : 11 September 2015), John Stutznegger, 1919."
+          "value": "\"Utah, Obituaries from Utah Newspapers, 1850-2005,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/QVSF-P96G : 8 October 2015), John Stutzneggar, 28 Mar 1919; citing Manti Messenger, The University of Utah. J. Willard Marriott Library, Salt Lake City."
         }
       ],
       "titles": [
         {
-          "value": "John Stutznegger, \"Utah Death Certificates, 1904-1964\""
+          "value": "John Stutzneggar, \"Utah, Obituaries from Utah Newspapers, 1850-2005\""
         }
       ]
     },
     {
-      "id": "968M-VXN",
+      "id": "M9VH-RZC",
       "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:QKDV-89TL",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMQ-RRRY",
-          "resourceId": "cis.user.MMMQ-RRRY"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMQ-RRRY",
-          "resourceId": "cis.user.MMMQ-RRRY"
-        },
-        "modified": 1451189998207,
-        "created": 1451189998207
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/968M-VXN"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"Utah Death Certificates, 1904-1964\", database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/QKDV-89TL : 25 September 2015), John Stutznegger in entry for John Stutznegger, 1960."
-        }
-      ],
-      "titles": [
-        {
-          "value": "John Stutznegger in entry for John Stutznegger, \"Utah Death Certificates, 1904-1964\""
-        }
-      ]
-    },
-    {
-      "id": "MSRL-67H",
-      "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:XZPW-SSP",
+      "about": "https://familysearch.org/ark:/61903/1:1:MMRP-YN9",
       "attribution": {
         "contributor": {
           "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
@@ -17701,23 +17575,88 @@
           "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-3B2M",
           "resourceId": "cis.user.MMM9-3B2M"
         },
-        "modified": 1489576492786,
-        "created": 1412286242147
+        "modified": 1489550236139,
+        "created": 1404364114821
       },
       "resourceType": "FSREADONLY",
       "links": {
         "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/MSRL-67H"
+          "href": "https://familysearch.org/platform/sources/descriptions/M9VH-RZC"
         }
       },
       "citations": [
         {
-          "value": "\"Utah Death Certificates, 1904-1964\", database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/XZPW-SSP : 11 September 2015), John Stutznegger in entry for Barbara Katherine Stutznegger, 1936."
+          "value": "\"United States Census, 1900,\" database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/MMRP-YN9 : accessed 13 April 2017), John Stuznegger, Manti Precinct Manti city, Sanpete, Utah, United States; citing enumeration district (ED) 125, sheet 21B, family 423, NARA microfilm publication T623 (Washington, D.C.: National Archives and Records Administration, 1972.); FHL microfilm 1,241,686.\n"
         }
       ],
       "titles": [
         {
-          "value": "John Stutznegger in entry for Barbara Katherine Stutznegger, \"Utah Death Certificates, 1904-1964\""
+          "value": "John Stuznegger, \"United States Census, 1900\""
+        }
+      ]
+    },
+    {
+      "id": "MM18-5V9",
+      "about": "https://familysearch.org/ark:/61903/1:1:M5X4-JHZ",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-3YV2",
+          "resourceId": "cis.user.MMMM-3YV2"
+        },
+        "modified": 1489540988924,
+        "created": 1397962279493
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/MM18-5V9"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"United States Census, 1910,\" database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/M5X4-JHZ : accessed 13 April 2017), John Stutznegger, Manti, Sanpete, Utah, United States; citing enumeration district (ED) ED 155, sheet 17A, family 354, NARA microfilm publication T624 (Washington D.C.: National Archives and Records Administration, 1982), roll 1608; FHL microfilm 1,375,621.\n"
+        }
+      ],
+      "titles": [
+        {
+          "value": "John Stutznegger, \"United States Census, 1910\""
+        }
+      ]
+    },
+    {
+      "id": "9Z1J-RSX",
+      "lang": "en_US",
+      "about": "https://familysearch.org/ark:/61903/1:1:QVK5-NPG5",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-3V32",
+          "resourceId": "cis.user.MMM9-3V32"
+        },
+        "modified": 1489590719233,
+        "created": 1426823906109
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/9Z1J-RSX"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"Find A Grave Index,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/QVK5-NPG5 : 13 December 2015), John Stutznegger, 1919; Burial, Manti, Sanpete, Utah, United States of America, Manti Cemetery; citing record ID 47583586, Find a Grave, http://www.findagrave.com."
+        }
+      ],
+      "titles": [
+        {
+          "value": "John Stutznegger, \"Find A Grave Index\""
         }
       ]
     },
@@ -17759,6 +17698,72 @@
       ]
     },
     {
+      "id": "9Z4T-M5B",
+      "lang": "en_US",
+      "about": "https://familysearch.org/ark:/61903/1:1:XZLX-7L1",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMW-QS5V",
+          "resourceId": "cis.user.MMMW-QS5V"
+        },
+        "modified": 1489604793784,
+        "created": 1418578520617
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/9Z4T-M5B"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"Utah Death Certificates, 1904-1964\", database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/XZLX-7L1 : 11 September 2015), John Stutznegger in entry for Jacob Stutznegger, 1948."
+        }
+      ],
+      "titles": [
+        {
+          "value": "John Stutznegger in entry for Jacob Stutznegger, \"Utah Death Certificates, 1904-1964\""
+        }
+      ]
+    },
+    {
+      "id": "MSRL-XCN",
+      "lang": "en_US",
+      "about": "https://familysearch.org/ark:/61903/1:1:XZGN-9NY",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-3B2M",
+          "resourceId": "cis.user.MMM9-3B2M"
+        },
+        "modified": 1489576495484,
+        "created": 1412286631191
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/MSRL-XCN"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"Utah Death Certificates, 1904-1964\", database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/XZGN-9NY : 11 September 2015), John Stutznegger, 1919."
+        }
+      ],
+      "titles": [
+        {
+          "value": "John Stutznegger, \"Utah Death Certificates, 1904-1964\""
+        }
+      ]
+    },
+    {
       "id": "MM1S-X4Q",
       "about": "http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&GRid=47583586",
       "attribution": {
@@ -17796,42 +17801,9 @@
       ]
     },
     {
-      "id": "9Z1J-RSX",
+      "id": "MSRL-67H",
       "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:QVK5-NPG5",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-3V32",
-          "resourceId": "cis.user.MMM9-3V32"
-        },
-        "modified": 1489590719233,
-        "created": 1426823906109
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/9Z1J-RSX"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"Find A Grave Index,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/QVK5-NPG5 : 13 December 2015), John Stutznegger, 1919; Burial, Manti, Sanpete, Utah, United States of America, Manti Cemetery; citing record ID 47583586, Find a Grave, http://www.findagrave.com."
-        }
-      ],
-      "titles": [
-        {
-          "value": "John Stutznegger, \"Find A Grave Index\""
-        }
-      ]
-    },
-    {
-      "id": "M9VH-RZC",
-      "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:MMRP-YN9",
+      "about": "https://familysearch.org/ark:/61903/1:1:XZPW-SSP",
       "attribution": {
         "contributor": {
           "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
@@ -17841,88 +17813,89 @@
           "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-3B2M",
           "resourceId": "cis.user.MMM9-3B2M"
         },
-        "modified": 1489550236139,
-        "created": 1404364114821
+        "modified": 1489576492786,
+        "created": 1412286242147
       },
       "resourceType": "FSREADONLY",
       "links": {
         "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/M9VH-RZC"
+          "href": "https://familysearch.org/platform/sources/descriptions/MSRL-67H"
         }
       },
       "citations": [
         {
-          "value": "\"United States Census, 1900,\" database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/MMRP-YN9 : accessed 7 April 2017), John Stuznegger, Manti Precinct Manti city, Sanpete, Utah, United States; citing enumeration district (ED) 125, sheet 21B, family 423, NARA microfilm publication T623 (Washington, D.C.: National Archives and Records Administration, 1972.); FHL microfilm 1,241,686.\n"
+          "value": "\"Utah Death Certificates, 1904-1964\", database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/XZPW-SSP : 11 September 2015), John Stutznegger in entry for Barbara Katherine Stutznegger, 1936."
         }
       ],
       "titles": [
         {
-          "value": "John Stuznegger, \"United States Census, 1900\""
+          "value": "John Stutznegger in entry for Barbara Katherine Stutznegger, \"Utah Death Certificates, 1904-1964\""
         }
       ]
     },
     {
-      "id": "MM18-5V9",
-      "about": "https://familysearch.org/ark:/61903/1:1:M5X4-JHZ",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-3YV2",
-          "resourceId": "cis.user.MMMM-3YV2"
-        },
-        "modified": 1489540988924,
-        "created": 1397962279493
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/MM18-5V9"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"United States Census, 1910,\" database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/M5X4-JHZ : accessed 7 April 2017), John Stutznegger, Manti, Sanpete, Utah, United States; citing enumeration district (ED) ED 155, sheet 17A, family 354, NARA microfilm publication T624 (Washington D.C.: National Archives and Records Administration, 1982), roll 1608; FHL microfilm 1,375,621.\n"
-        }
-      ],
-      "titles": [
-        {
-          "value": "John Stutznegger, \"United States Census, 1910\""
-        }
-      ]
-    },
-    {
-      "id": "9Z4T-M5B",
+      "id": "968M-VXN",
       "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:XZLX-7L1",
+      "about": "https://familysearch.org/ark:/61903/1:1:QKDV-89TL",
       "attribution": {
         "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMQ-RRRY",
+          "resourceId": "cis.user.MMMQ-RRRY"
         },
         "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMW-QS5V",
-          "resourceId": "cis.user.MMMW-QS5V"
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMQ-RRRY",
+          "resourceId": "cis.user.MMMQ-RRRY"
         },
-        "modified": 1489604793784,
-        "created": 1418578520617
+        "modified": 1451189998207,
+        "created": 1451189998207
       },
       "resourceType": "FSREADONLY",
       "links": {
         "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/9Z4T-M5B"
+          "href": "https://familysearch.org/platform/sources/descriptions/968M-VXN"
         }
       },
       "citations": [
         {
-          "value": "\"Utah Death Certificates, 1904-1964\", database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/XZLX-7L1 : 11 September 2015), John Stutznegger in entry for Jacob Stutznegger, 1948."
+          "value": "\"Utah Death Certificates, 1904-1964\", database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/QKDV-89TL : 25 September 2015), John Stutznegger in entry for John Stutznegger, 1960."
         }
       ],
       "titles": [
         {
-          "value": "John Stutznegger in entry for Jacob Stutznegger, \"Utah Death Certificates, 1904-1964\""
+          "value": "John Stutznegger in entry for John Stutznegger, \"Utah Death Certificates, 1904-1964\""
+        }
+      ]
+    },
+    {
+      "id": "98MK-2D7",
+      "lang": "en_US",
+      "about": "https://familysearch.org/ark:/61903/1:1:XZPC-TC3",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-SQ2S",
+          "resourceId": "cis.user.MMM9-SQ2S"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-SQ2S",
+          "resourceId": "cis.user.MMM9-SQ2S"
+        },
+        "modified": 1427160547343,
+        "created": 1427160547343
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/98MK-2D7"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"Utah Death Certificates, 1904-1964\", database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/XZPC-TC3 : 11 September 2015), John Stutznegger in entry for Barbara Denison, 1937."
+        }
+      ],
+      "titles": [
+        {
+          "value": "John Stutznegger in entry for Barbara Denison, \"Utah Death Certificates, 1904-1964\""
         }
       ]
     }
@@ -17974,13 +17947,13 @@
       ]
     },
     {
-      "id": "pd_39.27288x-111.63384",
-      "latitude": 39.27288,
-      "longitude": -111.63384,
+      "id": "pd_39.25x-111.5",
+      "latitude": 39.25,
+      "longitude": -111.5,
       "names": [
         {
           "lang": "en-US",
-          "value": "Manti Utah Temple, Manti, Sanpete, Utah, United States"
+          "value": "Sanpete, Utah, United States"
         },
         {
           "lang": "und",
