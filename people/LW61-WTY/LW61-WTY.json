@@ -57,7 +57,7 @@
           "href": "https://familysearch.org/platform/tree/persons/LW61-WTY/families?sourceDescriptions=true"
         },
         "portrait": {
-          "href": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/LW61-WTY/LW61-WTY.jpg"
+          "href": "https://raw.githubusercontent.com/misbach/familytree/master/people/LW61-WTY/LW61-WTY.jpg"
         },
         "matches": {
           "href": "https://familysearch.org/platform/tree/persons/LW61-WTY/matches"
@@ -316,16 +316,16 @@
         "familiesAsParent": [
           {
             "parent1": {
-              "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/LW61-WTY/LW61-WTY.json",
+              "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/LW61-WTY/LW61-WTY.json",
               "resourceId": "LW61-WTY"
             },
             "parent2": {
-              "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/LCMH-XJJ/LCMH-XJJ.json",
+              "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/LCMH-XJJ/LCMH-XJJ.json",
               "resourceId": "LCMH-XJJ"
             },
             "children": [
               {
-                "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/KN9T-QQC/KN9T-QQC.json",
+                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KN9T-QQC/KN9T-QQC.json",
                 "resourceId": "KN9T-QQC"
               }
             ]
@@ -334,16 +334,16 @@
         "familiesAsChild": [
           {
             "parent1": {
-              "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/KLXR-795/KLXR-795.json",
+              "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KLXR-795/KLXR-795.json",
               "resourceId": "KLXR-795"
             },
             "parent2": {
-              "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/KGJK-M92/KGJK-M92.json",
+              "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KGJK-M92/KGJK-M92.json",
               "resourceId": "KGJK-M92"
             },
             "children": [
               {
-                "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/LW61-WTY/LW61-WTY.json",
+                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/LW61-WTY/LW61-WTY.json",
                 "resourceId": "LW61-WTY"
               }
             ]

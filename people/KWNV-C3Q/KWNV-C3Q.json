@@ -212,7 +212,7 @@
           "href": "https://familysearch.org/platform/tree/persons/KWNV-C3Q/families?sourceDescriptions=true"
         },
         "portrait": {
-          "href": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/KWNV-C3Q/KWNV-C3Q.jpg"
+          "href": "https://raw.githubusercontent.com/misbach/familytree/master/people/KWNV-C3Q/KWNV-C3Q.jpg"
         },
         "matches": {
           "href": "https://familysearch.org/platform/tree/persons/KWNV-C3Q/matches"
@@ -1288,27 +1288,27 @@
         "familiesAsParent": [
           {
             "parent1": {
-              "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/KWNV-C37/KWNV-C37.json",
+              "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KWNV-C37/KWNV-C37.json",
               "resourceId": "KWNV-C37"
             },
             "parent2": {
-              "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/KWNV-C3Q/KWNV-C3Q.json",
+              "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KWNV-C3Q/KWNV-C3Q.json",
               "resourceId": "KWNV-C3Q"
             },
             "children": [
               {
-                "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/KWCT-P7B/KWCT-P7B.json",
+                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KWCT-P7B/KWCT-P7B.json",
                 "resourceId": "KWCT-P7B"
               }
             ]
           },
           {
             "parent1": {
-              "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/2C1S-XD6/2C1S-XD6.json",
+              "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/2C1S-XD6/2C1S-XD6.json",
               "resourceId": "2C1S-XD6"
             },
             "parent2": {
-              "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/KWNV-C3Q/KWNV-C3Q.json",
+              "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KWNV-C3Q/KWNV-C3Q.json",
               "resourceId": "KWNV-C3Q"
             }
           }
@@ -1316,16 +1316,16 @@
         "familiesAsChild": [
           {
             "parent1": {
-              "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/LZKW-KWM/LZKW-KWM.json",
+              "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/LZKW-KWM/LZKW-KWM.json",
               "resourceId": "LZKW-KWM"
             },
             "parent2": {
-              "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/M9TL-9QB/M9TL-9QB.json",
+              "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/M9TL-9QB/M9TL-9QB.json",
               "resourceId": "M9TL-9QB"
             },
             "children": [
               {
-                "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/KWNV-C3Q/KWNV-C3Q.json",
+                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KWNV-C3Q/KWNV-C3Q.json",
                 "resourceId": "KWNV-C3Q"
               }
             ]
@@ -12243,35 +12243,38 @@
       }
     },
     {
-      "id": "MSNW-47W",
-      "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:MH2W-SMT",
+      "id": "MS6H-ZCS",
       "attribution": {
         "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-WZKY",
+          "resourceId": "cis.user.MMMM-WZKY"
         },
         "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-C2QB",
-          "resourceId": "cis.user.MMMM-C2QB"
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-WZKY",
+          "resourceId": "cis.user.MMMM-WZKY"
         },
-        "modified": 1489564707662,
-        "created": 1407720611191
+        "modified": 1407392854885,
+        "created": 1407392854885
       },
-      "resourceType": "FSREADONLY",
+      "resourceType": "LEGACY",
       "links": {
         "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/MSNW-47W"
+          "href": "https://familysearch.org/platform/sources/descriptions/MS6H-ZCS"
         }
       },
       "citations": [
         {
-          "value": "\"United States Census, 1860\", database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/MH2W-SMT : 30 December 2015), Elisth Carlisle, 1860."
+          "value": "Ancestral File (TM), The Church of Jesus Christ of Latter-day Saints, June 1998 (c), data as of 5 JAN 1998, Family History Library, 35 N West Temple Street, Salt Lake City, UT 84150  USA"
         }
       ],
       "titles": [
         {
-          "value": "Elisth Carlisle, \"United States Census, 1860\""
+          "value": "Legacy NFS Source: Elizabeth Williamson - "
+        }
+      ],
+      "notes": [
+        {
+          "text": ""
         }
       ]
     },
@@ -12309,6 +12312,209 @@
       ]
     },
     {
+      "id": "9Z8J-3V9",
+      "lang": "en_US",
+      "about": "https://familysearch.org/ark:/61903/1:1:J955-LHN",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-QFR3",
+          "resourceId": "cis.user.MMM9-QFR3"
+        },
+        "modified": 1489612183796,
+        "created": 1420395131923
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/9Z8J-3V9"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"England Births and Christenings, 1538-1975,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/J955-LHN : 6 December 2014), Elizabeth Carlile in entry for Ellen Carlile, 25 May 1845; citing Bolton-le-Moors, Lancashire, England, reference item 10 p 17; FHL microfilm 1,538,364."
+        }
+      ],
+      "titles": [
+        {
+          "value": "Elizabeth Carlile in entry for Ellen Carlile, \"England Births and Christenings, 1538-1975\""
+        }
+      ]
+    },
+    {
+      "id": "9D9W-1CS",
+      "lang": "en_US",
+      "about": "https://familysearch.org/ark:/61903/1:1:N1X7-FF9",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MM9M-HVD1",
+          "resourceId": "cis.user.MM9M-HVD1"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MM9M-HVD1",
+          "resourceId": "cis.user.MM9M-HVD1"
+        },
+        "modified": 1437855987460,
+        "created": 1437855987460
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/9D9W-1CS"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"England Births and Christenings, 1538-1975,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/N1X7-FF9 : 30 December 2014), Elizabeth Carlile in entry for Mary Carlile, 25 May 1845; citing Bolton-le-Moors, Lancashire, England, reference 1966403; FHL microfilm 1,966,403."
+        }
+      ],
+      "titles": [
+        {
+          "value": "Elizabeth Carlile in entry for Mary Carlile, \"England Births and Christenings, 1538-1975\""
+        }
+      ]
+    },
+    {
+      "id": "MP4F-TT6",
+      "lang": "en-us",
+      "about": "https://familysearch.org/ark:/61903/1:1:N586-JKQ",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "modified": 1415366409020,
+        "created": 1415366409020
+      },
+      "resourceType": "IGI",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/MP4F-TT6"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"England Births and Christenings, 1538-1975,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/N586-JKQ : 30 December 2014), Elizabeth in entry for Elizabeth Carlile, 10 Mar 1844; citing SAINT MICHAEL,WORKINGTON,CUMBERLAND,ENGLAND, reference ; FHL microfilm 90,691, 90,692."
+        }
+      ],
+      "titles": [
+        {
+          "value": "Elizabeth in entry for Elizabeth Carlile, \"England Births and Christenings, 1538-1975\""
+        }
+      ],
+      "notes": [
+        {
+          "text": "This extracted record was used to create this person in Family Tree."
+        }
+      ]
+    },
+    {
+      "id": "98QT-YTQ",
+      "lang": "en_US",
+      "about": "https://familysearch.org/ark:/61903/1:1:QVKH-5C82",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMZ-5F8J",
+          "resourceId": "cis.user.MMMZ-5F8J"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMZ-5F8J",
+          "resourceId": "cis.user.MMMZ-5F8J"
+        },
+        "modified": 1428598747533,
+        "created": 1428598747533
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/98QT-YTQ"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"Find A Grave Index,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/QVKH-5C82 : 11 July 2016), Elizabeth Williamson Carlile, 1893; Burial, Heber City, Wasatch, Utah, United States of America, Heber City Cemetery; citing record ID 34160243, Find a Grave, http://www.findagrave.com."
+        }
+      ],
+      "titles": [
+        {
+          "value": "Elizabeth Williamson Carlile, \"Find A Grave Index\""
+        }
+      ]
+    },
+    {
+      "id": "MSNW-9K3",
+      "lang": "en_US",
+      "about": "https://familysearch.org/ark:/61903/1:1:MZ4J-K1D",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-C2QB",
+          "resourceId": "cis.user.MMMM-C2QB"
+        },
+        "modified": 1489564696271,
+        "created": 1407718909003
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/MSNW-9K3"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"United States Census, 1850,\" database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/MZ4J-K1D : 9 November 2014), Elizabeth Carlisle in household of John Carlisle, Pottawattamie county, Pottawattamie, Iowa, United States; citing family 270, NARA microfilm publication M432 (Washington, D.C.: National Archives and Records Administration, n.d.)."
+        }
+      ],
+      "titles": [
+        {
+          "value": "Elizabeth Carlisle in household of John Carlisle, \"United States Census, 1850\""
+        }
+      ]
+    },
+    {
+      "id": "98R7-XKP",
+      "lang": "en_US",
+      "about": "https://familysearch.org/ark:/61903/1:1:NJ8J-Q5F",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMZ-5F8J",
+          "resourceId": "cis.user.MMMZ-5F8J"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMZ-5F8J",
+          "resourceId": "cis.user.MMMZ-5F8J"
+        },
+        "modified": 1435617681429,
+        "created": 1435617681429
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/98R7-XKP"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"England Births and Christenings, 1538-1975,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/NJ8J-Q5F : 30 December 2014), Elizabeth Carlile in entry for Ellen Carlile, 25 May 1845; citing Bolton-le-Moors, Lancashire, England, reference 1966403; FHL microfilm 1,966,403."
+        }
+      ],
+      "titles": [
+        {
+          "value": "Elizabeth Carlile in entry for Ellen Carlile, \"England Births and Christenings, 1538-1975\""
+        }
+      ]
+    },
+    {
       "id": "9S74-W53",
       "lang": "en-us",
       "about": "https://familysearch.org/ark:/61903/1:1:N2KW-GYQ",
@@ -12338,6 +12544,148 @@
       "titles": [
         {
           "value": "Elizabeth Carlile in entry for Mary Carlile, \"England Births and Christenings, 1538-1975\""
+        }
+      ],
+      "notes": [
+        {
+          "text": "This extracted record was used to create this person in Family Tree."
+        }
+      ]
+    },
+    {
+      "id": "9HLV-K3X",
+      "lang": "en-us",
+      "about": "https://familysearch.org/ark:/61903/1:1:N5J6-YPR",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "modified": 1415437110137,
+        "created": 1415437110137
+      },
+      "resourceType": "IGI",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/9HLV-K3X"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"England Births and Christenings, 1538-1975,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/N5J6-YPR : 30 December 2014), Elizabeth in entry for George Carlisle, 24 May 1846; citing GREASBROUGH,YORK,ENGLAND, reference ; FHL microfilm 919,318."
+        }
+      ],
+      "titles": [
+        {
+          "value": "Elizabeth in entry for George Carlisle, \"England Births and Christenings, 1538-1975\""
+        }
+      ],
+      "notes": [
+        {
+          "text": "This extracted record was used to create this person in Family Tree."
+        }
+      ]
+    },
+    {
+      "id": "98Q6-32G",
+      "lang": "en_US",
+      "about": "https://familysearch.org/ark:/61903/1:1:XZGR-NBX",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-S7JC",
+          "resourceId": "cis.user.MMM9-S7JC"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-S7JC",
+          "resourceId": "cis.user.MMM9-S7JC"
+        },
+        "modified": 1428440593823,
+        "created": 1428440593823
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/98Q6-32G"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"Utah Death Certificates, 1904-1964\", database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/XZGR-NBX : 11 September 2015), Elizabeth Williamson in entry for Elizabeth C. Carroll, 1927."
+        }
+      ],
+      "titles": [
+        {
+          "value": "Elizabeth Williamson in entry for Elizabeth C. Carroll, \"Utah Death Certificates, 1904-1964\""
+        }
+      ]
+    },
+    {
+      "id": "MSRN-LCD",
+      "lang": "en_US",
+      "about": "https://familysearch.org/ark:/61903/1:1:MQ1V-534",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-QFR3",
+          "resourceId": "cis.user.MMM9-QFR3"
+        },
+        "modified": 1489576274364,
+        "created": 1412202290960
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/MSRN-LCD"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"England and Wales Census, 1841,\" database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/MQ1V-534 : 30 October 2015), Elizabeth Williamson in household of Henry Mowbray, Boston, Lincolnshire, England; from \"1841 England, Scotland and Wales census,\" database and images, findmypast (http://www.findmypast.com : n.d.); citing PRO HO 107, The National Archives, Kew, Surrey."
+        }
+      ],
+      "titles": [
+        {
+          "value": "Elizabeth Williamson, \"England and Wales Census, 1841\""
+        }
+      ]
+    },
+    {
+      "id": "9S74-ZCX",
+      "lang": "en-us",
+      "about": "https://familysearch.org/ark:/61903/1:1:NYZT-S9Q",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "modified": 1415398077670,
+        "created": 1415398077670
+      },
+      "resourceType": "IGI",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/9S74-ZCX"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"England Births and Christenings, 1538-1975,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/NYZT-S9Q : 30 December 2014), Elizabeth Carlile in entry for Ellen Carlile, 25 May 1845; citing St Peters, Bolton-le-Moors, Lancashire, England, reference ; FHL microfilm 1,538,364."
+        }
+      ],
+      "titles": [
+        {
+          "value": "Elizabeth Carlile in entry for Ellen Carlile, \"England Births and Christenings, 1538-1975\""
         }
       ],
       "notes": [
@@ -12383,113 +12731,47 @@
       ]
     },
     {
-      "id": "98R7-FH8",
+      "id": "M9GJ-7PR",
       "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:XZPF-F51",
+      "about": "",
       "attribution": {
         "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMZ-5F8J",
-          "resourceId": "cis.user.MMMZ-5F8J"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMZ-5F8J",
-          "resourceId": "cis.user.MMMZ-5F8J"
-        },
-        "modified": 1435617835480,
-        "created": 1435617835480
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/98R7-FH8"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"Utah Death Certificates, 1904-1964\", database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/XZPF-F51 : 11 September 2015), Elizabeth Williamson in entry for Christina Giles, 1942."
-        }
-      ],
-      "titles": [
-        {
-          "value": "Elizabeth Williamson in entry for Christina Giles, \"Utah Death Certificates, 1904-1964\""
-        }
-      ]
-    },
-    {
-      "id": "9S74-ZCX",
-      "lang": "en-us",
-      "about": "https://familysearch.org/ark:/61903/1:1:NYZT-S9Q",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "modified": 1415398077670,
-        "created": 1415398077670
-      },
-      "resourceType": "IGI",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/9S74-ZCX"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"England Births and Christenings, 1538-1975,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/NYZT-S9Q : 30 December 2014), Elizabeth Carlile in entry for Ellen Carlile, 25 May 1845; citing St Peters, Bolton-le-Moors, Lancashire, England, reference ; FHL microfilm 1,538,364."
-        }
-      ],
-      "titles": [
-        {
-          "value": "Elizabeth Carlile in entry for Ellen Carlile, \"England Births and Christenings, 1538-1975\""
-        }
-      ],
-      "notes": [
-        {
-          "text": "This extracted record was used to create this person in Family Tree."
-        }
-      ]
-    },
-    {
-      "id": "MSRN-LCD",
-      "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:MQ1V-534",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-QFR3",
+          "resourceId": "cis.user.MMM9-QFR3"
         },
         "creator": {
           "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-QFR3",
           "resourceId": "cis.user.MMM9-QFR3"
         },
-        "modified": 1489576274364,
-        "created": 1412202290960
+        "modified": 1405204567126,
+        "created": 1405204567126
       },
-      "resourceType": "FSREADONLY",
+      "resourceType": "DEFAULT",
       "links": {
         "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/MSRN-LCD"
+          "href": "https://familysearch.org/platform/sources/descriptions/M9GJ-7PR"
         }
       },
       "citations": [
         {
-          "value": "\"England and Wales Census, 1841,\" database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/MQ1V-534 : 30 October 2015), Elizabeth Williamson in household of Henry Mowbray, Boston, Lincolnshire, England; from \"1841 England, Scotland and Wales census,\" database and images, findmypast (http://www.findmypast.com : n.d.); citing PRO HO 107, The National Archives, Kew, Surrey."
+          "value": "Notes on John Carlile KWNV-C37 extraction C060491"
         }
       ],
       "titles": [
         {
-          "value": "Elizabeth Williamson, \"England and Wales Census, 1841\""
+          "value": "From notes on John Carlile KWNV-C37"
+        }
+      ],
+      "notes": [
+        {
+          "text": "extraction C060491\nHeart Throbs of the West\nHeart Throbs of the West: Volume 3\nMormon Colonization in the West\nPlan of Colonization\nThe spring of 1859, however, was late so it was the last day of April when a small company of ten men with three wagons and oxen for teams, left Provo to come up Provo Canyon into this valley to make a start and prove whether or not they would be successful in raising those things needful to support life and make comfortable homes for their families. These men were Thomas Rasband, John Crook, Charles McCarroll, John Carlile, John Jordan, Henry Chatwin, Jesse Bond, James Carlile, Wm. Giles, Jr., George Carlile and a man named Carpenter.򉮵rnal of John Crook.\n\nName: John Carlile Sr.\nBirth Date: 25 May 1825\nBirth Place: Mission, Lincolnshire, England\nParents: Robert and Christiana Spouncer Carlile\nDeath Date: 16 Sep 1859\nDeath Place: Heber, Utah\nArrival: Arrived in Provo in 1852\nSpouse: Elizabeth Williamson\nMarriage Date: abt 1843\nSpouse's Birth Date: 22 Nov 1822\nSpouse's Birth Place: Gresburgh, Lincolnshire, England\nSpouse's Death Date: 23 Jan 1893\nSpouse's Death Place: Heber, Utah\nJohn was a farmer by trade but owned no land of his own. He worked for others. He loved horses and was much in demand for his work with them. He and his family left England for America in 1850 and went on to Council Bluffs , where they remained for two years. Upon their arrival in Utah , they went on to Provo where they made their home. After a short time there, they moved on to Palmyra and then to Spanish Fork , where they lived for a time in the fort due to the Walker Indian War. Later, he moved his family to Heber after being kicked by a horse. He died from those injuries two months later. Children: Sarah Ann , b. 21 Jan 1844 . Md. William Eastwood . George , b. May 1846 . D. 18 Apr 1857 . Christiana , b. 17 Nov 1848 . Md. William Giles . Mary , b. 20 May 1851 . Md. Mark William Jeffs . Elizabeth , b. 22 Jan 1854 . Md. John Nelson Carroll . John Jr., b. 29 Oct 1856 . Md. Sarah Elizabeth Crook . Emma , b. 2 Mar 1859 . D. 6 Oct 1860 . Child. Ralph Carlisle\nModified\n26 August 2013 by Jackie1"
         }
       ]
     },
     {
-      "id": "MSNW-9K3",
+      "id": "MSNW-47W",
       "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:MZ4J-K1D",
+      "about": "https://familysearch.org/ark:/61903/1:1:MH2W-SMT",
       "attribution": {
         "contributor": {
           "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
@@ -12499,168 +12781,23 @@
           "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-C2QB",
           "resourceId": "cis.user.MMMM-C2QB"
         },
-        "modified": 1489564696271,
-        "created": 1407718909003
+        "modified": 1489564707662,
+        "created": 1407720611191
       },
       "resourceType": "FSREADONLY",
       "links": {
         "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/MSNW-9K3"
+          "href": "https://familysearch.org/platform/sources/descriptions/MSNW-47W"
         }
       },
       "citations": [
         {
-          "value": "\"United States Census, 1850,\" database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/MZ4J-K1D : 9 November 2014), Elizabeth Carlisle in household of John Carlisle, Pottawattamie county, Pottawattamie, Iowa, United States; citing family 270, NARA microfilm publication M432 (Washington, D.C.: National Archives and Records Administration, n.d.)."
+          "value": "\"United States Census, 1860\", database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/MH2W-SMT : 30 December 2015), Elisth Carlisle, 1860."
         }
       ],
       "titles": [
         {
-          "value": "Elizabeth Carlisle in household of John Carlisle, \"United States Census, 1850\""
-        }
-      ]
-    },
-    {
-      "id": "9Z8J-3V9",
-      "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:J955-LHN",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-QFR3",
-          "resourceId": "cis.user.MMM9-QFR3"
-        },
-        "modified": 1489612183796,
-        "created": 1420395131923
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/9Z8J-3V9"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"England Births and Christenings, 1538-1975,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/J955-LHN : 6 December 2014), Elizabeth Carlile in entry for Ellen Carlile, 25 May 1845; citing Bolton-le-Moors, Lancashire, England, reference item 10 p 17; FHL microfilm 1,538,364."
-        }
-      ],
-      "titles": [
-        {
-          "value": "Elizabeth Carlile in entry for Ellen Carlile, \"England Births and Christenings, 1538-1975\""
-        }
-      ]
-    },
-    {
-      "id": "MP4F-TT6",
-      "lang": "en-us",
-      "about": "https://familysearch.org/ark:/61903/1:1:N586-JKQ",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "modified": 1415366409020,
-        "created": 1415366409020
-      },
-      "resourceType": "IGI",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/MP4F-TT6"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"England Births and Christenings, 1538-1975,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/N586-JKQ : 30 December 2014), Elizabeth in entry for Elizabeth Carlile, 10 Mar 1844; citing SAINT MICHAEL,WORKINGTON,CUMBERLAND,ENGLAND, reference ; FHL microfilm 90,691, 90,692."
-        }
-      ],
-      "titles": [
-        {
-          "value": "Elizabeth in entry for Elizabeth Carlile, \"England Births and Christenings, 1538-1975\""
-        }
-      ],
-      "notes": [
-        {
-          "text": "This extracted record was used to create this person in Family Tree."
-        }
-      ]
-    },
-    {
-      "id": "MS6H-ZCS",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-WZKY",
-          "resourceId": "cis.user.MMMM-WZKY"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-WZKY",
-          "resourceId": "cis.user.MMMM-WZKY"
-        },
-        "modified": 1407392854885,
-        "created": 1407392854885
-      },
-      "resourceType": "LEGACY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/MS6H-ZCS"
-        }
-      },
-      "citations": [
-        {
-          "value": "Ancestral File (TM), The Church of Jesus Christ of Latter-day Saints, June 1998 (c), data as of 5 JAN 1998, Family History Library, 35 N West Temple Street, Salt Lake City, UT 84150  USA"
-        }
-      ],
-      "titles": [
-        {
-          "value": "Legacy NFS Source: Elizabeth Williamson - "
-        }
-      ],
-      "notes": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "id": "9HLV-K3X",
-      "lang": "en-us",
-      "about": "https://familysearch.org/ark:/61903/1:1:N5J6-YPR",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "modified": 1415437110137,
-        "created": 1415437110137
-      },
-      "resourceType": "IGI",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/9HLV-K3X"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"England Births and Christenings, 1538-1975,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/N5J6-YPR : 30 December 2014), Elizabeth in entry for George Carlisle, 24 May 1846; citing GREASBROUGH,YORK,ENGLAND, reference ; FHL microfilm 919,318."
-        }
-      ],
-      "titles": [
-        {
-          "value": "Elizabeth in entry for George Carlisle, \"England Births and Christenings, 1538-1975\""
-        }
-      ],
-      "notes": [
-        {
-          "text": "This extracted record was used to create this person in Family Tree."
+          "value": "Elisth Carlisle, \"United States Census, 1860\""
         }
       ]
     },
@@ -12701,39 +12838,6 @@
       ]
     },
     {
-      "id": "98R7-XKP",
-      "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:NJ8J-Q5F",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMZ-5F8J",
-          "resourceId": "cis.user.MMMZ-5F8J"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMZ-5F8J",
-          "resourceId": "cis.user.MMMZ-5F8J"
-        },
-        "modified": 1435617681429,
-        "created": 1435617681429
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/98R7-XKP"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"England Births and Christenings, 1538-1975,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/NJ8J-Q5F : 30 December 2014), Elizabeth Carlile in entry for Ellen Carlile, 25 May 1845; citing Bolton-le-Moors, Lancashire, England, reference 1966403; FHL microfilm 1,966,403."
-        }
-      ],
-      "titles": [
-        {
-          "value": "Elizabeth Carlile in entry for Ellen Carlile, \"England Births and Christenings, 1538-1975\""
-        }
-      ]
-    },
-    {
       "id": "MSNW-4TK",
       "lang": "en_US",
       "about": "https://familysearch.org/ark:/61903/1:1:MNCB-GF9",
@@ -12767,113 +12871,9 @@
       ]
     },
     {
-      "id": "9D9W-1CS",
+      "id": "98R7-FH8",
       "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:N1X7-FF9",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MM9M-HVD1",
-          "resourceId": "cis.user.MM9M-HVD1"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MM9M-HVD1",
-          "resourceId": "cis.user.MM9M-HVD1"
-        },
-        "modified": 1437855987460,
-        "created": 1437855987460
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/9D9W-1CS"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"England Births and Christenings, 1538-1975,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/N1X7-FF9 : 30 December 2014), Elizabeth Carlile in entry for Mary Carlile, 25 May 1845; citing Bolton-le-Moors, Lancashire, England, reference 1966403; FHL microfilm 1,966,403."
-        }
-      ],
-      "titles": [
-        {
-          "value": "Elizabeth Carlile in entry for Mary Carlile, \"England Births and Christenings, 1538-1975\""
-        }
-      ]
-    },
-    {
-      "id": "98Q6-32G",
-      "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:XZGR-NBX",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-S7JC",
-          "resourceId": "cis.user.MMM9-S7JC"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-S7JC",
-          "resourceId": "cis.user.MMM9-S7JC"
-        },
-        "modified": 1428440593823,
-        "created": 1428440593823
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/98Q6-32G"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"Utah Death Certificates, 1904-1964\", database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/XZGR-NBX : 11 September 2015), Elizabeth Williamson in entry for Elizabeth C. Carroll, 1927."
-        }
-      ],
-      "titles": [
-        {
-          "value": "Elizabeth Williamson in entry for Elizabeth C. Carroll, \"Utah Death Certificates, 1904-1964\""
-        }
-      ]
-    },
-    {
-      "id": "M9GJ-7PR",
-      "lang": "en_US",
-      "about": "",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-QFR3",
-          "resourceId": "cis.user.MMM9-QFR3"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-QFR3",
-          "resourceId": "cis.user.MMM9-QFR3"
-        },
-        "modified": 1405204567126,
-        "created": 1405204567126
-      },
-      "resourceType": "DEFAULT",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/M9GJ-7PR"
-        }
-      },
-      "citations": [
-        {
-          "value": "Notes on John Carlile KWNV-C37 extraction C060491"
-        }
-      ],
-      "titles": [
-        {
-          "value": "From notes on John Carlile KWNV-C37"
-        }
-      ],
-      "notes": [
-        {
-          "text": "extraction C060491\nHeart Throbs of the West\nHeart Throbs of the West: Volume 3\nMormon Colonization in the West\nPlan of Colonization\nThe spring of 1859, however, was late so it was the last day of April when a small company of ten men with three wagons and oxen for teams, left Provo to come up Provo Canyon into this valley to make a start and prove whether or not they would be successful in raising those things needful to support life and make comfortable homes for their families. These men were Thomas Rasband, John Crook, Charles McCarroll, John Carlile, John Jordan, Henry Chatwin, Jesse Bond, James Carlile, Wm. Giles, Jr., George Carlile and a man named Carpenter.򉮵rnal of John Crook.\n\nName: John Carlile Sr.\nBirth Date: 25 May 1825\nBirth Place: Mission, Lincolnshire, England\nParents: Robert and Christiana Spouncer Carlile\nDeath Date: 16 Sep 1859\nDeath Place: Heber, Utah\nArrival: Arrived in Provo in 1852\nSpouse: Elizabeth Williamson\nMarriage Date: abt 1843\nSpouse's Birth Date: 22 Nov 1822\nSpouse's Birth Place: Gresburgh, Lincolnshire, England\nSpouse's Death Date: 23 Jan 1893\nSpouse's Death Place: Heber, Utah\nJohn was a farmer by trade but owned no land of his own. He worked for others. He loved horses and was much in demand for his work with them. He and his family left England for America in 1850 and went on to Council Bluffs , where they remained for two years. Upon their arrival in Utah , they went on to Provo where they made their home. After a short time there, they moved on to Palmyra and then to Spanish Fork , where they lived for a time in the fort due to the Walker Indian War. Later, he moved his family to Heber after being kicked by a horse. He died from those injuries two months later. Children: Sarah Ann , b. 21 Jan 1844 . Md. William Eastwood . George , b. May 1846 . D. 18 Apr 1857 . Christiana , b. 17 Nov 1848 . Md. William Giles . Mary , b. 20 May 1851 . Md. Mark William Jeffs . Elizabeth , b. 22 Jan 1854 . Md. John Nelson Carroll . John Jr., b. 29 Oct 1856 . Md. Sarah Elizabeth Crook . Emma , b. 2 Mar 1859 . D. 6 Oct 1860 . Child. Ralph Carlisle\nModified\n26 August 2013 by Jackie1"
-        }
-      ]
-    },
-    {
-      "id": "98QT-YTQ",
-      "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:QVKH-5C82",
+      "about": "https://familysearch.org/ark:/61903/1:1:XZPF-F51",
       "attribution": {
         "contributor": {
           "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMZ-5F8J",
@@ -12883,23 +12883,23 @@
           "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMZ-5F8J",
           "resourceId": "cis.user.MMMZ-5F8J"
         },
-        "modified": 1428598747533,
-        "created": 1428598747533
+        "modified": 1435617835480,
+        "created": 1435617835480
       },
       "resourceType": "FSREADONLY",
       "links": {
         "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/98QT-YTQ"
+          "href": "https://familysearch.org/platform/sources/descriptions/98R7-FH8"
         }
       },
       "citations": [
         {
-          "value": "\"Find A Grave Index,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/QVKH-5C82 : 11 July 2016), Elizabeth Williamson Carlile, 1893; Burial, Heber City, Wasatch, Utah, United States of America, Heber City Cemetery; citing record ID 34160243, Find a Grave, http://www.findagrave.com."
+          "value": "\"Utah Death Certificates, 1904-1964\", database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/XZPF-F51 : 11 September 2015), Elizabeth Williamson in entry for Christina Giles, 1942."
         }
       ],
       "titles": [
         {
-          "value": "Elizabeth Williamson Carlile, \"Find A Grave Index\""
+          "value": "Elizabeth Williamson in entry for Christina Giles, \"Utah Death Certificates, 1904-1964\""
         }
       ]
     }

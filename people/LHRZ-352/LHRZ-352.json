@@ -57,7 +57,7 @@
           "href": "https://familysearch.org/platform/tree/persons/LHRZ-352/families?sourceDescriptions=true"
         },
         "portrait": {
-          "href": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/LHRZ-352/LHRZ-352.jpg"
+          "href": "https://raw.githubusercontent.com/misbach/familytree/master/people/LHRZ-352/LHRZ-352.jpg"
         },
         "matches": {
           "href": "https://familysearch.org/platform/tree/persons/LHRZ-352/matches"
@@ -453,16 +453,16 @@
         "familiesAsParent": [
           {
             "parent1": {
-              "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/LHRZ-352/LHRZ-352.json",
+              "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/LHRZ-352/LHRZ-352.json",
               "resourceId": "LHRZ-352"
             },
             "parent2": {
-              "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/KVJT-MM4/KVJT-MM4.json",
+              "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KVJT-MM4/KVJT-MM4.json",
               "resourceId": "KVJT-MM4"
             },
             "children": [
               {
-                "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/K48Z-BF4/K48Z-BF4.json",
+                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/K48Z-BF4/K48Z-BF4.json",
                 "resourceId": "K48Z-BF4"
               }
             ]
@@ -471,16 +471,16 @@
         "familiesAsChild": [
           {
             "parent1": {
-              "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/2J3G-VM3/2J3G-VM3.json",
+              "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/2J3G-VM3/2J3G-VM3.json",
               "resourceId": "2J3G-VM3"
             },
             "parent2": {
-              "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/LV2B-73T/LV2B-73T.json",
+              "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/LV2B-73T/LV2B-73T.json",
               "resourceId": "LV2B-73T"
             },
             "children": [
               {
-                "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/LHRZ-352/LHRZ-352.json",
+                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/LHRZ-352/LHRZ-352.json",
                 "resourceId": "LHRZ-352"
               }
             ]

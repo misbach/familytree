@@ -178,7 +178,7 @@
           "href": "https://familysearch.org/platform/tree/persons/KWJW-YSW/families?sourceDescriptions=true"
         },
         "portrait": {
-          "href": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/KWJW-YSW/KWJW-YSW.jpg"
+          "href": "https://raw.githubusercontent.com/misbach/familytree/master/people/KWJW-YSW/KWJW-YSW.jpg"
         },
         "matches": {
           "href": "https://familysearch.org/platform/tree/persons/KWJW-YSW/matches"
@@ -1656,16 +1656,16 @@
         "familiesAsParent": [
           {
             "parent1": {
-              "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/KWJW-YS4/KWJW-YS4.json",
+              "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KWJW-YS4/KWJW-YS4.json",
               "resourceId": "KWJW-YS4"
             },
             "parent2": {
-              "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/KWJW-YSW/KWJW-YSW.json",
+              "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KWJW-YSW/KWJW-YSW.json",
               "resourceId": "KWJW-YSW"
             },
             "children": [
               {
-                "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/KWNV-C37/KWNV-C37.json",
+                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KWNV-C37/KWNV-C37.json",
                 "resourceId": "KWNV-C37"
               }
             ]
@@ -1674,16 +1674,16 @@
         "familiesAsChild": [
           {
             "parent1": {
-              "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/ML38-G9S/ML38-G9S.json",
+              "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/ML38-G9S/ML38-G9S.json",
               "resourceId": "ML38-G9S"
             },
             "parent2": {
-              "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/ML38-G9N/ML38-G9N.json",
+              "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/ML38-G9N/ML38-G9N.json",
               "resourceId": "ML38-G9N"
             },
             "children": [
               {
-                "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/KWJW-YSW/KWJW-YSW.json",
+                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KWJW-YSW/KWJW-YSW.json",
                 "resourceId": "KWJW-YSW"
               }
             ]
@@ -13920,6 +13920,43 @@
       ]
     },
     {
+      "id": "MM7W-7M5",
+      "about": "http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&GRid=37235075",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMS-PXWP",
+          "resourceId": "cis.user.MMMS-PXWP"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-7FJD",
+          "resourceId": "cis.user.MMM9-7FJD"
+        },
+        "modified": 1372983697000,
+        "created": 1372288932000
+      },
+      "resourceType": "DEFAULT",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/MM7W-7M5"
+        }
+      },
+      "citations": [
+        {
+          "value": "Heber City Cemetery, Heber City, Wasatch, Utah, United States; Burial Record for Christina Carlile, 1797-1891"
+        }
+      ],
+      "titles": [
+        {
+          "value": "Heber City Cemetery, Heber City, Wasatch,Utah United States"
+        }
+      ],
+      "notes": [
+        {
+          "text": "Christina Carlile, birth/death dates, place of burial, location of plot, name of spouse, photo of grave stone"
+        }
+      ]
+    },
+    {
       "id": "MS64-B2G",
       "attribution": {
         "contributor": {
@@ -13956,41 +13993,42 @@
       ]
     },
     {
-      "id": "MS5V-9CT",
+      "id": "96N9-74D",
       "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:NYL3-641",
+      "about": "https://familysearch.org/ark:/61903/1:1:QKDG-XBWF",
       "attribution": {
         "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMZ-5F8J",
+          "resourceId": "cis.user.MMMZ-5F8J"
         },
         "creator": {
           "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMZ-5F8J",
           "resourceId": "cis.user.MMMZ-5F8J"
         },
-        "modified": 1489574596596,
-        "created": 1411751045043
+        "modified": 1452544518515,
+        "created": 1452544518515
       },
       "resourceType": "FSREADONLY",
       "links": {
         "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/MS5V-9CT"
+          "href": "https://familysearch.org/platform/sources/descriptions/96N9-74D"
         }
       },
       "citations": [
         {
-          "value": "\"England Births and Christenings, 1538-1975,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/NYL3-641 : 30 December 2014), Christiana in entry for Robert Carlisle, 03 Jul 1832; citing , reference ; FHL microfilm 503,793, 504,064, 504,522."
+          "value": "\"BillionGraves Index,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/QKDG-XBWF : 15 September 2015), Christina S. Carlile, died 30 Nov 1891; citing BillionGraves (http://www.billiongraves.com : 2012), Burial at Heber City Cemetery, Heber, Wasatch, Utah, United States."
         }
       ],
       "titles": [
         {
-          "value": "Christiana in entry for Robert Carlisle, \"England Births and Christenings, 1538-1975\""
+          "value": "Christina S. Carlile, \"BillionGraves Index\""
         }
       ]
     },
     {
-      "id": "MMCR-MXN",
-      "about": "https://familysearch.org/ark:/61903/1:1:N26N-BYY",
+      "id": "MS5V-MBS",
+      "lang": "en_US",
+      "about": "https://familysearch.org/ark:/61903/1:1:JQR3-J28",
       "attribution": {
         "contributor": {
           "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
@@ -14000,23 +14038,324 @@
           "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMZ-5F8J",
           "resourceId": "cis.user.MMMZ-5F8J"
         },
-        "modified": 1489532473654,
-        "created": 1380919655000
+        "modified": 1489574571136,
+        "created": 1411750855928
       },
       "resourceType": "FSREADONLY",
       "links": {
         "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/MMCR-MXN"
+          "href": "https://familysearch.org/platform/sources/descriptions/MS5V-MBS"
         }
       },
       "citations": [
         {
-          "value": "\"England Births and Christenings, 1538-1975,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/N26N-BYY : 30 December 2014), Christian Spooncer, 05 Feb 1797; citing BIGBY, LINCOLN, ENGLAND, reference ; FHL microfilm 1450442 IT 2."
+          "value": "\"England Births and Christenings, 1538-1975,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/JQR3-J28 : 30 December 2014), Christiana in entry for Mary Carlisle, 14 Jun 1818; citing GOXHILL,LINCOLN,ENGLAND, reference ; FHL microfilm 432,507, 436,032."
         }
       ],
       "titles": [
         {
-          "value": "Christian Spooncer, \"England Births and Christenings, 1538-1975\""
+          "value": "Christiana in entry for Mary Carlisle, \"England Births and Christenings, 1538-1975\""
+        }
+      ]
+    },
+    {
+      "id": "MS5V-M2R",
+      "lang": "en_US",
+      "about": "https://familysearch.org/ark:/61903/1:1:JQ97-VM2",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMZ-5F8J",
+          "resourceId": "cis.user.MMMZ-5F8J"
+        },
+        "modified": 1489574566320,
+        "created": 1411750732427
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/MS5V-M2R"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"England Births and Christenings, 1538-1975,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/JQ97-VM2 : 30 December 2014), Christiana in entry for Mary Carlisle, 14 Jun 1818; citing Goxhill, Lincolnshire, England, reference 2:33CLV0D; FHL microfilm 1,542,128."
+        }
+      ],
+      "titles": [
+        {
+          "value": "Christiana in entry for Mary Carlisle, \"England Births and Christenings, 1538-1975\""
+        }
+      ]
+    },
+    {
+      "id": "96N9-QD4",
+      "lang": "en_US",
+      "about": "https://familysearch.org/ark:/61903/1:1:QKD2-G8K2",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMZ-5F8J",
+          "resourceId": "cis.user.MMMZ-5F8J"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMZ-5F8J",
+          "resourceId": "cis.user.MMMZ-5F8J"
+        },
+        "modified": 1452544429420,
+        "created": 1452544429420
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/96N9-QD4"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"BillionGraves Index,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/QKD2-G8K2 : 15 September 2015), Christina S Carlile, died 30 Nov 1891; citing BillionGraves (http://www.billiongraves.com : 2012), Burial at Heber City Cemetery, Heber, Wasatch, Utah, United States."
+        }
+      ],
+      "titles": [
+        {
+          "value": "Christina S Carlile, \"BillionGraves Index\""
+        }
+      ]
+    },
+    {
+      "id": "MM4F-LL3",
+      "about": "https://familysearch.org/ark:/61903/1:1:J33J-9MC",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-7K8P",
+          "resourceId": "cis.user.MMMM-7K8P"
+        },
+        "modified": 1489518624324,
+        "created": 1376683714000
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/MM4F-LL3"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"England Births and Christenings, 1538-1975,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/J33J-9MC : 30 December 2014), Christiana in entry for James Carlisle, 01 Mar 1829; citing MISSON,NOTTINGHAM,ENGLAND, reference ; FHL microfilm 503,793, 504,064, 504,522."
+        }
+      ],
+      "titles": [
+        {
+          "value": "Christiana in entry for James Carlisle, \"England Births and Christenings, 1538-1975\""
+        }
+      ]
+    },
+    {
+      "id": "MMC2-RSV",
+      "about": "https://familysearch.org/ark:/61903/1:1:MNSL-J51",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMZ-5F8J",
+          "resourceId": "cis.user.MMMZ-5F8J"
+        },
+        "modified": 1489532311176,
+        "created": 1380662052000
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/MMC2-RSV"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"United States Census, 1880,\" database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/MNSL-J51 : 14 July 2016), Christina Carlile, Heber, Wasatch, Utah, United States; citing enumeration district ED 90, sheet 317A, NARA microfilm publication T9 (Washington D.C.: National Archives and Records Administration, n.d.), roll 1339; FHL microfilm 1,255,339.\n"
+        }
+      ],
+      "titles": [
+        {
+          "value": "Christina Carlile, \"United States Census, 1880\""
+        }
+      ]
+    },
+    {
+      "id": "M9ZT-MS8",
+      "about": "https://familysearch.org/ark:/61903/1:1:KL71-9FG",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-JW55",
+          "resourceId": "cis.user.MMMM-JW55"
+        },
+        "modified": 1489545309390,
+        "created": 1402799029509
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/M9ZT-MS8"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"Utah, Pioneers and Prominent Men of Utah, 1847-1868,\" database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/KL71-9FG : 12 December 2014), Christiana Spouncer in entry for James Carlile, ; excerpted from Frank Esshom, Pioneers and Prominent Men of Utah: Comprising Photographs, Genealogies, Biographies (Salt Lake City, Utah: Utah Pioneers Books, 1913)."
+        }
+      ],
+      "titles": [
+        {
+          "value": "Christiana Spouncer in entry for James Carlile, \"Utah, Pioneers and Prominent Men of Utah, 1847-1868\""
+        }
+      ]
+    },
+    {
+      "id": "MMCR-M1M",
+      "about": "https://familysearch.org/ark:/61903/1:1:J9NB-SK3",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMZ-5F8J",
+          "resourceId": "cis.user.MMMZ-5F8J"
+        },
+        "modified": 1489532473906,
+        "created": 1380920371000
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/MMCR-M1M"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"England Births and Christenings, 1538-1975,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/J9NB-SK3 : 30 December 2014), Christian Spouncer, 05 Feb 1797; citing Bigby, Lincolnshire, England, reference 2:2T2CM10; FHL microfilm 1,450,442."
+        }
+      ],
+      "titles": [
+        {
+          "value": "Christian Spouncer, \"England Births and Christenings, 1538-1975\""
+        }
+      ]
+    },
+    {
+      "id": "MS64-B27",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-8PKD",
+          "resourceId": "cis.user.MMMM-8PKD"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-8PKD",
+          "resourceId": "cis.user.MMMM-8PKD"
+        },
+        "modified": 1407392450294,
+        "created": 1407392450294
+      },
+      "resourceType": "LEGACY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/MS64-B27"
+        }
+      },
+      "citations": [
+        {
+          "value": "Ancestral File (TM), The Church of Jesus Christ of Latter-day Saints, June 1998 (c), data as of 5 JAN 1998, Family History Library, 35 N West Temple Street, Salt Lake City, UT 84150  USA"
+        }
+      ],
+      "titles": [
+        {
+          "value": "Legacy NFS Source: Christian Spooncer - "
+        }
+      ],
+      "notes": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "ML8X-DL2",
+      "lang": "en-us",
+      "about": "https://familysearch.org/ark:/61903/1:1:J333-NBJ",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "modified": 1415360435583,
+        "created": 1415360435583
+      },
+      "resourceType": "IGI",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/ML8X-DL2"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"England Births and Christenings, 1538-1975,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/J333-NBJ : 30 December 2014), Spooner, 05 Feb 1797; citing BIGBY,LINCOLN,ENGLAND, reference ; FHL microfilm 421,922."
+        }
+      ],
+      "titles": [
+        {
+          "value": "Spooner, \"England Births and Christenings, 1538-1975\""
+        }
+      ],
+      "notes": [
+        {
+          "text": "This extracted record was used to create this person in Family Tree."
+        }
+      ]
+    },
+    {
+      "id": "MS5J-1V4",
+      "lang": "en_US",
+      "about": "https://familysearch.org/ark:/61903/1:1:J7J5-5MG",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMZ-5F8J",
+          "resourceId": "cis.user.MMMZ-5F8J"
+        },
+        "modified": 1489574559052,
+        "created": 1411750229807
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/MS5J-1V4"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"England Births and Christenings, 1538-1975,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/J7J5-5MG : 30 December 2014), Christiana in entry for Mary Carlisle, 14 Jun 1818; citing Goxhill, Lincoln, England, reference ; FHL microfilm 1,542,128."
+        }
+      ],
+      "titles": [
+        {
+          "value": "Christiana in entry for Mary Carlisle, \"England Births and Christenings, 1538-1975\""
         }
       ]
     },
@@ -14053,6 +14392,173 @@
       ]
     },
     {
+      "id": "MS5J-BVK",
+      "lang": "en_US",
+      "about": "https://familysearch.org/ark:/61903/1:1:J3QB-4YS",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMZ-5F8J",
+          "resourceId": "cis.user.MMMZ-5F8J"
+        },
+        "modified": 1489574553143,
+        "created": 1411749766978
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/MS5J-BVK"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"England Births and Christenings, 1538-1975,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/J3QB-4YS : 30 December 2014), Christiana in entry for Isaac Carline, 10 Sep 1820; citing OWSTON,LINCOLN,ENGLAND, reference ; FHL microfilm 436,000, 508,024."
+        }
+      ],
+      "titles": [
+        {
+          "value": "Christiana in entry for Isaac Carline, \"England Births and Christenings, 1538-1975\""
+        }
+      ]
+    },
+    {
+      "id": "MMCR-MTG",
+      "about": "https://familysearch.org/ark:/61903/1:1:N68S-3WL",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMZ-5F8J",
+          "resourceId": "cis.user.MMMZ-5F8J"
+        },
+        "modified": 1489513279654,
+        "created": 1380920281000
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/MMCR-MTG"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"England Births and Christenings, 1538-1975,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/N68S-3WL : 30 December 2014), Christian Spouncer, 05 Feb 1797; citing Bigby, Lincoln, England, reference item 2; FHL microfilm 1,450,442."
+        }
+      ],
+      "titles": [
+        {
+          "value": "Christian Spouncer, \"England Births and Christenings, 1538-1975\""
+        }
+      ]
+    },
+    {
+      "id": "MM76-SP1",
+      "about": "http://udn.lib.utah.edu/cdm/ref/collection/ww/id/4505",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMS-PXWP",
+          "resourceId": "cis.user.MMMS-PXWP"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMS-PXWP",
+          "resourceId": "cis.user.MMMS-PXWP"
+        },
+        "modified": 1372983581000,
+        "created": 1372983446000
+      },
+      "resourceType": "DEFAULT",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/MM76-SP1"
+        }
+      },
+      "citations": [
+        {
+          "value": "Utah digital newspaper library,University of Utah library, Salt Lake City,  Salt Lake, Utah, United States."
+        }
+      ],
+      "titles": [
+        {
+          "value": "Christiana Carlile death notice \"Wasatch Wave\" 1891-12-02"
+        }
+      ],
+      "notes": [
+        {
+          "text": "Transcribed notes from Christiana Carlile obituary Wasatch Wave, \"Local Waves\" December 1, 1891\n\nThe Oldest Resident of Heber has Passed Away.\n\nMrs. Christiana Carlile died yesterday morning at the resident of her son George Carlile in this city.   She has for a long time had the distinction of being the oldest person in Wasatch county, being nearly ninety-five years old.\n\nThe deceased was born in England on the first day of February, 1797.  She was the daughter of James and Nance Sponnser.  With her family she joined the church of Jesus Christ of Ltter-Day Saints in 1848 and the following year they started for Utah, arriving at New Orleans Christmas eve, 1849.   She came to Utah in 1852 and settled at Spanish Fork, but in 1860 she moved to this valley where she has since lived.   Mrs. Carlile was the mother of seven children, four of who are still living, one in England, one in Iowa, and two here.  She has twenty-two grand children, fifty-three great-grandchildren and four great-great grandchildren now living in Utah.   The posterity of her other two children is not known.  She died as she has lived, a faithful Latter-Day Saint.\n\nThe funeral takes place this afternoon t the Stake House at 2 o'clock.   "
+        }
+      ]
+    },
+    {
+      "id": "MMCR-MN9",
+      "about": "https://familysearch.org/ark:/61903/1:1:J768-9PX",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMZ-5F8J",
+          "resourceId": "cis.user.MMMZ-5F8J"
+        },
+        "modified": 1489532472944,
+        "created": 1380919738000
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/MMCR-MN9"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"England Births and Christenings, 1538-1975,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/J768-9PX : 30 December 2014), Christian Spooncer, 05 Feb 1797; citing Bigby, Lincolnshire, England, reference 2:2T2CH7J; FHL microfilm 1,450,442."
+        }
+      ],
+      "titles": [
+        {
+          "value": "Christian Spooncer, \"England Births and Christenings, 1538-1975\""
+        }
+      ]
+    },
+    {
+      "id": "MS5J-1MY",
+      "lang": "en_US",
+      "about": "https://familysearch.org/ark:/61903/1:1:JM8B-CD8",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMZ-5F8J",
+          "resourceId": "cis.user.MMMZ-5F8J"
+        },
+        "modified": 1489574555537,
+        "created": 1411749951981
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/MS5J-1MY"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"England Births and Christenings, 1538-1975,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/JM8B-CD8 : 30 December 2014), Christiana in entry for John Carlile, 06 Oct 1822; citing , reference ; FHL microfilm 503,793, 504,064, 504,522."
+        }
+      ],
+      "titles": [
+        {
+          "value": "Christiana in entry for John Carlile, \"England Births and Christenings, 1538-1975\""
+        }
+      ]
+    },
+    {
       "id": "MMCR-MCH",
       "about": "https://familysearch.org/ark:/61903/1:1:N68S-9PT",
       "attribution": {
@@ -14081,6 +14587,38 @@
       "titles": [
         {
           "value": "Christian Spooncer, \"England Births and Christenings, 1538-1975\""
+        }
+      ]
+    },
+    {
+      "id": "MMLF-NVL",
+      "about": "https://familysearch.org/ark:/61903/1:1:NFWG-56F",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMZ-5F8J",
+          "resourceId": "cis.user.MMMZ-5F8J"
+        },
+        "modified": 1489543241454,
+        "created": 1394147703000
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/MMLF-NVL"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"England Marriages, 1538–1973  ,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/NFWG-56F : 10 December 2014), Robert Carlisle and Christiana Spoonser, 1817; citing Goxhill, Lincoln, England, reference 2:3X75CM8; FHL microfilm 1,542,128."
+        }
+      ],
+      "titles": [
+        {
+          "value": "Christiana Spoonser, \"England Marriages, 1538–1973  \""
         }
       ]
     },
@@ -14117,9 +14655,41 @@
       ]
     },
     {
-      "id": "96N9-74D",
+      "id": "MMCR-MXN",
+      "about": "https://familysearch.org/ark:/61903/1:1:N26N-BYY",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMZ-5F8J",
+          "resourceId": "cis.user.MMMZ-5F8J"
+        },
+        "modified": 1489532473654,
+        "created": 1380919655000
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/MMCR-MXN"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"England Births and Christenings, 1538-1975,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/N26N-BYY : 30 December 2014), Christian Spooncer, 05 Feb 1797; citing BIGBY, LINCOLN, ENGLAND, reference ; FHL microfilm 1450442 IT 2."
+        }
+      ],
+      "titles": [
+        {
+          "value": "Christian Spooncer, \"England Births and Christenings, 1538-1975\""
+        }
+      ]
+    },
+    {
+      "id": "98QY-SDV",
       "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:QKDG-XBWF",
+      "about": "https://familysearch.org/ark:/61903/1:1:NB5N-H7N",
       "attribution": {
         "contributor": {
           "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMZ-5F8J",
@@ -14129,18 +14699,181 @@
           "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMZ-5F8J",
           "resourceId": "cis.user.MMMZ-5F8J"
         },
-        "modified": 1452544518515,
-        "created": 1452544518515
+        "modified": 1428599975775,
+        "created": 1428599975775
       },
       "resourceType": "FSREADONLY",
       "links": {
         "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/96N9-74D"
+          "href": "https://familysearch.org/platform/sources/descriptions/98QY-SDV"
         }
       },
       "citations": [
         {
-          "value": "\"BillionGraves Index,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/QKDG-XBWF : 15 September 2015), Christina S. Carlile, died 30 Nov 1891; citing BillionGraves (http://www.billiongraves.com : 2012), Burial at Heber City Cemetery, Heber, Wasatch, Utah, United States."
+          "value": "\"England Births and Christenings, 1538-1975,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/NB5N-H7N : 30 December 2014), Christiana in entry for Isaac Carline, 10 Sep 1820; citing Owston, Lincoln, England, reference item 1 p 58; FHL microfilm 1,450,399."
+        }
+      ],
+      "titles": [
+        {
+          "value": "Christiana in entry for Isaac Carline, \"England Births and Christenings, 1538-1975\""
+        }
+      ]
+    },
+    {
+      "id": "9VK3-ZJZ",
+      "lang": "en_US,EN;Q=0.8",
+      "about": "https://familysearch.org/ark:/61903/1:1:XZL1-VGD",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMZ-5F8J",
+          "resourceId": "cis.user.MMMZ-5F8J"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMZ-5F8J",
+          "resourceId": "cis.user.MMMZ-5F8J"
+        },
+        "modified": 1490644526385,
+        "created": 1490644526385
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/9VK3-ZJZ"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"Utah Death Certificates, 1904-1964\", database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/XZL1-VGD : 11 September 2015), Christina Spannar in entry for George Carlile, 1909."
+        }
+      ],
+      "titles": [
+        {
+          "value": "Christina Spannar in entry for George Carlile, \"Utah Death Certificates, 1904-1964\""
+        }
+      ]
+    },
+    {
+      "id": "MMC2-R74",
+      "about": "https://familysearch.org/ark:/61903/1:1:MNCB-12R",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMZ-5F8J",
+          "resourceId": "cis.user.MMMZ-5F8J"
+        },
+        "modified": 1489513052100,
+        "created": 1380662144000
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/MMC2-R74"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"United States Census, 1870,\" database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/MNCB-12R : 17 October 2014), Christine Carlisle, Utah, United States; citing p. 16, family 112, NARA microfilm publication M593 (Washington D.C.: National Archives and Records Administration, n.d.); FHL microfilm 553,112."
+        }
+      ],
+      "titles": [
+        {
+          "value": "Christine Carlisle, \"United States Census, 1870\""
+        }
+      ]
+    },
+    {
+      "id": "M9ZV-QSX",
+      "about": "https://familysearch.org/ark:/61903/1:1:J33J-MVN",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-JW55",
+          "resourceId": "cis.user.MMMM-JW55"
+        },
+        "modified": 1489545246693,
+        "created": 1402778474722
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/M9ZV-QSX"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"England Births and Christenings, 1538-1975,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/J33J-MVN : 30 December 2014), Christiana in entry for George Carlile, 08 May 1836; citing MISSON,NOTTINGHAM,ENGLAND, reference ; FHL microfilm 503,793, 504,064, 504,522."
+        }
+      ],
+      "titles": [
+        {
+          "value": "Christiana in entry for George Carlile, \"England Births and Christenings, 1538-1975\""
+        }
+      ]
+    },
+    {
+      "id": "MS5J-1HQ",
+      "lang": "en_US",
+      "about": "https://familysearch.org/ark:/61903/1:1:JWHZ-W3G",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMZ-5F8J",
+          "resourceId": "cis.user.MMMZ-5F8J"
+        },
+        "modified": 1489574556730,
+        "created": 1411750082968
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/MS5J-1HQ"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"England Births and Christenings, 1538-1975,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/JWHZ-W3G : 30 December 2014), Christiana in entry for John Carlile, 19 Jun 1825; citing MISSON,NOTTINGHAM,ENGLAND, reference ; FHL microfilm 503,793, 504,064, 504,522."
+        }
+      ],
+      "titles": [
+        {
+          "value": "Christiana in entry for John Carlile, \"England Births and Christenings, 1538-1975\""
+        }
+      ]
+    },
+    {
+      "id": "96N9-WSY",
+      "lang": "en_US",
+      "about": "https://familysearch.org/ark:/61903/1:1:QKDK-1TF1",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMZ-5F8J",
+          "resourceId": "cis.user.MMMZ-5F8J"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMZ-5F8J",
+          "resourceId": "cis.user.MMMZ-5F8J"
+        },
+        "modified": 1452544615019,
+        "created": 1452544615019
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/96N9-WSY"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"BillionGraves Index,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/QKDK-1TF1 : 15 September 2015), Christina S. Carlile, died 30 Nov 1891; citing BillionGraves (http://www.billiongraves.com : 2012), Burial at Heber City Cemetery, Heber, Wasatch, Utah, United States."
         }
       ],
       "titles": [
@@ -14221,372 +14954,35 @@
       ]
     },
     {
-      "id": "98QY-SDV",
+      "id": "9ZP2-D43",
       "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:NB5N-H7N",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMZ-5F8J",
-          "resourceId": "cis.user.MMMZ-5F8J"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMZ-5F8J",
-          "resourceId": "cis.user.MMMZ-5F8J"
-        },
-        "modified": 1428599975775,
-        "created": 1428599975775
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/98QY-SDV"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"England Births and Christenings, 1538-1975,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/NB5N-H7N : 30 December 2014), Christiana in entry for Isaac Carline, 10 Sep 1820; citing Owston, Lincoln, England, reference item 1 p 58; FHL microfilm 1,450,399."
-        }
-      ],
-      "titles": [
-        {
-          "value": "Christiana in entry for Isaac Carline, \"England Births and Christenings, 1538-1975\""
-        }
-      ]
-    },
-    {
-      "id": "9WXY-BMH",
-      "lang": "en-us",
-      "about": "https://familysearch.org/ark:/61903/1:1:J33J-9MC",
+      "about": "https://familysearch.org/ark:/61903/1:1:QVKH-5C8V",
       "attribution": {
         "contributor": {
           "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
           "resourceId": "cis.wkca.MMMM-M93P"
         },
         "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-S7JC",
+          "resourceId": "cis.user.MMM9-S7JC"
         },
-        "modified": 1415424861564,
-        "created": 1415424861564
-      },
-      "resourceType": "IGI",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/9WXY-BMH"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"England Births and Christenings, 1538-1975,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/J33J-9MC : 30 December 2014), Christiana in entry for James Carlisle, 01 Mar 1829; citing MISSON,NOTTINGHAM,ENGLAND, reference ; FHL microfilm 503,793, 504,064, 504,522."
-        }
-      ],
-      "titles": [
-        {
-          "value": "Christiana in entry for James Carlisle, \"England Births and Christenings, 1538-1975\""
-        }
-      ],
-      "notes": [
-        {
-          "text": "This extracted record was used to create this person in Family Tree."
-        }
-      ]
-    },
-    {
-      "id": "96N9-WSY",
-      "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:QKDK-1TF1",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMZ-5F8J",
-          "resourceId": "cis.user.MMMZ-5F8J"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMZ-5F8J",
-          "resourceId": "cis.user.MMMZ-5F8J"
-        },
-        "modified": 1452544615019,
-        "created": 1452544615019
+        "modified": 1489592721754,
+        "created": 1424902057740
       },
       "resourceType": "FSREADONLY",
       "links": {
         "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/96N9-WSY"
+          "href": "https://familysearch.org/platform/sources/descriptions/9ZP2-D43"
         }
       },
       "citations": [
         {
-          "value": "\"BillionGraves Index,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/QKDK-1TF1 : 15 September 2015), Christina S. Carlile, died 30 Nov 1891; citing BillionGraves (http://www.billiongraves.com : 2012), Burial at Heber City Cemetery, Heber, Wasatch, Utah, United States."
+          "value": "\"Find A Grave Index,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/QVKH-5C8V : 11 July 2016), Christina Spouncer Carlile, 1891; Burial, Heber City, Wasatch, Utah, United States of America, Heber City Cemetery; citing record ID 37235075, Find a Grave, http://www.findagrave.com."
         }
       ],
       "titles": [
         {
-          "value": "Christina S. Carlile, \"BillionGraves Index\""
-        }
-      ]
-    },
-    {
-      "id": "MS5J-1V4",
-      "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:J7J5-5MG",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMZ-5F8J",
-          "resourceId": "cis.user.MMMZ-5F8J"
-        },
-        "modified": 1489574559052,
-        "created": 1411750229807
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/MS5J-1V4"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"England Births and Christenings, 1538-1975,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/J7J5-5MG : 30 December 2014), Christiana in entry for Mary Carlisle, 14 Jun 1818; citing Goxhill, Lincoln, England, reference ; FHL microfilm 1,542,128."
-        }
-      ],
-      "titles": [
-        {
-          "value": "Christiana in entry for Mary Carlisle, \"England Births and Christenings, 1538-1975\""
-        }
-      ]
-    },
-    {
-      "id": "MS5J-BVK",
-      "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:J3QB-4YS",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMZ-5F8J",
-          "resourceId": "cis.user.MMMZ-5F8J"
-        },
-        "modified": 1489574553143,
-        "created": 1411749766978
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/MS5J-BVK"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"England Births and Christenings, 1538-1975,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/J3QB-4YS : 30 December 2014), Christiana in entry for Isaac Carline, 10 Sep 1820; citing OWSTON,LINCOLN,ENGLAND, reference ; FHL microfilm 436,000, 508,024."
-        }
-      ],
-      "titles": [
-        {
-          "value": "Christiana in entry for Isaac Carline, \"England Births and Christenings, 1538-1975\""
-        }
-      ]
-    },
-    {
-      "id": "96N9-QD4",
-      "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:QKD2-G8K2",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMZ-5F8J",
-          "resourceId": "cis.user.MMMZ-5F8J"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMZ-5F8J",
-          "resourceId": "cis.user.MMMZ-5F8J"
-        },
-        "modified": 1452544429420,
-        "created": 1452544429420
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/96N9-QD4"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"BillionGraves Index,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/QKD2-G8K2 : 15 September 2015), Christina S Carlile, died 30 Nov 1891; citing BillionGraves (http://www.billiongraves.com : 2012), Burial at Heber City Cemetery, Heber, Wasatch, Utah, United States."
-        }
-      ],
-      "titles": [
-        {
-          "value": "Christina S Carlile, \"BillionGraves Index\""
-        }
-      ]
-    },
-    {
-      "id": "MS64-B27",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-8PKD",
-          "resourceId": "cis.user.MMMM-8PKD"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-8PKD",
-          "resourceId": "cis.user.MMMM-8PKD"
-        },
-        "modified": 1407392450294,
-        "created": 1407392450294
-      },
-      "resourceType": "LEGACY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/MS64-B27"
-        }
-      },
-      "citations": [
-        {
-          "value": "Ancestral File (TM), The Church of Jesus Christ of Latter-day Saints, June 1998 (c), data as of 5 JAN 1998, Family History Library, 35 N West Temple Street, Salt Lake City, UT 84150  USA"
-        }
-      ],
-      "titles": [
-        {
-          "value": "Legacy NFS Source: Christian Spooncer - "
-        }
-      ],
-      "notes": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "id": "MS5V-MBS",
-      "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:JQR3-J28",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMZ-5F8J",
-          "resourceId": "cis.user.MMMZ-5F8J"
-        },
-        "modified": 1489574571136,
-        "created": 1411750855928
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/MS5V-MBS"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"England Births and Christenings, 1538-1975,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/JQR3-J28 : 30 December 2014), Christiana in entry for Mary Carlisle, 14 Jun 1818; citing GOXHILL,LINCOLN,ENGLAND, reference ; FHL microfilm 432,507, 436,032."
-        }
-      ],
-      "titles": [
-        {
-          "value": "Christiana in entry for Mary Carlisle, \"England Births and Christenings, 1538-1975\""
-        }
-      ]
-    },
-    {
-      "id": "M3SS-5KQ",
-      "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:KL71-9FB",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMS-7P1L",
-          "resourceId": "cis.user.MMMS-7P1L"
-        },
-        "modified": 1489588597601,
-        "created": 1415218607454
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/M3SS-5KQ"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"Utah, Pioneers and Prominent Men of Utah, 1847-1868,\" database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/KL71-9FB : 12 December 2014), Christiana Spouncer in entry for George Carlile, ; excerpted from Frank Esshom, Pioneers and Prominent Men of Utah: Comprising Photographs, Genealogies, Biographies (Salt Lake City, Utah: Utah Pioneers Books, 1913)."
-        }
-      ],
-      "titles": [
-        {
-          "value": "Christiana Spouncer in entry for George Carlile, \"Utah, Pioneers and Prominent Men of Utah, 1847-1868\""
-        }
-      ]
-    },
-    {
-      "id": "MS5V-M2R",
-      "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:JQ97-VM2",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMZ-5F8J",
-          "resourceId": "cis.user.MMMZ-5F8J"
-        },
-        "modified": 1489574566320,
-        "created": 1411750732427
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/MS5V-M2R"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"England Births and Christenings, 1538-1975,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/JQ97-VM2 : 30 December 2014), Christiana in entry for Mary Carlisle, 14 Jun 1818; citing Goxhill, Lincolnshire, England, reference 2:33CLV0D; FHL microfilm 1,542,128."
-        }
-      ],
-      "titles": [
-        {
-          "value": "Christiana in entry for Mary Carlisle, \"England Births and Christenings, 1538-1975\""
-        }
-      ]
-    },
-    {
-      "id": "MMCR-MN9",
-      "about": "https://familysearch.org/ark:/61903/1:1:J768-9PX",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMZ-5F8J",
-          "resourceId": "cis.user.MMMZ-5F8J"
-        },
-        "modified": 1489532472944,
-        "created": 1380919738000
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/MMCR-MN9"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"England Births and Christenings, 1538-1975,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/J768-9PX : 30 December 2014), Christian Spooncer, 05 Feb 1797; citing Bigby, Lincolnshire, England, reference 2:2T2CH7J; FHL microfilm 1,450,442."
-        }
-      ],
-      "titles": [
-        {
-          "value": "Christian Spooncer, \"England Births and Christenings, 1538-1975\""
+          "value": "Christina Spouncer Carlile, \"Find A Grave Index\""
         }
       ]
     },
@@ -14629,9 +15025,42 @@
       ]
     },
     {
-      "id": "MS5J-1HQ",
+      "id": "M3SS-5KQ",
       "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:JWHZ-W3G",
+      "about": "https://familysearch.org/ark:/61903/1:1:KL71-9FB",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMS-7P1L",
+          "resourceId": "cis.user.MMMS-7P1L"
+        },
+        "modified": 1489588597601,
+        "created": 1415218607454
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/M3SS-5KQ"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"Utah, Pioneers and Prominent Men of Utah, 1847-1868,\" database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/KL71-9FB : 12 December 2014), Christiana Spouncer in entry for George Carlile, ; excerpted from Frank Esshom, Pioneers and Prominent Men of Utah: Comprising Photographs, Genealogies, Biographies (Salt Lake City, Utah: Utah Pioneers Books, 1913)."
+        }
+      ],
+      "titles": [
+        {
+          "value": "Christiana Spouncer in entry for George Carlile, \"Utah, Pioneers and Prominent Men of Utah, 1847-1868\""
+        }
+      ]
+    },
+    {
+      "id": "MS5V-9CT",
+      "lang": "en_US",
+      "about": "https://familysearch.org/ark:/61903/1:1:NYL3-641",
       "attribution": {
         "contributor": {
           "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
@@ -14641,23 +15070,61 @@
           "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMZ-5F8J",
           "resourceId": "cis.user.MMMZ-5F8J"
         },
-        "modified": 1489574556730,
-        "created": 1411750082968
+        "modified": 1489574596596,
+        "created": 1411751045043
       },
       "resourceType": "FSREADONLY",
       "links": {
         "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/MS5J-1HQ"
+          "href": "https://familysearch.org/platform/sources/descriptions/MS5V-9CT"
         }
       },
       "citations": [
         {
-          "value": "\"England Births and Christenings, 1538-1975,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/JWHZ-W3G : 30 December 2014), Christiana in entry for John Carlile, 19 Jun 1825; citing MISSON,NOTTINGHAM,ENGLAND, reference ; FHL microfilm 503,793, 504,064, 504,522."
+          "value": "\"England Births and Christenings, 1538-1975,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/NYL3-641 : 30 December 2014), Christiana in entry for Robert Carlisle, 03 Jul 1832; citing , reference ; FHL microfilm 503,793, 504,064, 504,522."
         }
       ],
       "titles": [
         {
-          "value": "Christiana in entry for John Carlile, \"England Births and Christenings, 1538-1975\""
+          "value": "Christiana in entry for Robert Carlisle, \"England Births and Christenings, 1538-1975\""
+        }
+      ]
+    },
+    {
+      "id": "9WXY-BMH",
+      "lang": "en-us",
+      "about": "https://familysearch.org/ark:/61903/1:1:J33J-9MC",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "modified": 1415424861564,
+        "created": 1415424861564
+      },
+      "resourceType": "IGI",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/9WXY-BMH"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"England Births and Christenings, 1538-1975,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/J33J-9MC : 30 December 2014), Christiana in entry for James Carlisle, 01 Mar 1829; citing MISSON,NOTTINGHAM,ENGLAND, reference ; FHL microfilm 503,793, 504,064, 504,522."
+        }
+      ],
+      "titles": [
+        {
+          "value": "Christiana in entry for James Carlisle, \"England Births and Christenings, 1538-1975\""
+        }
+      ],
+      "notes": [
+        {
+          "text": "This extracted record was used to create this person in Family Tree."
         }
       ]
     },
@@ -14696,473 +15163,6 @@
       "notes": [
         {
           "text": "This extracted record was used to create this person in Family Tree."
-        }
-      ]
-    },
-    {
-      "id": "MMC2-R74",
-      "about": "https://familysearch.org/ark:/61903/1:1:MNCB-12R",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMZ-5F8J",
-          "resourceId": "cis.user.MMMZ-5F8J"
-        },
-        "modified": 1489513052100,
-        "created": 1380662144000
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/MMC2-R74"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"United States Census, 1870,\" database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/MNCB-12R : 17 October 2014), Christine Carlisle, Utah, United States; citing p. 16, family 112, NARA microfilm publication M593 (Washington D.C.: National Archives and Records Administration, n.d.); FHL microfilm 553,112."
-        }
-      ],
-      "titles": [
-        {
-          "value": "Christine Carlisle, \"United States Census, 1870\""
-        }
-      ]
-    },
-    {
-      "id": "MS5J-1MY",
-      "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:JM8B-CD8",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMZ-5F8J",
-          "resourceId": "cis.user.MMMZ-5F8J"
-        },
-        "modified": 1489574555537,
-        "created": 1411749951981
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/MS5J-1MY"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"England Births and Christenings, 1538-1975,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/JM8B-CD8 : 30 December 2014), Christiana in entry for John Carlile, 06 Oct 1822; citing , reference ; FHL microfilm 503,793, 504,064, 504,522."
-        }
-      ],
-      "titles": [
-        {
-          "value": "Christiana in entry for John Carlile, \"England Births and Christenings, 1538-1975\""
-        }
-      ]
-    },
-    {
-      "id": "MM4F-LL3",
-      "about": "https://familysearch.org/ark:/61903/1:1:J33J-9MC",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-7K8P",
-          "resourceId": "cis.user.MMMM-7K8P"
-        },
-        "modified": 1489518624324,
-        "created": 1376683714000
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/MM4F-LL3"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"England Births and Christenings, 1538-1975,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/J33J-9MC : 30 December 2014), Christiana in entry for James Carlisle, 01 Mar 1829; citing MISSON,NOTTINGHAM,ENGLAND, reference ; FHL microfilm 503,793, 504,064, 504,522."
-        }
-      ],
-      "titles": [
-        {
-          "value": "Christiana in entry for James Carlisle, \"England Births and Christenings, 1538-1975\""
-        }
-      ]
-    },
-    {
-      "id": "MMCR-MTG",
-      "about": "https://familysearch.org/ark:/61903/1:1:N68S-3WL",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMZ-5F8J",
-          "resourceId": "cis.user.MMMZ-5F8J"
-        },
-        "modified": 1489513279654,
-        "created": 1380920281000
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/MMCR-MTG"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"England Births and Christenings, 1538-1975,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/N68S-3WL : 30 December 2014), Christian Spouncer, 05 Feb 1797; citing Bigby, Lincoln, England, reference item 2; FHL microfilm 1,450,442."
-        }
-      ],
-      "titles": [
-        {
-          "value": "Christian Spouncer, \"England Births and Christenings, 1538-1975\""
-        }
-      ]
-    },
-    {
-      "id": "MMC2-RSV",
-      "about": "https://familysearch.org/ark:/61903/1:1:MNSL-J51",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMZ-5F8J",
-          "resourceId": "cis.user.MMMZ-5F8J"
-        },
-        "modified": 1489532311176,
-        "created": 1380662052000
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/MMC2-RSV"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"United States Census, 1880,\" database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/MNSL-J51 : 14 July 2016), Christina Carlile, Heber, Wasatch, Utah, United States; citing enumeration district ED 90, sheet 317A, NARA microfilm publication T9 (Washington D.C.: National Archives and Records Administration, n.d.), roll 1339; FHL microfilm 1,255,339.\n"
-        }
-      ],
-      "titles": [
-        {
-          "value": "Christina Carlile, \"United States Census, 1880\""
-        }
-      ]
-    },
-    {
-      "id": "MMLF-NVL",
-      "about": "https://familysearch.org/ark:/61903/1:1:NFWG-56F",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMZ-5F8J",
-          "resourceId": "cis.user.MMMZ-5F8J"
-        },
-        "modified": 1489543241454,
-        "created": 1394147703000
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/MMLF-NVL"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"England Marriages, 1538–1973  ,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/NFWG-56F : 10 December 2014), Robert Carlisle and Christiana Spoonser, 1817; citing Goxhill, Lincoln, England, reference 2:3X75CM8; FHL microfilm 1,542,128."
-        }
-      ],
-      "titles": [
-        {
-          "value": "Christiana Spoonser, \"England Marriages, 1538–1973  \""
-        }
-      ]
-    },
-    {
-      "id": "MM7W-7M5",
-      "about": "http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&GRid=37235075",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMS-PXWP",
-          "resourceId": "cis.user.MMMS-PXWP"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-7FJD",
-          "resourceId": "cis.user.MMM9-7FJD"
-        },
-        "modified": 1372983697000,
-        "created": 1372288932000
-      },
-      "resourceType": "DEFAULT",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/MM7W-7M5"
-        }
-      },
-      "citations": [
-        {
-          "value": "Heber City Cemetery, Heber City, Wasatch, Utah, United States; Burial Record for Christina Carlile, 1797-1891"
-        }
-      ],
-      "titles": [
-        {
-          "value": "Heber City Cemetery, Heber City, Wasatch,Utah United States"
-        }
-      ],
-      "notes": [
-        {
-          "text": "Christina Carlile, birth/death dates, place of burial, location of plot, name of spouse, photo of grave stone"
-        }
-      ]
-    },
-    {
-      "id": "9VK3-ZJZ",
-      "lang": "en_US,EN;Q=0.8",
-      "about": "https://familysearch.org/ark:/61903/1:1:XZL1-VGD",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMZ-5F8J",
-          "resourceId": "cis.user.MMMZ-5F8J"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMZ-5F8J",
-          "resourceId": "cis.user.MMMZ-5F8J"
-        },
-        "modified": 1490644526385,
-        "created": 1490644526385
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/9VK3-ZJZ"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"Utah Death Certificates, 1904-1964\", database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/XZL1-VGD : 11 September 2015), Christina Spannar in entry for George Carlile, 1909."
-        }
-      ],
-      "titles": [
-        {
-          "value": "Christina Spannar in entry for George Carlile, \"Utah Death Certificates, 1904-1964\""
-        }
-      ]
-    },
-    {
-      "id": "ML8X-DL2",
-      "lang": "en-us",
-      "about": "https://familysearch.org/ark:/61903/1:1:J333-NBJ",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "modified": 1415360435583,
-        "created": 1415360435583
-      },
-      "resourceType": "IGI",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/ML8X-DL2"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"England Births and Christenings, 1538-1975,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/J333-NBJ : 30 December 2014), Spooner, 05 Feb 1797; citing BIGBY,LINCOLN,ENGLAND, reference ; FHL microfilm 421,922."
-        }
-      ],
-      "titles": [
-        {
-          "value": "Spooner, \"England Births and Christenings, 1538-1975\""
-        }
-      ],
-      "notes": [
-        {
-          "text": "This extracted record was used to create this person in Family Tree."
-        }
-      ]
-    },
-    {
-      "id": "MMCR-M1M",
-      "about": "https://familysearch.org/ark:/61903/1:1:J9NB-SK3",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMZ-5F8J",
-          "resourceId": "cis.user.MMMZ-5F8J"
-        },
-        "modified": 1489532473906,
-        "created": 1380920371000
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/MMCR-M1M"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"England Births and Christenings, 1538-1975,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/J9NB-SK3 : 30 December 2014), Christian Spouncer, 05 Feb 1797; citing Bigby, Lincolnshire, England, reference 2:2T2CM10; FHL microfilm 1,450,442."
-        }
-      ],
-      "titles": [
-        {
-          "value": "Christian Spouncer, \"England Births and Christenings, 1538-1975\""
-        }
-      ]
-    },
-    {
-      "id": "9ZP2-D43",
-      "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:QVKH-5C8V",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-S7JC",
-          "resourceId": "cis.user.MMM9-S7JC"
-        },
-        "modified": 1489592721754,
-        "created": 1424902057740
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/9ZP2-D43"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"Find A Grave Index,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/QVKH-5C8V : 11 July 2016), Christina Spouncer Carlile, 1891; Burial, Heber City, Wasatch, Utah, United States of America, Heber City Cemetery; citing record ID 37235075, Find a Grave, http://www.findagrave.com."
-        }
-      ],
-      "titles": [
-        {
-          "value": "Christina Spouncer Carlile, \"Find A Grave Index\""
-        }
-      ]
-    },
-    {
-      "id": "MM76-SP1",
-      "about": "http://udn.lib.utah.edu/cdm/ref/collection/ww/id/4505",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMS-PXWP",
-          "resourceId": "cis.user.MMMS-PXWP"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMS-PXWP",
-          "resourceId": "cis.user.MMMS-PXWP"
-        },
-        "modified": 1372983581000,
-        "created": 1372983446000
-      },
-      "resourceType": "DEFAULT",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/MM76-SP1"
-        }
-      },
-      "citations": [
-        {
-          "value": "Utah digital newspaper library,University of Utah library, Salt Lake City,  Salt Lake, Utah, United States."
-        }
-      ],
-      "titles": [
-        {
-          "value": "Christiana Carlile death notice \"Wasatch Wave\" 1891-12-02"
-        }
-      ],
-      "notes": [
-        {
-          "text": "Transcribed notes from Christiana Carlile obituary Wasatch Wave, \"Local Waves\" December 1, 1891\n\nThe Oldest Resident of Heber has Passed Away.\n\nMrs. Christiana Carlile died yesterday morning at the resident of her son George Carlile in this city.   She has for a long time had the distinction of being the oldest person in Wasatch county, being nearly ninety-five years old.\n\nThe deceased was born in England on the first day of February, 1797.  She was the daughter of James and Nance Sponnser.  With her family she joined the church of Jesus Christ of Ltter-Day Saints in 1848 and the following year they started for Utah, arriving at New Orleans Christmas eve, 1849.   She came to Utah in 1852 and settled at Spanish Fork, but in 1860 she moved to this valley where she has since lived.   Mrs. Carlile was the mother of seven children, four of who are still living, one in England, one in Iowa, and two here.  She has twenty-two grand children, fifty-three great-grandchildren and four great-great grandchildren now living in Utah.   The posterity of her other two children is not known.  She died as she has lived, a faithful Latter-Day Saint.\n\nThe funeral takes place this afternoon t the Stake House at 2 o'clock.   "
-        }
-      ]
-    },
-    {
-      "id": "M9ZV-QSX",
-      "about": "https://familysearch.org/ark:/61903/1:1:J33J-MVN",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-JW55",
-          "resourceId": "cis.user.MMMM-JW55"
-        },
-        "modified": 1489545246693,
-        "created": 1402778474722
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/M9ZV-QSX"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"England Births and Christenings, 1538-1975,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/J33J-MVN : 30 December 2014), Christiana in entry for George Carlile, 08 May 1836; citing MISSON,NOTTINGHAM,ENGLAND, reference ; FHL microfilm 503,793, 504,064, 504,522."
-        }
-      ],
-      "titles": [
-        {
-          "value": "Christiana in entry for George Carlile, \"England Births and Christenings, 1538-1975\""
-        }
-      ]
-    },
-    {
-      "id": "M9ZT-MS8",
-      "about": "https://familysearch.org/ark:/61903/1:1:KL71-9FG",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-JW55",
-          "resourceId": "cis.user.MMMM-JW55"
-        },
-        "modified": 1489545309390,
-        "created": 1402799029509
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/M9ZT-MS8"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"Utah, Pioneers and Prominent Men of Utah, 1847-1868,\" database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/KL71-9FG : 12 December 2014), Christiana Spouncer in entry for James Carlile, ; excerpted from Frank Esshom, Pioneers and Prominent Men of Utah: Comprising Photographs, Genealogies, Biographies (Salt Lake City, Utah: Utah Pioneers Books, 1913)."
-        }
-      ],
-      "titles": [
-        {
-          "value": "Christiana Spouncer in entry for James Carlile, \"Utah, Pioneers and Prominent Men of Utah, 1847-1868\""
         }
       ]
     }

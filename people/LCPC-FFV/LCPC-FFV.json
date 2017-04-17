@@ -57,7 +57,7 @@
           "href": "https://familysearch.org/platform/tree/persons/LCPC-FFV/families?sourceDescriptions=true"
         },
         "portrait": {
-          "href": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/LCPC-FFV/LCPC-FFV.jpg"
+          "href": "https://raw.githubusercontent.com/misbach/familytree/master/people/LCPC-FFV/LCPC-FFV.jpg"
         },
         "matches": {
           "href": "https://familysearch.org/platform/tree/persons/LCPC-FFV/matches"
@@ -725,11 +725,11 @@
         "familiesAsParent": [
           {
             "parent1": {
-              "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/LCPC-FFV/LCPC-FFV.json",
+              "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/LCPC-FFV/LCPC-FFV.json",
               "resourceId": "LCPC-FFV"
             },
             "parent2": {
-              "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/LCPC-FNW/LCPC-FNW.json",
+              "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/LCPC-FNW/LCPC-FNW.json",
               "resourceId": "LCPC-FNW"
             },
             "children": []
@@ -738,16 +738,16 @@
         "familiesAsChild": [
           {
             "parent1": {
-              "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/MG6G-FR9/MG6G-FR9.json",
+              "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/MG6G-FR9/MG6G-FR9.json",
               "resourceId": "MG6G-FR9"
             },
             "parent2": {
-              "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/KL2Z-7Y4/KL2Z-7Y4.json",
+              "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KL2Z-7Y4/KL2Z-7Y4.json",
               "resourceId": "KL2Z-7Y4"
             },
             "children": [
               {
-                "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/LCPC-FFV/LCPC-FFV.json",
+                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/LCPC-FFV/LCPC-FFV.json",
                 "resourceId": "LCPC-FFV"
               }
             ]
@@ -10341,35 +10341,73 @@
       }
     },
     {
-      "id": "9FCR-DFQ",
+      "id": "964P-J59",
       "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:XFN5-5JM",
+      "about": "https://familysearch.org/ark:/61903/1:1:XFN5-PRC",
       "attribution": {
         "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-H5B6",
-          "resourceId": "cis.user.MMM9-H5B6"
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MM9S-7ZXM",
+          "resourceId": "cis.user.MM9S-7ZXM"
         },
         "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-H5B6",
-          "resourceId": "cis.user.MMM9-H5B6"
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MM9S-7ZXM",
+          "resourceId": "cis.user.MM9S-7ZXM"
         },
-        "modified": 1465668207928,
-        "created": 1465668207928
+        "modified": 1450034374866,
+        "created": 1450034374866
       },
       "resourceType": "FSREADONLY",
       "links": {
         "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/9FCR-DFQ"
+          "href": "https://familysearch.org/platform/sources/descriptions/964P-J59"
         }
       },
       "citations": [
         {
-          "value": "\"Vermont Vital Records, 1760-1954,\" database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/XFN5-5JM : 6 December 2014), Ebenezer Butts in entry for Rufus Butts, 26 Jul 1773, Birth; State Capitol Building, Montpelier; FHL microfilm 27,497."
+          "value": "\"Vermont Vital Records, 1760-1954,\" database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/XFN5-PRC : 6 December 2014), Ebenezer Butts and Prudence Gloss, 04 Jan 1768, Marriage; State Capitol Building, Montpelier; FHL microfilm 27,497."
         }
       ],
       "titles": [
         {
-          "value": "Ebenezer Butts in entry for Rufus Butts, \"Vermont Vital Records, 1760-1954\""
+          "value": "Ebenezer Butts, \"Vermont Vital Records, 1760-1954\""
+        }
+      ]
+    },
+    {
+      "id": "MRRP-8VL",
+      "lang": "en-us",
+      "about": "https://familysearch.org/ark:/61903/1:1:F74F-N7V",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "modified": 1415375694230,
+        "created": 1415375694230
+      },
+      "resourceType": "IGI",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/MRRP-8VL"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"Connecticut Births and Christenings, 1649-1906,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/F74F-N7V : 3 December 2014), Ebenezer Butt in entry for Rufus Butt, 26 Jul 1783; citing ; FHL microfilm unknown."
+        }
+      ],
+      "titles": [
+        {
+          "value": "Ebenezer Butt in entry for Rufus Butt, \"Connecticut Births and Christenings, 1649-1906\""
+        }
+      ],
+      "notes": [
+        {
+          "text": "This extracted record was used to create this person in Family Tree."
         }
       ]
     },
@@ -10412,73 +10450,35 @@
       ]
     },
     {
-      "id": "MRY6-CLQ",
-      "lang": "en-us",
-      "about": "https://familysearch.org/ark:/61903/1:1:F7WC-YLJ",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "modified": 1415375875216,
-        "created": 1415375875216
-      },
-      "resourceType": "IGI",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/MRY6-CLQ"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"Connecticut Births and Christenings, 1649-1906,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/F7WC-YLJ : 3 December 2014), Ebenezer Butt in entry for Cena Butt, 05 Sep 1771; citing ; FHL microfilm unknown."
-        }
-      ],
-      "titles": [
-        {
-          "value": "Ebenezer Butt in entry for Cena Butt, \"Connecticut Births and Christenings, 1649-1906\""
-        }
-      ],
-      "notes": [
-        {
-          "text": "This extracted record was used to create this person in Family Tree."
-        }
-      ]
-    },
-    {
-      "id": "964P-J59",
+      "id": "9NBL-V5K",
       "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:XFN5-PRC",
+      "about": "https://familysearch.org/ark:/61903/1:1:XFN5-5JC",
       "attribution": {
         "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MM9S-7ZXM",
-          "resourceId": "cis.user.MM9S-7ZXM"
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMS-1DCQ",
+          "resourceId": "cis.user.MMMS-1DCQ"
         },
         "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MM9S-7ZXM",
-          "resourceId": "cis.user.MM9S-7ZXM"
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMS-1DCQ",
+          "resourceId": "cis.user.MMMS-1DCQ"
         },
-        "modified": 1450034374866,
-        "created": 1450034374866
+        "modified": 1479081307229,
+        "created": 1479081307229
       },
       "resourceType": "FSREADONLY",
       "links": {
         "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/964P-J59"
+          "href": "https://familysearch.org/platform/sources/descriptions/9NBL-V5K"
         }
       },
       "citations": [
         {
-          "value": "\"Vermont Vital Records, 1760-1954,\" database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/XFN5-PRC : 6 December 2014), Ebenezer Butts and Prudence Gloss, 04 Jan 1768, Marriage; State Capitol Building, Montpelier; FHL microfilm 27,497."
+          "value": "\"Vermont Vital Records, 1760-1954,\" database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/XFN5-5JC : 6 December 2014), Ebenezer Butts in entry for Rufus Butts, 28 Mar 1867, Death; State Capitol Building, Montpelier; FHL microfilm 27,497."
         }
       ],
       "titles": [
         {
-          "value": "Ebenezer Butts, \"Vermont Vital Records, 1760-1954\""
+          "value": "Ebenezer Butts in entry for Rufus Butts, \"Vermont Vital Records, 1760-1954\""
         }
       ]
     },
@@ -10521,120 +10521,6 @@
       ]
     },
     {
-      "id": "MRYT-3XZ",
-      "lang": "en-us",
-      "about": "https://familysearch.org/ark:/61903/1:1:F74F-N28",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "modified": 1415375913864,
-        "created": 1415375913864
-      },
-      "resourceType": "IGI",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/MRYT-3XZ"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"Connecticut Births and Christenings, 1649-1906,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/F74F-N28 : 3 December 2014), Ebenezer Butt in entry for Nathan Butt, 01 Mar 1781; citing ; FHL microfilm unknown."
-        }
-      ],
-      "titles": [
-        {
-          "value": "Ebenezer Butt in entry for Nathan Butt, \"Connecticut Births and Christenings, 1649-1906\""
-        }
-      ],
-      "notes": [
-        {
-          "text": "This extracted record was used to create this person in Family Tree."
-        }
-      ]
-    },
-    {
-      "id": "MRYM-T8G",
-      "lang": "en-us",
-      "about": "https://familysearch.org/ark:/61903/1:1:F7WC-YFM",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "modified": 1415375823884,
-        "created": 1415375823884
-      },
-      "resourceType": "IGI",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/MRYM-T8G"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"Connecticut Births and Christenings, 1649-1906,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/F7WC-YFM : 3 December 2014), Eben Butt in entry for Eunice Butt, 22 Nov 1769; citing ; FHL microfilm unknown."
-        }
-      ],
-      "titles": [
-        {
-          "value": "Eben Butt in entry for Eunice Butt, \"Connecticut Births and Christenings, 1649-1906\""
-        }
-      ],
-      "notes": [
-        {
-          "text": "This extracted record was used to create this person in Family Tree."
-        }
-      ]
-    },
-    {
-      "id": "MRYD-3P6",
-      "lang": "en-us",
-      "about": "https://familysearch.org/ark:/61903/1:1:F7WC-YBZ",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "modified": 1415375862167,
-        "created": 1415375862167
-      },
-      "resourceType": "IGI",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/MRYD-3P6"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"Connecticut Births and Christenings, 1649-1906,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/F7WC-YBZ : 3 December 2014), Ebenezer Butt in entry for Sibbel Butt, 29 Sep 1773; citing ; FHL microfilm unknown."
-        }
-      ],
-      "titles": [
-        {
-          "value": "Ebenezer Butt in entry for Sibbel Butt, \"Connecticut Births and Christenings, 1649-1906\""
-        }
-      ],
-      "notes": [
-        {
-          "text": "This extracted record was used to create this person in Family Tree."
-        }
-      ]
-    },
-    {
       "id": "MRYD-32M",
       "lang": "en-us",
       "about": "https://familysearch.org/ark:/61903/1:1:F7WC-YB4",
@@ -10664,148 +10550,6 @@
       "titles": [
         {
           "value": "Ebenezer Butt in entry for Lotilla Butt, \"Connecticut Births and Christenings, 1649-1906\""
-        }
-      ],
-      "notes": [
-        {
-          "text": "This extracted record was used to create this person in Family Tree."
-        }
-      ]
-    },
-    {
-      "id": "M39V-CC4",
-      "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:F74F-NL4",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MM97-P55T",
-          "resourceId": "cis.user.MM97-P55T"
-        },
-        "modified": 1489587907445,
-        "created": 1414985451304
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/M39V-CC4"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"Connecticut Births and Christenings, 1649-1906,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/F74F-NL4 : 3 December 2014), Ebenezer Butt, 13 Sep 1747; citing ; FHL microfilm unknown."
-        }
-      ],
-      "titles": [
-        {
-          "value": "Ebenezer Butt, \"Connecticut Births and Christenings, 1649-1906\""
-        }
-      ]
-    },
-    {
-      "id": "9NBL-V5K",
-      "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:XFN5-5JC",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMS-1DCQ",
-          "resourceId": "cis.user.MMMS-1DCQ"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMS-1DCQ",
-          "resourceId": "cis.user.MMMS-1DCQ"
-        },
-        "modified": 1479081307229,
-        "created": 1479081307229
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/9NBL-V5K"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"Vermont Vital Records, 1760-1954,\" database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/XFN5-5JC : 6 December 2014), Ebenezer Butts in entry for Rufus Butts, 28 Mar 1867, Death; State Capitol Building, Montpelier; FHL microfilm 27,497."
-        }
-      ],
-      "titles": [
-        {
-          "value": "Ebenezer Butts in entry for Rufus Butts, \"Vermont Vital Records, 1760-1954\""
-        }
-      ]
-    },
-    {
-      "id": "MRB6-MYD",
-      "lang": "en-us",
-      "about": "https://familysearch.org/ark:/61903/1:1:F74F-N22",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "modified": 1415375986080,
-        "created": 1415375986080
-      },
-      "resourceType": "IGI",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/MRB6-MYD"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"Connecticut Births and Christenings, 1649-1906,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/F74F-N22 : 3 December 2014), Ebenezer Butt in entry for Festus Butt, 24 Mar 1779; citing ; FHL microfilm unknown."
-        }
-      ],
-      "titles": [
-        {
-          "value": "Ebenezer Butt in entry for Festus Butt, \"Connecticut Births and Christenings, 1649-1906\""
-        }
-      ],
-      "notes": [
-        {
-          "text": "This extracted record was used to create this person in Family Tree."
-        }
-      ]
-    },
-    {
-      "id": "MRRP-8VL",
-      "lang": "en-us",
-      "about": "https://familysearch.org/ark:/61903/1:1:F74F-N7V",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "modified": 1415375694230,
-        "created": 1415375694230
-      },
-      "resourceType": "IGI",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/MRRP-8VL"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"Connecticut Births and Christenings, 1649-1906,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/F74F-N7V : 3 December 2014), Ebenezer Butt in entry for Rufus Butt, 26 Jul 1783; citing ; FHL microfilm unknown."
-        }
-      ],
-      "titles": [
-        {
-          "value": "Ebenezer Butt in entry for Rufus Butt, \"Connecticut Births and Christenings, 1649-1906\""
         }
       ],
       "notes": [
@@ -10877,6 +10621,262 @@
       "titles": [
         {
           "value": "Ebenezer Butt in entry for Deacon Butt, \"Connecticut Births and Christenings, 1649-1906\""
+        }
+      ],
+      "notes": [
+        {
+          "text": "This extracted record was used to create this person in Family Tree."
+        }
+      ]
+    },
+    {
+      "id": "MRYD-3P6",
+      "lang": "en-us",
+      "about": "https://familysearch.org/ark:/61903/1:1:F7WC-YBZ",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "modified": 1415375862167,
+        "created": 1415375862167
+      },
+      "resourceType": "IGI",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/MRYD-3P6"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"Connecticut Births and Christenings, 1649-1906,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/F7WC-YBZ : 3 December 2014), Ebenezer Butt in entry for Sibbel Butt, 29 Sep 1773; citing ; FHL microfilm unknown."
+        }
+      ],
+      "titles": [
+        {
+          "value": "Ebenezer Butt in entry for Sibbel Butt, \"Connecticut Births and Christenings, 1649-1906\""
+        }
+      ],
+      "notes": [
+        {
+          "text": "This extracted record was used to create this person in Family Tree."
+        }
+      ]
+    },
+    {
+      "id": "9FCR-DFQ",
+      "lang": "en_US",
+      "about": "https://familysearch.org/ark:/61903/1:1:XFN5-5JM",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-H5B6",
+          "resourceId": "cis.user.MMM9-H5B6"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-H5B6",
+          "resourceId": "cis.user.MMM9-H5B6"
+        },
+        "modified": 1465668207928,
+        "created": 1465668207928
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/9FCR-DFQ"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"Vermont Vital Records, 1760-1954,\" database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/XFN5-5JM : 6 December 2014), Ebenezer Butts in entry for Rufus Butts, 26 Jul 1773, Birth; State Capitol Building, Montpelier; FHL microfilm 27,497."
+        }
+      ],
+      "titles": [
+        {
+          "value": "Ebenezer Butts in entry for Rufus Butts, \"Vermont Vital Records, 1760-1954\""
+        }
+      ]
+    },
+    {
+      "id": "MRYT-3XZ",
+      "lang": "en-us",
+      "about": "https://familysearch.org/ark:/61903/1:1:F74F-N28",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "modified": 1415375913864,
+        "created": 1415375913864
+      },
+      "resourceType": "IGI",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/MRYT-3XZ"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"Connecticut Births and Christenings, 1649-1906,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/F74F-N28 : 3 December 2014), Ebenezer Butt in entry for Nathan Butt, 01 Mar 1781; citing ; FHL microfilm unknown."
+        }
+      ],
+      "titles": [
+        {
+          "value": "Ebenezer Butt in entry for Nathan Butt, \"Connecticut Births and Christenings, 1649-1906\""
+        }
+      ],
+      "notes": [
+        {
+          "text": "This extracted record was used to create this person in Family Tree."
+        }
+      ]
+    },
+    {
+      "id": "M39V-CC4",
+      "lang": "en_US",
+      "about": "https://familysearch.org/ark:/61903/1:1:F74F-NL4",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MM97-P55T",
+          "resourceId": "cis.user.MM97-P55T"
+        },
+        "modified": 1489587907445,
+        "created": 1414985451304
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/M39V-CC4"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"Connecticut Births and Christenings, 1649-1906,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/F74F-NL4 : 3 December 2014), Ebenezer Butt, 13 Sep 1747; citing ; FHL microfilm unknown."
+        }
+      ],
+      "titles": [
+        {
+          "value": "Ebenezer Butt, \"Connecticut Births and Christenings, 1649-1906\""
+        }
+      ]
+    },
+    {
+      "id": "MRYM-T8G",
+      "lang": "en-us",
+      "about": "https://familysearch.org/ark:/61903/1:1:F7WC-YFM",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "modified": 1415375823884,
+        "created": 1415375823884
+      },
+      "resourceType": "IGI",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/MRYM-T8G"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"Connecticut Births and Christenings, 1649-1906,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/F7WC-YFM : 3 December 2014), Eben Butt in entry for Eunice Butt, 22 Nov 1769; citing ; FHL microfilm unknown."
+        }
+      ],
+      "titles": [
+        {
+          "value": "Eben Butt in entry for Eunice Butt, \"Connecticut Births and Christenings, 1649-1906\""
+        }
+      ],
+      "notes": [
+        {
+          "text": "This extracted record was used to create this person in Family Tree."
+        }
+      ]
+    },
+    {
+      "id": "MRY6-CLQ",
+      "lang": "en-us",
+      "about": "https://familysearch.org/ark:/61903/1:1:F7WC-YLJ",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "modified": 1415375875216,
+        "created": 1415375875216
+      },
+      "resourceType": "IGI",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/MRY6-CLQ"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"Connecticut Births and Christenings, 1649-1906,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/F7WC-YLJ : 3 December 2014), Ebenezer Butt in entry for Cena Butt, 05 Sep 1771; citing ; FHL microfilm unknown."
+        }
+      ],
+      "titles": [
+        {
+          "value": "Ebenezer Butt in entry for Cena Butt, \"Connecticut Births and Christenings, 1649-1906\""
+        }
+      ],
+      "notes": [
+        {
+          "text": "This extracted record was used to create this person in Family Tree."
+        }
+      ]
+    },
+    {
+      "id": "MRB6-MYD",
+      "lang": "en-us",
+      "about": "https://familysearch.org/ark:/61903/1:1:F74F-N22",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "modified": 1415375986080,
+        "created": 1415375986080
+      },
+      "resourceType": "IGI",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/MRB6-MYD"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"Connecticut Births and Christenings, 1649-1906,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/F74F-N22 : 3 December 2014), Ebenezer Butt in entry for Festus Butt, 24 Mar 1779; citing ; FHL microfilm unknown."
+        }
+      ],
+      "titles": [
+        {
+          "value": "Ebenezer Butt in entry for Festus Butt, \"Connecticut Births and Christenings, 1649-1906\""
         }
       ],
       "notes": [

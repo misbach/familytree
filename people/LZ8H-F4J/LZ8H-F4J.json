@@ -57,7 +57,7 @@
           "href": "https://familysearch.org/platform/tree/persons/LZ8H-F4J/families?sourceDescriptions=true"
         },
         "portrait": {
-          "href": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/LZ8H-F4J/LZ8H-F4J.jpg"
+          "href": "https://raw.githubusercontent.com/misbach/familytree/master/people/LZ8H-F4J/LZ8H-F4J.jpg"
         },
         "matches": {
           "href": "https://familysearch.org/platform/tree/persons/LZ8H-F4J/matches"
@@ -470,28 +470,28 @@
         "familiesAsParent": [
           {
             "parent1": {
-              "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/LCTJ-48T/LCTJ-48T.json",
+              "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/LCTJ-48T/LCTJ-48T.json",
               "resourceId": "LCTJ-48T"
             },
             "parent2": {
-              "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/LZ8H-F4J/LZ8H-F4J.json",
+              "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/LZ8H-F4J/LZ8H-F4J.json",
               "resourceId": "LZ8H-F4J"
             },
             "children": [
               {
-                "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/L449-M7Y/L449-M7Y.json",
+                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/L449-M7Y/L449-M7Y.json",
                 "resourceId": "L449-M7Y"
               }
             ]
           },
           {
             "parent2": {
-              "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/LZ8H-F4J/LZ8H-F4J.json",
+              "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/LZ8H-F4J/LZ8H-F4J.json",
               "resourceId": "LZ8H-F4J"
             },
             "children": [
               {
-                "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/K2SK-MND/K2SK-MND.json",
+                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/K2SK-MND/K2SK-MND.json",
                 "resourceId": "K2SK-MND"
               }
             ]
@@ -500,28 +500,28 @@
         "familiesAsChild": [
           {
             "parent1": {
-              "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/KZ5W-YNC/KZ5W-YNC.json",
+              "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KZ5W-YNC/KZ5W-YNC.json",
               "resourceId": "KZ5W-YNC"
             },
             "parent2": {
-              "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/KCXJ-3SS/KCXJ-3SS.json",
+              "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KCXJ-3SS/KCXJ-3SS.json",
               "resourceId": "KCXJ-3SS"
             },
             "children": [
               {
-                "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/LZ8H-F4J/LZ8H-F4J.json",
+                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/LZ8H-F4J/LZ8H-F4J.json",
                 "resourceId": "LZ8H-F4J"
               }
             ]
           },
           {
             "parent1": {
-              "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/KZ5W-YNC/KZ5W-YNC.json",
+              "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KZ5W-YNC/KZ5W-YNC.json",
               "resourceId": "KZ5W-YNC"
             },
             "children": [
               {
-                "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/LZ8H-F4J/LZ8H-F4J.json",
+                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/LZ8H-F4J/LZ8H-F4J.json",
                 "resourceId": "LZ8H-F4J"
               }
             ]
@@ -10817,59 +10817,23 @@
       }
     },
     {
-      "id": "M98K-MD7",
+      "id": "M98K-MDF",
       "attribution": {
         "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-8BKZ",
-          "resourceId": "cis.user.MMMM-8BKZ"
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-4BNL",
+          "resourceId": "cis.user.MMM9-4BNL"
         },
         "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-8BKZ",
-          "resourceId": "cis.user.MMMM-8BKZ"
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-4BNL",
+          "resourceId": "cis.user.MMM9-4BNL"
         },
-        "modified": 1403004328628,
-        "created": 1403004328628
+        "modified": 1403004329304,
+        "created": 1403004329304
       },
       "resourceType": "LEGACY",
       "links": {
         "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/M98K-MD7"
-        }
-      },
-      "citations": [
-        {
-          "value": "media.type.Ancestry.com, One World Tree (sm), Ancestry.com, Provo, UT, USA: MyFamily.com, Inc., n.d."
-        }
-      ],
-      "titles": [
-        {
-          "value": "Legacy NFS Source: Apollinia Abigail Wamser - aka-name: Apollinia Abigail Wamser"
-        }
-      ],
-      "notes": [
-        {
-          "text": "aka-name: Apollinia Abigail Wamser  \ndeath: 1833;   \nbirth: 22 March 1740;   \nbirth: 22 March 1740;   \ndeath: 1833;   \nbirth-name: Apollinia Abigail Wamser  \ndeath: 1833;   \nbirth: 22 March 1740;   \nbirth-name: Apollinia Abigail Wamser  \nbirth: 22 March 1740;   \naka-name: Apollinia Abigail Wamser  \ndeath: 1833;   \naka-name: Apollinia Abigail Wamser  \ndeath: 1833;   \nbirth: 22 March 1740;   \nbirth-name: Apollinia Abigail Wamser  \ndeath: 1833;   \nbirth: 22 March 1740;   \ndeath: 1833;   \nbirth: 22 March 1740;   \nbirth-name: Apollinia Abigail Wamser  \nbirth: 22 March 1740;   \ndeath: 1833;   \naka-name: Apollinia Abigail Wamser  \naka-name: Apollinia Abigail Wamser  \nbirth: 22 March 1740;   \nbirth-name: Apollinia Abigail Wamser  \ndeath: 1833;   \nbirth: 22 March 1740;   \ndeath: 1833; "
-        }
-      ]
-    },
-    {
-      "id": "M98K-MDL",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-5HD3",
-          "resourceId": "cis.user.MMMM-5HD3"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-5HD3",
-          "resourceId": "cis.user.MMMM-5HD3"
-        },
-        "modified": 1403004329734,
-        "created": 1403004329734
-      },
-      "resourceType": "LEGACY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/M98K-MDL"
+          "href": "https://familysearch.org/platform/sources/descriptions/M98K-MDF"
         }
       },
       "citations": [
@@ -10879,101 +10843,12 @@
       ],
       "titles": [
         {
-          "value": "Legacy NFS Source: Apollinia Abigail Wamser - Individual or family possessions: birth-name: Apollonia Wamser"
+          "value": "Legacy NFS Source: Apollinia Abigail Wamser - Individual or family possessions: birth-name: Apollinia Abigail Wamsher"
         }
       ],
       "notes": [
         {
-          "text": "Individual or family possessions: birth-name: Apollonia Wamser"
-        }
-      ]
-    },
-    {
-      "id": "98WS-44L",
-      "lang": "*",
-      "about": "http://search.ancestry.com/cgi-bin/sse.dll?indiv=try&dbid=2383&h=85826",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-8RTL",
-          "resourceId": "cis.user.MMM9-8RTL"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-8RTL",
-          "resourceId": "cis.user.MMM9-8RTL"
-        },
-        "modified": 1428984414668,
-        "created": 1428984414668
-      },
-      "resourceType": "DEFAULT",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/98WS-44L"
-        }
-      },
-      "titles": [
-        {
-          "value": "Pennsylvania, Marriage Records, 1700-1821"
-        }
-      ]
-    },
-    {
-      "id": "98WS-44G",
-      "lang": "*",
-      "about": "http://search.ancestry.com/cgi-bin/sse.dll?indiv=try&dbid=3599&h=3226519",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-8RTL",
-          "resourceId": "cis.user.MMM9-8RTL"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-8RTL",
-          "resourceId": "cis.user.MMM9-8RTL"
-        },
-        "modified": 1428984414669,
-        "created": 1428984414669
-      },
-      "resourceType": "DEFAULT",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/98WS-44G"
-        }
-      },
-      "titles": [
-        {
-          "value": "American Genealogical-Biographical Index (AGBI)"
-        }
-      ]
-    },
-    {
-      "id": "98WS-445",
-      "lang": "*",
-      "about": "http://search.ancestry.com/cgi-bin/sse.dll?indiv=try&dbid=2451&h=6659221",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-8RTL",
-          "resourceId": "cis.user.MMM9-8RTL"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-8RTL",
-          "resourceId": "cis.user.MMM9-8RTL"
-        },
-        "modified": 1428984415281,
-        "created": 1428984415281
-      },
-      "resourceType": "DEFAULT",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/98WS-445"
-        }
-      },
-      "citations": [
-        {
-          "value": "Historical Society of Pennsylvania; Philadelphia, Pennsylvania; Collection Name: Historic Pennsylvania Church and Town Records; Reel: 667"
-        }
-      ],
-      "titles": [
-        {
-          "value": "Pennsylvania and New Jersey, Church and Town Records, 1708-1985"
+          "text": "Individual or family possessions: birth-name: Apollinia Abigail Wamsher"
         }
       ]
     },
@@ -11016,23 +10891,23 @@
       ]
     },
     {
-      "id": "M98K-MDF",
+      "id": "M98K-MDL",
       "attribution": {
         "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-4BNL",
-          "resourceId": "cis.user.MMM9-4BNL"
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-5HD3",
+          "resourceId": "cis.user.MMMM-5HD3"
         },
         "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-4BNL",
-          "resourceId": "cis.user.MMM9-4BNL"
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-5HD3",
+          "resourceId": "cis.user.MMMM-5HD3"
         },
-        "modified": 1403004329304,
-        "created": 1403004329304
+        "modified": 1403004329734,
+        "created": 1403004329734
       },
       "resourceType": "LEGACY",
       "links": {
         "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/M98K-MDF"
+          "href": "https://familysearch.org/platform/sources/descriptions/M98K-MDL"
         }
       },
       "citations": [
@@ -11042,12 +10917,101 @@
       ],
       "titles": [
         {
-          "value": "Legacy NFS Source: Apollinia Abigail Wamser - Individual or family possessions: birth-name: Apollinia Abigail Wamsher"
+          "value": "Legacy NFS Source: Apollinia Abigail Wamser - Individual or family possessions: birth-name: Apollonia Wamser"
         }
       ],
       "notes": [
         {
-          "text": "Individual or family possessions: birth-name: Apollinia Abigail Wamsher"
+          "text": "Individual or family possessions: birth-name: Apollonia Wamser"
+        }
+      ]
+    },
+    {
+      "id": "98WS-44G",
+      "lang": "*",
+      "about": "http://search.ancestry.com/cgi-bin/sse.dll?indiv=try&dbid=3599&h=3226519",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-8RTL",
+          "resourceId": "cis.user.MMM9-8RTL"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-8RTL",
+          "resourceId": "cis.user.MMM9-8RTL"
+        },
+        "modified": 1428984414669,
+        "created": 1428984414669
+      },
+      "resourceType": "DEFAULT",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/98WS-44G"
+        }
+      },
+      "titles": [
+        {
+          "value": "American Genealogical-Biographical Index (AGBI)"
+        }
+      ]
+    },
+    {
+      "id": "98WS-44L",
+      "lang": "*",
+      "about": "http://search.ancestry.com/cgi-bin/sse.dll?indiv=try&dbid=2383&h=85826",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-8RTL",
+          "resourceId": "cis.user.MMM9-8RTL"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-8RTL",
+          "resourceId": "cis.user.MMM9-8RTL"
+        },
+        "modified": 1428984414668,
+        "created": 1428984414668
+      },
+      "resourceType": "DEFAULT",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/98WS-44L"
+        }
+      },
+      "titles": [
+        {
+          "value": "Pennsylvania, Marriage Records, 1700-1821"
+        }
+      ]
+    },
+    {
+      "id": "98WS-445",
+      "lang": "*",
+      "about": "http://search.ancestry.com/cgi-bin/sse.dll?indiv=try&dbid=2451&h=6659221",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-8RTL",
+          "resourceId": "cis.user.MMM9-8RTL"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-8RTL",
+          "resourceId": "cis.user.MMM9-8RTL"
+        },
+        "modified": 1428984415281,
+        "created": 1428984415281
+      },
+      "resourceType": "DEFAULT",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/98WS-445"
+        }
+      },
+      "citations": [
+        {
+          "value": "Historical Society of Pennsylvania; Philadelphia, Pennsylvania; Collection Name: Historic Pennsylvania Church and Town Records; Reel: 667"
+        }
+      ],
+      "titles": [
+        {
+          "value": "Pennsylvania and New Jersey, Church and Town Records, 1708-1985"
         }
       ]
     },
@@ -11109,6 +11073,42 @@
       "titles": [
         {
           "value": "Pennsylvania and New Jersey, Church and Town Records, 1708-1985"
+        }
+      ]
+    },
+    {
+      "id": "M98K-MD7",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-8BKZ",
+          "resourceId": "cis.user.MMMM-8BKZ"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-8BKZ",
+          "resourceId": "cis.user.MMMM-8BKZ"
+        },
+        "modified": 1403004328628,
+        "created": 1403004328628
+      },
+      "resourceType": "LEGACY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/M98K-MD7"
+        }
+      },
+      "citations": [
+        {
+          "value": "media.type.Ancestry.com, One World Tree (sm), Ancestry.com, Provo, UT, USA: MyFamily.com, Inc., n.d."
+        }
+      ],
+      "titles": [
+        {
+          "value": "Legacy NFS Source: Apollinia Abigail Wamser - aka-name: Apollinia Abigail Wamser"
+        }
+      ],
+      "notes": [
+        {
+          "text": "aka-name: Apollinia Abigail Wamser  \ndeath: 1833;   \nbirth: 22 March 1740;   \nbirth: 22 March 1740;   \ndeath: 1833;   \nbirth-name: Apollinia Abigail Wamser  \ndeath: 1833;   \nbirth: 22 March 1740;   \nbirth-name: Apollinia Abigail Wamser  \nbirth: 22 March 1740;   \naka-name: Apollinia Abigail Wamser  \ndeath: 1833;   \naka-name: Apollinia Abigail Wamser  \ndeath: 1833;   \nbirth: 22 March 1740;   \nbirth-name: Apollinia Abigail Wamser  \ndeath: 1833;   \nbirth: 22 March 1740;   \ndeath: 1833;   \nbirth: 22 March 1740;   \nbirth-name: Apollinia Abigail Wamser  \nbirth: 22 March 1740;   \ndeath: 1833;   \naka-name: Apollinia Abigail Wamser  \naka-name: Apollinia Abigail Wamser  \nbirth: 22 March 1740;   \nbirth-name: Apollinia Abigail Wamser  \ndeath: 1833;   \nbirth: 22 March 1740;   \ndeath: 1833; "
         }
       ]
     }

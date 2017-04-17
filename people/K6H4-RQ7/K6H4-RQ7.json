@@ -57,7 +57,7 @@
           "href": "https://familysearch.org/platform/tree/persons/K6H4-RQ7/families?sourceDescriptions=true"
         },
         "portrait": {
-          "href": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/K6H4-RQ7/K6H4-RQ7.jpg"
+          "href": "https://raw.githubusercontent.com/misbach/familytree/master/people/K6H4-RQ7/K6H4-RQ7.jpg"
         },
         "matches": {
           "href": "https://familysearch.org/platform/tree/persons/K6H4-RQ7/matches"
@@ -376,16 +376,16 @@
         "familiesAsParent": [
           {
             "parent1": {
-              "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/27PS-1MX/27PS-1MX.json",
+              "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/27PS-1MX/27PS-1MX.json",
               "resourceId": "27PS-1MX"
             },
             "parent2": {
-              "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/K6H4-RQ7/K6H4-RQ7.json",
+              "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/K6H4-RQ7/K6H4-RQ7.json",
               "resourceId": "K6H4-RQ7"
             },
             "children": [
               {
-                "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/K849-Y4H/K849-Y4H.json",
+                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/K849-Y4H/K849-Y4H.json",
                 "resourceId": "K849-Y4H"
               }
             ]
@@ -5401,6 +5401,39 @@
       }
     },
     {
+      "id": "9DZ6-MZK",
+      "lang": "en_US",
+      "about": "https://familysearch.org/ark:/61903/1:1:QV29-4896",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MM97-5KZ3",
+          "resourceId": "cis.user.MM97-5KZ3"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MM97-5KZ3",
+          "resourceId": "cis.user.MM97-5KZ3"
+        },
+        "modified": 1441053989824,
+        "created": 1441053989824
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/9DZ6-MZK"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"Find A Grave Index,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/QV29-4896 : 13 December 2015), Hannah Cafferty, 1870; Burial, Springboro, Warren, Ohio, United States of America, Springboro Cemetery; citing record ID 58803394, Find a Grave, http://www.findagrave.com."
+        }
+      ],
+      "titles": [
+        {
+          "value": "Hannah Cafferty, \"Find A Grave Index\""
+        }
+      ]
+    },
+    {
       "id": "MSD4-TJ7",
       "attribution": {
         "contributor": {
@@ -5433,39 +5466,6 @@
       "notes": [
         {
           "text": "Church record: Cemetery record or headstone: death: 5 January 1870; Springboro, Warren, Ohio, United States  \n\nSpringboro Cemetery, Springboro, Warren County, Ohio, USA"
-        }
-      ]
-    },
-    {
-      "id": "9DZ6-MZK",
-      "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:QV29-4896",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MM97-5KZ3",
-          "resourceId": "cis.user.MM97-5KZ3"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MM97-5KZ3",
-          "resourceId": "cis.user.MM97-5KZ3"
-        },
-        "modified": 1441053989824,
-        "created": 1441053989824
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/9DZ6-MZK"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"Find A Grave Index,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/QV29-4896 : 13 December 2015), Hannah Cafferty, 1870; Burial, Springboro, Warren, Ohio, United States of America, Springboro Cemetery; citing record ID 58803394, Find a Grave, http://www.findagrave.com."
-        }
-      ],
-      "titles": [
-        {
-          "value": "Hannah Cafferty, \"Find A Grave Index\""
         }
       ]
     }

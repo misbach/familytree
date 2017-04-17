@@ -57,7 +57,7 @@
           "href": "https://familysearch.org/platform/tree/persons/K19N-45X/families?sourceDescriptions=true"
         },
         "portrait": {
-          "href": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/K19N-45X/K19N-45X.jpg"
+          "href": "https://raw.githubusercontent.com/misbach/familytree/master/people/K19N-45X/K19N-45X.jpg"
         },
         "matches": {
           "href": "https://familysearch.org/platform/tree/persons/K19N-45X/matches"
@@ -1375,27 +1375,27 @@
         "familiesAsParent": [
           {
             "parent1": {
-              "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/L8S2-ZQ6/L8S2-ZQ6.json",
+              "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/L8S2-ZQ6/L8S2-ZQ6.json",
               "resourceId": "L8S2-ZQ6"
             },
             "parent2": {
-              "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/K19N-45X/K19N-45X.json",
+              "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/K19N-45X/K19N-45X.json",
               "resourceId": "K19N-45X"
             },
             "children": [
               {
-                "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/L5XH-Y2T/L5XH-Y2T.json",
+                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/L5XH-Y2T/L5XH-Y2T.json",
                 "resourceId": "L5XH-Y2T"
               }
             ]
           },
           {
             "parent1": {
-              "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/MCBN-QS7/MCBN-QS7.json",
+              "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/MCBN-QS7/MCBN-QS7.json",
               "resourceId": "MCBN-QS7"
             },
             "parent2": {
-              "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/K19N-45X/K19N-45X.json",
+              "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/K19N-45X/K19N-45X.json",
               "resourceId": "K19N-45X"
             }
           }
@@ -1403,16 +1403,16 @@
         "familiesAsChild": [
           {
             "parent1": {
-              "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/L7NF-3Q3/L7NF-3Q3.json",
+              "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/L7NF-3Q3/L7NF-3Q3.json",
               "resourceId": "L7NF-3Q3"
             },
             "parent2": {
-              "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/L7F2-QVW/L7F2-QVW.json",
+              "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/L7F2-QVW/L7F2-QVW.json",
               "resourceId": "L7F2-QVW"
             },
             "children": [
               {
-                "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/K19N-45X/K19N-45X.json",
+                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/K19N-45X/K19N-45X.json",
                 "resourceId": "K19N-45X"
               }
             ]
@@ -10807,243 +10807,68 @@
       }
     },
     {
-      "id": "9F8Z-5LS",
+      "id": "98HZ-PQD",
       "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:J9B4-WX6",
+      "about": "https://familysearch.org/ark:/61903/1:1:NXZR-P13",
       "attribution": {
         "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-4Z1V",
-          "resourceId": "cis.user.MMMM-4Z1V"
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-752V",
+          "resourceId": "cis.user.MMM9-752V"
         },
         "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-4Z1V",
-          "resourceId": "cis.user.MMMM-4Z1V"
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-752V",
+          "resourceId": "cis.user.MMM9-752V"
         },
-        "modified": 1466097741052,
-        "created": 1466097741052
+        "modified": 1429708086105,
+        "created": 1429708086105
       },
       "resourceType": "FSREADONLY",
       "links": {
         "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/9F8Z-5LS"
+          "href": "https://familysearch.org/platform/sources/descriptions/98HZ-PQD"
         }
       },
       "citations": [
         {
-          "value": "\"England Births and Christenings, 1538-1975,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/J9B4-WX6 : 30 December 2014), Betty Clegg in entry for James Clegg, 23 Jun 1793; citing Rochdale, Lancashire, England, reference item 9; FHL microfilm 1,545,749."
+          "value": "\"England Births and Christenings, 1538-1975,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/NXZR-P13 : 30 December 2014), Betty Clegg in entry for Jonathan Clegg, 19 Sep 1790; citing Bamber-Bridge, Lancashire, England, reference ; FHL microfilm 1,514,652."
         }
       ],
       "titles": [
         {
-          "value": "Betty Clegg in entry for James Clegg, \"England Births and Christenings, 1538-1975\""
+          "value": "Betty Clegg in entry for Jonathan Clegg, \"England Births and Christenings, 1538-1975\""
         }
       ]
     },
     {
-      "id": "9ZBS-JT6",
+      "id": "98HZ-P99",
       "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:NXZR-82D",
+      "about": "https://familysearch.org/ark:/61903/1:1:NXZR-8LC",
       "attribution": {
         "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-752V",
+          "resourceId": "cis.user.MMM9-752V"
         },
         "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM7-YWYF",
-          "resourceId": "cis.user.MMM7-YWYF"
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-752V",
+          "resourceId": "cis.user.MMM9-752V"
         },
-        "modified": 1489639953355,
-        "created": 1426353169493
+        "modified": 1429707994900,
+        "created": 1429707994900
       },
       "resourceType": "FSREADONLY",
       "links": {
         "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/9ZBS-JT6"
+          "href": "https://familysearch.org/platform/sources/descriptions/98HZ-P99"
         }
       },
       "citations": [
         {
-          "value": "\"England Births and Christenings, 1538-1975,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/NXZR-82D : 30 December 2014), Elisabeth Smith, 11 Jan 1761; citing Bamber-Bridge, Lancashire, England, reference ; FHL microfilm 1,514,652."
+          "value": "\"England Births and Christenings, 1538-1975,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/NXZR-8LC : 30 December 2014), Elisabeth Smith, 11 Jan 1761; citing Bamber-Bridge, Lancashire, England, reference ; FHL microfilm 1,514,652."
         }
       ],
       "titles": [
         {
           "value": "Elisabeth Smith, \"England Births and Christenings, 1538-1975\""
-        }
-      ]
-    },
-    {
-      "id": "9ZZ9-PQF",
-      "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:NXZR-JY2",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-ZG1M",
-          "resourceId": "cis.user.MMMM-ZG1M"
-        },
-        "modified": 1489609172984,
-        "created": 1419793118162
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/9ZZ9-PQF"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"England Births and Christenings, 1538-1975,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/NXZR-JY2 : 30 December 2014), Betty Clegg in entry for Mathew Clegg, 15 Oct 1786; citing Bamber-Bridge, Lancashire, England, reference ; FHL microfilm 1,514,652."
-        }
-      ],
-      "titles": [
-        {
-          "value": "Betty Clegg in entry for Mathew Clegg, \"England Births and Christenings, 1538-1975\""
-        }
-      ]
-    },
-    {
-      "id": "MSN3-F7Q",
-      "lang": "en_US,EN;Q=0.8",
-      "about": "",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-ZG1M",
-          "resourceId": "cis.user.MMMM-ZG1M"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-ZG1M",
-          "resourceId": "cis.user.MMMM-ZG1M"
-        },
-        "modified": 1407692030791,
-        "created": 1407692030791
-      },
-      "resourceType": "DEFAULT",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/MSN3-F7Q"
-        }
-      },
-      "citations": [
-        {
-          "value": "Ancestry.com. England, Select Marriages, 1538–1973 [database on-line]. Provo, UT, USA: Ancestry.com Operations, Inc., 2014.\nOriginal data: England, Marriages, 1538–1973. Salt Lake City, Utah: FamilySearch, 2013."
-        }
-      ],
-      "titles": [
-        {
-          "value": "England, Select Marriages, 1538–1973  about Thomas Clegg "
-        }
-      ],
-      "notes": [
-        {
-          "text": "Name:\nThomas Clegg \n\nGender:\nMale \n\nMarriage Date:\n11 Oct 1784 \n\nMarriage Place:\nSt. John'S, Preston, Lancashire, England \n\nSpouse:\n Elizabeth Smith   \n\nFHL Film Number:\n1278741 \n\nReference ID:\npr 1451 item 1 p 142 \n"
-        }
-      ]
-    },
-    {
-      "id": "MSN3-ZY7",
-      "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:NTSP-BVG",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-ZG1M",
-          "resourceId": "cis.user.MMMM-ZG1M"
-        },
-        "modified": 1489564528830,
-        "created": 1407689986699
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/MSN3-ZY7"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"England Births and Christenings, 1538-1975,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/NTSP-BVG : 30 December 2014), Betty Clegg in entry for Henry Clegg, 09 Sep 1788; citing Bamber-Bridge, Lancashire, England, reference ; FHL microfilm 1,514,652."
-        }
-      ],
-      "titles": [
-        {
-          "value": "Betty Clegg in entry for Henry Clegg, \"England Births and Christenings, 1538-1975\""
-        }
-      ]
-    },
-    {
-      "id": "99QZ-FX2",
-      "lang": "en-us",
-      "about": "https://familysearch.org/ark:/61903/1:1:N5L6-541",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "modified": 1415394387595,
-        "created": 1415394387595
-      },
-      "resourceType": "IGI",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/99QZ-FX2"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"England Births and Christenings, 1538-1975,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/N5L6-541 : 30 December 2014), Betty in entry for Margaret Clegg, 01 Jan 1804; citing BURNLEY,LANCASHIRE,ENGLAND, reference ; FHL microfilm 0093654, 0093664, PLUS."
-        }
-      ],
-      "titles": [
-        {
-          "value": "Betty in entry for Margaret Clegg, \"England Births and Christenings, 1538-1975\""
-        }
-      ],
-      "notes": [
-        {
-          "text": "This extracted record was used to create this person in Family Tree."
-        }
-      ]
-    },
-    {
-      "id": "9ZZ9-GBX",
-      "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:NPX9-QBD",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-ZG1M",
-          "resourceId": "cis.user.MMMM-ZG1M"
-        },
-        "modified": 1489609171921,
-        "created": 1419793049622
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/9ZZ9-GBX"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"England Births and Christenings, 1538-1975,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/NPX9-QBD : 30 December 2014), Elizabeth in entry for Matthew Clegg, 15 Oct 1786; citing , reference ; FHL microfilm 0844802 IT 1."
-        }
-      ],
-      "titles": [
-        {
-          "value": "Elizabeth in entry for Matthew Clegg, \"England Births and Christenings, 1538-1975\""
         }
       ]
     },
@@ -11086,6 +10911,39 @@
       ]
     },
     {
+      "id": "98HZ-PWJ",
+      "lang": "en_US",
+      "about": "https://familysearch.org/ark:/61903/1:1:J9LY-3M5",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-752V",
+          "resourceId": "cis.user.MMM9-752V"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-752V",
+          "resourceId": "cis.user.MMM9-752V"
+        },
+        "modified": 1429708140008,
+        "created": 1429708140008
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/98HZ-PWJ"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"England Births and Christenings, 1538-1975,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/J9LY-3M5 : 30 December 2014), Betty Clegg in entry for William Clegg, 17 Feb 1793; citing Bamber-Bridge, Lancashire, England, reference ; FHL microfilm 1,514,652."
+        }
+      ],
+      "titles": [
+        {
+          "value": "Betty Clegg in entry for William Clegg, \"England Births and Christenings, 1538-1975\""
+        }
+      ]
+    },
+    {
       "id": "9WKV-XFZ",
       "lang": "en-us",
       "about": "https://familysearch.org/ark:/61903/1:1:NPX9-H95",
@@ -11120,77 +10978,6 @@
       "notes": [
         {
           "text": "This extracted record was used to create this person in Family Tree."
-        }
-      ]
-    },
-    {
-      "id": "MWNL-RPV",
-      "lang": "en-us",
-      "about": "https://familysearch.org/ark:/61903/1:1:NPXN-JX2",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "modified": 1415320976114,
-        "created": 1415320976114
-      },
-      "resourceType": "IGI",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/MWNL-RPV"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"England Births and Christenings, 1538-1975,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/NPXN-JX2 : 30 December 2014), Elizabeth in entry for Anne Clegg, 11 Sep 1785; citing , reference ; FHL microfilm 0844802 IT 1."
-        }
-      ],
-      "titles": [
-        {
-          "value": "Elizabeth in entry for Anne Clegg, \"England Births and Christenings, 1538-1975\""
-        }
-      ],
-      "notes": [
-        {
-          "text": "This extracted record was used to create this person in Family Tree."
-        }
-      ]
-    },
-    {
-      "id": "MS26-3VP",
-      "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:N6RL-MX4",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-ZG1M",
-          "resourceId": "cis.user.MMMM-ZG1M"
-        },
-        "modified": 1489562944710,
-        "created": 1409696255948
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/MS26-3VP"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"England Marriages, 1538–1973  ,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/N6RL-MX4 : 10 December 2014), Thomas Clegg and Elizabeth Smith, 11 Oct 1784; citing St. John'S, Preston, Lancashire, England, reference pr 1451 item 1 p 142; FHL microfilm 1,278,741."
-        }
-      ],
-      "titles": [
-        {
-          "value": "Elizabeth Smith, \"England Marriages, 1538–1973  \""
         }
       ]
     },
@@ -11233,30 +11020,210 @@
       ]
     },
     {
-      "id": "98HZ-P99",
+      "id": "9ZZ9-PPQ",
       "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:NXZR-8LC",
+      "about": "https://familysearch.org/ark:/61903/1:1:JD3B-KQB",
       "attribution": {
         "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-752V",
-          "resourceId": "cis.user.MMM9-752V"
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
         },
         "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-752V",
-          "resourceId": "cis.user.MMM9-752V"
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-ZG1M",
+          "resourceId": "cis.user.MMMM-ZG1M"
         },
-        "modified": 1429707994900,
-        "created": 1429707994900
+        "modified": 1489609174133,
+        "created": 1419793351958
       },
       "resourceType": "FSREADONLY",
       "links": {
         "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/98HZ-P99"
+          "href": "https://familysearch.org/platform/sources/descriptions/9ZZ9-PPQ"
         }
       },
       "citations": [
         {
-          "value": "\"England Births and Christenings, 1538-1975,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/NXZR-8LC : 30 December 2014), Elisabeth Smith, 11 Jan 1761; citing Bamber-Bridge, Lancashire, England, reference ; FHL microfilm 1,514,652."
+          "value": "\"England Deaths and Burials, 1538-1991,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/JD3B-KQB : 24 December 2014), Elizabeth Clegg in entry for Mathew Clegg, 27 Dec 1788; citing , reference ; FHL microfilm 1,514,652."
+        }
+      ],
+      "titles": [
+        {
+          "value": "Elizabeth Clegg in entry for Mathew Clegg, \"England Deaths and Burials, 1538-1991\""
+        }
+      ]
+    },
+    {
+      "id": "99QZ-FX2",
+      "lang": "en-us",
+      "about": "https://familysearch.org/ark:/61903/1:1:N5L6-541",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "modified": 1415394387595,
+        "created": 1415394387595
+      },
+      "resourceType": "IGI",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/99QZ-FX2"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"England Births and Christenings, 1538-1975,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/N5L6-541 : 30 December 2014), Betty in entry for Margaret Clegg, 01 Jan 1804; citing BURNLEY,LANCASHIRE,ENGLAND, reference ; FHL microfilm 0093654, 0093664, PLUS."
+        }
+      ],
+      "titles": [
+        {
+          "value": "Betty in entry for Margaret Clegg, \"England Births and Christenings, 1538-1975\""
+        }
+      ],
+      "notes": [
+        {
+          "text": "This extracted record was used to create this person in Family Tree."
+        }
+      ]
+    },
+    {
+      "id": "9ZZ9-PQF",
+      "lang": "en_US",
+      "about": "https://familysearch.org/ark:/61903/1:1:NXZR-JY2",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-ZG1M",
+          "resourceId": "cis.user.MMMM-ZG1M"
+        },
+        "modified": 1489609172984,
+        "created": 1419793118162
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/9ZZ9-PQF"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"England Births and Christenings, 1538-1975,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/NXZR-JY2 : 30 December 2014), Betty Clegg in entry for Mathew Clegg, 15 Oct 1786; citing Bamber-Bridge, Lancashire, England, reference ; FHL microfilm 1,514,652."
+        }
+      ],
+      "titles": [
+        {
+          "value": "Betty Clegg in entry for Mathew Clegg, \"England Births and Christenings, 1538-1975\""
+        }
+      ]
+    },
+    {
+      "id": "MWNL-RPV",
+      "lang": "en-us",
+      "about": "https://familysearch.org/ark:/61903/1:1:NPXN-JX2",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "modified": 1415320976114,
+        "created": 1415320976114
+      },
+      "resourceType": "IGI",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/MWNL-RPV"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"England Births and Christenings, 1538-1975,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/NPXN-JX2 : 30 December 2014), Elizabeth in entry for Anne Clegg, 11 Sep 1785; citing , reference ; FHL microfilm 0844802 IT 1."
+        }
+      ],
+      "titles": [
+        {
+          "value": "Elizabeth in entry for Anne Clegg, \"England Births and Christenings, 1538-1975\""
+        }
+      ],
+      "notes": [
+        {
+          "text": "This extracted record was used to create this person in Family Tree."
+        }
+      ]
+    },
+    {
+      "id": "M1M3-36N",
+      "lang": "en-us",
+      "about": "https://familysearch.org/ark:/61903/1:1:NPX9-45C",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "modified": 1415386465794,
+        "created": 1415386465794
+      },
+      "resourceType": "IGI",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/M1M3-36N"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"England Births and Christenings, 1538-1975,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/NPX9-45C : 30 December 2014), Elisabeth Smith, 11 Jan 1761; citing , reference ; FHL microfilm 0844802 IT 1."
+        }
+      ],
+      "titles": [
+        {
+          "value": "Elisabeth Smith, \"England Births and Christenings, 1538-1975\""
+        }
+      ],
+      "notes": [
+        {
+          "text": "This extracted record was used to create this person in Family Tree."
+        }
+      ]
+    },
+    {
+      "id": "9ZBS-JT6",
+      "lang": "en_US",
+      "about": "https://familysearch.org/ark:/61903/1:1:NXZR-82D",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM7-YWYF",
+          "resourceId": "cis.user.MMM7-YWYF"
+        },
+        "modified": 1489639953355,
+        "created": 1426353169493
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/9ZBS-JT6"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"England Births and Christenings, 1538-1975,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/NXZR-82D : 30 December 2014), Elisabeth Smith, 11 Jan 1761; citing Bamber-Bridge, Lancashire, England, reference ; FHL microfilm 1,514,652."
         }
       ],
       "titles": [
@@ -11266,35 +11233,101 @@
       ]
     },
     {
-      "id": "98HZ-PWJ",
+      "id": "9F8Z-5LS",
       "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:J9LY-3M5",
+      "about": "https://familysearch.org/ark:/61903/1:1:J9B4-WX6",
       "attribution": {
         "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-752V",
-          "resourceId": "cis.user.MMM9-752V"
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-4Z1V",
+          "resourceId": "cis.user.MMMM-4Z1V"
         },
         "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-752V",
-          "resourceId": "cis.user.MMM9-752V"
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-4Z1V",
+          "resourceId": "cis.user.MMMM-4Z1V"
         },
-        "modified": 1429708140008,
-        "created": 1429708140008
+        "modified": 1466097741052,
+        "created": 1466097741052
       },
       "resourceType": "FSREADONLY",
       "links": {
         "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/98HZ-PWJ"
+          "href": "https://familysearch.org/platform/sources/descriptions/9F8Z-5LS"
         }
       },
       "citations": [
         {
-          "value": "\"England Births and Christenings, 1538-1975,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/J9LY-3M5 : 30 December 2014), Betty Clegg in entry for William Clegg, 17 Feb 1793; citing Bamber-Bridge, Lancashire, England, reference ; FHL microfilm 1,514,652."
+          "value": "\"England Births and Christenings, 1538-1975,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/J9B4-WX6 : 30 December 2014), Betty Clegg in entry for James Clegg, 23 Jun 1793; citing Rochdale, Lancashire, England, reference item 9; FHL microfilm 1,545,749."
         }
       ],
       "titles": [
         {
-          "value": "Betty Clegg in entry for William Clegg, \"England Births and Christenings, 1538-1975\""
+          "value": "Betty Clegg in entry for James Clegg, \"England Births and Christenings, 1538-1975\""
+        }
+      ]
+    },
+    {
+      "id": "9ZZ9-GBX",
+      "lang": "en_US",
+      "about": "https://familysearch.org/ark:/61903/1:1:NPX9-QBD",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-ZG1M",
+          "resourceId": "cis.user.MMMM-ZG1M"
+        },
+        "modified": 1489609171921,
+        "created": 1419793049622
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/9ZZ9-GBX"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"England Births and Christenings, 1538-1975,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/NPX9-QBD : 30 December 2014), Elizabeth in entry for Matthew Clegg, 15 Oct 1786; citing , reference ; FHL microfilm 0844802 IT 1."
+        }
+      ],
+      "titles": [
+        {
+          "value": "Elizabeth in entry for Matthew Clegg, \"England Births and Christenings, 1538-1975\""
+        }
+      ]
+    },
+    {
+      "id": "MS26-3VP",
+      "lang": "en_US",
+      "about": "https://familysearch.org/ark:/61903/1:1:N6RL-MX4",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-ZG1M",
+          "resourceId": "cis.user.MMMM-ZG1M"
+        },
+        "modified": 1489562944710,
+        "created": 1409696255948
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/MS26-3VP"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"England Marriages, 1538–1973  ,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/N6RL-MX4 : 10 December 2014), Thomas Clegg and Elizabeth Smith, 11 Oct 1784; citing St. John'S, Preston, Lancashire, England, reference pr 1451 item 1 p 142; FHL microfilm 1,278,741."
+        }
+      ],
+      "titles": [
+        {
+          "value": "Elizabeth Smith, \"England Marriages, 1538–1973  \""
         }
       ]
     },
@@ -11337,42 +11370,9 @@
       ]
     },
     {
-      "id": "98HZ-PQD",
+      "id": "MSN3-ZY7",
       "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:NXZR-P13",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-752V",
-          "resourceId": "cis.user.MMM9-752V"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-752V",
-          "resourceId": "cis.user.MMM9-752V"
-        },
-        "modified": 1429708086105,
-        "created": 1429708086105
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/98HZ-PQD"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"England Births and Christenings, 1538-1975,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/NXZR-P13 : 30 December 2014), Betty Clegg in entry for Jonathan Clegg, 19 Sep 1790; citing Bamber-Bridge, Lancashire, England, reference ; FHL microfilm 1,514,652."
-        }
-      ],
-      "titles": [
-        {
-          "value": "Betty Clegg in entry for Jonathan Clegg, \"England Births and Christenings, 1538-1975\""
-        }
-      ]
-    },
-    {
-      "id": "9ZZ9-PPQ",
-      "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:JD3B-KQB",
+      "about": "https://familysearch.org/ark:/61903/1:1:NTSP-BVG",
       "attribution": {
         "contributor": {
           "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
@@ -11382,61 +11382,61 @@
           "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-ZG1M",
           "resourceId": "cis.user.MMMM-ZG1M"
         },
-        "modified": 1489609174133,
-        "created": 1419793351958
+        "modified": 1489564528830,
+        "created": 1407689986699
       },
       "resourceType": "FSREADONLY",
       "links": {
         "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/9ZZ9-PPQ"
+          "href": "https://familysearch.org/platform/sources/descriptions/MSN3-ZY7"
         }
       },
       "citations": [
         {
-          "value": "\"England Deaths and Burials, 1538-1991,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/JD3B-KQB : 24 December 2014), Elizabeth Clegg in entry for Mathew Clegg, 27 Dec 1788; citing , reference ; FHL microfilm 1,514,652."
+          "value": "\"England Births and Christenings, 1538-1975,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/NTSP-BVG : 30 December 2014), Betty Clegg in entry for Henry Clegg, 09 Sep 1788; citing Bamber-Bridge, Lancashire, England, reference ; FHL microfilm 1,514,652."
         }
       ],
       "titles": [
         {
-          "value": "Elizabeth Clegg in entry for Mathew Clegg, \"England Deaths and Burials, 1538-1991\""
+          "value": "Betty Clegg in entry for Henry Clegg, \"England Births and Christenings, 1538-1975\""
         }
       ]
     },
     {
-      "id": "M1M3-36N",
-      "lang": "en-us",
-      "about": "https://familysearch.org/ark:/61903/1:1:NPX9-45C",
+      "id": "MSN3-F7Q",
+      "lang": "en_US,EN;Q=0.8",
+      "about": "",
       "attribution": {
         "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-ZG1M",
+          "resourceId": "cis.user.MMMM-ZG1M"
         },
         "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-ZG1M",
+          "resourceId": "cis.user.MMMM-ZG1M"
         },
-        "modified": 1415386465794,
-        "created": 1415386465794
+        "modified": 1407692030791,
+        "created": 1407692030791
       },
-      "resourceType": "IGI",
+      "resourceType": "DEFAULT",
       "links": {
         "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/M1M3-36N"
+          "href": "https://familysearch.org/platform/sources/descriptions/MSN3-F7Q"
         }
       },
       "citations": [
         {
-          "value": "\"England Births and Christenings, 1538-1975,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/NPX9-45C : 30 December 2014), Elisabeth Smith, 11 Jan 1761; citing , reference ; FHL microfilm 0844802 IT 1."
+          "value": "Ancestry.com. England, Select Marriages, 1538–1973 [database on-line]. Provo, UT, USA: Ancestry.com Operations, Inc., 2014.\nOriginal data: England, Marriages, 1538–1973. Salt Lake City, Utah: FamilySearch, 2013."
         }
       ],
       "titles": [
         {
-          "value": "Elisabeth Smith, \"England Births and Christenings, 1538-1975\""
+          "value": "England, Select Marriages, 1538–1973  about Thomas Clegg "
         }
       ],
       "notes": [
         {
-          "text": "This extracted record was used to create this person in Family Tree."
+          "text": "Name:\nThomas Clegg \n\nGender:\nMale \n\nMarriage Date:\n11 Oct 1784 \n\nMarriage Place:\nSt. John'S, Preston, Lancashire, England \n\nSpouse:\n Elizabeth Smith   \n\nFHL Film Number:\n1278741 \n\nReference ID:\npr 1451 item 1 p 142 \n"
         }
       ]
     }

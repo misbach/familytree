@@ -127,7 +127,7 @@
           "href": "https://familysearch.org/platform/tree/persons/L83C-6XL/families?sourceDescriptions=true"
         },
         "portrait": {
-          "href": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/L83C-6XL/L83C-6XL.jpg"
+          "href": "https://raw.githubusercontent.com/misbach/familytree/master/people/L83C-6XL/L83C-6XL.jpg"
         },
         "matches": {
           "href": "https://familysearch.org/platform/tree/persons/L83C-6XL/matches"
@@ -1534,16 +1534,16 @@
         "familiesAsParent": [
           {
             "parent1": {
-              "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/L5XH-Y2T/L5XH-Y2T.json",
+              "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/L5XH-Y2T/L5XH-Y2T.json",
               "resourceId": "L5XH-Y2T"
             },
             "parent2": {
-              "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/L83C-6XL/L83C-6XL.json",
+              "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/L83C-6XL/L83C-6XL.json",
               "resourceId": "L83C-6XL"
             },
             "children": [
               {
-                "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/KWJ4-C4J/KWJ4-C4J.json",
+                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KWJ4-C4J/KWJ4-C4J.json",
                 "resourceId": "KWJ4-C4J"
               }
             ]
@@ -1552,16 +1552,16 @@
         "familiesAsChild": [
           {
             "parent1": {
-              "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/9KXF-PCJ/9KXF-PCJ.json",
+              "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/9KXF-PCJ/9KXF-PCJ.json",
               "resourceId": "9KXF-PCJ"
             },
             "parent2": {
-              "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/M4KC-6F3/M4KC-6F3.json",
+              "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/M4KC-6F3/M4KC-6F3.json",
               "resourceId": "M4KC-6F3"
             },
             "children": [
               {
-                "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/L83C-6XL/L83C-6XL.json",
+                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/L83C-6XL/L83C-6XL.json",
                 "resourceId": "L83C-6XL"
               }
             ]
@@ -19086,172 +19086,68 @@
       }
     },
     {
-      "id": "9VHQ-56B",
+      "id": "96DQ-CNM",
       "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:VWZ3-R9V",
+      "about": "https://familysearch.org/ark:/61903/1:1:QKDG-CJMT",
       "attribution": {
         "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMS-72VD",
-          "resourceId": "cis.user.MMMS-72VD"
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-9LLC",
+          "resourceId": "cis.user.MMMM-9LLC"
         },
         "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMS-72VD",
-          "resourceId": "cis.user.MMMS-72VD"
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-9LLC",
+          "resourceId": "cis.user.MMMM-9LLC"
         },
-        "modified": 1488673093385,
-        "created": 1488673093385
+        "modified": 1451509332975,
+        "created": 1451509332975
       },
       "resourceType": "FSREADONLY",
       "links": {
         "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/9VHQ-56B"
+          "href": "https://familysearch.org/platform/sources/descriptions/96DQ-CNM"
         }
       },
       "citations": [
         {
-          "value": "\"England and Wales Non-Conformist Record Indexes (RG4-8), 1588-1977,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/VWZ3-R9V : 11 December 2014), Ellen Clegg in entry for Betsy Clegg, 28 Oct 1818, Baptism; citing p. 39, Kirkham, Lancashire, record group RG4, Public Record Office, London."
+          "value": "\"BillionGraves Index,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/QKDG-CJMT : 15 September 2015), Ellen Cardwell, died 07 Oct 1874; citing BillionGraves (http://www.billiongraves.com : 2012), Burial at Preston Old and New Cemetery, Preston, Lancashire, England, United Kingdom."
         }
       ],
       "titles": [
         {
-          "value": "Ellen Clegg in entry for Betsy Clegg, \"England and Wales Non-Conformist Record Indexes (RG4-8), 1588-1977\""
+          "value": "Ellen Cardwell, \"BillionGraves Index\""
         }
       ]
     },
     {
-      "id": "9ZNP-FX2",
+      "id": "96DQ-CPV",
       "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:QJDD-5VJF",
+      "about": "https://familysearch.org/ark:/61903/1:1:QKDG-QTX5",
       "attribution": {
         "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-9LLC",
+          "resourceId": "cis.user.MMMM-9LLC"
         },
         "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-YMZX",
-          "resourceId": "cis.user.MMMM-YMZX"
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-9LLC",
+          "resourceId": "cis.user.MMMM-9LLC"
         },
-        "modified": 1489622356467,
-        "created": 1422475519965
+        "modified": 1451509384627,
+        "created": 1451509384627
       },
       "resourceType": "FSREADONLY",
       "links": {
         "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/9ZNP-FX2"
+          "href": "https://familysearch.org/platform/sources/descriptions/96DQ-CPV"
         }
       },
       "citations": [
         {
-          "value": "\"England, Lancashire, Parish Registers 1538-1910,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/QJDD-5VJF : 13 November 2015), Ellen Clegg in entry for Margaret Clegg, 12 Feb 1815; citing Christening, St Leonard, Walton le Dale, Lancashire, England, volume , Lancashire Record Office, Preston; FHL microfilm 1,526,060."
+          "value": "\"BillionGraves Index,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/QKDG-QTX5 : 15 September 2015), Ellen Cardwell, died 07 Oct 1874; citing BillionGraves (http://www.billiongraves.com : 2012), Burial at Preston Old and New Cemetery, Preston, Lancashire, England, United Kingdom."
         }
       ],
       "titles": [
         {
-          "value": "Ellen Clegg in entry for Margaret Clegg, \"England, Lancashire, Parish Registers 1538-1910\""
-        }
-      ]
-    },
-    {
-      "id": "9ZNP-FGV",
-      "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:QJDD-RM3M",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-YMZX",
-          "resourceId": "cis.user.MMMM-YMZX"
-        },
-        "modified": 1489622357473,
-        "created": 1422475597280
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/9ZNP-FGV"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"England, Lancashire, Parish Registers 1538-1910,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/QJDD-RM3M : 13 November 2015), Ellen Clegg in entry for Henry Clegg, 06 Jul 1825; citing Christening, St Leonard, Walton le Dale, Lancashire, England, volume , Lancashire Record Office, Preston; FHL microfilm 1,526,060."
-        }
-      ],
-      "titles": [
-        {
-          "value": "Ellen Clegg in entry for Henry Clegg, \"England, Lancashire, Parish Registers 1538-1910\""
-        }
-      ]
-    },
-    {
-      "id": "9ZNW-MX3",
-      "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:VBN5-ZCC",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-ZG1M",
-          "resourceId": "cis.user.MMMM-ZG1M"
-        },
-        "modified": 1489621260628,
-        "created": 1422245413905
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/9ZNW-MX3"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"England and Wales Census, 1871\", database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/VBN5-ZCC : 22 July 2015), Ellen Clegg in entry for Elizabeth Cardwell, 1871."
-        }
-      ],
-      "titles": [
-        {
-          "value": "Ellen Clegg in household of Elizabeth Cardwell, \"England and Wales Census, 1871\""
-        }
-      ]
-    },
-    {
-      "id": "9CZ3-S8R",
-      "lang": "en-us",
-      "about": "https://familysearch.org/ark:/61903/1:1:NL4V-QQY",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "modified": 1415440806732,
-        "created": 1415440806732
-      },
-      "resourceType": "IGI",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/9CZ3-S8R"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"England Marriages, 1538–1973  ,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/NL4V-QQY : 10 December 2014), Henry Clegg and Ellen Cardwell, 02 Oct 1809; citing Walton Le Dale,Lancashire,England, reference ; FHL microfilm 0844802 IT 3."
-        }
-      ],
-      "titles": [
-        {
-          "value": "Ellen Cardwell, \"England Marriages, 1538–1973  \""
-        }
-      ],
-      "notes": [
-        {
-          "text": "This extracted record was used to create this person in Family Tree."
+          "value": "Ellen Cardwell, \"BillionGraves Index\""
         }
       ]
     },
@@ -19289,111 +19185,167 @@
       ]
     },
     {
-      "id": "9VHQ-T72",
+      "id": "MSN3-46S",
       "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:FWXC-6J8",
+      "about": "https://familysearch.org/ark:/61903/1:1:NX4L-D56",
       "attribution": {
         "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMS-72VD",
-          "resourceId": "cis.user.MMMS-72VD"
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
         },
         "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMS-72VD",
-          "resourceId": "cis.user.MMMS-72VD"
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-ZG1M",
+          "resourceId": "cis.user.MMMM-ZG1M"
         },
-        "modified": 1488673375995,
-        "created": 1488673375995
+        "modified": 1489564521534,
+        "created": 1407688497900
       },
       "resourceType": "FSREADONLY",
       "links": {
         "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/9VHQ-T72"
+          "href": "https://familysearch.org/platform/sources/descriptions/MSN3-46S"
         }
       },
       "citations": [
         {
-          "value": "\"England and Wales Non-Conformist Record Indexes (RG4-8), 1588-1977,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/FWXC-6J8 : 11 December 2014), Ellen Clegg in entry for Henry Clegg, 15 Oct 1822, Baptism; citing p. 50, Kirkham, Lancashire, record group RG4, Public Record Office, London."
+          "value": "\"England Births and Christenings, 1538-1975,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/NX4L-D56 : 30 December 2014), Ellen Clegg in entry for Margaret Clegg, 12 Feb 1815; citing , reference yr 1807-1820 p 35; FHL microfilm 1,502,380."
         }
       ],
       "titles": [
         {
-          "value": "Ellen Clegg in entry for Henry Clegg, \"England and Wales Non-Conformist Record Indexes (RG4-8), 1588-1977\""
+          "value": "Ellen Clegg in entry for Margaret Clegg, \"England Births and Christenings, 1538-1975\""
         }
       ]
     },
     {
-      "id": "9NNN-JTC",
-      "lang": "en",
-      "about": "http://search.findmypast.com/record?id=gbc%2f1851%2f0002727832",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMZ-VF7Z",
-          "resourceId": "cis.user.MMMZ-VF7Z"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMZ-VF7Z",
-          "resourceId": "cis.user.MMMZ-VF7Z"
-        },
-        "modified": 1475889889896,
-        "created": 1475889889896
-      },
-      "resourceType": "DEFAULT",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/9NNN-JTC"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"1851 England, Wales & Scotland Census Transcription.\" 1851 England, Wales & Scotland Census Transcription. N.p., n.d. Web. 7 Oct. 2016. <http://search.findmypast.com/record?id=gbc%2f1851%2f0002727832>."
-        }
-      ],
-      "titles": [
-        {
-          "value": "Ellen Clegg, 1851 England, Wales & Scotland Census Transcription"
-        }
-      ],
-      "notes": [
-        {
-          "text": "Source created by http://RecordSeek.com"
-        }
-      ]
-    },
-    {
-      "id": "9H15-58Y",
-      "lang": "en-us",
-      "about": "https://familysearch.org/ark:/61903/1:1:V5JL-XF6",
+      "id": "9Z8R-GHN",
+      "lang": "en_US",
+      "about": "https://familysearch.org/ark:/61903/1:1:J7LQ-XVT",
       "attribution": {
         "contributor": {
           "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
           "resourceId": "cis.wkca.MMMM-M93P"
         },
         "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-NHTH",
+          "resourceId": "cis.user.MMM9-NHTH"
         },
-        "modified": 1415438733811,
-        "created": 1415438733811
+        "modified": 1489612748070,
+        "created": 1420493331889
       },
-      "resourceType": "IGI",
+      "resourceType": "FSREADONLY",
       "links": {
         "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/9H15-58Y"
+          "href": "https://familysearch.org/platform/sources/descriptions/9Z8R-GHN"
         }
       },
       "citations": [
         {
-          "value": "\"England Births and Christenings, 1538-1975,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/V5JL-XF6 : 6 December 2014), Ellen in entry for Betsy Clegg, 28 Oct 1818; citing , reference ; FHL microfilm 0560881 (RG4 1469)."
+          "value": "\"England Births and Christenings, 1538-1975,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/J7LQ-XVT : 30 December 2014), Ellen in entry for Jonathan Clegg, 08 Sep 1816; citing Walton-le-Dale, Lancashire, England, reference 59; FHL microfilm 1,656,765."
         }
       ],
       "titles": [
         {
-          "value": "Ellen in entry for Betsy Clegg, \"England Births and Christenings, 1538-1975\""
+          "value": "Ellen in entry for Jonathan Clegg, \"England Births and Christenings, 1538-1975\""
+        }
+      ]
+    },
+    {
+      "id": "MSN3-473",
+      "lang": "en_US",
+      "about": "https://familysearch.org/ark:/61903/1:1:NX4L-856",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-ZG1M",
+          "resourceId": "cis.user.MMMM-ZG1M"
+        },
+        "modified": 1489564520886,
+        "created": 1407688405744
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/MSN3-473"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"England Births and Christenings, 1538-1975,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/NX4L-856 : 30 December 2014), Ellen Clegg in entry for Alice Clegg, 16 Jul 1820; citing Walton-le-Dale, Lancashire, England, reference yr 1807-1820 p 124; FHL microfilm 1,502,380."
         }
       ],
-      "notes": [
+      "titles": [
         {
-          "text": "This extracted record was used to create this person in Family Tree."
+          "value": "Ellen Clegg in entry for Alice Clegg, \"England Births and Christenings, 1538-1975\""
+        }
+      ]
+    },
+    {
+      "id": "9ZHS-WK5",
+      "lang": "en_US",
+      "about": "https://familysearch.org/ark:/61903/1:1:J7FJ-XMR",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-NHTH",
+          "resourceId": "cis.user.MMM9-NHTH"
+        },
+        "modified": 1489605188053,
+        "created": 1418679713864
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/9ZHS-WK5"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"England Births and Christenings, 1538-1975,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/J7FJ-XMR : 30 December 2014), Ellen Clegg in entry for Jonathan Clegg, 08 Sep 1816; citing , reference yr 1807-1820 p 59; FHL microfilm 1,502,380."
+        }
+      ],
+      "titles": [
+        {
+          "value": "Ellen Clegg in entry for Jonathan Clegg, \"England Births and Christenings, 1538-1975\""
+        }
+      ]
+    },
+    {
+      "id": "9ZZJ-VCZ",
+      "lang": "en_US",
+      "about": "https://familysearch.org/ark:/61903/1:1:JCDV-XML",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-NHTH",
+          "resourceId": "cis.user.MMM9-NHTH"
+        },
+        "modified": 1489610221062,
+        "created": 1419979729639
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/9ZZJ-VCZ"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"England Deaths and Burials, 1538-1991,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/JCDV-XML : 24 December 2014), Ellen, 07 Oct 1874; citing , reference pg 144; FHL microfilm 1,502,384."
+        }
+      ],
+      "titles": [
+        {
+          "value": "Ellen, \"England Deaths and Burials, 1538-1991\""
         }
       ]
     },
@@ -19436,9 +19388,9 @@
       ]
     },
     {
-      "id": "9ZNP-N6D",
+      "id": "9ZNP-FGV",
       "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:JSS1-KRZ",
+      "about": "https://familysearch.org/ark:/61903/1:1:QJDD-RM3M",
       "attribution": {
         "contributor": {
           "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
@@ -19448,30 +19400,30 @@
           "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-YMZX",
           "resourceId": "cis.user.MMMM-YMZX"
         },
-        "modified": 1489622358833,
-        "created": 1422475799212
+        "modified": 1489622357473,
+        "created": 1422475597280
       },
       "resourceType": "FSREADONLY",
       "links": {
         "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/9ZNP-N6D"
+          "href": "https://familysearch.org/platform/sources/descriptions/9ZNP-FGV"
         }
       },
       "citations": [
         {
-          "value": "\"England Births and Christenings, 1538-1975,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/JSS1-KRZ : 30 December 2014), Ellen in entry for Margaret Clegg, 12 Feb 1815; citing Walton-le-Dale, Lancashire, England, reference 35; FHL microfilm 1,656,765."
+          "value": "\"England, Lancashire, Parish Registers 1538-1910,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/QJDD-RM3M : 13 November 2015), Ellen Clegg in entry for Henry Clegg, 06 Jul 1825; citing Christening, St Leonard, Walton le Dale, Lancashire, England, volume , Lancashire Record Office, Preston; FHL microfilm 1,526,060."
         }
       ],
       "titles": [
         {
-          "value": "Ellen in entry for Margaret Clegg, \"England Births and Christenings, 1538-1975\""
+          "value": "Ellen Clegg in entry for Henry Clegg, \"England, Lancashire, Parish Registers 1538-1910\""
         }
       ]
     },
     {
-      "id": "94CS-7RK",
+      "id": "9CZ3-S8R",
       "lang": "en-us",
-      "about": "https://familysearch.org/ark:/61903/1:1:N2NF-9FD",
+      "about": "https://familysearch.org/ark:/61903/1:1:NL4V-QQY",
       "attribution": {
         "contributor": {
           "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
@@ -19481,61 +19433,23 @@
           "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
           "resourceId": "cis.wkca.MMMM-M93P"
         },
-        "modified": 1415428423839,
-        "created": 1415428423839
+        "modified": 1415440806732,
+        "created": 1415440806732
       },
       "resourceType": "IGI",
       "links": {
         "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/94CS-7RK"
+          "href": "https://familysearch.org/platform/sources/descriptions/9CZ3-S8R"
         }
       },
       "citations": [
         {
-          "value": "\"England Births and Christenings, 1538-1975,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/N2NF-9FD : 30 December 2014), Ellen in entry for Elizabeth Clegg, 16 Aug 1841; citing Marsden Chapel, reference ; FHL microfilm 1,471,024."
+          "value": "\"England Marriages, 1538–1973  ,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/NL4V-QQY : 10 December 2014), Henry Clegg and Ellen Cardwell, 02 Oct 1809; citing Walton Le Dale,Lancashire,England, reference ; FHL microfilm 0844802 IT 3."
         }
       ],
       "titles": [
         {
-          "value": "Ellen in entry for Elizabeth Clegg, \"England Births and Christenings, 1538-1975\""
-        }
-      ],
-      "notes": [
-        {
-          "text": "This extracted record was used to create this person in Family Tree."
-        }
-      ]
-    },
-    {
-      "id": "MYYH-RR6",
-      "lang": "en-us",
-      "about": "https://familysearch.org/ark:/61903/1:1:V5JL-K1P",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "modified": 1415382714173,
-        "created": 1415382714173
-      },
-      "resourceType": "IGI",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/MYYH-RR6"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"England Births and Christenings, 1538-1975,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/V5JL-K1P : 6 December 2014), Ellen in entry for Henry Clegg, 05 Jul 1825; citing , reference ; FHL microfilm 0560881 (RG4 1469)."
-        }
-      ],
-      "titles": [
-        {
-          "value": "Ellen in entry for Henry Clegg, \"England Births and Christenings, 1538-1975\""
+          "value": "Ellen Cardwell, \"England Marriages, 1538–1973  \""
         }
       ],
       "notes": [
@@ -19578,44 +19492,6 @@
       ]
     },
     {
-      "id": "MYYH-54F",
-      "lang": "en-us",
-      "about": "https://familysearch.org/ark:/61903/1:1:V5JL-K12",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "modified": 1415382714173,
-        "created": 1415382714173
-      },
-      "resourceType": "IGI",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/MYYH-54F"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"England Births and Christenings, 1538-1975,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/V5JL-K12 : 6 December 2014), Ellen in entry for Henry Clegg, 15 Oct 1822; citing , reference ; FHL microfilm 0560881 (RG4 1469)."
-        }
-      ],
-      "titles": [
-        {
-          "value": "Ellen in entry for Henry Clegg, \"England Births and Christenings, 1538-1975\""
-        }
-      ],
-      "notes": [
-        {
-          "text": "This extracted record was used to create this person in Family Tree."
-        }
-      ]
-    },
-    {
       "id": "968B-LNB",
       "lang": "en_US",
       "about": "https://familysearch.org/ark:/61903/1:1:NX4L-BYY",
@@ -19649,74 +19525,145 @@
       ]
     },
     {
-      "id": "9ZNP-J5S",
+      "id": "9VHQ-56B",
       "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:NN8W-PNT",
+      "about": "https://familysearch.org/ark:/61903/1:1:VWZ3-R9V",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMS-72VD",
+          "resourceId": "cis.user.MMMS-72VD"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMS-72VD",
+          "resourceId": "cis.user.MMMS-72VD"
+        },
+        "modified": 1488673093385,
+        "created": 1488673093385
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/9VHQ-56B"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"England and Wales Non-Conformist Record Indexes (RG4-8), 1588-1977,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/VWZ3-R9V : 11 December 2014), Ellen Clegg in entry for Betsy Clegg, 28 Oct 1818, Baptism; citing p. 39, Kirkham, Lancashire, record group RG4, Public Record Office, London."
+        }
+      ],
+      "titles": [
+        {
+          "value": "Ellen Clegg in entry for Betsy Clegg, \"England and Wales Non-Conformist Record Indexes (RG4-8), 1588-1977\""
+        }
+      ]
+    },
+    {
+      "id": "M21Q-6PV",
+      "lang": "en-us",
+      "about": "https://familysearch.org/ark:/61903/1:1:JM21-92G",
       "attribution": {
         "contributor": {
           "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
           "resourceId": "cis.wkca.MMMM-M93P"
         },
         "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-YMZX",
-          "resourceId": "cis.user.MMMM-YMZX"
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
         },
-        "modified": 1489622361752,
-        "created": 1422476177942
+        "modified": 1415359123906,
+        "created": 1415359123906
       },
-      "resourceType": "FSREADONLY",
+      "resourceType": "IGI",
       "links": {
         "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/9ZNP-J5S"
+          "href": "https://familysearch.org/platform/sources/descriptions/M21Q-6PV"
         }
       },
       "citations": [
         {
-          "value": "\"England Births and Christenings, 1538-1975,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/NN8W-PNT : 30 December 2014), Ellen in entry for Thomas Clegg, 29 Nov 1812; citing Walton-le-Dale, Lancashire, England, reference ; FHL microfilm 1,656,765."
+          "value": "\"England Births and Christenings, 1538-1975,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/JM21-92G : 30 December 2014), Ellen Cardwell, 11 May 1788; citing BROUGHTON NEAR PRESTON,LANCASHIRE,ENGLAND, reference ; FHL microfilm 0599512 IT 2."
         }
       ],
       "titles": [
         {
-          "value": "Ellen in entry for Thomas Clegg, \"England Births and Christenings, 1538-1975\""
+          "value": "Ellen Cardwell, \"England Births and Christenings, 1538-1975\""
+        }
+      ],
+      "notes": [
+        {
+          "text": "This extracted record was used to create this person in Family Tree."
         }
       ]
     },
     {
-      "id": "9ZNP-V9Y",
+      "id": "9VHQ-T72",
       "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:J7FJ-X2J",
+      "about": "https://familysearch.org/ark:/61903/1:1:FWXC-6J8",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMS-72VD",
+          "resourceId": "cis.user.MMMS-72VD"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMS-72VD",
+          "resourceId": "cis.user.MMMS-72VD"
+        },
+        "modified": 1488673375995,
+        "created": 1488673375995
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/9VHQ-T72"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"England and Wales Non-Conformist Record Indexes (RG4-8), 1588-1977,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/FWXC-6J8 : 11 December 2014), Ellen Clegg in entry for Henry Clegg, 15 Oct 1822, Baptism; citing p. 50, Kirkham, Lancashire, record group RG4, Public Record Office, London."
+        }
+      ],
+      "titles": [
+        {
+          "value": "Ellen Clegg in entry for Henry Clegg, \"England and Wales Non-Conformist Record Indexes (RG4-8), 1588-1977\""
+        }
+      ]
+    },
+    {
+      "id": "9ZNW-MX3",
+      "lang": "en_US",
+      "about": "https://familysearch.org/ark:/61903/1:1:VBN5-ZCC",
       "attribution": {
         "contributor": {
           "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
           "resourceId": "cis.wkca.MMMM-M93P"
         },
         "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-YMZX",
-          "resourceId": "cis.user.MMMM-YMZX"
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-ZG1M",
+          "resourceId": "cis.user.MMMM-ZG1M"
         },
-        "modified": 1489622362099,
-        "created": 1422476258522
+        "modified": 1489621260628,
+        "created": 1422245413905
       },
       "resourceType": "FSREADONLY",
       "links": {
         "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/9ZNP-V9Y"
+          "href": "https://familysearch.org/platform/sources/descriptions/9ZNW-MX3"
         }
       },
       "citations": [
         {
-          "value": "\"England Births and Christenings, 1538-1975,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/J7FJ-X2J : 30 December 2014), Ellen Clegg in entry for James Clegg, 29 Nov 1812; citing , reference yr 1807-1820; FHL microfilm 1,502,380."
+          "value": "\"England and Wales Census, 1871\", database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/VBN5-ZCC : 22 July 2015), Ellen Clegg in entry for Elizabeth Cardwell, 1871."
         }
       ],
       "titles": [
         {
-          "value": "Ellen Clegg in entry for James Clegg, \"England Births and Christenings, 1538-1975\""
+          "value": "Ellen Clegg in household of Elizabeth Cardwell, \"England and Wales Census, 1871\""
         }
       ]
     },
     {
-      "id": "9ZNP-NY9",
-      "lang": "en_US",
+      "id": "9H15-58Y",
+      "lang": "en-us",
       "about": "https://familysearch.org/ark:/61903/1:1:V5JL-XF6",
       "attribution": {
         "contributor": {
@@ -19724,16 +19671,16 @@
           "resourceId": "cis.wkca.MMMM-M93P"
         },
         "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-YMZX",
-          "resourceId": "cis.user.MMMM-YMZX"
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
         },
-        "modified": 1489622359762,
-        "created": 1422475931389
+        "modified": 1415438733811,
+        "created": 1415438733811
       },
-      "resourceType": "FSREADONLY",
+      "resourceType": "IGI",
       "links": {
         "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/9ZNP-NY9"
+          "href": "https://familysearch.org/platform/sources/descriptions/9H15-58Y"
         }
       },
       "citations": [
@@ -19745,370 +19692,10 @@
         {
           "value": "Ellen in entry for Betsy Clegg, \"England Births and Christenings, 1538-1975\""
         }
-      ]
-    },
-    {
-      "id": "9ZNP-J4L",
-      "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:V5JL-K12",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-YMZX",
-          "resourceId": "cis.user.MMMM-YMZX"
-        },
-        "modified": 1489622360097,
-        "created": 1422476026107
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/9ZNP-J4L"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"England Births and Christenings, 1538-1975,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/V5JL-K12 : 6 December 2014), Ellen in entry for Henry Clegg, 15 Oct 1822; citing , reference ; FHL microfilm 0560881 (RG4 1469)."
-        }
-      ],
-      "titles": [
-        {
-          "value": "Ellen in entry for Henry Clegg, \"England Births and Christenings, 1538-1975\""
-        }
-      ]
-    },
-    {
-      "id": "96DQ-CNM",
-      "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:QKDG-CJMT",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-9LLC",
-          "resourceId": "cis.user.MMMM-9LLC"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-9LLC",
-          "resourceId": "cis.user.MMMM-9LLC"
-        },
-        "modified": 1451509332975,
-        "created": 1451509332975
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/96DQ-CNM"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"BillionGraves Index,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/QKDG-CJMT : 15 September 2015), Ellen Cardwell, died 07 Oct 1874; citing BillionGraves (http://www.billiongraves.com : 2012), Burial at Preston Old and New Cemetery, Preston, Lancashire, England, United Kingdom."
-        }
-      ],
-      "titles": [
-        {
-          "value": "Ellen Cardwell, \"BillionGraves Index\""
-        }
-      ]
-    },
-    {
-      "id": "9Z8R-GHN",
-      "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:J7LQ-XVT",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-NHTH",
-          "resourceId": "cis.user.MMM9-NHTH"
-        },
-        "modified": 1489612748070,
-        "created": 1420493331889
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/9Z8R-GHN"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"England Births and Christenings, 1538-1975,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/J7LQ-XVT : 30 December 2014), Ellen in entry for Jonathan Clegg, 08 Sep 1816; citing Walton-le-Dale, Lancashire, England, reference 59; FHL microfilm 1,656,765."
-        }
-      ],
-      "titles": [
-        {
-          "value": "Ellen in entry for Jonathan Clegg, \"England Births and Christenings, 1538-1975\""
-        }
-      ]
-    },
-    {
-      "id": "9ZZJ-NTB",
-      "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:QVKJ-T18Q",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-NHTH",
-          "resourceId": "cis.user.MMM9-NHTH"
-        },
-        "modified": 1489610217744,
-        "created": 1419979274964
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/9ZZJ-NTB"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"Find A Grave Index,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/QVKJ-T18Q : 11 July 2016), Ellen Cardwell Clegg, 1874; Burial, Walton-le-Dale, South Ribble Borough, Lancashire, England, St Leonard Cathedral Churchyard; citing record ID 49030358, Find a Grave, http://www.findagrave.com."
-        }
-      ],
-      "titles": [
-        {
-          "value": "Ellen Cardwell Clegg, \"Find A Grave Index\""
-        }
-      ]
-    },
-    {
-      "id": "9ZZJ-VCZ",
-      "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:JCDV-XML",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-NHTH",
-          "resourceId": "cis.user.MMM9-NHTH"
-        },
-        "modified": 1489610221062,
-        "created": 1419979729639
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/9ZZJ-VCZ"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"England Deaths and Burials, 1538-1991,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/JCDV-XML : 24 December 2014), Ellen, 07 Oct 1874; citing , reference pg 144; FHL microfilm 1,502,384."
-        }
-      ],
-      "titles": [
-        {
-          "value": "Ellen, \"England Deaths and Burials, 1538-1991\""
-        }
-      ]
-    },
-    {
-      "id": "M97T-288",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMZ-1XC8",
-          "resourceId": "cis.user.MMMZ-1XC8"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMZ-1XC8",
-          "resourceId": "cis.user.MMMZ-1XC8"
-        },
-        "modified": 1402332860119,
-        "created": 1402332860119
-      },
-      "resourceType": "LEGACY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/M97T-288"
-        }
-      },
-      "citations": [
-        {
-          "value": "Ancestral File (R), The Church of Jesus Christ of Latter-day Saints, Copyright (c) 1987, June 1998, data as of 5 January 1998, Family History Library, 35 N West Temple Street, Salt Lake City, Utah 84150  USA"
-        }
-      ],
-      "titles": [
-        {
-          "value": "Legacy NFS Source: Ellen Cardwell - "
-        }
       ],
       "notes": [
         {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "id": "MM6Q-R2Y",
-      "about": "https://familysearch.org/ark:/61903/1:1:NNST-9D6",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-6FWZ",
-          "resourceId": "cis.user.MMMM-6FWZ"
-        },
-        "modified": 1489536701843,
-        "created": 1387304010000
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/MM6Q-R2Y"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"England Marriages, 1538–1973  ,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/NNST-9D6 : 10 December 2014), Henry Clegg and Ellen Cardwell, 02 Oct 1809; citing Walton-Le-Dale, Lancashire, England, reference ; FHL microfilm 1,656,765."
-        }
-      ],
-      "titles": [
-        {
-          "value": "Ellen Cardwell, \"England Marriages, 1538–1973  \""
-        }
-      ]
-    },
-    {
-      "id": "MSN3-473",
-      "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:NX4L-856",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-ZG1M",
-          "resourceId": "cis.user.MMMM-ZG1M"
-        },
-        "modified": 1489564520886,
-        "created": 1407688405744
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/MSN3-473"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"England Births and Christenings, 1538-1975,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/NX4L-856 : 30 December 2014), Ellen Clegg in entry for Alice Clegg, 16 Jul 1820; citing Walton-le-Dale, Lancashire, England, reference yr 1807-1820 p 124; FHL microfilm 1,502,380."
-        }
-      ],
-      "titles": [
-        {
-          "value": "Ellen Clegg in entry for Alice Clegg, \"England Births and Christenings, 1538-1975\""
-        }
-      ]
-    },
-    {
-      "id": "MSN3-H7N",
-      "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:QJDD-5K3Y",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-ZG1M",
-          "resourceId": "cis.user.MMMM-ZG1M"
-        },
-        "modified": 1489564523016,
-        "created": 1407688816811
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/MSN3-H7N"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"England, Lancashire, Parish Registers 1538-1910,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/QJDD-5K3Y : 13 November 2015), Ellen Clegg in entry for Alice Clegg, 16 Jul 1820; citing Christening, St Leonard, Walton le Dale, Lancashire, England, volume , Lancashire Record Office, Preston; FHL microfilm 1,526,060."
-        }
-      ],
-      "titles": [
-        {
-          "value": "Ellen Clegg in entry for Alice Clegg, \"England, Lancashire, Parish Registers 1538-1910\""
-        }
-      ]
-    },
-    {
-      "id": "9ZHS-WK5",
-      "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:J7FJ-XMR",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-NHTH",
-          "resourceId": "cis.user.MMM9-NHTH"
-        },
-        "modified": 1489605188053,
-        "created": 1418679713864
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/9ZHS-WK5"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"England Births and Christenings, 1538-1975,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/J7FJ-XMR : 30 December 2014), Ellen Clegg in entry for Jonathan Clegg, 08 Sep 1816; citing , reference yr 1807-1820 p 59; FHL microfilm 1,502,380."
-        }
-      ],
-      "titles": [
-        {
-          "value": "Ellen Clegg in entry for Jonathan Clegg, \"England Births and Christenings, 1538-1975\""
-        }
-      ]
-    },
-    {
-      "id": "MSN3-4JT",
-      "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:NTSS-723",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-ZG1M",
-          "resourceId": "cis.user.MMMM-ZG1M"
-        },
-        "modified": 1489564521946,
-        "created": 1407688565614
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/MSN3-4JT"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"England Births and Christenings, 1538-1975,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/NTSS-723 : 30 December 2014), Ellen Clegg in entry for Thomas Clegg, 29 Nov 1812; citing , reference yr 1807-1820; FHL microfilm 1,502,380."
-        }
-      ],
-      "titles": [
-        {
-          "value": "Ellen Clegg in entry for Thomas Clegg, \"England Births and Christenings, 1538-1975\""
+          "text": "This extracted record was used to create this person in Family Tree."
         }
       ]
     },
@@ -20179,9 +19766,323 @@
       ]
     },
     {
-      "id": "MSN3-46S",
+      "id": "9ZNP-J4L",
       "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:NX4L-D56",
+      "about": "https://familysearch.org/ark:/61903/1:1:V5JL-K12",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-YMZX",
+          "resourceId": "cis.user.MMMM-YMZX"
+        },
+        "modified": 1489622360097,
+        "created": 1422476026107
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/9ZNP-J4L"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"England Births and Christenings, 1538-1975,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/V5JL-K12 : 6 December 2014), Ellen in entry for Henry Clegg, 15 Oct 1822; citing , reference ; FHL microfilm 0560881 (RG4 1469)."
+        }
+      ],
+      "titles": [
+        {
+          "value": "Ellen in entry for Henry Clegg, \"England Births and Christenings, 1538-1975\""
+        }
+      ]
+    },
+    {
+      "id": "9ZNP-J5S",
+      "lang": "en_US",
+      "about": "https://familysearch.org/ark:/61903/1:1:NN8W-PNT",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-YMZX",
+          "resourceId": "cis.user.MMMM-YMZX"
+        },
+        "modified": 1489622361752,
+        "created": 1422476177942
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/9ZNP-J5S"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"England Births and Christenings, 1538-1975,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/NN8W-PNT : 30 December 2014), Ellen in entry for Thomas Clegg, 29 Nov 1812; citing Walton-le-Dale, Lancashire, England, reference ; FHL microfilm 1,656,765."
+        }
+      ],
+      "titles": [
+        {
+          "value": "Ellen in entry for Thomas Clegg, \"England Births and Christenings, 1538-1975\""
+        }
+      ]
+    },
+    {
+      "id": "9ZNP-V9Y",
+      "lang": "en_US",
+      "about": "https://familysearch.org/ark:/61903/1:1:J7FJ-X2J",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-YMZX",
+          "resourceId": "cis.user.MMMM-YMZX"
+        },
+        "modified": 1489622362099,
+        "created": 1422476258522
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/9ZNP-V9Y"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"England Births and Christenings, 1538-1975,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/J7FJ-X2J : 30 December 2014), Ellen Clegg in entry for James Clegg, 29 Nov 1812; citing , reference yr 1807-1820; FHL microfilm 1,502,380."
+        }
+      ],
+      "titles": [
+        {
+          "value": "Ellen Clegg in entry for James Clegg, \"England Births and Christenings, 1538-1975\""
+        }
+      ]
+    },
+    {
+      "id": "M97T-288",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMZ-1XC8",
+          "resourceId": "cis.user.MMMZ-1XC8"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMZ-1XC8",
+          "resourceId": "cis.user.MMMZ-1XC8"
+        },
+        "modified": 1402332860119,
+        "created": 1402332860119
+      },
+      "resourceType": "LEGACY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/M97T-288"
+        }
+      },
+      "citations": [
+        {
+          "value": "Ancestral File (R), The Church of Jesus Christ of Latter-day Saints, Copyright (c) 1987, June 1998, data as of 5 January 1998, Family History Library, 35 N West Temple Street, Salt Lake City, Utah 84150  USA"
+        }
+      ],
+      "titles": [
+        {
+          "value": "Legacy NFS Source: Ellen Cardwell - "
+        }
+      ],
+      "notes": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "9ZNP-FX2",
+      "lang": "en_US",
+      "about": "https://familysearch.org/ark:/61903/1:1:QJDD-5VJF",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-YMZX",
+          "resourceId": "cis.user.MMMM-YMZX"
+        },
+        "modified": 1489622356467,
+        "created": 1422475519965
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/9ZNP-FX2"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"England, Lancashire, Parish Registers 1538-1910,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/QJDD-5VJF : 13 November 2015), Ellen Clegg in entry for Margaret Clegg, 12 Feb 1815; citing Christening, St Leonard, Walton le Dale, Lancashire, England, volume , Lancashire Record Office, Preston; FHL microfilm 1,526,060."
+        }
+      ],
+      "titles": [
+        {
+          "value": "Ellen Clegg in entry for Margaret Clegg, \"England, Lancashire, Parish Registers 1538-1910\""
+        }
+      ]
+    },
+    {
+      "id": "MYYH-54F",
+      "lang": "en-us",
+      "about": "https://familysearch.org/ark:/61903/1:1:V5JL-K12",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "modified": 1415382714173,
+        "created": 1415382714173
+      },
+      "resourceType": "IGI",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/MYYH-54F"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"England Births and Christenings, 1538-1975,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/V5JL-K12 : 6 December 2014), Ellen in entry for Henry Clegg, 15 Oct 1822; citing , reference ; FHL microfilm 0560881 (RG4 1469)."
+        }
+      ],
+      "titles": [
+        {
+          "value": "Ellen in entry for Henry Clegg, \"England Births and Christenings, 1538-1975\""
+        }
+      ],
+      "notes": [
+        {
+          "text": "This extracted record was used to create this person in Family Tree."
+        }
+      ]
+    },
+    {
+      "id": "9NNN-JTC",
+      "lang": "en",
+      "about": "http://search.findmypast.com/record?id=gbc%2f1851%2f0002727832",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMZ-VF7Z",
+          "resourceId": "cis.user.MMMZ-VF7Z"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMZ-VF7Z",
+          "resourceId": "cis.user.MMMZ-VF7Z"
+        },
+        "modified": 1475889889896,
+        "created": 1475889889896
+      },
+      "resourceType": "DEFAULT",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/9NNN-JTC"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"1851 England, Wales & Scotland Census Transcription.\" 1851 England, Wales & Scotland Census Transcription. N.p., n.d. Web. 7 Oct. 2016. <http://search.findmypast.com/record?id=gbc%2f1851%2f0002727832>."
+        }
+      ],
+      "titles": [
+        {
+          "value": "Ellen Clegg, 1851 England, Wales & Scotland Census Transcription"
+        }
+      ],
+      "notes": [
+        {
+          "text": "Source created by http://RecordSeek.com"
+        }
+      ]
+    },
+    {
+      "id": "MM9S-7FZ",
+      "about": "https://familysearch.org/ark:/61903/1:1:JM21-92G",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-ZQVC",
+          "resourceId": "cis.user.MMMM-ZQVC"
+        },
+        "modified": 1489500557726,
+        "created": 1352839711000
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/MM9S-7FZ"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"England Births and Christenings, 1538-1975,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/JM21-92G : 30 December 2014), Ellen Cardwell, 11 May 1788; citing BROUGHTON NEAR PRESTON,LANCASHIRE,ENGLAND, reference ; FHL microfilm 0599512 IT 2."
+        }
+      ],
+      "titles": [
+        {
+          "value": "Ellen Cardwell, \"England Births and Christenings, 1538-1975\""
+        }
+      ]
+    },
+    {
+      "id": "MYYH-RR6",
+      "lang": "en-us",
+      "about": "https://familysearch.org/ark:/61903/1:1:V5JL-K1P",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "modified": 1415382714173,
+        "created": 1415382714173
+      },
+      "resourceType": "IGI",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/MYYH-RR6"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"England Births and Christenings, 1538-1975,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/V5JL-K1P : 6 December 2014), Ellen in entry for Henry Clegg, 05 Jul 1825; citing , reference ; FHL microfilm 0560881 (RG4 1469)."
+        }
+      ],
+      "titles": [
+        {
+          "value": "Ellen in entry for Henry Clegg, \"England Births and Christenings, 1538-1975\""
+        }
+      ],
+      "notes": [
+        {
+          "text": "This extracted record was used to create this person in Family Tree."
+        }
+      ]
+    },
+    {
+      "id": "MSN3-4JT",
+      "lang": "en_US",
+      "about": "https://familysearch.org/ark:/61903/1:1:NTSS-723",
       "attribution": {
         "contributor": {
           "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
@@ -20191,23 +20092,56 @@
           "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-ZG1M",
           "resourceId": "cis.user.MMMM-ZG1M"
         },
-        "modified": 1489564521534,
-        "created": 1407688497900
+        "modified": 1489564521946,
+        "created": 1407688565614
       },
       "resourceType": "FSREADONLY",
       "links": {
         "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/MSN3-46S"
+          "href": "https://familysearch.org/platform/sources/descriptions/MSN3-4JT"
         }
       },
       "citations": [
         {
-          "value": "\"England Births and Christenings, 1538-1975,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/NX4L-D56 : 30 December 2014), Ellen Clegg in entry for Margaret Clegg, 12 Feb 1815; citing , reference yr 1807-1820 p 35; FHL microfilm 1,502,380."
+          "value": "\"England Births and Christenings, 1538-1975,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/NTSS-723 : 30 December 2014), Ellen Clegg in entry for Thomas Clegg, 29 Nov 1812; citing , reference yr 1807-1820; FHL microfilm 1,502,380."
         }
       ],
       "titles": [
         {
-          "value": "Ellen Clegg in entry for Margaret Clegg, \"England Births and Christenings, 1538-1975\""
+          "value": "Ellen Clegg in entry for Thomas Clegg, \"England Births and Christenings, 1538-1975\""
+        }
+      ]
+    },
+    {
+      "id": "MSN3-H7N",
+      "lang": "en_US",
+      "about": "https://familysearch.org/ark:/61903/1:1:QJDD-5K3Y",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-ZG1M",
+          "resourceId": "cis.user.MMMM-ZG1M"
+        },
+        "modified": 1489564523016,
+        "created": 1407688816811
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/MSN3-H7N"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"England, Lancashire, Parish Registers 1538-1910,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/QJDD-5K3Y : 13 November 2015), Ellen Clegg in entry for Alice Clegg, 16 Jul 1820; citing Christening, St Leonard, Walton le Dale, Lancashire, England, volume , Lancashire Record Office, Preston; FHL microfilm 1,526,060."
+        }
+      ],
+      "titles": [
+        {
+          "value": "Ellen Clegg in entry for Alice Clegg, \"England, Lancashire, Parish Registers 1538-1910\""
         }
       ]
     },
@@ -20241,6 +20175,104 @@
       "titles": [
         {
           "value": "Ellen Clegg in entry for Jonathan Clegg, \"England, Lancashire, Parish Registers 1538-1910\""
+        }
+      ]
+    },
+    {
+      "id": "9ZNP-NY9",
+      "lang": "en_US",
+      "about": "https://familysearch.org/ark:/61903/1:1:V5JL-XF6",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-YMZX",
+          "resourceId": "cis.user.MMMM-YMZX"
+        },
+        "modified": 1489622359762,
+        "created": 1422475931389
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/9ZNP-NY9"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"England Births and Christenings, 1538-1975,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/V5JL-XF6 : 6 December 2014), Ellen in entry for Betsy Clegg, 28 Oct 1818; citing , reference ; FHL microfilm 0560881 (RG4 1469)."
+        }
+      ],
+      "titles": [
+        {
+          "value": "Ellen in entry for Betsy Clegg, \"England Births and Christenings, 1538-1975\""
+        }
+      ]
+    },
+    {
+      "id": "MM6Q-R2Y",
+      "about": "https://familysearch.org/ark:/61903/1:1:NNST-9D6",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-6FWZ",
+          "resourceId": "cis.user.MMMM-6FWZ"
+        },
+        "modified": 1489536701843,
+        "created": 1387304010000
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/MM6Q-R2Y"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"England Marriages, 1538–1973  ,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/NNST-9D6 : 10 December 2014), Henry Clegg and Ellen Cardwell, 02 Oct 1809; citing Walton-Le-Dale, Lancashire, England, reference ; FHL microfilm 1,656,765."
+        }
+      ],
+      "titles": [
+        {
+          "value": "Ellen Cardwell, \"England Marriages, 1538–1973  \""
+        }
+      ]
+    },
+    {
+      "id": "9ZZJ-NTB",
+      "lang": "en_US",
+      "about": "https://familysearch.org/ark:/61903/1:1:QVKJ-T18Q",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-NHTH",
+          "resourceId": "cis.user.MMM9-NHTH"
+        },
+        "modified": 1489610217744,
+        "created": 1419979274964
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/9ZZJ-NTB"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"Find A Grave Index,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/QVKJ-T18Q : 11 July 2016), Ellen Cardwell Clegg, 1874; Burial, Walton-le-Dale, South Ribble Borough, Lancashire, England, St Leonard Cathedral Churchyard; citing record ID 49030358, Find a Grave, http://www.findagrave.com."
+        }
+      ],
+      "titles": [
+        {
+          "value": "Ellen Cardwell Clegg, \"Find A Grave Index\""
         }
       ]
     },
@@ -20283,9 +20315,9 @@
       ]
     },
     {
-      "id": "M21Q-6PV",
+      "id": "94CS-7RK",
       "lang": "en-us",
-      "about": "https://familysearch.org/ark:/61903/1:1:JM21-92G",
+      "about": "https://familysearch.org/ark:/61903/1:1:N2NF-9FD",
       "attribution": {
         "contributor": {
           "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
@@ -20295,23 +20327,23 @@
           "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
           "resourceId": "cis.wkca.MMMM-M93P"
         },
-        "modified": 1415359123906,
-        "created": 1415359123906
+        "modified": 1415428423839,
+        "created": 1415428423839
       },
       "resourceType": "IGI",
       "links": {
         "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/M21Q-6PV"
+          "href": "https://familysearch.org/platform/sources/descriptions/94CS-7RK"
         }
       },
       "citations": [
         {
-          "value": "\"England Births and Christenings, 1538-1975,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/JM21-92G : 30 December 2014), Ellen Cardwell, 11 May 1788; citing BROUGHTON NEAR PRESTON,LANCASHIRE,ENGLAND, reference ; FHL microfilm 0599512 IT 2."
+          "value": "\"England Births and Christenings, 1538-1975,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/N2NF-9FD : 30 December 2014), Ellen in entry for Elizabeth Clegg, 16 Aug 1841; citing Marsden Chapel, reference ; FHL microfilm 1,471,024."
         }
       ],
       "titles": [
         {
-          "value": "Ellen Cardwell, \"England Births and Christenings, 1538-1975\""
+          "value": "Ellen in entry for Elizabeth Clegg, \"England Births and Christenings, 1538-1975\""
         }
       ],
       "notes": [
@@ -20321,67 +20353,35 @@
       ]
     },
     {
-      "id": "96DQ-CPV",
+      "id": "9ZNP-N6D",
       "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:QKDG-QTX5",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-9LLC",
-          "resourceId": "cis.user.MMMM-9LLC"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-9LLC",
-          "resourceId": "cis.user.MMMM-9LLC"
-        },
-        "modified": 1451509384627,
-        "created": 1451509384627
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/96DQ-CPV"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"BillionGraves Index,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/QKDG-QTX5 : 15 September 2015), Ellen Cardwell, died 07 Oct 1874; citing BillionGraves (http://www.billiongraves.com : 2012), Burial at Preston Old and New Cemetery, Preston, Lancashire, England, United Kingdom."
-        }
-      ],
-      "titles": [
-        {
-          "value": "Ellen Cardwell, \"BillionGraves Index\""
-        }
-      ]
-    },
-    {
-      "id": "MM9S-7FZ",
-      "about": "https://familysearch.org/ark:/61903/1:1:JM21-92G",
+      "about": "https://familysearch.org/ark:/61903/1:1:JSS1-KRZ",
       "attribution": {
         "contributor": {
           "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
           "resourceId": "cis.wkca.MMMM-M93P"
         },
         "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-ZQVC",
-          "resourceId": "cis.user.MMMM-ZQVC"
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-YMZX",
+          "resourceId": "cis.user.MMMM-YMZX"
         },
-        "modified": 1489500557726,
-        "created": 1352839711000
+        "modified": 1489622358833,
+        "created": 1422475799212
       },
       "resourceType": "FSREADONLY",
       "links": {
         "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/MM9S-7FZ"
+          "href": "https://familysearch.org/platform/sources/descriptions/9ZNP-N6D"
         }
       },
       "citations": [
         {
-          "value": "\"England Births and Christenings, 1538-1975,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/JM21-92G : 30 December 2014), Ellen Cardwell, 11 May 1788; citing BROUGHTON NEAR PRESTON,LANCASHIRE,ENGLAND, reference ; FHL microfilm 0599512 IT 2."
+          "value": "\"England Births and Christenings, 1538-1975,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/JSS1-KRZ : 30 December 2014), Ellen in entry for Margaret Clegg, 12 Feb 1815; citing Walton-le-Dale, Lancashire, England, reference 35; FHL microfilm 1,656,765."
         }
       ],
       "titles": [
         {
-          "value": "Ellen Cardwell, \"England Births and Christenings, 1538-1975\""
+          "value": "Ellen in entry for Margaret Clegg, \"England Births and Christenings, 1538-1975\""
         }
       ]
     }

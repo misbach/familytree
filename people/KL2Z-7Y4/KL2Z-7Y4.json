@@ -57,7 +57,7 @@
           "href": "https://familysearch.org/platform/tree/persons/KL2Z-7Y4/families?sourceDescriptions=true"
         },
         "portrait": {
-          "href": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/KL2Z-7Y4/KL2Z-7Y4.jpg"
+          "href": "https://raw.githubusercontent.com/misbach/familytree/master/people/KL2Z-7Y4/KL2Z-7Y4.jpg"
         },
         "matches": {
           "href": "https://familysearch.org/platform/tree/persons/KL2Z-7Y4/matches"
@@ -691,51 +691,51 @@
         "familiesAsParent": [
           {
             "parent1": {
-              "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/MG6G-FR9/MG6G-FR9.json",
+              "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/MG6G-FR9/MG6G-FR9.json",
               "resourceId": "MG6G-FR9"
             },
             "parent2": {
-              "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/KL2Z-7Y4/KL2Z-7Y4.json",
+              "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KL2Z-7Y4/KL2Z-7Y4.json",
               "resourceId": "KL2Z-7Y4"
             },
             "children": []
           },
           {
             "parent1": {
-              "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/LVVD-L5X/LVVD-L5X.json",
+              "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/LVVD-L5X/LVVD-L5X.json",
               "resourceId": "LVVD-L5X"
             },
             "parent2": {
-              "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/KL2Z-7Y4/KL2Z-7Y4.json",
+              "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KL2Z-7Y4/KL2Z-7Y4.json",
               "resourceId": "KL2Z-7Y4"
             },
             "children": [
               {
-                "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/L7FK-YR7/L7FK-YR7.json",
+                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/L7FK-YR7/L7FK-YR7.json",
                 "resourceId": "L7FK-YR7"
               }
             ]
           },
           {
             "parent1": {
-              "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/LZJX-8CN/LZJX-8CN.json",
+              "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/LZJX-8CN/LZJX-8CN.json",
               "resourceId": "LZJX-8CN"
             },
             "parent2": {
-              "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/KL2Z-7Y4/KL2Z-7Y4.json",
+              "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KL2Z-7Y4/KL2Z-7Y4.json",
               "resourceId": "KL2Z-7Y4"
             },
             "children": [
               {
-                "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/LCY3-9TV/LCY3-9TV.json",
+                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/LCY3-9TV/LCY3-9TV.json",
                 "resourceId": "LCY3-9TV"
               },
               {
-                "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/LZ4G-6HQ/LZ4G-6HQ.json",
+                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/LZ4G-6HQ/LZ4G-6HQ.json",
                 "resourceId": "LZ4G-6HQ"
               },
               {
-                "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/LCFQ-5XQ/LCFQ-5XQ.json",
+                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/LCFQ-5XQ/LCFQ-5XQ.json",
                 "resourceId": "LCFQ-5XQ"
               }
             ]
@@ -744,16 +744,16 @@
         "familiesAsChild": [
           {
             "parent1": {
-              "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/LHRB-D4G/LHRB-D4G.json",
+              "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/LHRB-D4G/LHRB-D4G.json",
               "resourceId": "LHRB-D4G"
             },
             "parent2": {
-              "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/LJLG-19M/LJLG-19M.json",
+              "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/LJLG-19M/LJLG-19M.json",
               "resourceId": "LJLG-19M"
             },
             "children": [
               {
-                "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/KL2Z-7Y4/KL2Z-7Y4.json",
+                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KL2Z-7Y4/KL2Z-7Y4.json",
                 "resourceId": "KL2Z-7Y4"
               }
             ]
@@ -22190,44 +22190,6 @@
       }
     },
     {
-      "id": "MRYD-3TK",
-      "lang": "en-us",
-      "about": "https://familysearch.org/ark:/61903/1:1:F7WC-YBX",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "modified": 1415375862167,
-        "created": 1415375862167
-      },
-      "resourceType": "IGI",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/MRYD-3TK"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"Connecticut Births and Christenings, 1649-1906,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/F7WC-YBX : 3 December 2014), Elizabeth in entry for Sarah Butt, 31 May 1730; citing ; FHL microfilm unknown."
-        }
-      ],
-      "titles": [
-        {
-          "value": "Elizabeth in entry for Sarah Butt, \"Connecticut Births and Christenings, 1649-1906\""
-        }
-      ],
-      "notes": [
-        {
-          "text": "This extracted record was used to create this person in Family Tree."
-        }
-      ]
-    },
-    {
       "id": "MRY6-WJX",
       "lang": "en-us",
       "about": "https://familysearch.org/ark:/61903/1:1:F7WC-Y2C",
@@ -22266,45 +22228,9 @@
       ]
     },
     {
-      "id": "M944-J1B",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-CCHY",
-          "resourceId": "cis.user.MMMM-CCHY"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-CCHY",
-          "resourceId": "cis.user.MMMM-CCHY"
-        },
-        "modified": 1402431848075,
-        "created": 1402431848075
-      },
-      "resourceType": "LEGACY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/M944-J1B"
-        }
-      },
-      "citations": [
-        {
-          "value": "GEDCOM file. Created on 1 February 2006. Imported on 1 Feb 2006."
-        }
-      ],
-      "titles": [
-        {
-          "value": "Legacy NFS Source: Elizabeth Williams - birth: about 1710; "
-        }
-      ],
-      "notes": [
-        {
-          "text": "birth: about 1710;   \n  \n  \n  \n  \n"
-        }
-      ]
-    },
-    {
-      "id": "MRBQ-2QR",
+      "id": "MRYY-LKV",
       "lang": "en-us",
-      "about": "https://familysearch.org/ark:/61903/1:1:F7WP-KLZ",
+      "about": "https://familysearch.org/ark:/61903/1:1:F74F-N83",
       "attribution": {
         "contributor": {
           "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
@@ -22314,23 +22240,23 @@
           "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
           "resourceId": "cis.wkca.MMMM-M93P"
         },
-        "modified": 1415375947890,
-        "created": 1415375947890
+        "modified": 1415375926387,
+        "created": 1415375926387
       },
       "resourceType": "IGI",
       "links": {
         "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/MRBQ-2QR"
+          "href": "https://familysearch.org/platform/sources/descriptions/MRYY-LKV"
         }
       },
       "citations": [
         {
-          "value": "\"Connecticut Births and Christenings, 1649-1906,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/F7WP-KLZ : 3 December 2014), Elizabeth Williams, 16 Oct 1711; citing ; FHL microfilm unknown."
+          "value": "\"Connecticut Births and Christenings, 1649-1906,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/F74F-N83 : 3 December 2014), Elizabeth in entry for Josiah Butt, 18 Sep 1753; citing ; FHL microfilm unknown."
         }
       ],
       "titles": [
         {
-          "value": "Elizabeth Williams, \"Connecticut Births and Christenings, 1649-1906\""
+          "value": "Elizabeth in entry for Josiah Butt, \"Connecticut Births and Christenings, 1649-1906\""
         }
       ],
       "notes": [
@@ -22340,38 +22266,114 @@
       ]
     },
     {
-      "id": "M944-VMP",
+      "id": "MRYZ-W51",
+      "lang": "en-us",
+      "about": "https://familysearch.org/ark:/61903/1:1:F7WC-YL5",
       "attribution": {
         "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-X5BD",
-          "resourceId": "cis.user.MMMM-X5BD"
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
         },
         "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-X5BD",
-          "resourceId": "cis.user.MMMM-X5BD"
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
         },
-        "modified": 1402431849158,
-        "created": 1402431849158
+        "modified": 1415375862167,
+        "created": 1415375862167
       },
-      "resourceType": "LEGACY",
+      "resourceType": "IGI",
       "links": {
         "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/M944-VMP"
+          "href": "https://familysearch.org/platform/sources/descriptions/MRYZ-W51"
         }
       },
       "citations": [
         {
-          "value": ""
+          "value": "\"Connecticut Births and Christenings, 1649-1906,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/F7WC-YL5 : 3 December 2014), Elizabeth in entry for Deliverance Butt, 01 Aug 1749; citing ; FHL microfilm unknown."
         }
       ],
       "titles": [
         {
-          "value": "Legacy NFS Source: Elizabeth Williams - Published information: death: 6 October 1753; New London, New London, Connecticut, United States"
+          "value": "Elizabeth in entry for Deliverance Butt, \"Connecticut Births and Christenings, 1649-1906\""
         }
       ],
       "notes": [
         {
-          "text": "Published information: death: 6 October 1753; New London, New London, Connecticut, United States  \nPublished information: birth-name: Elizabeth Williams"
+          "text": "This extracted record was used to create this person in Family Tree."
+        }
+      ]
+    },
+    {
+      "id": "MRY3-J7V",
+      "lang": "en-us",
+      "about": "https://familysearch.org/ark:/61903/1:1:F7WC-BQ6",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "modified": 1415375836736,
+        "created": 1415375836736
+      },
+      "resourceType": "IGI",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/MRY3-J7V"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"Connecticut Births and Christenings, 1649-1906,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/F7WC-BQ6 : 3 December 2014), Elizabeth in entry for Submit Butt, 16 May 1743; citing ; FHL microfilm unknown."
+        }
+      ],
+      "titles": [
+        {
+          "value": "Elizabeth in entry for Submit Butt, \"Connecticut Births and Christenings, 1649-1906\""
+        }
+      ],
+      "notes": [
+        {
+          "text": "This extracted record was used to create this person in Family Tree."
+        }
+      ]
+    },
+    {
+      "id": "M944-VM7",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-CCHY",
+          "resourceId": "cis.user.MMMM-CCHY"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-CCHY",
+          "resourceId": "cis.user.MMMM-CCHY"
+        },
+        "modified": 1402431848430,
+        "created": 1402431848430
+      },
+      "resourceType": "LEGACY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/M944-VM7"
+        }
+      },
+      "citations": [
+        {
+          "value": "The Church of Jesus Christ of Latter-day Saints, International Genealogical Index (R) (Copyright (c) 1980, 2002, data as of February 1, 2006), Family History Library, 35 N West Temple Street, Salt Lake City, Utah 84150  USA, 35 N West Temple Street, Salt Lake City, Utah 84150  USA, Page number: Film #: 456290"
+        }
+      ],
+      "titles": [
+        {
+          "value": "Legacy NFS Source: Elizabeth Williams - "
+        }
+      ],
+      "notes": [
+        {
+          "text": ""
         }
       ]
     },
@@ -22452,6 +22454,78 @@
       ]
     },
     {
+      "id": "M944-VMP",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-X5BD",
+          "resourceId": "cis.user.MMMM-X5BD"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-X5BD",
+          "resourceId": "cis.user.MMMM-X5BD"
+        },
+        "modified": 1402431849158,
+        "created": 1402431849158
+      },
+      "resourceType": "LEGACY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/M944-VMP"
+        }
+      },
+      "citations": [
+        {
+          "value": ""
+        }
+      ],
+      "titles": [
+        {
+          "value": "Legacy NFS Source: Elizabeth Williams - Published information: death: 6 October 1753; New London, New London, Connecticut, United States"
+        }
+      ],
+      "notes": [
+        {
+          "text": "Published information: death: 6 October 1753; New London, New London, Connecticut, United States  \nPublished information: birth-name: Elizabeth Williams"
+        }
+      ]
+    },
+    {
+      "id": "M944-J1B",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-CCHY",
+          "resourceId": "cis.user.MMMM-CCHY"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-CCHY",
+          "resourceId": "cis.user.MMMM-CCHY"
+        },
+        "modified": 1402431848075,
+        "created": 1402431848075
+      },
+      "resourceType": "LEGACY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/M944-J1B"
+        }
+      },
+      "citations": [
+        {
+          "value": "GEDCOM file. Created on 1 February 2006. Imported on 1 Feb 2006."
+        }
+      ],
+      "titles": [
+        {
+          "value": "Legacy NFS Source: Elizabeth Williams - birth: about 1710; "
+        }
+      ],
+      "notes": [
+        {
+          "text": "birth: about 1710;   \n  \n  \n  \n  \n"
+        }
+      ]
+    },
+    {
       "id": "M944-J1N",
       "attribution": {
         "contributor": {
@@ -22474,80 +22548,6 @@
       "citations": [
         {
           "value": "Ancestral File (TM), The Church of Jesus Christ of Latter-day Saints, June 1998 (c), data as of 5 JAN 1998, Family History Library, 35 N.  West Temple Street, Salt Lake City, UT 84150  USA"
-        }
-      ],
-      "titles": [
-        {
-          "value": "Legacy NFS Source: Elizabeth Williams - "
-        }
-      ],
-      "notes": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "id": "MRYZ-W51",
-      "lang": "en-us",
-      "about": "https://familysearch.org/ark:/61903/1:1:F7WC-YL5",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "modified": 1415375862167,
-        "created": 1415375862167
-      },
-      "resourceType": "IGI",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/MRYZ-W51"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"Connecticut Births and Christenings, 1649-1906,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/F7WC-YL5 : 3 December 2014), Elizabeth in entry for Deliverance Butt, 01 Aug 1749; citing ; FHL microfilm unknown."
-        }
-      ],
-      "titles": [
-        {
-          "value": "Elizabeth in entry for Deliverance Butt, \"Connecticut Births and Christenings, 1649-1906\""
-        }
-      ],
-      "notes": [
-        {
-          "text": "This extracted record was used to create this person in Family Tree."
-        }
-      ]
-    },
-    {
-      "id": "M944-VM7",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-CCHY",
-          "resourceId": "cis.user.MMMM-CCHY"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-CCHY",
-          "resourceId": "cis.user.MMMM-CCHY"
-        },
-        "modified": 1402431848430,
-        "created": 1402431848430
-      },
-      "resourceType": "LEGACY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/M944-VM7"
-        }
-      },
-      "citations": [
-        {
-          "value": "The Church of Jesus Christ of Latter-day Saints, International Genealogical Index (R) (Copyright (c) 1980, 2002, data as of February 1, 2006), Family History Library, 35 N West Temple Street, Salt Lake City, Utah 84150  USA, 35 N West Temple Street, Salt Lake City, Utah 84150  USA, Page number: Film #: 456290"
         }
       ],
       "titles": [
@@ -22595,9 +22595,9 @@
       ]
     },
     {
-      "id": "MRYT-9HX",
+      "id": "MRYM-5YP",
       "lang": "en-us",
-      "about": "https://familysearch.org/ark:/61903/1:1:F74F-NJ1",
+      "about": "https://familysearch.org/ark:/61903/1:1:F7WC-YXK",
       "attribution": {
         "contributor": {
           "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
@@ -22607,23 +22607,23 @@
           "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
           "resourceId": "cis.wkca.MMMM-M93P"
         },
-        "modified": 1415375913864,
-        "created": 1415375913864
+        "modified": 1415375823884,
+        "created": 1415375823884
       },
       "resourceType": "IGI",
       "links": {
         "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/MRYT-9HX"
+          "href": "https://familysearch.org/platform/sources/descriptions/MRYM-5YP"
         }
       },
       "citations": [
         {
-          "value": "\"Connecticut Births and Christenings, 1649-1906,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/F74F-NJ1 : 3 December 2014), Elizabeth in entry for Joseph Butt, 16 Jun 1731; citing ; FHL microfilm unknown."
+          "value": "\"Connecticut Births and Christenings, 1649-1906,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/F7WC-YXK : 3 December 2014), Elizabeth in entry for Mary Butt, 31 Jul 1751; citing ; FHL microfilm unknown."
         }
       ],
       "titles": [
         {
-          "value": "Elizabeth in entry for Joseph Butt, \"Connecticut Births and Christenings, 1649-1906\""
+          "value": "Elizabeth in entry for Mary Butt, \"Connecticut Births and Christenings, 1649-1906\""
         }
       ],
       "notes": [
@@ -22633,9 +22633,9 @@
       ]
     },
     {
-      "id": "MRRX-SVX",
+      "id": "MRYD-3TK",
       "lang": "en-us",
-      "about": "https://familysearch.org/ark:/61903/1:1:F74F-N4P",
+      "about": "https://familysearch.org/ark:/61903/1:1:F7WC-YBX",
       "attribution": {
         "contributor": {
           "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
@@ -22645,23 +22645,23 @@
           "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
           "resourceId": "cis.wkca.MMMM-M93P"
         },
-        "modified": 1415375654893,
-        "created": 1415375654893
+        "modified": 1415375862167,
+        "created": 1415375862167
       },
       "resourceType": "IGI",
       "links": {
         "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/MRRX-SVX"
+          "href": "https://familysearch.org/platform/sources/descriptions/MRYD-3TK"
         }
       },
       "citations": [
         {
-          "value": "\"Connecticut Births and Christenings, 1649-1906,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/F74F-N4P : 3 December 2014), Elisabeth in entry for John Butt, 13 Jun 1745; citing ; FHL microfilm unknown."
+          "value": "\"Connecticut Births and Christenings, 1649-1906,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/F7WC-YBX : 3 December 2014), Elizabeth in entry for Sarah Butt, 31 May 1730; citing ; FHL microfilm unknown."
         }
       ],
       "titles": [
         {
-          "value": "Elisabeth in entry for John Butt, \"Connecticut Births and Christenings, 1649-1906\""
+          "value": "Elizabeth in entry for Sarah Butt, \"Connecticut Births and Christenings, 1649-1906\""
         }
       ],
       "notes": [
@@ -22704,9 +22704,9 @@
       ]
     },
     {
-      "id": "MRYY-2RZ",
+      "id": "MRYT-9HX",
       "lang": "en-us",
-      "about": "https://familysearch.org/ark:/61903/1:1:F74F-NZL",
+      "about": "https://familysearch.org/ark:/61903/1:1:F74F-NJ1",
       "attribution": {
         "contributor": {
           "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
@@ -22716,61 +22716,23 @@
           "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
           "resourceId": "cis.wkca.MMMM-M93P"
         },
-        "modified": 1415375926387,
-        "created": 1415375926387
+        "modified": 1415375913864,
+        "created": 1415375913864
       },
       "resourceType": "IGI",
       "links": {
         "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/MRYY-2RZ"
+          "href": "https://familysearch.org/platform/sources/descriptions/MRYT-9HX"
         }
       },
       "citations": [
         {
-          "value": "\"Connecticut Births and Christenings, 1649-1906,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/F74F-NZL : 3 December 2014), Elizabeth in entry for Sherebiah Butt, 11 Feb 1733; citing ; FHL microfilm unknown."
+          "value": "\"Connecticut Births and Christenings, 1649-1906,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/F74F-NJ1 : 3 December 2014), Elizabeth in entry for Joseph Butt, 16 Jun 1731; citing ; FHL microfilm unknown."
         }
       ],
       "titles": [
         {
-          "value": "Elizabeth in entry for Sherebiah Butt, \"Connecticut Births and Christenings, 1649-1906\""
-        }
-      ],
-      "notes": [
-        {
-          "text": "This extracted record was used to create this person in Family Tree."
-        }
-      ]
-    },
-    {
-      "id": "MRY3-J7V",
-      "lang": "en-us",
-      "about": "https://familysearch.org/ark:/61903/1:1:F7WC-BQ6",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "modified": 1415375836736,
-        "created": 1415375836736
-      },
-      "resourceType": "IGI",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/MRY3-J7V"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"Connecticut Births and Christenings, 1649-1906,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/F7WC-BQ6 : 3 December 2014), Elizabeth in entry for Submit Butt, 16 May 1743; citing ; FHL microfilm unknown."
-        }
-      ],
-      "titles": [
-        {
-          "value": "Elizabeth in entry for Submit Butt, \"Connecticut Births and Christenings, 1649-1906\""
+          "value": "Elizabeth in entry for Joseph Butt, \"Connecticut Births and Christenings, 1649-1906\""
         }
       ],
       "notes": [
@@ -22818,47 +22780,9 @@
       ]
     },
     {
-      "id": "MRYM-5YP",
+      "id": "MRYY-2RZ",
       "lang": "en-us",
-      "about": "https://familysearch.org/ark:/61903/1:1:F7WC-YXK",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "modified": 1415375823884,
-        "created": 1415375823884
-      },
-      "resourceType": "IGI",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/MRYM-5YP"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"Connecticut Births and Christenings, 1649-1906,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/F7WC-YXK : 3 December 2014), Elizabeth in entry for Mary Butt, 31 Jul 1751; citing ; FHL microfilm unknown."
-        }
-      ],
-      "titles": [
-        {
-          "value": "Elizabeth in entry for Mary Butt, \"Connecticut Births and Christenings, 1649-1906\""
-        }
-      ],
-      "notes": [
-        {
-          "text": "This extracted record was used to create this person in Family Tree."
-        }
-      ]
-    },
-    {
-      "id": "MRYY-LKV",
-      "lang": "en-us",
-      "about": "https://familysearch.org/ark:/61903/1:1:F74F-N83",
+      "about": "https://familysearch.org/ark:/61903/1:1:F74F-NZL",
       "attribution": {
         "contributor": {
           "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
@@ -22874,17 +22798,93 @@
       "resourceType": "IGI",
       "links": {
         "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/MRYY-LKV"
+          "href": "https://familysearch.org/platform/sources/descriptions/MRYY-2RZ"
         }
       },
       "citations": [
         {
-          "value": "\"Connecticut Births and Christenings, 1649-1906,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/F74F-N83 : 3 December 2014), Elizabeth in entry for Josiah Butt, 18 Sep 1753; citing ; FHL microfilm unknown."
+          "value": "\"Connecticut Births and Christenings, 1649-1906,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/F74F-NZL : 3 December 2014), Elizabeth in entry for Sherebiah Butt, 11 Feb 1733; citing ; FHL microfilm unknown."
         }
       ],
       "titles": [
         {
-          "value": "Elizabeth in entry for Josiah Butt, \"Connecticut Births and Christenings, 1649-1906\""
+          "value": "Elizabeth in entry for Sherebiah Butt, \"Connecticut Births and Christenings, 1649-1906\""
+        }
+      ],
+      "notes": [
+        {
+          "text": "This extracted record was used to create this person in Family Tree."
+        }
+      ]
+    },
+    {
+      "id": "MRRX-SVX",
+      "lang": "en-us",
+      "about": "https://familysearch.org/ark:/61903/1:1:F74F-N4P",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "modified": 1415375654893,
+        "created": 1415375654893
+      },
+      "resourceType": "IGI",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/MRRX-SVX"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"Connecticut Births and Christenings, 1649-1906,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/F74F-N4P : 3 December 2014), Elisabeth in entry for John Butt, 13 Jun 1745; citing ; FHL microfilm unknown."
+        }
+      ],
+      "titles": [
+        {
+          "value": "Elisabeth in entry for John Butt, \"Connecticut Births and Christenings, 1649-1906\""
+        }
+      ],
+      "notes": [
+        {
+          "text": "This extracted record was used to create this person in Family Tree."
+        }
+      ]
+    },
+    {
+      "id": "MRBQ-2QR",
+      "lang": "en-us",
+      "about": "https://familysearch.org/ark:/61903/1:1:F7WP-KLZ",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "modified": 1415375947890,
+        "created": 1415375947890
+      },
+      "resourceType": "IGI",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/MRBQ-2QR"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"Connecticut Births and Christenings, 1649-1906,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/F7WP-KLZ : 3 December 2014), Elizabeth Williams, 16 Oct 1711; citing ; FHL microfilm unknown."
+        }
+      ],
+      "titles": [
+        {
+          "value": "Elizabeth Williams, \"Connecticut Births and Christenings, 1649-1906\""
         }
       ],
       "notes": [

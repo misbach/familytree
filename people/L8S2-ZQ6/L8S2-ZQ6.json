@@ -127,7 +127,7 @@
           "href": "https://familysearch.org/platform/tree/persons/L8S2-ZQ6/families?sourceDescriptions=true"
         },
         "portrait": {
-          "href": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/L8S2-ZQ6/L8S2-ZQ6.jpg"
+          "href": "https://raw.githubusercontent.com/misbach/familytree/master/people/L8S2-ZQ6/L8S2-ZQ6.jpg"
         },
         "matches": {
           "href": "https://familysearch.org/platform/tree/persons/L8S2-ZQ6/matches"
@@ -1260,32 +1260,32 @@
         "familiesAsParent": [
           {
             "parent1": {
-              "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/L8S2-ZQ6/L8S2-ZQ6.json",
+              "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/L8S2-ZQ6/L8S2-ZQ6.json",
               "resourceId": "L8S2-ZQ6"
             },
             "parent2": {
-              "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/K19N-45X/K19N-45X.json",
+              "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/K19N-45X/K19N-45X.json",
               "resourceId": "K19N-45X"
             },
             "children": [
               {
-                "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/L5XH-Y2T/L5XH-Y2T.json",
+                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/L5XH-Y2T/L5XH-Y2T.json",
                 "resourceId": "L5XH-Y2T"
               }
             ]
           },
           {
             "parent1": {
-              "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/L8S2-ZQ6/L8S2-ZQ6.json",
+              "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/L8S2-ZQ6/L8S2-ZQ6.json",
               "resourceId": "L8S2-ZQ6"
             },
             "parent2": {
-              "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/LFG8-T7X/LFG8-T7X.json",
+              "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/LFG8-T7X/LFG8-T7X.json",
               "resourceId": "LFG8-T7X"
             },
             "children": [
               {
-                "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/KZ3M-5H1/KZ3M-5H1.json",
+                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KZ3M-5H1/KZ3M-5H1.json",
                 "resourceId": "KZ3M-5H1"
               }
             ]
@@ -1294,16 +1294,16 @@
         "familiesAsChild": [
           {
             "parent1": {
-              "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/LCVK-2R4/LCVK-2R4.json",
+              "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/LCVK-2R4/LCVK-2R4.json",
               "resourceId": "LCVK-2R4"
             },
             "parent2": {
-              "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/LZGD-TQ6/LZGD-TQ6.json",
+              "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/LZGD-TQ6/LZGD-TQ6.json",
               "resourceId": "LZGD-TQ6"
             },
             "children": [
               {
-                "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/L8S2-ZQ6/L8S2-ZQ6.json",
+                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/L8S2-ZQ6/L8S2-ZQ6.json",
                 "resourceId": "L8S2-ZQ6"
               }
             ]
@@ -12036,9 +12036,9 @@
       }
     },
     {
-      "id": "MSKD-V9C",
+      "id": "MSN3-JSC",
       "lang": "en_US,EN;Q=0.8",
-      "about": "http://archivecat.lancashire.gov.uk/CalmView/Record.aspx?src=CalmView.Catalog&id=Q%2fS%2fB%2f1%2f1823%2fJul%2fpt1%2f111&pos=165",
+      "about": "http://search.findmypast.com/record?id=gbprs%2fm%2f752351542%2f2&highlights=%22%22",
       "attribution": {
         "contributor": {
           "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-ZG1M",
@@ -12048,289 +12048,28 @@
           "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-ZG1M",
           "resourceId": "cis.user.MMMM-ZG1M"
         },
-        "modified": 1409233318989,
-        "created": 1409233318989
+        "modified": 1407692918258,
+        "created": 1407692918258
       },
       "resourceType": "DEFAULT",
       "links": {
         "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/MSKD-V9C"
+          "href": "https://familysearch.org/platform/sources/descriptions/MSN3-JSC"
         }
       },
       "citations": [
         {
-          "value": "Lancashire County Council Archives"
+          "value": "Boyd's Marriage Index 1538-1840 Transcription"
         }
       ],
       "titles": [
         {
-          "value": "Legal Summons"
+          "value": "Thomas Clegg and Margret Porshaw Marriage Information"
         }
       ],
       "notes": [
         {
-          "text": "Repository  Lancashire Archives \nLevel  Item \nReference number  QSB/1/1823/Jul/pt3/68  \nTitle  Recognizance \nDate  2 May 1823 \nDescription  Recognizance for Thomas Clegg of Walton-le-Dale, Clogger, to appear and prefer a Bill of Indicrment against Manasseh Booth for felony, Thomas Clegg, Clogger, William Entwistle of Walton-le-Dale and James Scott of Preston, labourer to give evidence\nSureties: \nJustice of the Peace:Henry Houghton\nComments:  \nAccess  This material is available to view at Lancashire Archives by anybody holding a valid reader's ticket. See our website or contact us for more details. \n"
-        }
-      ]
-    },
-    {
-      "id": "MSKD-VWY",
-      "lang": "en_US,EN;Q=0.8",
-      "about": "http://archivecat.lancashire.gov.uk/CalmView/Record.aspx?src=CalmView.Catalog&id=Q%2fS%2fB%2f1%2f1823%2fApr%2f1&pos=209",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-ZG1M",
-          "resourceId": "cis.user.MMMM-ZG1M"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-ZG1M",
-          "resourceId": "cis.user.MMMM-ZG1M"
-        },
-        "modified": 1409233472619,
-        "created": 1409233472619
-      },
-      "resourceType": "DEFAULT",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/MSKD-VWY"
-        }
-      },
-      "citations": [
-        {
-          "value": "Lancashire County Council Archives"
-        }
-      ],
-      "titles": [
-        {
-          "value": "Legal Proceedings - Acting as a Surety"
-        }
-      ],
-      "notes": [
-        {
-          "text": "Repository  Lancashire Archives \nLevel  Item \nReference number  QSB1/1823/Apr/Pt2/12  \nTitle  Recognizance to appear as reputed father \nDate  5th Apr 1823 \nDescription  An order for David Sharples of Walton le Dale, clogger to appear at the next Quarter Sessions and perform such order as is made for getting Hannah Parker, single woman of Brindle with child\nSureties: Thomas Clegg of Walton le Dale, clogger £20 Jonathan Sharples of Chorley, clogger £20\nJustices of the Peace and court officials: E R Travers\n \nAccess  This material is available to view at Lancashire Archives by anybody holding a valid reader's ticket. See our website or contact us for more details. \nRelated material  QSB1/1823/Apr/Pt2/12\n \nAccessStatus  Open \n"
-        }
-      ]
-    },
-    {
-      "id": "MSKD-N28",
-      "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:NPH1-C65",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-ZG1M",
-          "resourceId": "cis.user.MMMM-ZG1M"
-        },
-        "modified": 1489551499114,
-        "created": 1409231828423
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/MSKD-N28"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"England Deaths and Burials, 1538-1991,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/NPH1-C65 : 24 December 2014), Thomas Clegg, 02 Oct 1836; citing , reference p288 n2301; FHL microfilm 1,502,382."
-        }
-      ],
-      "titles": [
-        {
-          "value": "Thomas Clegg, \"England Deaths and Burials, 1538-1991\""
-        }
-      ]
-    },
-    {
-      "id": "98HZ-PW1",
-      "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:J9LY-3MP",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-752V",
-          "resourceId": "cis.user.MMM9-752V"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-752V",
-          "resourceId": "cis.user.MMM9-752V"
-        },
-        "modified": 1429708147774,
-        "created": 1429708147774
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/98HZ-PW1"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"England Births and Christenings, 1538-1975,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/J9LY-3MP : 30 December 2014), Thomas Clegg in entry for William Clegg, 17 Feb 1793; citing Bamber-Bridge, Lancashire, England, reference ; FHL microfilm 1,514,652."
-        }
-      ],
-      "titles": [
-        {
-          "value": "Thomas Clegg in entry for William Clegg, \"England Births and Christenings, 1538-1975\""
-        }
-      ]
-    },
-    {
-      "id": "96D8-NMG",
-      "lang": "en_US,EN;Q=0.8",
-      "about": "http://search.findmypast.com/record?id=r_843692632",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-V134",
-          "resourceId": "cis.user.MMMM-V134"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-V134",
-          "resourceId": "cis.user.MMMM-V134"
-        },
-        "modified": 1451586264847,
-        "created": 1451586264847
-      },
-      "resourceType": "DEFAULT",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/96D8-NMG"
-        }
-      },
-      "citations": [
-        {
-          "value": "England Marriages:  Preston, Lancashire, England, United Kingdom"
-        }
-      ],
-      "titles": [
-        {
-          "value": "England Marriages 1538-1973 Transcription"
-        }
-      ],
-      "notes": [
-        {
-          "text": "First name(s)\tThomas\nLast name\tClegg\nName note\t-\nMarriage year\t1784\nMarriage date\t11 Oct 1784\nMarriage place\tPreston\nSpouse's first name(s)\tElizabeth\nSpouse's last name\tSmith\nResidence\tPreston, Lancashire, England\nCounty\tLancashire\nCountry\tEngland\nRecord set\tEngland Marriages 1538-1973\nCategory\tBirth, Marriage & Death (Parish Registers)\nSubcategory\tMarriages & divorces\nCollections from\tUnited Kingdom\n"
-        }
-      ]
-    },
-    {
-      "id": "M9T1-XC7",
-      "lang": "en_US,EN;Q=0.8",
-      "about": "https://familysearch.org/platform/memories/memories/8684674",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-ZG1M",
-          "resourceId": "cis.user.MMMM-ZG1M"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-ZG1M",
-          "resourceId": "cis.user.MMMM-ZG1M"
-        },
-        "modified": 1405882698724,
-        "created": 1405882698724
-      },
-      "resourceType": "USER_UPLOADED",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/M9T1-XC7"
-        }
-      },
-      "citations": [
-        {
-          "value": "Ancestry.com. Lancashire, England, Baptisms, Marriages and Burials, 1538-1812 [database on-line]. Provo, UT: Ancestry.com Operations, Inc., 2012.\n\nWhile the heading indicates May, the month of April has been skipped and it is clear that there were two months included."
-        }
-      ],
-      "titles": [
-        {
-          "value": "Christening Record of Thomas Clegg"
-        }
-      ],
-      "notes": [
-        {
-          "text": "\nName:\nThos Clegg \n\nBirth Date:\n10 Apr 1761 \n\nBaptism Date:\n3 May 1761 \n\nParish:\nPreston, Lancashire, England \n\nPhillimore Ecclesiastical Parish Maps:\n\n View this parish\n \n\nFather's Name:\nJames Clegg \n\nMother's name:\nMary Clegg \n\nRegister Type:\nBishops Transcripts \n\nReference Number:\nDrb 2/170 \n"
-        }
-      ],
-      "identifiers": {
-        "fs_memory_id": [
-          "8684674"
-        ]
-      }
-    },
-    {
-      "id": "99QZ-FXN",
-      "lang": "en-us",
-      "about": "https://familysearch.org/ark:/61903/1:1:N5L6-54B",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "modified": 1415394387595,
-        "created": 1415394387595
-      },
-      "resourceType": "IGI",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/99QZ-FXN"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"England Births and Christenings, 1538-1975,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/N5L6-54B : 30 December 2014), Thomas Clegg in entry for Margaret Clegg, 01 Jan 1804; citing BURNLEY,LANCASHIRE,ENGLAND, reference ; FHL microfilm 0093654, 0093664, PLUS."
-        }
-      ],
-      "titles": [
-        {
-          "value": "Thomas Clegg in entry for Margaret Clegg, \"England Births and Christenings, 1538-1975\""
-        }
-      ],
-      "notes": [
-        {
-          "text": "This extracted record was used to create this person in Family Tree."
-        }
-      ]
-    },
-    {
-      "id": "MSN3-F7Q",
-      "lang": "en_US,EN;Q=0.8",
-      "about": "",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-ZG1M",
-          "resourceId": "cis.user.MMMM-ZG1M"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-ZG1M",
-          "resourceId": "cis.user.MMMM-ZG1M"
-        },
-        "modified": 1407692030791,
-        "created": 1407692030791
-      },
-      "resourceType": "DEFAULT",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/MSN3-F7Q"
-        }
-      },
-      "citations": [
-        {
-          "value": "Ancestry.com. England, Select Marriages, 1538–1973 [database on-line]. Provo, UT, USA: Ancestry.com Operations, Inc., 2014.\nOriginal data: England, Marriages, 1538–1973. Salt Lake City, Utah: FamilySearch, 2013."
-        }
-      ],
-      "titles": [
-        {
-          "value": "England, Select Marriages, 1538–1973  about Thomas Clegg "
-        }
-      ],
-      "notes": [
-        {
-          "text": "Name:\nThomas Clegg \n\nGender:\nMale \n\nMarriage Date:\n11 Oct 1784 \n\nMarriage Place:\nSt. John'S, Preston, Lancashire, England \n\nSpouse:\n Elizabeth Smith   \n\nFHL Film Number:\n1278741 \n\nReference ID:\npr 1451 item 1 p 142 \n"
+          "text": "\nFirst name(s)\nThomas \n\nLast name\nClegg \n\nBirth year\n- \n\nMarriage year\n1799 \n\nSpouse's first name(s)\nTho \n\nSpouse's full first name(s)\nThomas \n\nSpouse's last name\nCLEGG \n\nSupplied first name(s)\nMgt \n\nSupplied last name\nPORSHAW \n\nPlace\nPRESTON (ST JOHN) \n\nCounty\nLancashire \n\nCountry\nEngland \n\nRecord set\nBoyd's Marriage Index 1538-1840 \n\nCategory\nBirth, Marriage & Death (Parish Registers) \n\nRecord collection\nMarriages & divorces \n\nCollections from\nUnited Kingdom \n"
         }
       ]
     },
@@ -12373,9 +12112,80 @@
       ]
     },
     {
-      "id": "9WKV-XFW",
+      "id": "96D8-NMG",
+      "lang": "en_US,EN;Q=0.8",
+      "about": "http://search.findmypast.com/record?id=r_843692632",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-V134",
+          "resourceId": "cis.user.MMMM-V134"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-V134",
+          "resourceId": "cis.user.MMMM-V134"
+        },
+        "modified": 1451586264847,
+        "created": 1451586264847
+      },
+      "resourceType": "DEFAULT",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/96D8-NMG"
+        }
+      },
+      "citations": [
+        {
+          "value": "England Marriages:  Preston, Lancashire, England, United Kingdom"
+        }
+      ],
+      "titles": [
+        {
+          "value": "England Marriages 1538-1973 Transcription"
+        }
+      ],
+      "notes": [
+        {
+          "text": "First name(s)\tThomas\nLast name\tClegg\nName note\t-\nMarriage year\t1784\nMarriage date\t11 Oct 1784\nMarriage place\tPreston\nSpouse's first name(s)\tElizabeth\nSpouse's last name\tSmith\nResidence\tPreston, Lancashire, England\nCounty\tLancashire\nCountry\tEngland\nRecord set\tEngland Marriages 1538-1973\nCategory\tBirth, Marriage & Death (Parish Registers)\nSubcategory\tMarriages & divorces\nCollections from\tUnited Kingdom\n"
+        }
+      ]
+    },
+    {
+      "id": "9ZZ9-PQ1",
+      "lang": "en_US",
+      "about": "https://familysearch.org/ark:/61903/1:1:NXZR-JYK",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-ZG1M",
+          "resourceId": "cis.user.MMMM-ZG1M"
+        },
+        "modified": 1489609172798,
+        "created": 1419793124270
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/9ZZ9-PQ1"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"England Births and Christenings, 1538-1975,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/NXZR-JYK : 30 December 2014), Thomas Clegg in entry for Mathew Clegg, 15 Oct 1786; citing Bamber-Bridge, Lancashire, England, reference ; FHL microfilm 1,514,652."
+        }
+      ],
+      "titles": [
+        {
+          "value": "Thomas Clegg in entry for Mathew Clegg, \"England Births and Christenings, 1538-1975\""
+        }
+      ]
+    },
+    {
+      "id": "99QZ-FXN",
       "lang": "en-us",
-      "about": "https://familysearch.org/ark:/61903/1:1:NPX9-H9P",
+      "about": "https://familysearch.org/ark:/61903/1:1:N5L6-54B",
       "attribution": {
         "contributor": {
           "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
@@ -12385,23 +12195,23 @@
           "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
           "resourceId": "cis.wkca.MMMM-M93P"
         },
-        "modified": 1415425538448,
-        "created": 1415425538448
+        "modified": 1415394387595,
+        "created": 1415394387595
       },
       "resourceType": "IGI",
       "links": {
         "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/9WKV-XFW"
+          "href": "https://familysearch.org/platform/sources/descriptions/99QZ-FXN"
         }
       },
       "citations": [
         {
-          "value": "\"England Births and Christenings, 1538-1975,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/NPX9-H9P : 30 December 2014), Thomas Clegg in entry for Henry Clegg, 09 Sep 1788; citing , reference ; FHL microfilm 0844802 IT 1."
+          "value": "\"England Births and Christenings, 1538-1975,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/N5L6-54B : 30 December 2014), Thomas Clegg in entry for Margaret Clegg, 01 Jan 1804; citing BURNLEY,LANCASHIRE,ENGLAND, reference ; FHL microfilm 0093654, 0093664, PLUS."
         }
       ],
       "titles": [
         {
-          "value": "Thomas Clegg in entry for Henry Clegg, \"England Births and Christenings, 1538-1975\""
+          "value": "Thomas Clegg in entry for Margaret Clegg, \"England Births and Christenings, 1538-1975\""
         }
       ],
       "notes": [
@@ -12440,44 +12250,6 @@
       "titles": [
         {
           "value": "Thomas Clegg in entry for Thomas Clegg, \"England Births and Christenings, 1538-1975\""
-        }
-      ],
-      "notes": [
-        {
-          "text": "This extracted record was used to create this person in Family Tree."
-        }
-      ]
-    },
-    {
-      "id": "MVVN-8F4",
-      "lang": "en-us",
-      "about": "https://familysearch.org/ark:/61903/1:1:JM15-D81",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "modified": 1415351636223,
-        "created": 1415351636223
-      },
-      "resourceType": "IGI",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/MVVN-8F4"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"England Births and Christenings, 1538-1975,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/JM15-D81 : 30 December 2014), Joseph Clegg, 28 Feb 1759; citing SAINT MARY,OLDHAM,LANCASHIRE,ENGLAND, reference ; FHL microfilm 0093576-578, 0223739."
-        }
-      ],
-      "titles": [
-        {
-          "value": "Joseph Clegg, \"England Births and Christenings, 1538-1975\""
         }
       ],
       "notes": [
@@ -12553,68 +12325,68 @@
       ]
     },
     {
-      "id": "9ZZ9-PPF",
+      "id": "98HZ-PW1",
       "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:JD3B-KQY",
+      "about": "https://familysearch.org/ark:/61903/1:1:J9LY-3MP",
       "attribution": {
         "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-752V",
+          "resourceId": "cis.user.MMM9-752V"
         },
         "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-ZG1M",
-          "resourceId": "cis.user.MMMM-ZG1M"
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-752V",
+          "resourceId": "cis.user.MMM9-752V"
         },
-        "modified": 1489609174042,
-        "created": 1419793358281
+        "modified": 1429708147774,
+        "created": 1429708147774
       },
       "resourceType": "FSREADONLY",
       "links": {
         "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/9ZZ9-PPF"
+          "href": "https://familysearch.org/platform/sources/descriptions/98HZ-PW1"
         }
       },
       "citations": [
         {
-          "value": "\"England Deaths and Burials, 1538-1991,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/JD3B-KQY : 24 December 2014), Thomas Clegg in entry for Mathew Clegg, 27 Dec 1788; citing , reference ; FHL microfilm 1,514,652."
-        }
-      ],
-      "titles": [
-        {
-          "value": "Thomas Clegg in entry for Mathew Clegg, \"England Deaths and Burials, 1538-1991\""
-        }
-      ]
-    },
-    {
-      "id": "MBVQ-LCZ",
-      "lang": "en-us",
-      "about": "https://familysearch.org/ark:/61903/1:1:NYYG-573",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "modified": 1415385092023,
-        "created": 1415385092023
-      },
-      "resourceType": "IGI",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/MBVQ-LCZ"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"England Births and Christenings, 1538-1975,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/NYYG-573 : 30 December 2014), Thomas Clegg in entry for William Clegg, 17 Feb 1793; citing , reference ; FHL microfilm 0844802 IT 1."
+          "value": "\"England Births and Christenings, 1538-1975,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/J9LY-3MP : 30 December 2014), Thomas Clegg in entry for William Clegg, 17 Feb 1793; citing Bamber-Bridge, Lancashire, England, reference ; FHL microfilm 1,514,652."
         }
       ],
       "titles": [
         {
           "value": "Thomas Clegg in entry for William Clegg, \"England Births and Christenings, 1538-1975\""
+        }
+      ]
+    },
+    {
+      "id": "9WKV-XFW",
+      "lang": "en-us",
+      "about": "https://familysearch.org/ark:/61903/1:1:NPX9-H9P",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "modified": 1415425538448,
+        "created": 1415425538448
+      },
+      "resourceType": "IGI",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/9WKV-XFW"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"England Births and Christenings, 1538-1975,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/NPX9-H9P : 30 December 2014), Thomas Clegg in entry for Henry Clegg, 09 Sep 1788; citing , reference ; FHL microfilm 0844802 IT 1."
+        }
+      ],
+      "titles": [
+        {
+          "value": "Thomas Clegg in entry for Henry Clegg, \"England Births and Christenings, 1538-1975\""
         }
       ],
       "notes": [
@@ -12624,107 +12396,9 @@
       ]
     },
     {
-      "id": "MM6Q-R1K",
-      "about": "https://familysearch.org/ark:/61903/1:1:NN8W-PN5",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-6FWZ",
-          "resourceId": "cis.user.MMMM-6FWZ"
-        },
-        "modified": 1489536701844,
-        "created": 1387304656000
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/MM6Q-R1K"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"England Births and Christenings, 1538-1975,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/NN8W-PN5 : 30 December 2014), Thomas Clegg, 29 Nov 1812; citing Walton-le-Dale, Lancashire, England, reference ; FHL microfilm 1,656,765."
-        }
-      ],
-      "titles": [
-        {
-          "value": "Thomas Clegg, \"England Births and Christenings, 1538-1975\""
-        }
-      ]
-    },
-    {
-      "id": "9ZZ9-PQ1",
-      "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:NXZR-JYK",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-ZG1M",
-          "resourceId": "cis.user.MMMM-ZG1M"
-        },
-        "modified": 1489609172798,
-        "created": 1419793124270
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/9ZZ9-PQ1"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"England Births and Christenings, 1538-1975,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/NXZR-JYK : 30 December 2014), Thomas Clegg in entry for Mathew Clegg, 15 Oct 1786; citing Bamber-Bridge, Lancashire, England, reference ; FHL microfilm 1,514,652."
-        }
-      ],
-      "titles": [
-        {
-          "value": "Thomas Clegg in entry for Mathew Clegg, \"England Births and Christenings, 1538-1975\""
-        }
-      ]
-    },
-    {
-      "id": "9ZZ9-GBY",
-      "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:NPX9-QB8",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-ZG1M",
-          "resourceId": "cis.user.MMMM-ZG1M"
-        },
-        "modified": 1489609172254,
-        "created": 1419793056320
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/9ZZ9-GBY"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"England Births and Christenings, 1538-1975,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/NPX9-QB8 : 30 December 2014), Thomas Clegg in entry for Matthew Clegg, 15 Oct 1786; citing , reference ; FHL microfilm 0844802 IT 1."
-        }
-      ],
-      "titles": [
-        {
-          "value": "Thomas Clegg in entry for Matthew Clegg, \"England Births and Christenings, 1538-1975\""
-        }
-      ]
-    },
-    {
-      "id": "MSN3-JSC",
+      "id": "MSN3-F7Q",
       "lang": "en_US,EN;Q=0.8",
-      "about": "http://search.findmypast.com/record?id=gbprs%2fm%2f752351542%2f2&highlights=%22%22",
+      "about": "",
       "attribution": {
         "contributor": {
           "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-ZG1M",
@@ -12734,28 +12408,28 @@
           "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-ZG1M",
           "resourceId": "cis.user.MMMM-ZG1M"
         },
-        "modified": 1407692918258,
-        "created": 1407692918258
+        "modified": 1407692030791,
+        "created": 1407692030791
       },
       "resourceType": "DEFAULT",
       "links": {
         "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/MSN3-JSC"
+          "href": "https://familysearch.org/platform/sources/descriptions/MSN3-F7Q"
         }
       },
       "citations": [
         {
-          "value": "Boyd's Marriage Index 1538-1840 Transcription"
+          "value": "Ancestry.com. England, Select Marriages, 1538–1973 [database on-line]. Provo, UT, USA: Ancestry.com Operations, Inc., 2014.\nOriginal data: England, Marriages, 1538–1973. Salt Lake City, Utah: FamilySearch, 2013."
         }
       ],
       "titles": [
         {
-          "value": "Thomas Clegg and Margret Porshaw Marriage Information"
+          "value": "England, Select Marriages, 1538–1973  about Thomas Clegg "
         }
       ],
       "notes": [
         {
-          "text": "\nFirst name(s)\nThomas \n\nLast name\nClegg \n\nBirth year\n- \n\nMarriage year\n1799 \n\nSpouse's first name(s)\nTho \n\nSpouse's full first name(s)\nThomas \n\nSpouse's last name\nCLEGG \n\nSupplied first name(s)\nMgt \n\nSupplied last name\nPORSHAW \n\nPlace\nPRESTON (ST JOHN) \n\nCounty\nLancashire \n\nCountry\nEngland \n\nRecord set\nBoyd's Marriage Index 1538-1840 \n\nCategory\nBirth, Marriage & Death (Parish Registers) \n\nRecord collection\nMarriages & divorces \n\nCollections from\nUnited Kingdom \n"
+          "text": "Name:\nThomas Clegg \n\nGender:\nMale \n\nMarriage Date:\n11 Oct 1784 \n\nMarriage Place:\nSt. John'S, Preston, Lancashire, England \n\nSpouse:\n Elizabeth Smith   \n\nFHL Film Number:\n1278741 \n\nReference ID:\npr 1451 item 1 p 142 \n"
         }
       ]
     },
@@ -12793,9 +12467,47 @@
       ]
     },
     {
-      "id": "944J-65F",
+      "id": "MSKD-V9C",
+      "lang": "en_US,EN;Q=0.8",
+      "about": "http://archivecat.lancashire.gov.uk/CalmView/Record.aspx?src=CalmView.Catalog&id=Q%2fS%2fB%2f1%2f1823%2fJul%2fpt1%2f111&pos=165",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-ZG1M",
+          "resourceId": "cis.user.MMMM-ZG1M"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-ZG1M",
+          "resourceId": "cis.user.MMMM-ZG1M"
+        },
+        "modified": 1409233318989,
+        "created": 1409233318989
+      },
+      "resourceType": "DEFAULT",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/MSKD-V9C"
+        }
+      },
+      "citations": [
+        {
+          "value": "Lancashire County Council Archives"
+        }
+      ],
+      "titles": [
+        {
+          "value": "Legal Summons"
+        }
+      ],
+      "notes": [
+        {
+          "text": "Repository  Lancashire Archives \nLevel  Item \nReference number  QSB/1/1823/Jul/pt3/68  \nTitle  Recognizance \nDate  2 May 1823 \nDescription  Recognizance for Thomas Clegg of Walton-le-Dale, Clogger, to appear and prefer a Bill of Indicrment against Manasseh Booth for felony, Thomas Clegg, Clogger, William Entwistle of Walton-le-Dale and James Scott of Preston, labourer to give evidence\nSureties: \nJustice of the Peace:Henry Houghton\nComments:  \nAccess  This material is available to view at Lancashire Archives by anybody holding a valid reader's ticket. See our website or contact us for more details. \n"
+        }
+      ]
+    },
+    {
+      "id": "MBVQ-LCZ",
       "lang": "en-us",
-      "about": "https://familysearch.org/ark:/61903/1:1:NPX9-QB8",
+      "about": "https://familysearch.org/ark:/61903/1:1:NYYG-573",
       "attribution": {
         "contributor": {
           "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
@@ -12805,23 +12517,23 @@
           "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
           "resourceId": "cis.wkca.MMMM-M93P"
         },
-        "modified": 1415428209187,
-        "created": 1415428209187
+        "modified": 1415385092023,
+        "created": 1415385092023
       },
       "resourceType": "IGI",
       "links": {
         "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/944J-65F"
+          "href": "https://familysearch.org/platform/sources/descriptions/MBVQ-LCZ"
         }
       },
       "citations": [
         {
-          "value": "\"England Births and Christenings, 1538-1975,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/NPX9-QB8 : 30 December 2014), Thomas Clegg in entry for Matthew Clegg, 15 Oct 1786; citing , reference ; FHL microfilm 0844802 IT 1."
+          "value": "\"England Births and Christenings, 1538-1975,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/NYYG-573 : 30 December 2014), Thomas Clegg in entry for William Clegg, 17 Feb 1793; citing , reference ; FHL microfilm 0844802 IT 1."
         }
       ],
       "titles": [
         {
-          "value": "Thomas Clegg in entry for Matthew Clegg, \"England Births and Christenings, 1538-1975\""
+          "value": "Thomas Clegg in entry for William Clegg, \"England Births and Christenings, 1538-1975\""
         }
       ],
       "notes": [
@@ -12869,6 +12581,38 @@
       ]
     },
     {
+      "id": "MM6Q-R1K",
+      "about": "https://familysearch.org/ark:/61903/1:1:NN8W-PN5",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-6FWZ",
+          "resourceId": "cis.user.MMMM-6FWZ"
+        },
+        "modified": 1489536701844,
+        "created": 1387304656000
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/MM6Q-R1K"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"England Births and Christenings, 1538-1975,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/NN8W-PN5 : 30 December 2014), Thomas Clegg, 29 Nov 1812; citing Walton-le-Dale, Lancashire, England, reference ; FHL microfilm 1,656,765."
+        }
+      ],
+      "titles": [
+        {
+          "value": "Thomas Clegg, \"England Births and Christenings, 1538-1975\""
+        }
+      ]
+    },
+    {
       "id": "9F8Z-5GM",
       "lang": "en_US",
       "about": "https://familysearch.org/ark:/61903/1:1:J9B4-WXD",
@@ -12898,6 +12642,262 @@
       "titles": [
         {
           "value": "Thomas Clegg in entry for James Clegg, \"England Births and Christenings, 1538-1975\""
+        }
+      ]
+    },
+    {
+      "id": "9ZZ9-PPF",
+      "lang": "en_US",
+      "about": "https://familysearch.org/ark:/61903/1:1:JD3B-KQY",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-ZG1M",
+          "resourceId": "cis.user.MMMM-ZG1M"
+        },
+        "modified": 1489609174042,
+        "created": 1419793358281
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/9ZZ9-PPF"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"England Deaths and Burials, 1538-1991,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/JD3B-KQY : 24 December 2014), Thomas Clegg in entry for Mathew Clegg, 27 Dec 1788; citing , reference ; FHL microfilm 1,514,652."
+        }
+      ],
+      "titles": [
+        {
+          "value": "Thomas Clegg in entry for Mathew Clegg, \"England Deaths and Burials, 1538-1991\""
+        }
+      ]
+    },
+    {
+      "id": "9ZZ9-GBY",
+      "lang": "en_US",
+      "about": "https://familysearch.org/ark:/61903/1:1:NPX9-QB8",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-ZG1M",
+          "resourceId": "cis.user.MMMM-ZG1M"
+        },
+        "modified": 1489609172254,
+        "created": 1419793056320
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/9ZZ9-GBY"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"England Births and Christenings, 1538-1975,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/NPX9-QB8 : 30 December 2014), Thomas Clegg in entry for Matthew Clegg, 15 Oct 1786; citing , reference ; FHL microfilm 0844802 IT 1."
+        }
+      ],
+      "titles": [
+        {
+          "value": "Thomas Clegg in entry for Matthew Clegg, \"England Births and Christenings, 1538-1975\""
+        }
+      ]
+    },
+    {
+      "id": "MSKD-VWY",
+      "lang": "en_US,EN;Q=0.8",
+      "about": "http://archivecat.lancashire.gov.uk/CalmView/Record.aspx?src=CalmView.Catalog&id=Q%2fS%2fB%2f1%2f1823%2fApr%2f1&pos=209",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-ZG1M",
+          "resourceId": "cis.user.MMMM-ZG1M"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-ZG1M",
+          "resourceId": "cis.user.MMMM-ZG1M"
+        },
+        "modified": 1409233472619,
+        "created": 1409233472619
+      },
+      "resourceType": "DEFAULT",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/MSKD-VWY"
+        }
+      },
+      "citations": [
+        {
+          "value": "Lancashire County Council Archives"
+        }
+      ],
+      "titles": [
+        {
+          "value": "Legal Proceedings - Acting as a Surety"
+        }
+      ],
+      "notes": [
+        {
+          "text": "Repository  Lancashire Archives \nLevel  Item \nReference number  QSB1/1823/Apr/Pt2/12  \nTitle  Recognizance to appear as reputed father \nDate  5th Apr 1823 \nDescription  An order for David Sharples of Walton le Dale, clogger to appear at the next Quarter Sessions and perform such order as is made for getting Hannah Parker, single woman of Brindle with child\nSureties: Thomas Clegg of Walton le Dale, clogger £20 Jonathan Sharples of Chorley, clogger £20\nJustices of the Peace and court officials: E R Travers\n \nAccess  This material is available to view at Lancashire Archives by anybody holding a valid reader's ticket. See our website or contact us for more details. \nRelated material  QSB1/1823/Apr/Pt2/12\n \nAccessStatus  Open \n"
+        }
+      ]
+    },
+    {
+      "id": "M9T1-XC7",
+      "lang": "en_US,EN;Q=0.8",
+      "about": "https://familysearch.org/platform/memories/memories/8684674",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-ZG1M",
+          "resourceId": "cis.user.MMMM-ZG1M"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-ZG1M",
+          "resourceId": "cis.user.MMMM-ZG1M"
+        },
+        "modified": 1405882698724,
+        "created": 1405882698724
+      },
+      "resourceType": "USER_UPLOADED",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/M9T1-XC7"
+        }
+      },
+      "citations": [
+        {
+          "value": "Ancestry.com. Lancashire, England, Baptisms, Marriages and Burials, 1538-1812 [database on-line]. Provo, UT: Ancestry.com Operations, Inc., 2012.\n\nWhile the heading indicates May, the month of April has been skipped and it is clear that there were two months included."
+        }
+      ],
+      "titles": [
+        {
+          "value": "Christening Record of Thomas Clegg"
+        }
+      ],
+      "notes": [
+        {
+          "text": "\nName:\nThos Clegg \n\nBirth Date:\n10 Apr 1761 \n\nBaptism Date:\n3 May 1761 \n\nParish:\nPreston, Lancashire, England \n\nPhillimore Ecclesiastical Parish Maps:\n\n View this parish\n \n\nFather's Name:\nJames Clegg \n\nMother's name:\nMary Clegg \n\nRegister Type:\nBishops Transcripts \n\nReference Number:\nDrb 2/170 \n"
+        }
+      ],
+      "identifiers": {
+        "fs_memory_id": [
+          "8684674"
+        ]
+      }
+    },
+    {
+      "id": "MSKD-N28",
+      "lang": "en_US",
+      "about": "https://familysearch.org/ark:/61903/1:1:NPH1-C65",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-ZG1M",
+          "resourceId": "cis.user.MMMM-ZG1M"
+        },
+        "modified": 1489551499114,
+        "created": 1409231828423
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/MSKD-N28"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"England Deaths and Burials, 1538-1991,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/NPH1-C65 : 24 December 2014), Thomas Clegg, 02 Oct 1836; citing , reference p288 n2301; FHL microfilm 1,502,382."
+        }
+      ],
+      "titles": [
+        {
+          "value": "Thomas Clegg, \"England Deaths and Burials, 1538-1991\""
+        }
+      ]
+    },
+    {
+      "id": "944J-65F",
+      "lang": "en-us",
+      "about": "https://familysearch.org/ark:/61903/1:1:NPX9-QB8",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "modified": 1415428209187,
+        "created": 1415428209187
+      },
+      "resourceType": "IGI",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/944J-65F"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"England Births and Christenings, 1538-1975,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/NPX9-QB8 : 30 December 2014), Thomas Clegg in entry for Matthew Clegg, 15 Oct 1786; citing , reference ; FHL microfilm 0844802 IT 1."
+        }
+      ],
+      "titles": [
+        {
+          "value": "Thomas Clegg in entry for Matthew Clegg, \"England Births and Christenings, 1538-1975\""
+        }
+      ],
+      "notes": [
+        {
+          "text": "This extracted record was used to create this person in Family Tree."
+        }
+      ]
+    },
+    {
+      "id": "MVVN-8F4",
+      "lang": "en-us",
+      "about": "https://familysearch.org/ark:/61903/1:1:JM15-D81",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "modified": 1415351636223,
+        "created": 1415351636223
+      },
+      "resourceType": "IGI",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/MVVN-8F4"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"England Births and Christenings, 1538-1975,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/JM15-D81 : 30 December 2014), Joseph Clegg, 28 Feb 1759; citing SAINT MARY,OLDHAM,LANCASHIRE,ENGLAND, reference ; FHL microfilm 0093576-578, 0223739."
+        }
+      ],
+      "titles": [
+        {
+          "value": "Joseph Clegg, \"England Births and Christenings, 1538-1975\""
+        }
+      ],
+      "notes": [
+        {
+          "text": "This extracted record was used to create this person in Family Tree."
         }
       ]
     }

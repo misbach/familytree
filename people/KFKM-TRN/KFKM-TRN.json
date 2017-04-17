@@ -76,7 +76,7 @@
           "href": "https://familysearch.org/platform/tree/persons/KFKM-TRN/families?sourceDescriptions=true"
         },
         "portrait": {
-          "href": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/KFKM-TRN/KFKM-TRN.jpg"
+          "href": "https://raw.githubusercontent.com/misbach/familytree/master/people/KFKM-TRN/KFKM-TRN.jpg"
         },
         "matches": {
           "href": "https://familysearch.org/platform/tree/persons/KFKM-TRN/matches"
@@ -489,16 +489,16 @@
         "familiesAsParent": [
           {
             "parent1": {
-              "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/K6WV-S8C/K6WV-S8C.json",
+              "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/K6WV-S8C/K6WV-S8C.json",
               "resourceId": "K6WV-S8C"
             },
             "parent2": {
-              "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/KFKM-TRN/KFKM-TRN.json",
+              "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KFKM-TRN/KFKM-TRN.json",
               "resourceId": "KFKM-TRN"
             },
             "children": [
               {
-                "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/KW8T-5FC/KW8T-5FC.json",
+                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KW8T-5FC/KW8T-5FC.json",
                 "resourceId": "KW8T-5FC"
               }
             ]
@@ -507,16 +507,16 @@
         "familiesAsChild": [
           {
             "parent1": {
-              "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/KPQQ-MKZ/KPQQ-MKZ.json",
+              "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KPQQ-MKZ/KPQQ-MKZ.json",
               "resourceId": "KPQQ-MKZ"
             },
             "parent2": {
-              "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/KFF2-88L/KFF2-88L.json",
+              "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KFF2-88L/KFF2-88L.json",
               "resourceId": "KFF2-88L"
             },
             "children": [
               {
-                "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/KFKM-TRN/KFKM-TRN.json",
+                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KFKM-TRN/KFKM-TRN.json",
                 "resourceId": "KFKM-TRN"
               }
             ]
@@ -5778,42 +5778,6 @@
       ]
     },
     {
-      "id": "MS82-TXY",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-3YV2",
-          "resourceId": "cis.user.MMMM-3YV2"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-3YV2",
-          "resourceId": "cis.user.MMMM-3YV2"
-        },
-        "modified": 1407211083598,
-        "created": 1407211083598
-      },
-      "resourceType": "LEGACY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/MS82-TXY"
-        }
-      },
-      "citations": [
-        {
-          "value": ""
-        }
-      ],
-      "titles": [
-        {
-          "value": "Legacy NFS Source: Anna Katharina Bondt - Published information: birth-name: Anna Katharina Bondt"
-        }
-      ],
-      "notes": [
-        {
-          "text": "Published information: birth-name: Anna Katharina Bondt"
-        }
-      ]
-    },
-    {
       "id": "96NG-2PY",
       "lang": "en_US,EN;Q=0.8",
       "about": "http://familysearch.org/catalog",
@@ -5848,6 +5812,42 @@
       "notes": [
         {
           "text": "Julius Billeter records list husbands and wives, their children with birth dates, place, death dates, and marriage dates and places"
+        }
+      ]
+    },
+    {
+      "id": "MS82-TXY",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-3YV2",
+          "resourceId": "cis.user.MMMM-3YV2"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-3YV2",
+          "resourceId": "cis.user.MMMM-3YV2"
+        },
+        "modified": 1407211083598,
+        "created": 1407211083598
+      },
+      "resourceType": "LEGACY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/MS82-TXY"
+        }
+      },
+      "citations": [
+        {
+          "value": ""
+        }
+      ],
+      "titles": [
+        {
+          "value": "Legacy NFS Source: Anna Katharina Bondt - Published information: birth-name: Anna Katharina Bondt"
+        }
+      ],
+      "notes": [
+        {
+          "text": "Published information: birth-name: Anna Katharina Bondt"
         }
       ]
     },

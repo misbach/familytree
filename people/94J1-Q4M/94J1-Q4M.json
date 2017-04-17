@@ -57,7 +57,7 @@
           "href": "https://familysearch.org/platform/tree/persons/94J1-Q4M/families?sourceDescriptions=true"
         },
         "portrait": {
-          "href": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/94J1-Q4M/94J1-Q4M.jpg"
+          "href": "https://raw.githubusercontent.com/misbach/familytree/master/people/94J1-Q4M/94J1-Q4M.jpg"
         },
         "matches": {
           "href": "https://familysearch.org/platform/tree/persons/94J1-Q4M/matches"
@@ -266,16 +266,16 @@
         "familiesAsParent": [
           {
             "parent1": {
-              "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/KC4Z-KSF/KC4Z-KSF.json",
+              "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KC4Z-KSF/KC4Z-KSF.json",
               "resourceId": "KC4Z-KSF"
             },
             "parent2": {
-              "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/94J1-Q4M/94J1-Q4M.json",
+              "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/94J1-Q4M/94J1-Q4M.json",
               "resourceId": "94J1-Q4M"
             },
             "children": [
               {
-                "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/KCM6-XT9/KCM6-XT9.json",
+                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KCM6-XT9/KCM6-XT9.json",
                 "resourceId": "KCM6-XT9"
               }
             ]
@@ -284,16 +284,16 @@
         "familiesAsChild": [
           {
             "parent1": {
-              "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/KC28-1VT/KC28-1VT.json",
+              "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KC28-1VT/KC28-1VT.json",
               "resourceId": "KC28-1VT"
             },
             "parent2": {
-              "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/KCTS-3FB/KCTS-3FB.json",
+              "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KCTS-3FB/KCTS-3FB.json",
               "resourceId": "KCTS-3FB"
             },
             "children": [
               {
-                "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/94J1-Q4M/94J1-Q4M.json",
+                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/94J1-Q4M/94J1-Q4M.json",
                 "resourceId": "94J1-Q4M"
               }
             ]

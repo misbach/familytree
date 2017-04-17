@@ -450,7 +450,7 @@
           "href": "https://familysearch.org/platform/tree/persons/KWJ4-C3X/families?sourceDescriptions=true"
         },
         "portrait": {
-          "href": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/KWJ4-C3X/KWJ4-C3X.jpg"
+          "href": "https://raw.githubusercontent.com/misbach/familytree/master/people/KWJ4-C3X/KWJ4-C3X.jpg"
         },
         "matches": {
           "href": "https://familysearch.org/platform/tree/persons/KWJ4-C3X/matches"
@@ -1934,27 +1934,27 @@
         "familiesAsParent": [
           {
             "parent1": {
-              "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/KWJ4-C3X/KWJ4-C3X.json",
+              "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KWJ4-C3X/KWJ4-C3X.json",
               "resourceId": "KWJ4-C3X"
             },
             "parent2": {
-              "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/MHPW-7VM/MHPW-7VM.json",
+              "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/MHPW-7VM/MHPW-7VM.json",
               "resourceId": "MHPW-7VM"
             },
             "children": [
               {
-                "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/KWJ4-C4X/KWJ4-C4X.json",
+                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KWJ4-C4X/KWJ4-C4X.json",
                 "resourceId": "KWJ4-C4X"
               }
             ]
           },
           {
             "parent1": {
-              "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/KWJ4-C3X/KWJ4-C3X.json",
+              "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KWJ4-C3X/KWJ4-C3X.json",
               "resourceId": "KWJ4-C3X"
             },
             "parent2": {
-              "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/K2M7-LDB/K2M7-LDB.json",
+              "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/K2M7-LDB/K2M7-LDB.json",
               "resourceId": "K2M7-LDB"
             }
           }
@@ -1962,16 +1962,16 @@
         "familiesAsChild": [
           {
             "parent1": {
-              "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/LC3P-DBM/LC3P-DBM.json",
+              "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/LC3P-DBM/LC3P-DBM.json",
               "resourceId": "LC3P-DBM"
             },
             "parent2": {
-              "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/LC3P-631/LC3P-631.json",
+              "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/LC3P-631/LC3P-631.json",
               "resourceId": "LC3P-631"
             },
             "children": [
               {
-                "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/KWJ4-C3X/KWJ4-C3X.json",
+                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KWJ4-C3X/KWJ4-C3X.json",
                 "resourceId": "KWJ4-C3X"
               }
             ]
@@ -14892,481 +14892,6 @@
       }
     },
     {
-      "id": "MRMC-VPW",
-      "lang": "en-us",
-      "about": "https://familysearch.org/ark:/61903/1:1:X1R3-282",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "modified": 1415372805651,
-        "created": 1415372805651
-      },
-      "resourceType": "IGI",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/MRMC-VPW"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"Wales Births and Baptisms, 1541-1907,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/X1R3-282 : 5 December 2014), John Griffiths in entry for Maria Griffiths, 20 Mar 1853; citing SAINT NICHOLAS,MONKTON,PEMBROKE,WALES, reference ; FHL microfilm 105,190."
-        }
-      ],
-      "titles": [
-        {
-          "value": "John Griffiths in entry for Maria Griffiths, \"Wales Births and Baptisms, 1541-1907\""
-        }
-      ],
-      "notes": [
-        {
-          "text": "This extracted record was used to create this person in Family Tree."
-        }
-      ]
-    },
-    {
-      "id": "MRM3-CS8",
-      "lang": "en-us",
-      "about": "https://familysearch.org/ark:/61903/1:1:X1TM-QYB",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "modified": 1415372792208,
-        "created": 1415372792208
-      },
-      "resourceType": "IGI",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/MRM3-CS8"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"Wales Births and Baptisms, 1541-1907,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/X1TM-QYB : 5 December 2014), John Griffiths in entry for Margaret Griffiths, 20 Nov 1867; citing LLANFABON,GLAMORGAN,WALES, reference ; FHL microfilm 104,881."
-        }
-      ],
-      "titles": [
-        {
-          "value": "John Griffiths in entry for Margaret Griffiths, \"Wales Births and Baptisms, 1541-1907\""
-        }
-      ],
-      "notes": [
-        {
-          "text": "This extracted record was used to create this person in Family Tree."
-        }
-      ]
-    },
-    {
-      "id": "M55B-XLK",
-      "lang": "en-us",
-      "about": "https://familysearch.org/ark:/61903/1:1:X1BD-7F4",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "modified": 1415372199545,
-        "created": 1415372199545
-      },
-      "resourceType": "IGI",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/M55B-XLK"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"Wales Births and Baptisms, 1541-1907,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/X1BD-7F4 : 5 December 2014), John Griffith in entry for Joseph Griffith, 20 Nov 1825; citing PENALLY,PEMBROKE,WALES, reference ; FHL microfilm 105,199."
-        }
-      ],
-      "titles": [
-        {
-          "value": "John Griffith in entry for Joseph Griffith, \"Wales Births and Baptisms, 1541-1907\""
-        }
-      ],
-      "notes": [
-        {
-          "text": "This extracted record was used to create this person in Family Tree."
-        }
-      ]
-    },
-    {
-      "id": "M996-6WQ",
-      "about": "http://billiongraves.com/pages/record/JOHNGRIFFITHS/2068316?utm_campaign=treeconnect&utm_source=familysearch.org&utm_medium=sourcelink",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMS-ZBWW",
-          "resourceId": "cis.user.MMMS-ZBWW"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMS-ZBWW",
-          "resourceId": "cis.user.MMMS-ZBWW"
-        },
-        "modified": 1399870691010,
-        "created": 1399870691010
-      },
-      "resourceType": "DEFAULT",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/M996-6WQ"
-        }
-      },
-      "citations": [
-        {
-          "value": "Transcription of headstone image from billiongraves.com. Image taken at Salt Lake City Cemetery (Salt Lake City, Salt Lake, Utah, United States) on 30 August 2012"
-        }
-      ],
-      "titles": [
-        {
-          "value": "Headstone image of John Griffiths from billiongraves.com"
-        }
-      ],
-      "notes": [
-        {
-          "text": "Name: John Griffiths\nBirth: 7 July 1810\nDeath: 1 December 1856\nBurial: Salt Lake City Cemetery, Salt Lake City, Salt Lake, Utah, United States"
-        }
-      ]
-    },
-    {
-      "id": "9C16-95T",
-      "lang": "en-us",
-      "about": "https://familysearch.org/ark:/61903/1:1:JS54-1HQ",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "modified": 1415446545284,
-        "created": 1415446545284
-      },
-      "resourceType": "IGI",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/9C16-95T"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"England Births and Christenings, 1538-1975,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/JS54-1HQ : 30 December 2014), John Griffiths in entry for Sarah Griffiths, 11 May 1845; citing , reference ; FHL microfilm 104,941."
-        }
-      ],
-      "titles": [
-        {
-          "value": "John Griffiths in entry for Sarah Griffiths, \"England Births and Christenings, 1538-1975\""
-        }
-      ],
-      "notes": [
-        {
-          "text": "This extracted record was used to create this person in Family Tree."
-        }
-      ]
-    },
-    {
-      "id": "M5BZ-P5C",
-      "lang": "en-us",
-      "about": "https://familysearch.org/ark:/61903/1:1:FMM1-V73",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "modified": 1415372593546,
-        "created": 1415372593546
-      },
-      "resourceType": "IGI",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/M5BZ-P5C"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"Wales Births and Baptisms, 1541-1907,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/FMM1-V73 : 5 December 2014), John Griffith in entry for Mary Jane Griffith, 27 Mar 1845; citing COWBRIDGE,GLAMORGAN,WALES, reference ; FHL microfilm 104,866."
-        }
-      ],
-      "titles": [
-        {
-          "value": "John Griffith in entry for Mary Jane Griffith, \"Wales Births and Baptisms, 1541-1907\""
-        }
-      ],
-      "notes": [
-        {
-          "text": "This extracted record was used to create this person in Family Tree."
-        }
-      ]
-    },
-    {
-      "id": "MS6C-FWY",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-SDYG",
-          "resourceId": "cis.user.MMM9-SDYG"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-SDYG",
-          "resourceId": "cis.user.MMM9-SDYG"
-        },
-        "modified": 1407394079918,
-        "created": 1407394079918
-      },
-      "resourceType": "LEGACY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/MS6C-FWY"
-        }
-      },
-      "citations": [
-        {
-          "value": "Paper, Salt Lake City, City Cemetary, Archive"
-        }
-      ],
-      "titles": [
-        {
-          "value": "Legacy NFS Source: John Griffiths - Government record: Cemetery record or headstone: death: 1 December 1856; Salt Lake City, Salt Lake, Utah, United States"
-        }
-      ],
-      "notes": [
-        {
-          "text": "Government record: Cemetery record or headstone: death: 1 December 1856; Salt Lake City, Salt Lake, Utah, United States"
-        }
-      ]
-    },
-    {
-      "id": "M5R4-DY6",
-      "lang": "en-us",
-      "about": "https://familysearch.org/ark:/61903/1:1:X1B3-B7D",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "modified": 1415372237605,
-        "created": 1415372237605
-      },
-      "resourceType": "IGI",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/M5R4-DY6"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"Wales Births and Baptisms, 1541-1907,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/X1B3-B7D : 5 December 2014), John Griffith in entry for Martha Griffith, 02 Oct 1841; citing LLANRHIDIAN HIGHER,GLAMORGAN,WALES, reference ; FHL microfilm 104,483."
-        }
-      ],
-      "titles": [
-        {
-          "value": "John Griffith in entry for Martha Griffith, \"Wales Births and Baptisms, 1541-1907\""
-        }
-      ],
-      "notes": [
-        {
-          "text": "This extracted record was used to create this person in Family Tree."
-        }
-      ]
-    },
-    {
-      "id": "MM67-WKW",
-      "about": "https://familysearch.org/ark:/61903/1:1:SG13-6B7",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-HT4Y",
-          "resourceId": "cis.user.MMMM-HT4Y"
-        },
-        "modified": 1489536714657,
-        "created": 1387327861000
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/MM67-WKW"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"England and Wales Census, 1851,\" database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/SG13-6B7 : 24 July 2016), John Griffiths, Woolwich, Kent, England; citing Woolwich, Kent, England, p. 1, from \"1851 England, Scotland and Wales census,\" database and images, findmypast (http://www.findmypast.com : n.d.); citing PRO HO 107, The National Archives of the UK, Kew, Surrey."
-        }
-      ],
-      "titles": [
-        {
-          "value": "John Griffiths, \"England and Wales Census, 1851\""
-        }
-      ]
-    },
-    {
-      "id": "MSRG-R4K",
-      "lang": "*",
-      "about": "http://billiongraves.com/pages/record/JohnGriffiths/5930755?utm_campaign=treeconnect&utm_source=familysearch.org&utm_medium=sourcelink",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-W6YW",
-          "resourceId": "cis.user.MMM9-W6YW"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-W6YW",
-          "resourceId": "cis.user.MMM9-W6YW"
-        },
-        "modified": 1412303366114,
-        "created": 1412303366114
-      },
-      "resourceType": "DEFAULT",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/MSRG-R4K"
-        }
-      },
-      "citations": [
-        {
-          "value": "Transcription of headstone image from billiongraves.com. Image taken at Salt Lake City Cemetery (Salt Lake City, Salt Lake, Utah, United States) on 20 November 2013"
-        }
-      ],
-      "titles": [
-        {
-          "value": "Headstone image of John Griffiths from billiongraves.com"
-        }
-      ],
-      "notes": [
-        {
-          "text": "Name: John Griffiths\nBirth: 7 July 1810\nDeath: 1 December 1856\nBurial: Salt Lake City Cemetery, Salt Lake City, Salt Lake, Utah, United States\nContributed by: BillionGraves user gsundberg51"
-        }
-      ]
-    },
-    {
-      "id": "9J67-QBR",
-      "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:QK9B-CDKH",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MM9W-LX3Y",
-          "resourceId": "cis.user.MM9W-LX3Y"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MM9W-LX3Y",
-          "resourceId": "cis.user.MM9W-LX3Y"
-        },
-        "modified": 1483334805713,
-        "created": 1483334805713
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/9J67-QBR"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"Utah Mormon Pioneer Overland Travel Database, 1847-1868\", database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/QK9B-CDKH : 20 May 2016), John Griffiths, 1856."
-        }
-      ],
-      "titles": [
-        {
-          "value": "John Griffiths, \"Utah Mormon Pioneer Overland Travel Database, 1847-1868\""
-        }
-      ]
-    },
-    {
-      "id": "9885-X6J",
-      "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:FQ7M-RFS",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-4Z1V",
-          "resourceId": "cis.user.MMMM-4Z1V"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-4Z1V",
-          "resourceId": "cis.user.MMMM-4Z1V"
-        },
-        "modified": 1430883246256,
-        "created": 1430883246256
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/9885-X6J"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"England and Wales Non-Conformist Record Indexes (RG4-8), 1588-1977,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/FQ7M-RFS : 11 December 2014), John Griffiths, 30 Aug 1813, Baptism; citing p. 78, Liverpool, Lancaster, record group RG4, Public Record Office, London."
-        }
-      ],
-      "titles": [
-        {
-          "value": "John Griffiths, \"England and Wales Non-Conformist Record Indexes (RG4-8), 1588-1977\""
-        }
-      ]
-    },
-    {
-      "id": "M5BD-BNM",
-      "lang": "en-us",
-      "about": "https://familysearch.org/ark:/61903/1:1:X1B8-GXP",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "modified": 1415372606596,
-        "created": 1415372606596
-      },
-      "resourceType": "IGI",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/M5BD-BNM"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"Wales Births and Baptisms, 1541-1907,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/X1B8-GXP : 5 December 2014), John Griffiths in entry for Mary Griffiths, 10 May 1829; citing PENALLY,PEMBROKE,WALES, reference ; FHL microfilm 105,199."
-        }
-      ],
-      "titles": [
-        {
-          "value": "John Griffiths in entry for Mary Griffiths, \"Wales Births and Baptisms, 1541-1907\""
-        }
-      ],
-      "notes": [
-        {
-          "text": "This extracted record was used to create this person in Family Tree."
-        }
-      ]
-    },
-    {
       "id": "M38K-1S6",
       "lang": "en-us",
       "about": "https://familysearch.org/ark:/61903/1:1:J7QY-TPF",
@@ -15405,73 +14930,35 @@
       ]
     },
     {
-      "id": "9J12-7ZD",
+      "id": "9885-X6J",
       "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:NVYP-H6V",
+      "about": "https://familysearch.org/ark:/61903/1:1:FQ7M-RFS",
       "attribution": {
         "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMX-NSBF",
-          "resourceId": "cis.user.MMMX-NSBF"
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-4Z1V",
+          "resourceId": "cis.user.MMMM-4Z1V"
         },
         "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMX-NSBF",
-          "resourceId": "cis.user.MMMX-NSBF"
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-4Z1V",
+          "resourceId": "cis.user.MMMM-4Z1V"
         },
-        "modified": 1487085974940,
-        "created": 1487085974940
+        "modified": 1430883246256,
+        "created": 1430883246256
       },
       "resourceType": "FSREADONLY",
       "links": {
         "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/9J12-7ZD"
+          "href": "https://familysearch.org/platform/sources/descriptions/9885-X6J"
         }
       },
       "citations": [
         {
-          "value": "\"England Births and Christenings, 1538-1975,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/NVYP-H6V : 30 December 2014), John Griffiths in entry for William Thompson Griffiths, 30 Dec 1833; citing Liverpool, Lancashire, England, reference v 21 p 269; FHL microfilm 93,880."
+          "value": "\"England and Wales Non-Conformist Record Indexes (RG4-8), 1588-1977,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/FQ7M-RFS : 11 December 2014), John Griffiths, 30 Aug 1813, Baptism; citing p. 78, Liverpool, Lancaster, record group RG4, Public Record Office, London."
         }
       ],
       "titles": [
         {
-          "value": "John Griffiths in entry for William Thompson Griffiths, \"England Births and Christenings, 1538-1975\""
-        }
-      ]
-    },
-    {
-      "id": "M5BZ-P8D",
-      "lang": "en-us",
-      "about": "https://familysearch.org/ark:/61903/1:1:FMM1-V7M",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "modified": 1415372593546,
-        "created": 1415372593546
-      },
-      "resourceType": "IGI",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/M5BZ-P8D"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"Wales Births and Baptisms, 1541-1907,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/FMM1-V7M : 5 December 2014), John Griffiths in entry for Mary Griffiths, 16 Sep 1842; citing COWBRIDGE,GLAMORGAN,WALES, reference ; FHL microfilm 104,866."
-        }
-      ],
-      "titles": [
-        {
-          "value": "John Griffiths in entry for Mary Griffiths, \"Wales Births and Baptisms, 1541-1907\""
-        }
-      ],
-      "notes": [
-        {
-          "text": "This extracted record was used to create this person in Family Tree."
+          "value": "John Griffiths, \"England and Wales Non-Conformist Record Indexes (RG4-8), 1588-1977\""
         }
       ]
     },
@@ -15514,9 +15001,145 @@
       ]
     },
     {
-      "id": "MLJJ-MLV",
+      "id": "9NKV-SFG",
+      "lang": "en_US",
+      "about": "https://familysearch.org/ark:/61903/1:1:NVYG-KQL",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-4Z1V",
+          "resourceId": "cis.user.MMMM-4Z1V"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-4Z1V",
+          "resourceId": "cis.user.MMMM-4Z1V"
+        },
+        "modified": 1476759955319,
+        "created": 1476759955319
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/9NKV-SFG"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"England Births and Christenings, 1538-1975,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/NVYG-KQL : 30 December 2014), John Griffiths in entry for Thomas Griffiths, 27 Oct 1834; citing Liverpool, Lancashire, England, reference v 22 p 325; FHL microfilm 93,880."
+        }
+      ],
+      "titles": [
+        {
+          "value": "John Griffiths in entry for Thomas Griffiths, \"England Births and Christenings, 1538-1975\""
+        }
+      ]
+    },
+    {
+      "id": "9J12-7ZD",
+      "lang": "en_US",
+      "about": "https://familysearch.org/ark:/61903/1:1:NVYP-H6V",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMX-NSBF",
+          "resourceId": "cis.user.MMMX-NSBF"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMX-NSBF",
+          "resourceId": "cis.user.MMMX-NSBF"
+        },
+        "modified": 1487085974940,
+        "created": 1487085974940
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/9J12-7ZD"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"England Births and Christenings, 1538-1975,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/NVYP-H6V : 30 December 2014), John Griffiths in entry for William Thompson Griffiths, 30 Dec 1833; citing Liverpool, Lancashire, England, reference v 21 p 269; FHL microfilm 93,880."
+        }
+      ],
+      "titles": [
+        {
+          "value": "John Griffiths in entry for William Thompson Griffiths, \"England Births and Christenings, 1538-1975\""
+        }
+      ]
+    },
+    {
+      "id": "9J67-QBR",
+      "lang": "en_US",
+      "about": "https://familysearch.org/ark:/61903/1:1:QK9B-CDKH",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MM9W-LX3Y",
+          "resourceId": "cis.user.MM9W-LX3Y"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MM9W-LX3Y",
+          "resourceId": "cis.user.MM9W-LX3Y"
+        },
+        "modified": 1483334805713,
+        "created": 1483334805713
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/9J67-QBR"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"Utah Mormon Pioneer Overland Travel Database, 1847-1868\", database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/QK9B-CDKH : 20 May 2016), John Griffiths, 1856."
+        }
+      ],
+      "titles": [
+        {
+          "value": "John Griffiths, \"Utah Mormon Pioneer Overland Travel Database, 1847-1868\""
+        }
+      ]
+    },
+    {
+      "id": "MM77-N73",
+      "about": "http://history.lds.org/overlandtravels/pioneerDetail?lang=eng&pioneerId=19041",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-H846",
+          "resourceId": "cis.user.MMM9-H846"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-H846",
+          "resourceId": "cis.user.MMM9-H846"
+        },
+        "modified": 1372215574000,
+        "created": 1372215574000
+      },
+      "resourceType": "DEFAULT",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/MM77-N73"
+        }
+      },
+      "citations": [
+        {
+          "value": "http://history.lds,org\n\"Immigration to Utah,\" Deseret News [Weekly], 15 Oct. 1856, 254.\nTrail Excerpt\nSource Location\n•Church History Library, Salt Lake City, Utah\n•Harold B. Lee Library, Brigham Young University, Provo, Utah\n•University of Utah, J. Willard Marriott Library, Salt Lake City, Utah\nClegg, Margaret Ann Griffiths, Autobiographical sketch, in Wasatch Wave, ca. 1906.\nTrail Excerpt\nSource Location\n•Internet Web Site\nSwinton, Heidi, Sweetwater Rescue: The Willie and Martin Handcart Story, [2006].\nSource Location\n•Church History Library, Salt Lake City, Utah\n"
+        }
+      ],
+      "titles": [
+        {
+          "value": "Mormon Pioneer Overland Travel about John Griffiths"
+        }
+      ],
+      "notes": [
+        {
+          "text": "John Griffiths crossed the plains with the Edward Martin Company in 1856."
+        }
+      ]
+    },
+    {
+      "id": "M55B-XLK",
       "lang": "en-us",
-      "about": "https://familysearch.org/ark:/61903/1:1:V5JP-GNT",
+      "about": "https://familysearch.org/ark:/61903/1:1:X1BD-7F4",
       "attribution": {
         "contributor": {
           "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
@@ -15526,23 +15149,23 @@
           "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
           "resourceId": "cis.wkca.MMMM-M93P"
         },
-        "modified": 1415361157806,
-        "created": 1415361157806
+        "modified": 1415372199545,
+        "created": 1415372199545
       },
       "resourceType": "IGI",
       "links": {
         "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/MLJJ-MLV"
+          "href": "https://familysearch.org/platform/sources/descriptions/M55B-XLK"
         }
       },
       "citations": [
         {
-          "value": "\"England Births and Christenings, 1538-1975,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/V5JP-GNT : 30 December 2014), John Griffiths, 30 Aug 1813; citing , reference ; FHL microfilm 0560885 (RG4 52, 939)."
+          "value": "\"Wales Births and Baptisms, 1541-1907,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/X1BD-7F4 : 5 December 2014), John Griffith in entry for Joseph Griffith, 20 Nov 1825; citing PENALLY,PEMBROKE,WALES, reference ; FHL microfilm 105,199."
         }
       ],
       "titles": [
         {
-          "value": "John Griffiths, \"England Births and Christenings, 1538-1975\""
+          "value": "John Griffith in entry for Joseph Griffith, \"Wales Births and Baptisms, 1541-1907\""
         }
       ],
       "notes": [
@@ -15552,9 +15175,41 @@
       ]
     },
     {
-      "id": "M5TX-R3C",
+      "id": "MM6Q-QTF",
+      "about": "https://familysearch.org/ark:/61903/1:1:MQKY-GV5",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-HT4Y",
+          "resourceId": "cis.user.MMMM-HT4Y"
+        },
+        "modified": 1489536667669,
+        "created": 1387231041000
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/MM6Q-QTF"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"England and Wales Census, 1841,\" database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/MQKY-GV5 : 30 October 2015), John Griffith in household of James Martin, Woolwich, Kent, England; from \"1841 England, Scotland and Wales census,\" database and images, findmypast (http://www.findmypast.com : n.d.); citing PRO HO 107, The National Archives, Kew, Surrey."
+        }
+      ],
+      "titles": [
+        {
+          "value": "John Griffith, \"England and Wales Census, 1841\""
+        }
+      ]
+    },
+    {
+      "id": "M5T3-PBC",
       "lang": "en-us",
-      "about": "https://familysearch.org/ark:/61903/1:1:X1BD-3XM",
+      "about": "https://familysearch.org/ark:/61903/1:1:X1TD-WY9",
       "attribution": {
         "contributor": {
           "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
@@ -15564,18 +15219,18 @@
           "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
           "resourceId": "cis.wkca.MMMM-M93P"
         },
-        "modified": 1415372393077,
-        "created": 1415372393077
+        "modified": 1415372347454,
+        "created": 1415372347454
       },
       "resourceType": "IGI",
       "links": {
         "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/M5TX-R3C"
+          "href": "https://familysearch.org/platform/sources/descriptions/M5T3-PBC"
         }
       },
       "citations": [
         {
-          "value": "\"Wales Births and Baptisms, 1541-1907,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/X1BD-3XM : 5 December 2014), John Griffiths in entry for John Griffiths, 20 Mar 1831; citing PENALLY,PEMBROKE,WALES, reference ; FHL microfilm 105,199."
+          "value": "\"Wales Births and Baptisms, 1541-1907,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/X1TD-WY9 : 5 December 2014), John Griffiths in entry for John Griffiths, 23 Sep 1852; citing LAMPETER,CARDIGAN,WALES, reference ; FHL microfilm 105,148."
         }
       ],
       "titles": [
@@ -15622,9 +15277,9 @@
       ]
     },
     {
-      "id": "M5T3-PBC",
+      "id": "M5R4-DY6",
       "lang": "en-us",
-      "about": "https://familysearch.org/ark:/61903/1:1:X1TD-WY9",
+      "about": "https://familysearch.org/ark:/61903/1:1:X1B3-B7D",
       "attribution": {
         "contributor": {
           "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
@@ -15634,23 +15289,23 @@
           "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
           "resourceId": "cis.wkca.MMMM-M93P"
         },
-        "modified": 1415372347454,
-        "created": 1415372347454
+        "modified": 1415372237605,
+        "created": 1415372237605
       },
       "resourceType": "IGI",
       "links": {
         "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/M5T3-PBC"
+          "href": "https://familysearch.org/platform/sources/descriptions/M5R4-DY6"
         }
       },
       "citations": [
         {
-          "value": "\"Wales Births and Baptisms, 1541-1907,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/X1TD-WY9 : 5 December 2014), John Griffiths in entry for John Griffiths, 23 Sep 1852; citing LAMPETER,CARDIGAN,WALES, reference ; FHL microfilm 105,148."
+          "value": "\"Wales Births and Baptisms, 1541-1907,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/X1B3-B7D : 5 December 2014), John Griffith in entry for Martha Griffith, 02 Oct 1841; citing LLANRHIDIAN HIGHER,GLAMORGAN,WALES, reference ; FHL microfilm 104,483."
         }
       ],
       "titles": [
         {
-          "value": "John Griffiths in entry for John Griffiths, \"Wales Births and Baptisms, 1541-1907\""
+          "value": "John Griffith in entry for Martha Griffith, \"Wales Births and Baptisms, 1541-1907\""
         }
       ],
       "notes": [
@@ -15660,47 +15315,9 @@
       ]
     },
     {
-      "id": "MSDK-SVB",
-      "lang": "en_US,EN;Q=0.5",
-      "about": "",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-HT4Y",
-          "resourceId": "cis.user.MMMM-HT4Y"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-HT4Y",
-          "resourceId": "cis.user.MMMM-HT4Y"
-        },
-        "modified": 1410273680210,
-        "created": 1407361015924
-      },
-      "resourceType": "DEFAULT",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/MSDK-SVB"
-        }
-      },
-      "citations": [
-        {
-          "value": "Family History Library BRITISH Film 87039 "
-        }
-      ],
-      "titles": [
-        {
-          "value": "John Griffiths information from the LDS Church Records in Woolwich, Kent, England giving emigration date and date and place of birth."
-        }
-      ],
-      "notes": [
-        {
-          "text": "1.   Items 16-18, Page 4, Line 244 and also Page 47, Line 91:\nJohn Griffiths: Born 7 July 1811 Liverpool, Lancaster, England\n  Baptized: 30 January 1840 at Liverpool by E Taylor \n  Confirmed: by E Taylor\n  Received from Deptford\n  Lives on Warwick St.\n \n2.  Page 8, Line 224 lists his emigration date.\nJohn Griffiths Sen.: Born 7 July 1811 Liverpool, Lancaster, England NOTE: Liverpool is in Lancashire\nBaptized: 30 January 1840 at Liverpool by John Taylor \nConfirmed: by John Taylor\nEmigrated: 23 May 1856\nLives on John St.\n\n3. NOTE: The 1851 Census in England also indicates that he was born in Liverpool.\n\n"
-        }
-      ]
-    },
-    {
-      "id": "M5YJ-JPN",
+      "id": "9369-FND",
       "lang": "en-us",
-      "about": "https://familysearch.org/ark:/61903/1:1:FMM1-G7C",
+      "about": "https://familysearch.org/ark:/61903/1:1:FG43-2XZ",
       "attribution": {
         "contributor": {
           "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
@@ -15710,251 +15327,23 @@
           "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
           "resourceId": "cis.wkca.MMMM-M93P"
         },
-        "modified": 1415372510045,
-        "created": 1415372510045
+        "modified": 1415403694693,
+        "created": 1415403694693
       },
       "resourceType": "IGI",
       "links": {
         "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/M5YJ-JPN"
+          "href": "https://familysearch.org/platform/sources/descriptions/9369-FND"
         }
       },
       "citations": [
         {
-          "value": "\"Wales Births and Baptisms, 1541-1907,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/FMM1-G7C : 5 December 2014), John Griffiths in entry for Edward Thomas Griffiths, 10 Oct 1840; citing COWBRIDGE,GLAMORGAN,WALES, reference ; FHL microfilm 104,866."
+          "value": "\"Wales Marriages, 1541-1900,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/FG43-2XZ : 5 December 2014), John Griffiths and Margaret Jones, 09 Dec 1820; citing Merthyr Tydfil,Glamorgan,Wales, reference ; FHL microfilm 104,888."
         }
       ],
       "titles": [
         {
-          "value": "John Griffiths in entry for Edward Thomas Griffiths, \"Wales Births and Baptisms, 1541-1907\""
-        }
-      ],
-      "notes": [
-        {
-          "text": "This extracted record was used to create this person in Family Tree."
-        }
-      ]
-    },
-    {
-      "id": "9SYY-JD6",
-      "lang": "en-us",
-      "about": "https://familysearch.org/ark:/61903/1:1:J9M8-X35",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "modified": 1415401380250,
-        "created": 1415401380250
-      },
-      "resourceType": "IGI",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/9SYY-JD6"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"England Births and Christenings, 1538-1975,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/J9M8-X35 : 30 December 2014), John Griffiths in entry for Phebe Margaret Griffiths, 30 Dec 1833; citing SAINT PETER,LIVERPOOL,LANCASHIRE,ENGLAND, reference ; FHL microfilm 93,880, 93,881, 93,882."
-        }
-      ],
-      "titles": [
-        {
-          "value": "John Griffiths in entry for Phebe Margaret Griffiths, \"England Births and Christenings, 1538-1975\""
-        }
-      ],
-      "notes": [
-        {
-          "text": "This extracted record was used to create this person in Family Tree."
-        }
-      ]
-    },
-    {
-      "id": "94KF-MTZ",
-      "lang": "en-us",
-      "about": "https://familysearch.org/ark:/61903/1:1:V5J5-WPC",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "modified": 1415430075933,
-        "created": 1415430075933
-      },
-      "resourceType": "IGI",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/94KF-MTZ"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"England Births and Christenings, 1538-1975,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/V5J5-WPC : 30 December 2014), John Griffiths in entry for Elizabeth Griffiths, 16 Jan 1834; citing , reference ; FHL microfilm 0560886 (RG4 1047)."
-        }
-      ],
-      "titles": [
-        {
-          "value": "John Griffiths in entry for Elizabeth Griffiths, \"England Births and Christenings, 1538-1975\""
-        }
-      ],
-      "notes": [
-        {
-          "text": "This extracted record was used to create this person in Family Tree."
-        }
-      ]
-    },
-    {
-      "id": "94LX-44F",
-      "lang": "en-us",
-      "about": "https://familysearch.org/ark:/61903/1:1:NKJB-PZS",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "modified": 1415430521608,
-        "created": 1415430521608
-      },
-      "resourceType": "IGI",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/94LX-44F"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"England Marriages, 1538–1973  ,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/NKJB-PZS : 10 December 2014), John Griffiths and Margaret Lloyd, 30 Jan 1828; citing Saint Johns Old Haymarket,Liverpool,Lancashire,England, reference ; FHL microfilm 1,068,949."
-        }
-      ],
-      "titles": [
-        {
-          "value": "John Griffiths, \"England Marriages, 1538–1973  \""
-        }
-      ],
-      "notes": [
-        {
-          "text": "This extracted record was used to create this person in Family Tree."
-        }
-      ]
-    },
-    {
-      "id": "MR9R-GCR",
-      "lang": "en-us",
-      "about": "https://familysearch.org/ark:/61903/1:1:FMM1-2VG",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "modified": 1415372982738,
-        "created": 1415372982738
-      },
-      "resourceType": "IGI",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/MR9R-GCR"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"Wales Births and Baptisms, 1541-1907,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/FMM1-2VG : 5 December 2014), John Griffiths in entry for Janet Griffiths, 08 Feb 1848; citing COWBRIDGE,GLAMORGAN,WALES, reference ; FHL microfilm 104,866."
-        }
-      ],
-      "titles": [
-        {
-          "value": "John Griffiths in entry for Janet Griffiths, \"Wales Births and Baptisms, 1541-1907\""
-        }
-      ],
-      "notes": [
-        {
-          "text": "This extracted record was used to create this person in Family Tree."
-        }
-      ]
-    },
-    {
-      "id": "9C16-MBZ",
-      "lang": "en-us",
-      "about": "https://familysearch.org/ark:/61903/1:1:NK14-G8Y",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "modified": 1415446545284,
-        "created": 1415446545284
-      },
-      "resourceType": "IGI",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/9C16-MBZ"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"England Births and Christenings, 1538-1975,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/NK14-G8Y : 30 December 2014), John Griffiths in entry for Sarah Ann Griffiths, 17 Sep 1843; citing LLANWENARTH,MONMOUTH,ENGLAND, reference ; FHL microfilm 104,941."
-        }
-      ],
-      "titles": [
-        {
-          "value": "John Griffiths in entry for Sarah Ann Griffiths, \"England Births and Christenings, 1538-1975\""
-        }
-      ],
-      "notes": [
-        {
-          "text": "This extracted record was used to create this person in Family Tree."
-        }
-      ]
-    },
-    {
-      "id": "MQVM-V92",
-      "lang": "en-us",
-      "about": "https://familysearch.org/ark:/61903/1:1:NK1H-MMR",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "modified": 1415315831188,
-        "created": 1415315831188
-      },
-      "resourceType": "IGI",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/MQVM-V92"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"England Births and Christenings, 1538-1975,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/NK1H-MMR : 30 December 2014), John Griffiths in entry for Tom Parry Griffiths, 19 Apr 1857; citing LLANWENARTH,MONMOUTH,ENGLAND, reference ; FHL microfilm 104,941."
-        }
-      ],
-      "titles": [
-        {
-          "value": "John Griffiths in entry for Tom Parry Griffiths, \"England Births and Christenings, 1538-1975\""
+          "value": "John Griffiths, \"Wales Marriages, 1541-1900\""
         }
       ],
       "notes": [
@@ -16007,79 +15396,9 @@
       }
     },
     {
-      "id": "M555-GPZ",
+      "id": "MR37-NZV",
       "lang": "en-us",
-      "about": "https://familysearch.org/ark:/61903/1:1:FMM1-G3D",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "modified": 1415372178964,
-        "created": 1415372178964
-      },
-      "resourceType": "IGI",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/M555-GPZ"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"Wales Births and Baptisms, 1541-1907,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/FMM1-G3D : 5 December 2014), John Griffiths in entry for Edward Griffiths, 06 Jul 1846; citing COWBRIDGE,GLAMORGAN,WALES, reference ; FHL microfilm 104,866."
-        }
-      ],
-      "titles": [
-        {
-          "value": "John Griffiths in entry for Edward Griffiths, \"Wales Births and Baptisms, 1541-1907\""
-        }
-      ],
-      "notes": [
-        {
-          "text": "This extracted record was used to create this person in Family Tree."
-        }
-      ]
-    },
-    {
-      "id": "MMDL-XRN",
-      "about": "https://familysearch.org/ark:/61903/1:1:NNM7-2JW",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-HT4Y",
-          "resourceId": "cis.user.MMMM-HT4Y"
-        },
-        "modified": 1489535983869,
-        "created": 1386270152000
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/MMDL-XRN"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"England Marriages, 1538–1973  ,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/NNM7-2JW : 10 December 2014), John Griffiths and Margaret Griffiths, 17 Nov 1833; citing St. Anne'S, Liverpool, Lancashire, England, reference 454; FHL microfilm 1,656,151."
-        }
-      ],
-      "titles": [
-        {
-          "value": "John Griffiths, \"England Marriages, 1538–1973  \""
-        }
-      ]
-    },
-    {
-      "id": "MR3W-6NY",
-      "lang": "en-us",
-      "about": "https://familysearch.org/ark:/61903/1:1:X1B8-TH9",
+      "about": "https://familysearch.org/ark:/61903/1:1:X1BD-3M8",
       "attribution": {
         "contributor": {
           "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
@@ -16095,17 +15414,17 @@
       "resourceType": "IGI",
       "links": {
         "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/MR3W-6NY"
+          "href": "https://familysearch.org/platform/sources/descriptions/MR37-NZV"
         }
       },
       "citations": [
         {
-          "value": "\"Wales Births and Baptisms, 1541-1907,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/X1B8-TH9 : 5 December 2014), John Griffiths in entry for Jane Griffiths, 08 Dec 1833; citing PENALLY,PEMBROKE,WALES, reference ; FHL microfilm 105,199."
+          "value": "\"Wales Births and Baptisms, 1541-1907,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/X1BD-3M8 : 5 December 2014), John Griffiths in entry for George Griffiths, 20 Jan 1840; citing PENALLY,PEMBROKE,WALES, reference ; FHL microfilm 105,199."
         }
       ],
       "titles": [
         {
-          "value": "John Griffiths in entry for Jane Griffiths, \"Wales Births and Baptisms, 1541-1907\""
+          "value": "John Griffiths in entry for George Griffiths, \"Wales Births and Baptisms, 1541-1907\""
         }
       ],
       "notes": [
@@ -16115,46 +15434,47 @@
       ]
     },
     {
-      "id": "MM77-N73",
-      "about": "http://history.lds.org/overlandtravels/pioneerDetail?lang=eng&pioneerId=19041",
+      "id": "MSRG-R4K",
+      "lang": "*",
+      "about": "http://billiongraves.com/pages/record/JohnGriffiths/5930755?utm_campaign=treeconnect&utm_source=familysearch.org&utm_medium=sourcelink",
       "attribution": {
         "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-H846",
-          "resourceId": "cis.user.MMM9-H846"
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-W6YW",
+          "resourceId": "cis.user.MMM9-W6YW"
         },
         "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-H846",
-          "resourceId": "cis.user.MMM9-H846"
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-W6YW",
+          "resourceId": "cis.user.MMM9-W6YW"
         },
-        "modified": 1372215574000,
-        "created": 1372215574000
+        "modified": 1412303366114,
+        "created": 1412303366114
       },
       "resourceType": "DEFAULT",
       "links": {
         "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/MM77-N73"
+          "href": "https://familysearch.org/platform/sources/descriptions/MSRG-R4K"
         }
       },
       "citations": [
         {
-          "value": "http://history.lds,org\n\"Immigration to Utah,\" Deseret News [Weekly], 15 Oct. 1856, 254.\nTrail Excerpt\nSource Location\n•Church History Library, Salt Lake City, Utah\n•Harold B. Lee Library, Brigham Young University, Provo, Utah\n•University of Utah, J. Willard Marriott Library, Salt Lake City, Utah\nClegg, Margaret Ann Griffiths, Autobiographical sketch, in Wasatch Wave, ca. 1906.\nTrail Excerpt\nSource Location\n•Internet Web Site\nSwinton, Heidi, Sweetwater Rescue: The Willie and Martin Handcart Story, [2006].\nSource Location\n•Church History Library, Salt Lake City, Utah\n"
+          "value": "Transcription of headstone image from billiongraves.com. Image taken at Salt Lake City Cemetery (Salt Lake City, Salt Lake, Utah, United States) on 20 November 2013"
         }
       ],
       "titles": [
         {
-          "value": "Mormon Pioneer Overland Travel about John Griffiths"
+          "value": "Headstone image of John Griffiths from billiongraves.com"
         }
       ],
       "notes": [
         {
-          "text": "John Griffiths crossed the plains with the Edward Martin Company in 1856."
+          "text": "Name: John Griffiths\nBirth: 7 July 1810\nDeath: 1 December 1856\nBurial: Salt Lake City Cemetery, Salt Lake City, Salt Lake, Utah, United States\nContributed by: BillionGraves user gsundberg51"
         }
       ]
     },
     {
-      "id": "MNWB-Y3P",
+      "id": "MQVM-V92",
       "lang": "en-us",
-      "about": "https://familysearch.org/ark:/61903/1:1:V5J5-QK1",
+      "about": "https://familysearch.org/ark:/61903/1:1:NK1H-MMR",
       "attribution": {
         "contributor": {
           "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
@@ -16164,99 +15484,28 @@
           "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
           "resourceId": "cis.wkca.MMMM-M93P"
         },
-        "modified": 1415344098505,
-        "created": 1415344098505
+        "modified": 1415315831188,
+        "created": 1415315831188
       },
       "resourceType": "IGI",
       "links": {
         "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/MNWB-Y3P"
+          "href": "https://familysearch.org/platform/sources/descriptions/MQVM-V92"
         }
       },
       "citations": [
         {
-          "value": "\"England Births and Christenings, 1538-1975,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/V5J5-QK1 : 30 December 2014), John Griffiths in entry for Margaret Griffiths, 16 Jan 1834; citing , reference ; FHL microfilm 0560886 (RG4 1047)."
+          "value": "\"England Births and Christenings, 1538-1975,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/NK1H-MMR : 30 December 2014), John Griffiths in entry for Tom Parry Griffiths, 19 Apr 1857; citing LLANWENARTH,MONMOUTH,ENGLAND, reference ; FHL microfilm 104,941."
         }
       ],
       "titles": [
         {
-          "value": "John Griffiths in entry for Margaret Griffiths, \"England Births and Christenings, 1538-1975\""
+          "value": "John Griffiths in entry for Tom Parry Griffiths, \"England Births and Christenings, 1538-1975\""
         }
       ],
       "notes": [
         {
           "text": "This extracted record was used to create this person in Family Tree."
-        }
-      ]
-    },
-    {
-      "id": "MRMZ-G7K",
-      "lang": "en-us",
-      "about": "https://familysearch.org/ark:/61903/1:1:X1R3-LSC",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "modified": 1415372818562,
-        "created": 1415372818562
-      },
-      "resourceType": "IGI",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/MRMZ-G7K"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"Wales Births and Baptisms, 1541-1907,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/X1R3-LSC : 5 December 2014), John Griffiths in entry for Emily Griffiths, 22 Jun 1851; citing SAINT NICHOLAS,MONKTON,PEMBROKE,WALES, reference ; FHL microfilm 105,190."
-        }
-      ],
-      "titles": [
-        {
-          "value": "John Griffiths in entry for Emily Griffiths, \"Wales Births and Baptisms, 1541-1907\""
-        }
-      ],
-      "notes": [
-        {
-          "text": "This extracted record was used to create this person in Family Tree."
-        }
-      ]
-    },
-    {
-      "id": "9NKV-SFG",
-      "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:NVYG-KQL",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-4Z1V",
-          "resourceId": "cis.user.MMMM-4Z1V"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-4Z1V",
-          "resourceId": "cis.user.MMMM-4Z1V"
-        },
-        "modified": 1476759955319,
-        "created": 1476759955319
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/9NKV-SFG"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"England Births and Christenings, 1538-1975,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/NVYG-KQL : 30 December 2014), John Griffiths in entry for Thomas Griffiths, 27 Oct 1834; citing Liverpool, Lancashire, England, reference v 22 p 325; FHL microfilm 93,880."
-        }
-      ],
-      "titles": [
-        {
-          "value": "John Griffiths in entry for Thomas Griffiths, \"England Births and Christenings, 1538-1975\""
         }
       ]
     },
@@ -16290,44 +15539,6 @@
       "titles": [
         {
           "value": "John Griffiths in entry for Annie Griffiths, \"Wales Births and Baptisms, 1541-1907\""
-        }
-      ],
-      "notes": [
-        {
-          "text": "This extracted record was used to create this person in Family Tree."
-        }
-      ]
-    },
-    {
-      "id": "MR3W-8NP",
-      "lang": "en-us",
-      "about": "https://familysearch.org/ark:/61903/1:1:X1B8-59W",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "modified": 1415373127994,
-        "created": 1415373127994
-      },
-      "resourceType": "IGI",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/MR3W-8NP"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"Wales Births and Baptisms, 1541-1907,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/X1B8-59W : 5 December 2014), John Griffiths in entry for Martha Griffiths, 11 Sep 1842; citing PENALLY,PEMBROKE,WALES, reference ; FHL microfilm 105,199."
-        }
-      ],
-      "titles": [
-        {
-          "value": "John Griffiths in entry for Martha Griffiths, \"Wales Births and Baptisms, 1541-1907\""
         }
       ],
       "notes": [
@@ -16375,9 +15586,47 @@
       ]
     },
     {
-      "id": "MR37-NZV",
+      "id": "94LX-44F",
       "lang": "en-us",
-      "about": "https://familysearch.org/ark:/61903/1:1:X1BD-3M8",
+      "about": "https://familysearch.org/ark:/61903/1:1:NKJB-PZS",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "modified": 1415430521608,
+        "created": 1415430521608
+      },
+      "resourceType": "IGI",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/94LX-44F"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"England Marriages, 1538–1973  ,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/NKJB-PZS : 10 December 2014), John Griffiths and Margaret Lloyd, 30 Jan 1828; citing Saint Johns Old Haymarket,Liverpool,Lancashire,England, reference ; FHL microfilm 1,068,949."
+        }
+      ],
+      "titles": [
+        {
+          "value": "John Griffiths, \"England Marriages, 1538–1973  \""
+        }
+      ],
+      "notes": [
+        {
+          "text": "This extracted record was used to create this person in Family Tree."
+        }
+      ]
+    },
+    {
+      "id": "MR3W-8NP",
+      "lang": "en-us",
+      "about": "https://familysearch.org/ark:/61903/1:1:X1B8-59W",
       "attribution": {
         "contributor": {
           "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
@@ -16393,22 +15642,122 @@
       "resourceType": "IGI",
       "links": {
         "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/MR37-NZV"
+          "href": "https://familysearch.org/platform/sources/descriptions/MR3W-8NP"
         }
       },
       "citations": [
         {
-          "value": "\"Wales Births and Baptisms, 1541-1907,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/X1BD-3M8 : 5 December 2014), John Griffiths in entry for George Griffiths, 20 Jan 1840; citing PENALLY,PEMBROKE,WALES, reference ; FHL microfilm 105,199."
+          "value": "\"Wales Births and Baptisms, 1541-1907,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/X1B8-59W : 5 December 2014), John Griffiths in entry for Martha Griffiths, 11 Sep 1842; citing PENALLY,PEMBROKE,WALES, reference ; FHL microfilm 105,199."
         }
       ],
       "titles": [
         {
-          "value": "John Griffiths in entry for George Griffiths, \"Wales Births and Baptisms, 1541-1907\""
+          "value": "John Griffiths in entry for Martha Griffiths, \"Wales Births and Baptisms, 1541-1907\""
         }
       ],
       "notes": [
         {
           "text": "This extracted record was used to create this person in Family Tree."
+        }
+      ]
+    },
+    {
+      "id": "MS6C-FWY",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-SDYG",
+          "resourceId": "cis.user.MMM9-SDYG"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-SDYG",
+          "resourceId": "cis.user.MMM9-SDYG"
+        },
+        "modified": 1407394079918,
+        "created": 1407394079918
+      },
+      "resourceType": "LEGACY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/MS6C-FWY"
+        }
+      },
+      "citations": [
+        {
+          "value": "Paper, Salt Lake City, City Cemetary, Archive"
+        }
+      ],
+      "titles": [
+        {
+          "value": "Legacy NFS Source: John Griffiths - Government record: Cemetery record or headstone: death: 1 December 1856; Salt Lake City, Salt Lake, Utah, United States"
+        }
+      ],
+      "notes": [
+        {
+          "text": "Government record: Cemetery record or headstone: death: 1 December 1856; Salt Lake City, Salt Lake, Utah, United States"
+        }
+      ]
+    },
+    {
+      "id": "MMDL-XRN",
+      "about": "https://familysearch.org/ark:/61903/1:1:NNM7-2JW",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-HT4Y",
+          "resourceId": "cis.user.MMMM-HT4Y"
+        },
+        "modified": 1489535983869,
+        "created": 1386270152000
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/MMDL-XRN"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"England Marriages, 1538–1973  ,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/NNM7-2JW : 10 December 2014), John Griffiths and Margaret Griffiths, 17 Nov 1833; citing St. Anne'S, Liverpool, Lancashire, England, reference 454; FHL microfilm 1,656,151."
+        }
+      ],
+      "titles": [
+        {
+          "value": "John Griffiths, \"England Marriages, 1538–1973  \""
+        }
+      ]
+    },
+    {
+      "id": "MM6W-5QJ",
+      "about": "https://familysearch.org/ark:/61903/1:1:KCX2-51G",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-HT4Y",
+          "resourceId": "cis.user.MMMM-HT4Y"
+        },
+        "modified": 1489536795647,
+        "created": 1387481701000
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/MM6W-5QJ"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"BillionGraves Index,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/KCX2-51G : 24 June 2015), JOHN GRIFFITHS, died 01 Dec 1856; citing BillionGraves (http://www.billiongraves.com : 2012), Burial at Salt Lake City Cemetery, Salt Lake City, Salt Lake, Utah, United States."
+        }
+      ],
+      "titles": [
+        {
+          "value": "JOHN GRIFFITHS, \"BillionGraves Index\""
         }
       ]
     },
@@ -16451,70 +15800,6 @@
       ]
     },
     {
-      "id": "MM6Q-QTF",
-      "about": "https://familysearch.org/ark:/61903/1:1:MQKY-GV5",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-HT4Y",
-          "resourceId": "cis.user.MMMM-HT4Y"
-        },
-        "modified": 1489536667669,
-        "created": 1387231041000
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/MM6Q-QTF"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"England and Wales Census, 1841,\" database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/MQKY-GV5 : 30 October 2015), John Griffith in household of James Martin, Woolwich, Kent, England; from \"1841 England, Scotland and Wales census,\" database and images, findmypast (http://www.findmypast.com : n.d.); citing PRO HO 107, The National Archives, Kew, Surrey."
-        }
-      ],
-      "titles": [
-        {
-          "value": "John Griffith, \"England and Wales Census, 1841\""
-        }
-      ]
-    },
-    {
-      "id": "MM6W-5QJ",
-      "about": "https://familysearch.org/ark:/61903/1:1:KCX2-51G",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-HT4Y",
-          "resourceId": "cis.user.MMMM-HT4Y"
-        },
-        "modified": 1489536795647,
-        "created": 1387481701000
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/MM6W-5QJ"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"BillionGraves Index,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/KCX2-51G : 24 June 2015), JOHN GRIFFITHS, died 01 Dec 1856; citing BillionGraves (http://www.billiongraves.com : 2012), Burial at Salt Lake City Cemetery, Salt Lake City, Salt Lake, Utah, United States."
-        }
-      ],
-      "titles": [
-        {
-          "value": "JOHN GRIFFITHS, \"BillionGraves Index\""
-        }
-      ]
-    },
-    {
       "id": "9C1D-TMP",
       "lang": "en-us",
       "about": "https://familysearch.org/ark:/61903/1:1:NY42-9QQ",
@@ -16544,6 +15829,310 @@
       "titles": [
         {
           "value": "John Griffiths in entry for Mary Griffiths, \"England Births and Christenings, 1538-1975\""
+        }
+      ],
+      "notes": [
+        {
+          "text": "This extracted record was used to create this person in Family Tree."
+        }
+      ]
+    },
+    {
+      "id": "94KF-MTZ",
+      "lang": "en-us",
+      "about": "https://familysearch.org/ark:/61903/1:1:V5J5-WPC",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "modified": 1415430075933,
+        "created": 1415430075933
+      },
+      "resourceType": "IGI",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/94KF-MTZ"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"England Births and Christenings, 1538-1975,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/V5J5-WPC : 30 December 2014), John Griffiths in entry for Elizabeth Griffiths, 16 Jan 1834; citing , reference ; FHL microfilm 0560886 (RG4 1047)."
+        }
+      ],
+      "titles": [
+        {
+          "value": "John Griffiths in entry for Elizabeth Griffiths, \"England Births and Christenings, 1538-1975\""
+        }
+      ],
+      "notes": [
+        {
+          "text": "This extracted record was used to create this person in Family Tree."
+        }
+      ]
+    },
+    {
+      "id": "MRMC-VPW",
+      "lang": "en-us",
+      "about": "https://familysearch.org/ark:/61903/1:1:X1R3-282",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "modified": 1415372805651,
+        "created": 1415372805651
+      },
+      "resourceType": "IGI",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/MRMC-VPW"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"Wales Births and Baptisms, 1541-1907,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/X1R3-282 : 5 December 2014), John Griffiths in entry for Maria Griffiths, 20 Mar 1853; citing SAINT NICHOLAS,MONKTON,PEMBROKE,WALES, reference ; FHL microfilm 105,190."
+        }
+      ],
+      "titles": [
+        {
+          "value": "John Griffiths in entry for Maria Griffiths, \"Wales Births and Baptisms, 1541-1907\""
+        }
+      ],
+      "notes": [
+        {
+          "text": "This extracted record was used to create this person in Family Tree."
+        }
+      ]
+    },
+    {
+      "id": "M5BZ-P5C",
+      "lang": "en-us",
+      "about": "https://familysearch.org/ark:/61903/1:1:FMM1-V73",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "modified": 1415372593546,
+        "created": 1415372593546
+      },
+      "resourceType": "IGI",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/M5BZ-P5C"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"Wales Births and Baptisms, 1541-1907,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/FMM1-V73 : 5 December 2014), John Griffith in entry for Mary Jane Griffith, 27 Mar 1845; citing COWBRIDGE,GLAMORGAN,WALES, reference ; FHL microfilm 104,866."
+        }
+      ],
+      "titles": [
+        {
+          "value": "John Griffith in entry for Mary Jane Griffith, \"Wales Births and Baptisms, 1541-1907\""
+        }
+      ],
+      "notes": [
+        {
+          "text": "This extracted record was used to create this person in Family Tree."
+        }
+      ]
+    },
+    {
+      "id": "MSDK-SVB",
+      "lang": "en_US,EN;Q=0.5",
+      "about": "",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-HT4Y",
+          "resourceId": "cis.user.MMMM-HT4Y"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-HT4Y",
+          "resourceId": "cis.user.MMMM-HT4Y"
+        },
+        "modified": 1410273680210,
+        "created": 1407361015924
+      },
+      "resourceType": "DEFAULT",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/MSDK-SVB"
+        }
+      },
+      "citations": [
+        {
+          "value": "Family History Library BRITISH Film 87039 "
+        }
+      ],
+      "titles": [
+        {
+          "value": "John Griffiths information from the LDS Church Records in Woolwich, Kent, England giving emigration date and date and place of birth."
+        }
+      ],
+      "notes": [
+        {
+          "text": "1.   Items 16-18, Page 4, Line 244 and also Page 47, Line 91:\nJohn Griffiths: Born 7 July 1811 Liverpool, Lancaster, England\n  Baptized: 30 January 1840 at Liverpool by E Taylor \n  Confirmed: by E Taylor\n  Received from Deptford\n  Lives on Warwick St.\n \n2.  Page 8, Line 224 lists his emigration date.\nJohn Griffiths Sen.: Born 7 July 1811 Liverpool, Lancaster, England NOTE: Liverpool is in Lancashire\nBaptized: 30 January 1840 at Liverpool by John Taylor \nConfirmed: by John Taylor\nEmigrated: 23 May 1856\nLives on John St.\n\n3. NOTE: The 1851 Census in England also indicates that he was born in Liverpool.\n\n"
+        }
+      ]
+    },
+    {
+      "id": "9C16-MBZ",
+      "lang": "en-us",
+      "about": "https://familysearch.org/ark:/61903/1:1:NK14-G8Y",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "modified": 1415446545284,
+        "created": 1415446545284
+      },
+      "resourceType": "IGI",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/9C16-MBZ"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"England Births and Christenings, 1538-1975,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/NK14-G8Y : 30 December 2014), John Griffiths in entry for Sarah Ann Griffiths, 17 Sep 1843; citing LLANWENARTH,MONMOUTH,ENGLAND, reference ; FHL microfilm 104,941."
+        }
+      ],
+      "titles": [
+        {
+          "value": "John Griffiths in entry for Sarah Ann Griffiths, \"England Births and Christenings, 1538-1975\""
+        }
+      ],
+      "notes": [
+        {
+          "text": "This extracted record was used to create this person in Family Tree."
+        }
+      ]
+    },
+    {
+      "id": "MRMZ-G7K",
+      "lang": "en-us",
+      "about": "https://familysearch.org/ark:/61903/1:1:X1R3-LSC",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "modified": 1415372818562,
+        "created": 1415372818562
+      },
+      "resourceType": "IGI",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/MRMZ-G7K"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"Wales Births and Baptisms, 1541-1907,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/X1R3-LSC : 5 December 2014), John Griffiths in entry for Emily Griffiths, 22 Jun 1851; citing SAINT NICHOLAS,MONKTON,PEMBROKE,WALES, reference ; FHL microfilm 105,190."
+        }
+      ],
+      "titles": [
+        {
+          "value": "John Griffiths in entry for Emily Griffiths, \"Wales Births and Baptisms, 1541-1907\""
+        }
+      ],
+      "notes": [
+        {
+          "text": "This extracted record was used to create this person in Family Tree."
+        }
+      ]
+    },
+    {
+      "id": "MR3W-6NY",
+      "lang": "en-us",
+      "about": "https://familysearch.org/ark:/61903/1:1:X1B8-TH9",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "modified": 1415373127994,
+        "created": 1415373127994
+      },
+      "resourceType": "IGI",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/MR3W-6NY"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"Wales Births and Baptisms, 1541-1907,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/X1B8-TH9 : 5 December 2014), John Griffiths in entry for Jane Griffiths, 08 Dec 1833; citing PENALLY,PEMBROKE,WALES, reference ; FHL microfilm 105,199."
+        }
+      ],
+      "titles": [
+        {
+          "value": "John Griffiths in entry for Jane Griffiths, \"Wales Births and Baptisms, 1541-1907\""
+        }
+      ],
+      "notes": [
+        {
+          "text": "This extracted record was used to create this person in Family Tree."
+        }
+      ]
+    },
+    {
+      "id": "MNWB-Y3P",
+      "lang": "en-us",
+      "about": "https://familysearch.org/ark:/61903/1:1:V5J5-QK1",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "modified": 1415344098505,
+        "created": 1415344098505
+      },
+      "resourceType": "IGI",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/MNWB-Y3P"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"England Births and Christenings, 1538-1975,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/V5J5-QK1 : 30 December 2014), John Griffiths in entry for Margaret Griffiths, 16 Jan 1834; citing , reference ; FHL microfilm 0560886 (RG4 1047)."
+        }
+      ],
+      "titles": [
+        {
+          "value": "John Griffiths in entry for Margaret Griffiths, \"England Births and Christenings, 1538-1975\""
         }
       ],
       "notes": [
@@ -16629,9 +16218,9 @@
       ]
     },
     {
-      "id": "9369-FND",
+      "id": "M5BZ-P8D",
       "lang": "en-us",
-      "about": "https://familysearch.org/ark:/61903/1:1:FG43-2XZ",
+      "about": "https://familysearch.org/ark:/61903/1:1:FMM1-V7M",
       "attribution": {
         "contributor": {
           "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
@@ -16641,23 +16230,434 @@
           "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
           "resourceId": "cis.wkca.MMMM-M93P"
         },
-        "modified": 1415403694693,
-        "created": 1415403694693
+        "modified": 1415372593546,
+        "created": 1415372593546
       },
       "resourceType": "IGI",
       "links": {
         "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/9369-FND"
+          "href": "https://familysearch.org/platform/sources/descriptions/M5BZ-P8D"
         }
       },
       "citations": [
         {
-          "value": "\"Wales Marriages, 1541-1900,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/FG43-2XZ : 5 December 2014), John Griffiths and Margaret Jones, 09 Dec 1820; citing Merthyr Tydfil,Glamorgan,Wales, reference ; FHL microfilm 104,888."
+          "value": "\"Wales Births and Baptisms, 1541-1907,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/FMM1-V7M : 5 December 2014), John Griffiths in entry for Mary Griffiths, 16 Sep 1842; citing COWBRIDGE,GLAMORGAN,WALES, reference ; FHL microfilm 104,866."
         }
       ],
       "titles": [
         {
-          "value": "John Griffiths, \"Wales Marriages, 1541-1900\""
+          "value": "John Griffiths in entry for Mary Griffiths, \"Wales Births and Baptisms, 1541-1907\""
+        }
+      ],
+      "notes": [
+        {
+          "text": "This extracted record was used to create this person in Family Tree."
+        }
+      ]
+    },
+    {
+      "id": "MR9R-GCR",
+      "lang": "en-us",
+      "about": "https://familysearch.org/ark:/61903/1:1:FMM1-2VG",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "modified": 1415372982738,
+        "created": 1415372982738
+      },
+      "resourceType": "IGI",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/MR9R-GCR"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"Wales Births and Baptisms, 1541-1907,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/FMM1-2VG : 5 December 2014), John Griffiths in entry for Janet Griffiths, 08 Feb 1848; citing COWBRIDGE,GLAMORGAN,WALES, reference ; FHL microfilm 104,866."
+        }
+      ],
+      "titles": [
+        {
+          "value": "John Griffiths in entry for Janet Griffiths, \"Wales Births and Baptisms, 1541-1907\""
+        }
+      ],
+      "notes": [
+        {
+          "text": "This extracted record was used to create this person in Family Tree."
+        }
+      ]
+    },
+    {
+      "id": "M555-GPZ",
+      "lang": "en-us",
+      "about": "https://familysearch.org/ark:/61903/1:1:FMM1-G3D",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "modified": 1415372178964,
+        "created": 1415372178964
+      },
+      "resourceType": "IGI",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/M555-GPZ"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"Wales Births and Baptisms, 1541-1907,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/FMM1-G3D : 5 December 2014), John Griffiths in entry for Edward Griffiths, 06 Jul 1846; citing COWBRIDGE,GLAMORGAN,WALES, reference ; FHL microfilm 104,866."
+        }
+      ],
+      "titles": [
+        {
+          "value": "John Griffiths in entry for Edward Griffiths, \"Wales Births and Baptisms, 1541-1907\""
+        }
+      ],
+      "notes": [
+        {
+          "text": "This extracted record was used to create this person in Family Tree."
+        }
+      ]
+    },
+    {
+      "id": "MM67-WKW",
+      "about": "https://familysearch.org/ark:/61903/1:1:SG13-6B7",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-HT4Y",
+          "resourceId": "cis.user.MMMM-HT4Y"
+        },
+        "modified": 1489536714657,
+        "created": 1387327861000
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/MM67-WKW"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"England and Wales Census, 1851,\" database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/SG13-6B7 : 24 July 2016), John Griffiths, Woolwich, Kent, England; citing Woolwich, Kent, England, p. 1, from \"1851 England, Scotland and Wales census,\" database and images, findmypast (http://www.findmypast.com : n.d.); citing PRO HO 107, The National Archives of the UK, Kew, Surrey."
+        }
+      ],
+      "titles": [
+        {
+          "value": "John Griffiths, \"England and Wales Census, 1851\""
+        }
+      ]
+    },
+    {
+      "id": "9SYY-JD6",
+      "lang": "en-us",
+      "about": "https://familysearch.org/ark:/61903/1:1:J9M8-X35",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "modified": 1415401380250,
+        "created": 1415401380250
+      },
+      "resourceType": "IGI",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/9SYY-JD6"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"England Births and Christenings, 1538-1975,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/J9M8-X35 : 30 December 2014), John Griffiths in entry for Phebe Margaret Griffiths, 30 Dec 1833; citing SAINT PETER,LIVERPOOL,LANCASHIRE,ENGLAND, reference ; FHL microfilm 93,880, 93,881, 93,882."
+        }
+      ],
+      "titles": [
+        {
+          "value": "John Griffiths in entry for Phebe Margaret Griffiths, \"England Births and Christenings, 1538-1975\""
+        }
+      ],
+      "notes": [
+        {
+          "text": "This extracted record was used to create this person in Family Tree."
+        }
+      ]
+    },
+    {
+      "id": "M5BD-BNM",
+      "lang": "en-us",
+      "about": "https://familysearch.org/ark:/61903/1:1:X1B8-GXP",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "modified": 1415372606596,
+        "created": 1415372606596
+      },
+      "resourceType": "IGI",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/M5BD-BNM"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"Wales Births and Baptisms, 1541-1907,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/X1B8-GXP : 5 December 2014), John Griffiths in entry for Mary Griffiths, 10 May 1829; citing PENALLY,PEMBROKE,WALES, reference ; FHL microfilm 105,199."
+        }
+      ],
+      "titles": [
+        {
+          "value": "John Griffiths in entry for Mary Griffiths, \"Wales Births and Baptisms, 1541-1907\""
+        }
+      ],
+      "notes": [
+        {
+          "text": "This extracted record was used to create this person in Family Tree."
+        }
+      ]
+    },
+    {
+      "id": "M5TX-R3C",
+      "lang": "en-us",
+      "about": "https://familysearch.org/ark:/61903/1:1:X1BD-3XM",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "modified": 1415372393077,
+        "created": 1415372393077
+      },
+      "resourceType": "IGI",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/M5TX-R3C"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"Wales Births and Baptisms, 1541-1907,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/X1BD-3XM : 5 December 2014), John Griffiths in entry for John Griffiths, 20 Mar 1831; citing PENALLY,PEMBROKE,WALES, reference ; FHL microfilm 105,199."
+        }
+      ],
+      "titles": [
+        {
+          "value": "John Griffiths in entry for John Griffiths, \"Wales Births and Baptisms, 1541-1907\""
+        }
+      ],
+      "notes": [
+        {
+          "text": "This extracted record was used to create this person in Family Tree."
+        }
+      ]
+    },
+    {
+      "id": "M996-6WQ",
+      "about": "http://billiongraves.com/pages/record/JOHNGRIFFITHS/2068316?utm_campaign=treeconnect&utm_source=familysearch.org&utm_medium=sourcelink",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMS-ZBWW",
+          "resourceId": "cis.user.MMMS-ZBWW"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMS-ZBWW",
+          "resourceId": "cis.user.MMMS-ZBWW"
+        },
+        "modified": 1399870691010,
+        "created": 1399870691010
+      },
+      "resourceType": "DEFAULT",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/M996-6WQ"
+        }
+      },
+      "citations": [
+        {
+          "value": "Transcription of headstone image from billiongraves.com. Image taken at Salt Lake City Cemetery (Salt Lake City, Salt Lake, Utah, United States) on 30 August 2012"
+        }
+      ],
+      "titles": [
+        {
+          "value": "Headstone image of John Griffiths from billiongraves.com"
+        }
+      ],
+      "notes": [
+        {
+          "text": "Name: John Griffiths\nBirth: 7 July 1810\nDeath: 1 December 1856\nBurial: Salt Lake City Cemetery, Salt Lake City, Salt Lake, Utah, United States"
+        }
+      ]
+    },
+    {
+      "id": "9C16-95T",
+      "lang": "en-us",
+      "about": "https://familysearch.org/ark:/61903/1:1:JS54-1HQ",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "modified": 1415446545284,
+        "created": 1415446545284
+      },
+      "resourceType": "IGI",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/9C16-95T"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"England Births and Christenings, 1538-1975,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/JS54-1HQ : 30 December 2014), John Griffiths in entry for Sarah Griffiths, 11 May 1845; citing , reference ; FHL microfilm 104,941."
+        }
+      ],
+      "titles": [
+        {
+          "value": "John Griffiths in entry for Sarah Griffiths, \"England Births and Christenings, 1538-1975\""
+        }
+      ],
+      "notes": [
+        {
+          "text": "This extracted record was used to create this person in Family Tree."
+        }
+      ]
+    },
+    {
+      "id": "MRM3-CS8",
+      "lang": "en-us",
+      "about": "https://familysearch.org/ark:/61903/1:1:X1TM-QYB",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "modified": 1415372792208,
+        "created": 1415372792208
+      },
+      "resourceType": "IGI",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/MRM3-CS8"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"Wales Births and Baptisms, 1541-1907,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/X1TM-QYB : 5 December 2014), John Griffiths in entry for Margaret Griffiths, 20 Nov 1867; citing LLANFABON,GLAMORGAN,WALES, reference ; FHL microfilm 104,881."
+        }
+      ],
+      "titles": [
+        {
+          "value": "John Griffiths in entry for Margaret Griffiths, \"Wales Births and Baptisms, 1541-1907\""
+        }
+      ],
+      "notes": [
+        {
+          "text": "This extracted record was used to create this person in Family Tree."
+        }
+      ]
+    },
+    {
+      "id": "MLJJ-MLV",
+      "lang": "en-us",
+      "about": "https://familysearch.org/ark:/61903/1:1:V5JP-GNT",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "modified": 1415361157806,
+        "created": 1415361157806
+      },
+      "resourceType": "IGI",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/MLJJ-MLV"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"England Births and Christenings, 1538-1975,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/V5JP-GNT : 30 December 2014), John Griffiths, 30 Aug 1813; citing , reference ; FHL microfilm 0560885 (RG4 52, 939)."
+        }
+      ],
+      "titles": [
+        {
+          "value": "John Griffiths, \"England Births and Christenings, 1538-1975\""
+        }
+      ],
+      "notes": [
+        {
+          "text": "This extracted record was used to create this person in Family Tree."
+        }
+      ]
+    },
+    {
+      "id": "M5YJ-JPN",
+      "lang": "en-us",
+      "about": "https://familysearch.org/ark:/61903/1:1:FMM1-G7C",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "modified": 1415372510045,
+        "created": 1415372510045
+      },
+      "resourceType": "IGI",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/M5YJ-JPN"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"Wales Births and Baptisms, 1541-1907,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/FMM1-G7C : 5 December 2014), John Griffiths in entry for Edward Thomas Griffiths, 10 Oct 1840; citing COWBRIDGE,GLAMORGAN,WALES, reference ; FHL microfilm 104,866."
+        }
+      ],
+      "titles": [
+        {
+          "value": "John Griffiths in entry for Edward Thomas Griffiths, \"Wales Births and Baptisms, 1541-1907\""
         }
       ],
       "notes": [

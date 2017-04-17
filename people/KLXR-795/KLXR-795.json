@@ -57,7 +57,7 @@
           "href": "https://familysearch.org/platform/tree/persons/KLXR-795/families?sourceDescriptions=true"
         },
         "portrait": {
-          "href": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/KLXR-795/KLXR-795.jpg"
+          "href": "https://raw.githubusercontent.com/misbach/familytree/master/people/KLXR-795/KLXR-795.jpg"
         },
         "matches": {
           "href": "https://familysearch.org/platform/tree/persons/KLXR-795/matches"
@@ -420,16 +420,16 @@
         "familiesAsParent": [
           {
             "parent1": {
-              "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/KLXR-795/KLXR-795.json",
+              "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KLXR-795/KLXR-795.json",
               "resourceId": "KLXR-795"
             },
             "parent2": {
-              "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/KGJK-M92/KGJK-M92.json",
+              "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KGJK-M92/KGJK-M92.json",
               "resourceId": "KGJK-M92"
             },
             "children": [
               {
-                "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/LW61-WTY/LW61-WTY.json",
+                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/LW61-WTY/LW61-WTY.json",
                 "resourceId": "LW61-WTY"
               }
             ]
@@ -438,16 +438,16 @@
         "familiesAsChild": [
           {
             "parent1": {
-              "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/LCXD-XPX/LCXD-XPX.json",
+              "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/LCXD-XPX/LCXD-XPX.json",
               "resourceId": "LCXD-XPX"
             },
             "parent2": {
-              "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/L7P8-P91/L7P8-P91.json",
+              "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/L7P8-P91/L7P8-P91.json",
               "resourceId": "L7P8-P91"
             },
             "children": [
               {
-                "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/KLXR-795/KLXR-795.json",
+                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KLXR-795/KLXR-795.json",
                 "resourceId": "KLXR-795"
               }
             ]

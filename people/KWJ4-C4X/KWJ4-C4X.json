@@ -994,7 +994,7 @@
           "href": "https://familysearch.org/platform/tree/persons/KWJ4-C4X/families?sourceDescriptions=true"
         },
         "portrait": {
-          "href": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/KWJ4-C4X/KWJ4-C4X.jpg"
+          "href": "https://raw.githubusercontent.com/misbach/familytree/master/people/KWJ4-C4X/KWJ4-C4X.jpg"
         },
         "matches": {
           "href": "https://familysearch.org/platform/tree/persons/KWJ4-C4X/matches"
@@ -2483,16 +2483,16 @@
         "familiesAsParent": [
           {
             "parent1": {
-              "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/KWJ4-C4J/KWJ4-C4J.json",
+              "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KWJ4-C4J/KWJ4-C4J.json",
               "resourceId": "KWJ4-C4J"
             },
             "parent2": {
-              "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/KWJ4-C4X/KWJ4-C4X.json",
+              "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KWJ4-C4X/KWJ4-C4X.json",
               "resourceId": "KWJ4-C4X"
             },
             "children": [
               {
-                "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/KWCG-VGR/KWCG-VGR.json",
+                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KWCG-VGR/KWCG-VGR.json",
                 "resourceId": "KWCG-VGR"
               }
             ]
@@ -2501,16 +2501,16 @@
         "familiesAsChild": [
           {
             "parent1": {
-              "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/KWJ4-C3X/KWJ4-C3X.json",
+              "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KWJ4-C3X/KWJ4-C3X.json",
               "resourceId": "KWJ4-C3X"
             },
             "parent2": {
-              "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/MHPW-7VM/MHPW-7VM.json",
+              "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/MHPW-7VM/MHPW-7VM.json",
               "resourceId": "MHPW-7VM"
             },
             "children": [
               {
-                "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/KWJ4-C4X/KWJ4-C4X.json",
+                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KWJ4-C4X/KWJ4-C4X.json",
                 "resourceId": "KWJ4-C4X"
               }
             ]
@@ -20225,171 +20225,101 @@
       }
     },
     {
-      "id": "MSTW-KTD",
+      "id": "9X5R-7LW",
       "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:XZGS-1M3",
+      "about": "https://familysearch.org/ark:/61903/1:1:XZGS-SY7",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMF-87XR",
+          "resourceId": "cis.user.MMMF-87XR"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMF-87XR",
+          "resourceId": "cis.user.MMMF-87XR"
+        },
+        "modified": 1461547033845,
+        "created": 1461547033845
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/9X5R-7LW"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"Utah Death Certificates, 1904-1964\", database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/XZGS-SY7 : 11 September 2015), Margaret Ann Griffiths in entry for Jane Elanor Jones, 1910."
+        }
+      ],
+      "titles": [
+        {
+          "value": "Margaret Ann Griffiths in entry for Jane Elanor Jones, \"Utah Death Certificates, 1904-1964\""
+        }
+      ]
+    },
+    {
+      "id": "9X5R-WL7",
+      "lang": "en_US",
+      "about": "https://familysearch.org/ark:/61903/1:1:XZP3-XJS",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMF-87XR",
+          "resourceId": "cis.user.MMMF-87XR"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMF-87XR",
+          "resourceId": "cis.user.MMMF-87XR"
+        },
+        "modified": 1461547162267,
+        "created": 1461547162267
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/9X5R-WL7"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"Utah Death Certificates, 1904-1964\", database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/XZP3-XJS : 11 September 2015), Margaret Griffith in entry for Henry James Clegg, 1934."
+        }
+      ],
+      "titles": [
+        {
+          "value": "Margaret Griffith in entry for Henry James Clegg, \"Utah Death Certificates, 1904-1964\""
+        }
+      ]
+    },
+    {
+      "id": "9Z7D-TXY",
+      "lang": "en_US",
+      "about": "https://familysearch.org/ark:/61903/1:1:F85D-YY9",
       "attribution": {
         "contributor": {
           "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
           "resourceId": "cis.wkca.MMMM-M93P"
         },
         "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-Z3L2",
-          "resourceId": "cis.user.MMMM-Z3L2"
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMC-XDD4",
+          "resourceId": "cis.user.MMMC-XDD4"
         },
-        "modified": 1489577493651,
-        "created": 1412542754240
+        "modified": 1489600192999,
+        "created": 1417295069228
       },
       "resourceType": "FSREADONLY",
       "links": {
         "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/MSTW-KTD"
+          "href": "https://familysearch.org/platform/sources/descriptions/9Z7D-TXY"
         }
       },
       "citations": [
         {
-          "value": "\"Utah Death Certificates, 1904-1964\", database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/XZGS-1M3 : 11 September 2015), Margaret A. Griffeth in entry for Joseph Clegg, 1910."
+          "value": "\"Utah Deaths and Burials, 1888-1946,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/F85D-YY9 : 5 December 2014), Margaret Griffith in entry for Henry James Clegg, 10 Mar 1934; citing Salt Lake City, Salt Lake, Utah, reference cn 433; FHL microfilm 26,567."
         }
       ],
       "titles": [
         {
-          "value": "Margaret A. Griffeth in entry for Joseph Clegg, \"Utah Death Certificates, 1904-1964\""
-        }
-      ]
-    },
-    {
-      "id": "9J67-Q85",
-      "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:QK9B-CDK4",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MM9W-LX3Y",
-          "resourceId": "cis.user.MM9W-LX3Y"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MM9W-LX3Y",
-          "resourceId": "cis.user.MM9W-LX3Y"
-        },
-        "modified": 1483334708953,
-        "created": 1483334708953
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/9J67-Q85"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"Utah Mormon Pioneer Overland Travel Database, 1847-1868\", database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/QK9B-CDK4 : 20 May 2016), Margaret Ann Griffiths, 1856."
-        }
-      ],
-      "titles": [
-        {
-          "value": "Margaret Ann Griffiths, \"Utah Mormon Pioneer Overland Travel Database, 1847-1868\""
-        }
-      ]
-    },
-    {
-      "id": "9JVD-74X",
-      "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:QKD4-ML2L",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-4Y17",
-          "resourceId": "cis.user.MMMM-4Y17"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-4Y17",
-          "resourceId": "cis.user.MMMM-4Y17"
-        },
-        "modified": 1484624350251,
-        "created": 1484624350251
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/9JVD-74X"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"Utah, Missionary Department Missionary Registers, 1860-1937,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/QKD4-ML2L : 26 February 2016), Margaret Ann Griffiths in entry for Geo Almon Clegg, Northwestern States; records extracted by FamilySearch and images digitized by Church History library, The Church of Jesus Christ of Latter-day Saints; citing Missionary Register v. 5, Missionary department missionary registers 1860-1959, CR 301 22, Church History Library, Salt lake City, Utah.\n"
-        }
-      ],
-      "titles": [
-        {
-          "value": "Margaret Ann Griffiths in entry for Geo Almon Clegg, \"Utah, Missionary Department Missionary Registers, 1860-1937\""
-        }
-      ]
-    },
-    {
-      "id": "MM77-FYC",
-      "about": "http://history.lds.org/overlandtravels/pioneerDetail?lang=eng&pioneerId=19040",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-H846",
-          "resourceId": "cis.user.MMM9-H846"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-H846",
-          "resourceId": "cis.user.MMM9-H846"
-        },
-        "modified": 1372215090000,
-        "created": 1372215090000
-      },
-      "resourceType": "DEFAULT",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/MM77-FYC"
-        }
-      },
-      "citations": [
-        {
-          "value": "http://history.lds.org\nSources\n\"Aged Pioneer Resident Dies at Heber City,\" Salt Lake Telegram, 30 July 1929, [14].\nSource Location\n•Utah Digital Newspapers Website\n\"Handcart Pioneer Dies at Heber City,\" Deseret News, 30 July 1929, 6.\nSource Location\n•Church History Library, Salt Lake City, Utah\nClegg, Margaret Ann Griffiths, Autobiographical sketch, in Wasatch Wave, ca. 1906.\nTrail Excerpt\nSource Location\n•Internet Web Site\nClegg, Margaret Ann Griffiths, Autobiographical sketch.\nTrail Excerpt\nSource Location\n•Internet Web Site\n"
-        }
-      ],
-      "titles": [
-        {
-          "value": "Mormon Pioneer Overland Travel about Margaret Ann Griffiths"
-        }
-      ],
-      "notes": [
-        {
-          "text": "Margaret Ann Griffiths crossed the plains with the Edward Martin Company in 1856."
-        }
-      ]
-    },
-    {
-      "id": "9JK9-3HW",
-      "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:QKDW-YBP9",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-DP1C",
-          "resourceId": "cis.user.MMMM-DP1C"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-DP1C",
-          "resourceId": "cis.user.MMMM-DP1C"
-        },
-        "modified": 1484783740544,
-        "created": 1484783740544
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/9JK9-3HW"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"Utah, Missionary Department Missionary Registers, 1860-1937,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/QKDW-YBP9 : 26 February 2016), Margaret Griffith in entry for George A Clegg, Eastern States; records extracted by FamilySearch and images digitized by Church History library, The Church of Jesus Christ of Latter-day Saints; citing Missionary Register v. 3, Missionary department missionary registers 1860-1959, CR 301 22, Church History Library, Salt lake City, Utah.\n"
-        }
-      ],
-      "titles": [
-        {
-          "value": "Margaret Griffith in entry for George A Clegg, \"Utah, Missionary Department Missionary Registers, 1860-1937\""
+          "value": "Margaret Griffith in entry for Henry James Clegg, \"Utah Deaths and Burials, 1888-1946\""
         }
       ]
     },
@@ -20432,395 +20362,35 @@
       ]
     },
     {
-      "id": "MMVZ-YTK",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-XMST",
-          "resourceId": "cis.user.MMMM-XMST"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-XMST",
-          "resourceId": "cis.user.MMMM-XMST"
-        },
-        "modified": 1393424304000,
-        "created": 1393424304000
-      },
-      "resourceType": "LEGACY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/MMVZ-YTK"
-        }
-      },
-      "citations": [
-        {
-          "value": ""
-        }
-      ],
-      "titles": [
-        {
-          "value": "Legacy NFS Source: Margaret Ann Griffiths - birth-name: Margaret Ann Griffiths"
-        }
-      ],
-      "notes": [
-        {
-          "text": "birth-name: Margaret Ann Griffiths"
-        }
-      ]
-    },
-    {
-      "id": "MM9K-T71",
-      "about": "https://familysearch.org/ark:/61903/1:1:MMRY-DMP",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-DY6Q",
-          "resourceId": "cis.user.MMMM-DY6Q"
-        },
-        "modified": 1489501618537,
-        "created": 1358264881000
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/MM9K-T71"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"United States Census, 1900,\" database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/MMRY-DMP : accessed 14 April 2017), A Margaret Clegg, Heber Precinct Heber City, Wasatch, Utah, United States; citing enumeration district (ED) 171, sheet 16A, family 295, NARA microfilm publication T623 (Washington, D.C.: National Archives and Records Administration, 1972.); FHL microfilm 1,241,688.\n"
-        }
-      ],
-      "titles": [
-        {
-          "value": "A Margaret Clegg, \"United States Census, 1900\""
-        }
-      ]
-    },
-    {
-      "id": "9DYV-636",
+      "id": "9J67-Q85",
       "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:XZGB-P4D",
+      "about": "https://familysearch.org/ark:/61903/1:1:QK9B-CDK4",
       "attribution": {
         "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM7-YWYF",
-          "resourceId": "cis.user.MMM7-YWYF"
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MM9W-LX3Y",
+          "resourceId": "cis.user.MM9W-LX3Y"
         },
         "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM7-YWYF",
-          "resourceId": "cis.user.MMM7-YWYF"
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MM9W-LX3Y",
+          "resourceId": "cis.user.MM9W-LX3Y"
         },
-        "modified": 1446604512271,
-        "created": 1446604512271
+        "modified": 1483334708953,
+        "created": 1483334708953
       },
       "resourceType": "FSREADONLY",
       "links": {
         "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/9DYV-636"
+          "href": "https://familysearch.org/platform/sources/descriptions/9J67-Q85"
         }
       },
       "citations": [
         {
-          "value": "\"Utah Death Certificates, 1904-1964\", database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/XZGB-P4D : 11 September 2015), Margaret Ann Griffiths in entry for Thomas Griffith Clegg, 1929."
+          "value": "\"Utah Mormon Pioneer Overland Travel Database, 1847-1868\", database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/QK9B-CDK4 : 20 May 2016), Margaret Ann Griffiths, 1856."
         }
       ],
       "titles": [
         {
-          "value": "Margaret Ann Griffiths in entry for Thomas Griffith Clegg, \"Utah Death Certificates, 1904-1964\""
-        }
-      ]
-    },
-    {
-      "id": "MM6W-K6P",
-      "about": "https://familysearch.org/ark:/61903/1:1:SG13-6BH",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-HT4Y",
-          "resourceId": "cis.user.MMMM-HT4Y"
-        },
-        "modified": 1489536787005,
-        "created": 1387473451000
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/MM6W-K6P"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"England and Wales Census, 1851,\" database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/SG13-6BH : 24 July 2016), Margaret A Griffiths in household of John Griffiths, Woolwich, Kent, England; citing Woolwich, Kent, England, p. 1, from \"1851 England, Scotland and Wales census,\" database and images, findmypast (http://www.findmypast.com : n.d.); citing PRO HO 107, The National Archives of the UK, Kew, Surrey."
-        }
-      ],
-      "titles": [
-        {
-          "value": "Margaret A Griffiths, \"England and Wales Census, 1851\""
-        }
-      ]
-    },
-    {
-      "id": "MM9K-T48",
-      "about": "https://familysearch.org/ark:/61903/1:1:M5XM-DLS",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-DY6Q",
-          "resourceId": "cis.user.MMMM-DY6Q"
-        },
-        "modified": 1489501618557,
-        "created": 1358265171000
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/MM9K-T48"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"United States Census, 1910,\" database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/M5XM-DLS : accessed 14 April 2017), Margaret A Clegg, Heber Ward 1, Wasatch, Utah, United States; citing enumeration district (ED) ED 206, sheet 4A, family 66, NARA microfilm publication T624 (Washington D.C.: National Archives and Records Administration, 1982), roll 1610; FHL microfilm 1,375,623.\n"
-        }
-      ],
-      "titles": [
-        {
-          "value": "Margaret A Clegg, \"United States Census, 1910\""
-        }
-      ]
-    },
-    {
-      "id": "9X5R-SN9",
-      "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:XZPL-LSF",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMF-87XR",
-          "resourceId": "cis.user.MMMF-87XR"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMF-87XR",
-          "resourceId": "cis.user.MMMF-87XR"
-        },
-        "modified": 1461546597252,
-        "created": 1461546597252
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/9X5R-SN9"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"Utah Death Certificates, 1904-1964\", database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/XZPL-LSF : 11 September 2015), Margaret Ann Griffith in entry for Hannah Mary Clegg Cummings, 1952."
-        }
-      ],
-      "titles": [
-        {
-          "value": "Margaret Ann Griffith in entry for Hannah Mary Clegg Cummings, \"Utah Death Certificates, 1904-1964\""
-        }
-      ]
-    },
-    {
-      "id": "9Z7D-TLB",
-      "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:NQ4D-SVL",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMC-XDD4",
-          "resourceId": "cis.user.MMMC-XDD4"
-        },
-        "modified": 1489600193234,
-        "created": 1417295175157
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/9Z7D-TLB"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"Utah, Salt Lake County Death Records, 1849-1949,\" database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/NQ4D-SVL : 5 December 2014), Margaret Griffith in entry for Henry James Clegg, 10 Mar 1934; citing Salt Lake City, Salt Lake, Utah, Management and Archives, Salt Lake City; FHL microfilm 4,139,705."
-        }
-      ],
-      "titles": [
-        {
-          "value": "Margaret Griffith in entry for Henry James Clegg, \"Utah, Salt Lake County Death Records, 1849-1949\""
-        }
-      ]
-    },
-    {
-      "id": "9Z7D-Y12",
-      "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:2NSP-BK6",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMC-XDD4",
-          "resourceId": "cis.user.MMMC-XDD4"
-        },
-        "modified": 1489600196562,
-        "created": 1417295759180
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/9Z7D-Y12"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"England and Wales Birth Registration Index, 1837-2008,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/2NSP-BK6 : 1 October 2014), Margaret Ann Griffiths, 1840; from \"England & Wales Births, 1837-2006,\" database, findmypast (http://www.findmypast.com : 2012); citing Birth Registration, Liverpool, Lancashire, England, citing General Register Office, Southport, England."
-        }
-      ],
-      "titles": [
-        {
-          "value": "Margaret Ann Griffiths, \"England and Wales Birth Registration Index, 1837-2008\""
-        }
-      ]
-    },
-    {
-      "id": "MM3R-63T",
-      "about": "https://familysearch.org/ark:/61903/1:1:MNC1-SQ4",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-H846",
-          "resourceId": "cis.user.MMM9-H846"
-        },
-        "modified": 1489501918453,
-        "created": 1367885829000
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/MM3R-63T"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"United States Census, 1870,\" database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/MNC1-SQ4 : 17 October 2014), Margeret Clegg, Utah, United States; citing p. 14, family 96, NARA microfilm publication M593 (Washington D.C.: National Archives and Records Administration, n.d.); FHL microfilm 553,111."
-        }
-      ],
-      "titles": [
-        {
-          "value": "Margeret Clegg, \"United States Census, 1870\""
-        }
-      ]
-    },
-    {
-      "id": "MM9K-T4B",
-      "about": "https://familysearch.org/ark:/61903/1:1:M8PK-YBX",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-DY6Q",
-          "resourceId": "cis.user.MMMM-DY6Q"
-        },
-        "modified": 1489529232080,
-        "created": 1358265252000
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/MM9K-T4B"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"United States Census, 1920,\" database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/M8PK-YBX : accessed 26 March 2017), Margaret Clegg, Heber, Wasatch, Utah, United States; citing  ED 139, sheet 10A, line 8, family 173, NARA microfilm publication T625 (Washington D.C.: National Archives and Records Administration, 1992), roll 1867; FHL microfilm 1,821,867."
-        }
-      ],
-      "titles": [
-        {
-          "value": "Margaret Clegg, \"United States Census, 1920\""
-        }
-      ]
-    },
-    {
-      "id": "MM3R-JNV",
-      "about": "https://familysearch.org/ark:/61903/1:1:XZPF-5KV",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-H846",
-          "resourceId": "cis.user.MMM9-H846"
-        },
-        "modified": 1489501946817,
-        "created": 1367898961000
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/MM3R-JNV"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"Utah Death Certificates, 1904-1964\", database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/XZPF-5KV : 11 September 2015), Margaret Ann Griffiths in entry for Herbert Lorenzo Clegg, 1943."
-        }
-      ],
-      "titles": [
-        {
-          "value": "Margaret Ann Griffiths in entry for Herbert Lorenzo Clegg, \"Utah Death Certificates, 1904-1956\""
-        }
-      ]
-    },
-    {
-      "id": "MSTW-KXK",
-      "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:XZPN-Y59",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-Z3L2",
-          "resourceId": "cis.user.MMMM-Z3L2"
-        },
-        "modified": 1489577492324,
-        "created": 1412542644769
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/MSTW-KXK"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"Utah Death Certificates, 1904-1964\", database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/XZPN-Y59 : 11 September 2015), Margaret Ann Griffiths in entry for George Almont Clegg, 1935."
-        }
-      ],
-      "titles": [
-        {
-          "value": "Margaret Ann Griffiths in entry for George Almont Clegg, \"Utah Death Certificates, 1904-1964\""
+          "value": "Margaret Ann Griffiths, \"Utah Mormon Pioneer Overland Travel Database, 1847-1868\""
         }
       ]
     },
@@ -20868,35 +20438,166 @@
       }
     },
     {
-      "id": "9X5R-7LW",
+      "id": "96HR-KTF",
       "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:XZGS-SY7",
+      "about": "https://familysearch.org/ark:/61903/1:1:QKDV-89MC",
       "attribution": {
         "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMF-87XR",
-          "resourceId": "cis.user.MMMF-87XR"
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-4Z1V",
+          "resourceId": "cis.user.MMMM-4Z1V"
         },
         "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMF-87XR",
-          "resourceId": "cis.user.MMMF-87XR"
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-4Z1V",
+          "resourceId": "cis.user.MMMM-4Z1V"
         },
-        "modified": 1461547033845,
-        "created": 1461547033845
+        "modified": 1450389246981,
+        "created": 1450389246981
       },
       "resourceType": "FSREADONLY",
       "links": {
         "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/9X5R-7LW"
+          "href": "https://familysearch.org/platform/sources/descriptions/96HR-KTF"
         }
       },
       "citations": [
         {
-          "value": "\"Utah Death Certificates, 1904-1964\", database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/XZGS-SY7 : 11 September 2015), Margaret Ann Griffiths in entry for Jane Elanor Jones, 1910."
+          "value": "\"Utah Death Certificates, 1904-1964\", database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/QKDV-89MC : 25 September 2015), Margaret Ann Griffith in entry for Charles David Clegg, 1961."
         }
       ],
       "titles": [
         {
-          "value": "Margaret Ann Griffiths in entry for Jane Elanor Jones, \"Utah Death Certificates, 1904-1964\""
+          "value": "Margaret Ann Griffith in entry for Charles David Clegg, \"Utah Death Certificates, 1904-1964\""
+        }
+      ]
+    },
+    {
+      "id": "9Z7D-TLB",
+      "lang": "en_US",
+      "about": "https://familysearch.org/ark:/61903/1:1:NQ4D-SVL",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMC-XDD4",
+          "resourceId": "cis.user.MMMC-XDD4"
+        },
+        "modified": 1489600193234,
+        "created": 1417295175157
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/9Z7D-TLB"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"Utah, Salt Lake County Death Records, 1849-1949,\" database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/NQ4D-SVL : 5 December 2014), Margaret Griffith in entry for Henry James Clegg, 10 Mar 1934; citing Salt Lake City, Salt Lake, Utah, Management and Archives, Salt Lake City; FHL microfilm 4,139,705."
+        }
+      ],
+      "titles": [
+        {
+          "value": "Margaret Griffith in entry for Henry James Clegg, \"Utah, Salt Lake County Death Records, 1849-1949\""
+        }
+      ]
+    },
+    {
+      "id": "9JVD-74X",
+      "lang": "en_US",
+      "about": "https://familysearch.org/ark:/61903/1:1:QKD4-ML2L",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-4Y17",
+          "resourceId": "cis.user.MMMM-4Y17"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-4Y17",
+          "resourceId": "cis.user.MMMM-4Y17"
+        },
+        "modified": 1484624350251,
+        "created": 1484624350251
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/9JVD-74X"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"Utah, Missionary Department Missionary Registers, 1860-1937,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/QKD4-ML2L : 26 February 2016), Margaret Ann Griffiths in entry for Geo Almon Clegg, Northwestern States; records extracted by FamilySearch and images digitized by Church History library, The Church of Jesus Christ of Latter-day Saints; citing Missionary Register v. 5, Missionary department missionary registers 1860-1959, CR 301 22, Church History Library, Salt lake City, Utah.\n"
+        }
+      ],
+      "titles": [
+        {
+          "value": "Margaret Ann Griffiths in entry for Geo Almon Clegg, \"Utah, Missionary Department Missionary Registers, 1860-1937\""
+        }
+      ]
+    },
+    {
+      "id": "9JK9-3HW",
+      "lang": "en_US",
+      "about": "https://familysearch.org/ark:/61903/1:1:QKDW-YBP9",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-DP1C",
+          "resourceId": "cis.user.MMMM-DP1C"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-DP1C",
+          "resourceId": "cis.user.MMMM-DP1C"
+        },
+        "modified": 1484783740544,
+        "created": 1484783740544
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/9JK9-3HW"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"Utah, Missionary Department Missionary Registers, 1860-1937,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/QKDW-YBP9 : 26 February 2016), Margaret Griffith in entry for George A Clegg, Eastern States; records extracted by FamilySearch and images digitized by Church History library, The Church of Jesus Christ of Latter-day Saints; citing Missionary Register v. 3, Missionary department missionary registers 1860-1959, CR 301 22, Church History Library, Salt lake City, Utah.\n"
+        }
+      ],
+      "titles": [
+        {
+          "value": "Margaret Griffith in entry for George A Clegg, \"Utah, Missionary Department Missionary Registers, 1860-1937\""
+        }
+      ]
+    },
+    {
+      "id": "MM6W-KJQ",
+      "about": "https://familysearch.org/ark:/61903/1:1:MQKY-GVY",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-HT4Y",
+          "resourceId": "cis.user.MMMM-HT4Y"
+        },
+        "modified": 1489536787004,
+        "created": 1387473664000
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/MM6W-KJQ"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"England and Wales Census, 1841,\" database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/MQKY-GVY : 30 October 2015), Margaret Griffith in household of James Martin, Woolwich, Kent, England; from \"1841 England, Scotland and Wales census,\" database and images, findmypast (http://www.findmypast.com : n.d.); citing PRO HO 107, The National Archives, Kew, Surrey."
+        }
+      ],
+      "titles": [
+        {
+          "value": "Margaret Griffith, \"England and Wales Census, 1841\""
         }
       ]
     },
@@ -20938,35 +20639,35 @@
       ]
     },
     {
-      "id": "9X5R-WL7",
+      "id": "9Z7D-Y12",
       "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:XZP3-XJS",
+      "about": "https://familysearch.org/ark:/61903/1:1:2NSP-BK6",
       "attribution": {
         "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMF-87XR",
-          "resourceId": "cis.user.MMMF-87XR"
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
         },
         "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMF-87XR",
-          "resourceId": "cis.user.MMMF-87XR"
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMC-XDD4",
+          "resourceId": "cis.user.MMMC-XDD4"
         },
-        "modified": 1461547162267,
-        "created": 1461547162267
+        "modified": 1489600196562,
+        "created": 1417295759180
       },
       "resourceType": "FSREADONLY",
       "links": {
         "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/9X5R-WL7"
+          "href": "https://familysearch.org/platform/sources/descriptions/9Z7D-Y12"
         }
       },
       "citations": [
         {
-          "value": "\"Utah Death Certificates, 1904-1964\", database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/XZP3-XJS : 11 September 2015), Margaret Griffith in entry for Henry James Clegg, 1934."
+          "value": "\"England and Wales Birth Registration Index, 1837-2008,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/2NSP-BK6 : 1 October 2014), Margaret Ann Griffiths, 1840; from \"England & Wales Births, 1837-2006,\" database, findmypast (http://www.findmypast.com : 2012); citing Birth Registration, Liverpool, Lancashire, England, citing General Register Office, Southport, England."
         }
       ],
       "titles": [
         {
-          "value": "Margaret Griffith in entry for Henry James Clegg, \"Utah Death Certificates, 1904-1964\""
+          "value": "Margaret Ann Griffiths, \"England and Wales Birth Registration Index, 1837-2008\""
         }
       ]
     },
@@ -21008,138 +20709,203 @@
       ]
     },
     {
-      "id": "MM6W-KJQ",
-      "about": "https://familysearch.org/ark:/61903/1:1:MQKY-GVY",
+      "id": "MMVZ-YTK",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-XMST",
+          "resourceId": "cis.user.MMMM-XMST"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-XMST",
+          "resourceId": "cis.user.MMMM-XMST"
+        },
+        "modified": 1393424304000,
+        "created": 1393424304000
+      },
+      "resourceType": "LEGACY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/MMVZ-YTK"
+        }
+      },
+      "citations": [
+        {
+          "value": ""
+        }
+      ],
+      "titles": [
+        {
+          "value": "Legacy NFS Source: Margaret Ann Griffiths - birth-name: Margaret Ann Griffiths"
+        }
+      ],
+      "notes": [
+        {
+          "text": "birth-name: Margaret Ann Griffiths"
+        }
+      ]
+    },
+    {
+      "id": "MM9K-T4B",
+      "about": "https://familysearch.org/ark:/61903/1:1:M8PK-YBX",
       "attribution": {
         "contributor": {
           "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
           "resourceId": "cis.wkca.MMMM-M93P"
         },
         "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-HT4Y",
-          "resourceId": "cis.user.MMMM-HT4Y"
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-DY6Q",
+          "resourceId": "cis.user.MMMM-DY6Q"
         },
-        "modified": 1489536787004,
-        "created": 1387473664000
+        "modified": 1489529232080,
+        "created": 1358265252000
       },
       "resourceType": "FSREADONLY",
       "links": {
         "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/MM6W-KJQ"
+          "href": "https://familysearch.org/platform/sources/descriptions/MM9K-T4B"
         }
       },
       "citations": [
         {
-          "value": "\"England and Wales Census, 1841,\" database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/MQKY-GVY : 30 October 2015), Margaret Griffith in household of James Martin, Woolwich, Kent, England; from \"1841 England, Scotland and Wales census,\" database and images, findmypast (http://www.findmypast.com : n.d.); citing PRO HO 107, The National Archives, Kew, Surrey."
+          "value": "\"United States Census, 1920,\" database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/M8PK-YBX : accessed 26 March 2017), Margaret Clegg, Heber, Wasatch, Utah, United States; citing  ED 139, sheet 10A, line 8, family 173, NARA microfilm publication T625 (Washington D.C.: National Archives and Records Administration, 1992), roll 1867; FHL microfilm 1,821,867."
         }
       ],
       "titles": [
         {
-          "value": "Margaret Griffith, \"England and Wales Census, 1841\""
+          "value": "Margaret Clegg, \"United States Census, 1920\""
         }
       ]
     },
     {
-      "id": "96HR-KTF",
-      "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:QKDV-89MC",
+      "id": "MM9K-T71",
+      "about": "https://familysearch.org/ark:/61903/1:1:MMRY-DMP",
       "attribution": {
         "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-4Z1V",
-          "resourceId": "cis.user.MMMM-4Z1V"
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
         },
         "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-4Z1V",
-          "resourceId": "cis.user.MMMM-4Z1V"
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-DY6Q",
+          "resourceId": "cis.user.MMMM-DY6Q"
         },
-        "modified": 1450389246981,
-        "created": 1450389246981
+        "modified": 1489501618537,
+        "created": 1358264881000
       },
       "resourceType": "FSREADONLY",
       "links": {
         "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/96HR-KTF"
+          "href": "https://familysearch.org/platform/sources/descriptions/MM9K-T71"
         }
       },
       "citations": [
         {
-          "value": "\"Utah Death Certificates, 1904-1964\", database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/QKDV-89MC : 25 September 2015), Margaret Ann Griffith in entry for Charles David Clegg, 1961."
+          "value": "\"United States Census, 1900,\" database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/MMRY-DMP : accessed 14 April 2017), A Margaret Clegg, Heber Precinct Heber City, Wasatch, Utah, United States; citing enumeration district (ED) 171, sheet 16A, family 295, NARA microfilm publication T623 (Washington, D.C.: National Archives and Records Administration, 1972.); FHL microfilm 1,241,688.\n"
         }
       ],
       "titles": [
         {
-          "value": "Margaret Ann Griffith in entry for Charles David Clegg, \"Utah Death Certificates, 1904-1964\""
+          "value": "A Margaret Clegg, \"United States Census, 1900\""
         }
       ]
     },
     {
-      "id": "9J6G-KL2",
-      "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:QVKH-5CH5",
+      "id": "MM3R-63T",
+      "about": "https://familysearch.org/ark:/61903/1:1:MNC1-SQ4",
       "attribution": {
         "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MM9W-LX3Y",
-          "resourceId": "cis.user.MM9W-LX3Y"
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
         },
         "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MM9W-LX3Y",
-          "resourceId": "cis.user.MM9W-LX3Y"
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-H846",
+          "resourceId": "cis.user.MMM9-H846"
         },
-        "modified": 1483486588403,
-        "created": 1483486588403
+        "modified": 1489501918453,
+        "created": 1367885829000
       },
       "resourceType": "FSREADONLY",
       "links": {
         "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/9J6G-KL2"
+          "href": "https://familysearch.org/platform/sources/descriptions/MM3R-63T"
         }
       },
       "citations": [
         {
-          "value": "\"Find A Grave Index,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/QVKH-5CH5 : 11 July 2016), Margaret Ann Griffith Clegg, 1929; Burial, Heber City, Wasatch, Utah, United States of America, Heber City Cemetery; citing record ID 31202467, Find a Grave, http://www.findagrave.com."
+          "value": "\"United States Census, 1870,\" database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/MNC1-SQ4 : 17 October 2014), Margeret Clegg, Utah, United States; citing p. 14, family 96, NARA microfilm publication M593 (Washington D.C.: National Archives and Records Administration, n.d.); FHL microfilm 553,111."
         }
       ],
       "titles": [
         {
-          "value": "Margaret Ann Griffith Clegg, \"Find A Grave Index\""
+          "value": "Margeret Clegg, \"United States Census, 1870\""
         }
       ]
     },
     {
-      "id": "MS2F-3SR",
-      "lang": "*",
-      "about": "http://billiongraves.com/pages/record/MargaretAClegg/10283525?utm_campaign=treeconnect&utm_source=familysearch.org&utm_medium=sourcelink",
+      "id": "MM77-FYC",
+      "about": "http://history.lds.org/overlandtravels/pioneerDetail?lang=eng&pioneerId=19040",
       "attribution": {
         "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-49P5",
-          "resourceId": "cis.user.MMM9-49P5"
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-H846",
+          "resourceId": "cis.user.MMM9-H846"
         },
         "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-49P5",
-          "resourceId": "cis.user.MMM9-49P5"
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-H846",
+          "resourceId": "cis.user.MMM9-H846"
         },
-        "modified": 1409718148325,
-        "created": 1409718148325
+        "modified": 1372215090000,
+        "created": 1372215090000
       },
       "resourceType": "DEFAULT",
       "links": {
         "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/MS2F-3SR"
+          "href": "https://familysearch.org/platform/sources/descriptions/MM77-FYC"
         }
       },
       "citations": [
         {
-          "value": "Transcription of headstone image from billiongraves.com. Image taken at Heber City Cemetery (Heber, Wasatch, Utah, United States) on 03 September 2014"
+          "value": "http://history.lds.org\nSources\n\"Aged Pioneer Resident Dies at Heber City,\" Salt Lake Telegram, 30 July 1929, [14].\nSource Location\n•Utah Digital Newspapers Website\n\"Handcart Pioneer Dies at Heber City,\" Deseret News, 30 July 1929, 6.\nSource Location\n•Church History Library, Salt Lake City, Utah\nClegg, Margaret Ann Griffiths, Autobiographical sketch, in Wasatch Wave, ca. 1906.\nTrail Excerpt\nSource Location\n•Internet Web Site\nClegg, Margaret Ann Griffiths, Autobiographical sketch.\nTrail Excerpt\nSource Location\n•Internet Web Site\n"
         }
       ],
       "titles": [
         {
-          "value": "Headstone image of Margaret A. Clegg from billiongraves.com"
+          "value": "Mormon Pioneer Overland Travel about Margaret Ann Griffiths"
         }
       ],
       "notes": [
         {
-          "text": "Name: Margaret A. Clegg\nBirth: 15 April 1840\nDeath: 29 July 1929\nBurial: Heber City Cemetery, Heber, Wasatch, Utah, United States\nContributed by: BillionGraves user rlthomas1982"
+          "text": "Margaret Ann Griffiths crossed the plains with the Edward Martin Company in 1856."
+        }
+      ]
+    },
+    {
+      "id": "MM9K-THD",
+      "about": "https://familysearch.org/ark:/61903/1:1:MNSL-2SW",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-DY6Q",
+          "resourceId": "cis.user.MMMM-DY6Q"
+        },
+        "modified": 1489529231319,
+        "created": 1358265343000
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/MM9K-THD"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"United States Census, 1880,\" database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/MNSL-2SW : 14 July 2016), Margrett Clegg in household of Henry Clegg, Heber, Wasatch, Utah, United States; citing enumeration district ED 90, sheet 318D, NARA microfilm publication T9 (Washington D.C.: National Archives and Records Administration, n.d.), roll 1339; FHL microfilm 1,255,339.\n"
+        }
+      ],
+      "titles": [
+        {
+          "value": "Margrett Clegg in household of Henry Clegg, \"United States Census, 1880\""
         }
       ]
     },
@@ -21218,41 +20984,46 @@
       ]
     },
     {
-      "id": "9Z7D-TXY",
-      "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:F85D-YY9",
+      "id": "MS2F-3SR",
+      "lang": "*",
+      "about": "http://billiongraves.com/pages/record/MargaretAClegg/10283525?utm_campaign=treeconnect&utm_source=familysearch.org&utm_medium=sourcelink",
       "attribution": {
         "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-49P5",
+          "resourceId": "cis.user.MMM9-49P5"
         },
         "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMC-XDD4",
-          "resourceId": "cis.user.MMMC-XDD4"
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-49P5",
+          "resourceId": "cis.user.MMM9-49P5"
         },
-        "modified": 1489600192999,
-        "created": 1417295069228
+        "modified": 1409718148325,
+        "created": 1409718148325
       },
-      "resourceType": "FSREADONLY",
+      "resourceType": "DEFAULT",
       "links": {
         "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/9Z7D-TXY"
+          "href": "https://familysearch.org/platform/sources/descriptions/MS2F-3SR"
         }
       },
       "citations": [
         {
-          "value": "\"Utah Deaths and Burials, 1888-1946,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/F85D-YY9 : 5 December 2014), Margaret Griffith in entry for Henry James Clegg, 10 Mar 1934; citing Salt Lake City, Salt Lake, Utah, reference cn 433; FHL microfilm 26,567."
+          "value": "Transcription of headstone image from billiongraves.com. Image taken at Heber City Cemetery (Heber, Wasatch, Utah, United States) on 03 September 2014"
         }
       ],
       "titles": [
         {
-          "value": "Margaret Griffith in entry for Henry James Clegg, \"Utah Deaths and Burials, 1888-1946\""
+          "value": "Headstone image of Margaret A. Clegg from billiongraves.com"
+        }
+      ],
+      "notes": [
+        {
+          "text": "Name: Margaret A. Clegg\nBirth: 15 April 1840\nDeath: 29 July 1929\nBurial: Heber City Cemetery, Heber, Wasatch, Utah, United States\nContributed by: BillionGraves user rlthomas1982"
         }
       ]
     },
     {
-      "id": "MM9K-THD",
-      "about": "https://familysearch.org/ark:/61903/1:1:MNSL-2SW",
+      "id": "MM9K-T48",
+      "about": "https://familysearch.org/ark:/61903/1:1:M5XM-DLS",
       "attribution": {
         "contributor": {
           "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
@@ -21262,23 +21033,252 @@
           "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-DY6Q",
           "resourceId": "cis.user.MMMM-DY6Q"
         },
-        "modified": 1489529231319,
-        "created": 1358265343000
+        "modified": 1489501618557,
+        "created": 1358265171000
       },
       "resourceType": "FSREADONLY",
       "links": {
         "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/MM9K-THD"
+          "href": "https://familysearch.org/platform/sources/descriptions/MM9K-T48"
         }
       },
       "citations": [
         {
-          "value": "\"United States Census, 1880,\" database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/MNSL-2SW : 14 July 2016), Margrett Clegg in household of Henry Clegg, Heber, Wasatch, Utah, United States; citing enumeration district ED 90, sheet 318D, NARA microfilm publication T9 (Washington D.C.: National Archives and Records Administration, n.d.), roll 1339; FHL microfilm 1,255,339.\n"
+          "value": "\"United States Census, 1910,\" database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/M5XM-DLS : accessed 14 April 2017), Margaret A Clegg, Heber Ward 1, Wasatch, Utah, United States; citing enumeration district (ED) ED 206, sheet 4A, family 66, NARA microfilm publication T624 (Washington D.C.: National Archives and Records Administration, 1982), roll 1610; FHL microfilm 1,375,623.\n"
         }
       ],
       "titles": [
         {
-          "value": "Margrett Clegg in household of Henry Clegg, \"United States Census, 1880\""
+          "value": "Margaret A Clegg, \"United States Census, 1910\""
+        }
+      ]
+    },
+    {
+      "id": "MM3R-JNV",
+      "about": "https://familysearch.org/ark:/61903/1:1:XZPF-5KV",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-H846",
+          "resourceId": "cis.user.MMM9-H846"
+        },
+        "modified": 1489501946817,
+        "created": 1367898961000
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/MM3R-JNV"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"Utah Death Certificates, 1904-1964\", database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/XZPF-5KV : 11 September 2015), Margaret Ann Griffiths in entry for Herbert Lorenzo Clegg, 1943."
+        }
+      ],
+      "titles": [
+        {
+          "value": "Margaret Ann Griffiths in entry for Herbert Lorenzo Clegg, \"Utah Death Certificates, 1904-1956\""
+        }
+      ]
+    },
+    {
+      "id": "MSTW-KXK",
+      "lang": "en_US",
+      "about": "https://familysearch.org/ark:/61903/1:1:XZPN-Y59",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-Z3L2",
+          "resourceId": "cis.user.MMMM-Z3L2"
+        },
+        "modified": 1489577492324,
+        "created": 1412542644769
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/MSTW-KXK"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"Utah Death Certificates, 1904-1964\", database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/XZPN-Y59 : 11 September 2015), Margaret Ann Griffiths in entry for George Almont Clegg, 1935."
+        }
+      ],
+      "titles": [
+        {
+          "value": "Margaret Ann Griffiths in entry for George Almont Clegg, \"Utah Death Certificates, 1904-1964\""
+        }
+      ]
+    },
+    {
+      "id": "9J6G-KL2",
+      "lang": "en_US",
+      "about": "https://familysearch.org/ark:/61903/1:1:QVKH-5CH5",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MM9W-LX3Y",
+          "resourceId": "cis.user.MM9W-LX3Y"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MM9W-LX3Y",
+          "resourceId": "cis.user.MM9W-LX3Y"
+        },
+        "modified": 1483486588403,
+        "created": 1483486588403
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/9J6G-KL2"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"Find A Grave Index,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/QVKH-5CH5 : 11 July 2016), Margaret Ann Griffith Clegg, 1929; Burial, Heber City, Wasatch, Utah, United States of America, Heber City Cemetery; citing record ID 31202467, Find a Grave, http://www.findagrave.com."
+        }
+      ],
+      "titles": [
+        {
+          "value": "Margaret Ann Griffith Clegg, \"Find A Grave Index\""
+        }
+      ]
+    },
+    {
+      "id": "9DYV-636",
+      "lang": "en_US",
+      "about": "https://familysearch.org/ark:/61903/1:1:XZGB-P4D",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM7-YWYF",
+          "resourceId": "cis.user.MMM7-YWYF"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM7-YWYF",
+          "resourceId": "cis.user.MMM7-YWYF"
+        },
+        "modified": 1446604512271,
+        "created": 1446604512271
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/9DYV-636"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"Utah Death Certificates, 1904-1964\", database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/XZGB-P4D : 11 September 2015), Margaret Ann Griffiths in entry for Thomas Griffith Clegg, 1929."
+        }
+      ],
+      "titles": [
+        {
+          "value": "Margaret Ann Griffiths in entry for Thomas Griffith Clegg, \"Utah Death Certificates, 1904-1964\""
+        }
+      ]
+    },
+    {
+      "id": "MSTW-KTD",
+      "lang": "en_US",
+      "about": "https://familysearch.org/ark:/61903/1:1:XZGS-1M3",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-Z3L2",
+          "resourceId": "cis.user.MMMM-Z3L2"
+        },
+        "modified": 1489577493651,
+        "created": 1412542754240
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/MSTW-KTD"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"Utah Death Certificates, 1904-1964\", database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/XZGS-1M3 : 11 September 2015), Margaret A. Griffeth in entry for Joseph Clegg, 1910."
+        }
+      ],
+      "titles": [
+        {
+          "value": "Margaret A. Griffeth in entry for Joseph Clegg, \"Utah Death Certificates, 1904-1964\""
+        }
+      ]
+    },
+    {
+      "id": "MM6W-K6P",
+      "about": "https://familysearch.org/ark:/61903/1:1:SG13-6BH",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-HT4Y",
+          "resourceId": "cis.user.MMMM-HT4Y"
+        },
+        "modified": 1489536787005,
+        "created": 1387473451000
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/MM6W-K6P"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"England and Wales Census, 1851,\" database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/SG13-6BH : 24 July 2016), Margaret A Griffiths in household of John Griffiths, Woolwich, Kent, England; citing Woolwich, Kent, England, p. 1, from \"1851 England, Scotland and Wales census,\" database and images, findmypast (http://www.findmypast.com : n.d.); citing PRO HO 107, The National Archives of the UK, Kew, Surrey."
+        }
+      ],
+      "titles": [
+        {
+          "value": "Margaret A Griffiths, \"England and Wales Census, 1851\""
+        }
+      ]
+    },
+    {
+      "id": "9X5R-SN9",
+      "lang": "en_US",
+      "about": "https://familysearch.org/ark:/61903/1:1:XZPL-LSF",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMF-87XR",
+          "resourceId": "cis.user.MMMF-87XR"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMF-87XR",
+          "resourceId": "cis.user.MMMF-87XR"
+        },
+        "modified": 1461546597252,
+        "created": 1461546597252
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/9X5R-SN9"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"Utah Death Certificates, 1904-1964\", database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/XZPL-LSF : 11 September 2015), Margaret Ann Griffith in entry for Hannah Mary Clegg Cummings, 1952."
+        }
+      ],
+      "titles": [
+        {
+          "value": "Margaret Ann Griffith in entry for Hannah Mary Clegg Cummings, \"Utah Death Certificates, 1904-1964\""
         }
       ]
     }

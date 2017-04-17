@@ -178,7 +178,7 @@
           "href": "https://familysearch.org/platform/tree/persons/KWCT-P7T/families?sourceDescriptions=true"
         },
         "portrait": {
-          "href": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/KWCT-P7T/KWCT-P7T.jpg"
+          "href": "https://raw.githubusercontent.com/misbach/familytree/master/people/KWCT-P7T/KWCT-P7T.jpg"
         },
         "matches": {
           "href": "https://familysearch.org/platform/tree/persons/KWCT-P7T/matches"
@@ -1325,16 +1325,16 @@
         "familiesAsParent": [
           {
             "parent1": {
-              "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/KWCT-P7T/KWCT-P7T.json",
+              "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KWCT-P7T/KWCT-P7T.json",
               "resourceId": "KWCT-P7T"
             },
             "parent2": {
-              "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/KWCT-P7B/KWCT-P7B.json",
+              "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KWCT-P7B/KWCT-P7B.json",
               "resourceId": "KWCT-P7B"
             },
             "children": [
               {
-                "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/KWCG-VG1/KWCG-VG1.json",
+                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KWCG-VG1/KWCG-VG1.json",
                 "resourceId": "KWCG-VG1"
               }
             ]
@@ -1343,16 +1343,16 @@
         "familiesAsChild": [
           {
             "parent1": {
-              "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/KWJF-JK5/KWJF-JK5.json",
+              "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KWJF-JK5/KWJF-JK5.json",
               "resourceId": "KWJF-JK5"
             },
             "parent2": {
-              "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/KWJF-JKP/KWJF-JKP.json",
+              "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KWJF-JKP/KWJF-JKP.json",
               "resourceId": "KWJF-JKP"
             },
             "children": [
               {
-                "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/KWCT-P7T/KWCT-P7T.json",
+                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KWCT-P7T/KWCT-P7T.json",
                 "resourceId": "KWCT-P7T"
               }
             ]
@@ -5356,11 +5356,11 @@
           },
           "place": {
             "original": "Heber Ward 2, , Utah",
-            "description": "#pd_40.50694x-111.412498",
+            "description": "#pd_40.37556x-111.125557",
             "normalized": [
               {
                 "lang": "en-US",
-                "value": "Heber City, Wasatch, Utah, United States"
+                "value": "Wasatch, Utah, United States"
               },
               {
                 "lang": "und",
@@ -6156,11 +6156,11 @@
           },
           "place": {
             "original": "Heber Ward 2, , Utah",
-            "description": "#pd_40.50694x-111.412498",
+            "description": "#pd_40.37556x-111.125557",
             "normalized": [
               {
                 "lang": "en-US",
-                "value": "Heber City, Wasatch, Utah, United States"
+                "value": "Wasatch, Utah, United States"
               },
               {
                 "lang": "und",
@@ -8788,11 +8788,11 @@
           },
           "place": {
             "original": "Heber Ward 2, , Utah",
-            "description": "#pd_40.50694x-111.412498",
+            "description": "#pd_40.37556x-111.125557",
             "normalized": [
               {
                 "lang": "en-US",
-                "value": "Heber City, Wasatch, Utah, United States"
+                "value": "Wasatch, Utah, United States"
               },
               {
                 "lang": "und",
@@ -11904,11 +11904,11 @@
           },
           "place": {
             "original": "Heber Ward 2, , Utah",
-            "description": "#pd_40.50694x-111.412498",
+            "description": "#pd_40.37556x-111.125557",
             "normalized": [
               {
                 "lang": "en-US",
-                "value": "Heber City, Wasatch, Utah, United States"
+                "value": "Wasatch, Utah, United States"
               },
               {
                 "lang": "und",
@@ -14343,11 +14343,11 @@
           },
           "place": {
             "original": "Heber Ward 2, , Utah",
-            "description": "#pd_40.50694x-111.412498",
+            "description": "#pd_40.37556x-111.125557",
             "normalized": [
               {
                 "lang": "en-US",
-                "value": "Heber City, Wasatch, Utah, United States"
+                "value": "Wasatch, Utah, United States"
               },
               {
                 "lang": "und",
@@ -17594,34 +17594,34 @@
       }
     },
     {
-      "id": "M96R-WCP",
-      "about": "https://familysearch.org/ark:/61903/1:1:SGN3-1S6",
+      "id": "MM87-8HH",
+      "about": "https://familysearch.org/ark:/61903/1:1:N6DK-CBL",
       "attribution": {
         "contributor": {
           "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
           "resourceId": "cis.wkca.MMMM-M93P"
         },
         "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-SKCT",
-          "resourceId": "cis.user.MMMM-SKCT"
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMZ-5F8J",
+          "resourceId": "cis.user.MMMZ-5F8J"
         },
-        "modified": 1489546769256,
-        "created": 1403295271033
+        "modified": 1489515556977,
+        "created": 1383425448000
       },
       "resourceType": "FSREADONLY",
       "links": {
         "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/M96R-WCP"
+          "href": "https://familysearch.org/platform/sources/descriptions/MM87-8HH"
         }
       },
       "citations": [
         {
-          "value": "\"England and Wales Census, 1851,\" database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/SGN3-1S6 : 24 July 2016), William Giles in household of William Giles, St Mary Le Wigford, Lincolnshire, England; citing St Mary Le Wigford, Lincolnshire, England, p. 20, from \"1851 England, Scotland and Wales census,\" database and images, findmypast (http://www.findmypast.com : n.d.); citing PRO HO 107, The National Archives of the UK, Kew, Surrey."
+          "value": "\"England Births and Christenings, 1538-1975,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/N6DK-CBL : 30 December 2014), William Giles, 23 Apr 1843; citing Broxholme, Lincoln, England, reference item 1 p 17; FHL microfilm 1,450,478."
         }
       ],
       "titles": [
         {
-          "value": "William Giles in household of William Giles, \"England and Wales Census, 1851\""
+          "value": "William Giles, \"England Births and Christenings, 1538-1975\""
         }
       ]
     },
@@ -17659,70 +17659,38 @@
       ]
     },
     {
-      "id": "M9ZR-1RY",
-      "about": "https://familysearch.org/ark:/61903/1:1:FLR7-3J6",
+      "id": "MS6Y-QS5",
       "attribution": {
         "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-K4R2",
+          "resourceId": "cis.user.MMMM-K4R2"
         },
         "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-JW55",
-          "resourceId": "cis.user.MMMM-JW55"
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-K4R2",
+          "resourceId": "cis.user.MMMM-K4R2"
         },
-        "modified": 1489545309012,
-        "created": 1402798785125
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/M9ZR-1RY"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"Utah, Veterans with Federal Service Buried in Utah, Territorial to 1966,\" database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/FLR7-3J6 : 6 December 2014), William Giles, 11 Nov 1895; citing City Cemetery, , military unit Capt Wm Wall Cav, Ut Terr Mil, Blackhawk War, State Archives, Capitol Building, Salt Lake City; FHL microfilm 485,503."
-        }
-      ],
-      "titles": [
-        {
-          "value": "William Giles, \"Utah, Veterans with Federal Service Buried in Utah, Territorial to 1966\""
-        }
-      ]
-    },
-    {
-      "id": "MS6Y-QWZ",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-6FF4",
-          "resourceId": "cis.user.MMMM-6FF4"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-6FF4",
-          "resourceId": "cis.user.MMMM-6FF4"
-        },
-        "modified": 1407412043183,
-        "created": 1407412043183
+        "modified": 1407412039385,
+        "created": 1407412039385
       },
       "resourceType": "LEGACY",
       "links": {
         "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/MS6Y-QWZ"
+          "href": "https://familysearch.org/platform/sources/descriptions/MS6Y-QS5"
         }
       },
       "citations": [
         {
-          "value": "Allen M. Winterton, GEDCOM file imported on Feb 6 1999.\nAllen M. Winterton\n683 South 400 East\nOrem, Utah 84058\n801-225-2546"
+          "value": ""
         }
       ],
       "titles": [
         {
-          "value": "Legacy NFS Source: William Giles - "
+          "value": "Legacy NFS Source: William Giles - Published information: death: 11 November 1895; Heber, Wasatch, Utah, United States"
         }
       ],
       "notes": [
         {
-          "text": ""
+          "text": "Published information: death: 11 November 1895; Heber, Wasatch, Utah, United States  \nPublished information: birth: 26 March 1843; Lincolnshire, England, United Kingdom  \nPublished information: male  \nPublished information: birth: 26 March 1943; Lincolnshire, England, United Kingdom  \nPublished information: birth-name: William Giles"
         }
       ]
     },
@@ -17763,72 +17731,6 @@
       ]
     },
     {
-      "id": "9XY7-SQN",
-      "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:XZPF-XGJ",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMS-18RP",
-          "resourceId": "cis.user.MMMS-18RP"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMS-18RP",
-          "resourceId": "cis.user.MMMS-18RP"
-        },
-        "modified": 1462162817990,
-        "created": 1462162817990
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/9XY7-SQN"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"Utah Death Certificates, 1904-1964\", database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/XZPF-XGJ : 11 September 2015), William Giles in entry for John William Giles, 1942."
-        }
-      ],
-      "titles": [
-        {
-          "value": "William Giles in entry for John William Giles, \"Utah Death Certificates, 1904-1964\""
-        }
-      ]
-    },
-    {
-      "id": "9X61-CLP",
-      "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:XZPT-JDV",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-ZMFK",
-          "resourceId": "cis.user.MMM9-ZMFK"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-ZMFK",
-          "resourceId": "cis.user.MMM9-ZMFK"
-        },
-        "modified": 1458776101147,
-        "created": 1458776101147
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/9X61-CLP"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"Utah Death Certificates, 1904-1964\", database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/XZPT-JDV : 11 September 2015), William Giles in entry for Mary Baird, 1954."
-        }
-      ],
-      "titles": [
-        {
-          "value": "William Giles in entry for Mary Baird, \"Utah Death Certificates, 1904-1964\""
-        }
-      ]
-    },
-    {
       "id": "96HY-PTV",
       "lang": "en_US",
       "about": "https://familysearch.org/ark:/61903/1:1:QKDV-66WD",
@@ -17862,35 +17764,68 @@
       ]
     },
     {
-      "id": "96HD-MCV",
+      "id": "98WJ-QRK",
       "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:XZPB-3FR",
+      "about": "https://familysearch.org/ark:/61903/1:1:MNCB-DG3",
       "attribution": {
         "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-4Z1V",
-          "resourceId": "cis.user.MMMM-4Z1V"
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-C2QB",
+          "resourceId": "cis.user.MMMM-C2QB"
         },
         "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-4Z1V",
-          "resourceId": "cis.user.MMMM-4Z1V"
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-C2QB",
+          "resourceId": "cis.user.MMMM-C2QB"
         },
-        "modified": 1450224912824,
-        "created": 1450224912824
+        "modified": 1429146632564,
+        "created": 1429146632564
       },
       "resourceType": "FSREADONLY",
       "links": {
         "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/96HD-MCV"
+          "href": "https://familysearch.org/platform/sources/descriptions/98WJ-QRK"
         }
       },
       "citations": [
         {
-          "value": "\"Utah Death Certificates, 1904-1964\", database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/XZPB-3FR : 11 September 2015), William Giles in entry for Sarah Elizabeth Clegg, 1955."
+          "value": "\"United States Census, 1870,\" database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/MNCB-DG3 : 17 October 2014), William Giles, Utah, United States; citing p. 12, family 85, NARA microfilm publication M593 (Washington D.C.: National Archives and Records Administration, n.d.); FHL microfilm 553,112."
         }
       ],
       "titles": [
         {
-          "value": "William Giles in entry for Sarah Elizabeth Clegg, \"Utah Death Certificates, 1904-1964\""
+          "value": "William Giles, \"United States Census, 1870\""
+        }
+      ]
+    },
+    {
+      "id": "9XY7-SQN",
+      "lang": "en_US",
+      "about": "https://familysearch.org/ark:/61903/1:1:XZPF-XGJ",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMS-18RP",
+          "resourceId": "cis.user.MMMS-18RP"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMS-18RP",
+          "resourceId": "cis.user.MMMS-18RP"
+        },
+        "modified": 1462162817990,
+        "created": 1462162817990
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/9XY7-SQN"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"Utah Death Certificates, 1904-1964\", database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/XZPF-XGJ : 11 September 2015), William Giles in entry for John William Giles, 1942."
+        }
+      ],
+      "titles": [
+        {
+          "value": "William Giles in entry for John William Giles, \"Utah Death Certificates, 1904-1964\""
         }
       ]
     },
@@ -17933,34 +17868,168 @@
       ]
     },
     {
-      "id": "MM87-8HH",
-      "about": "https://familysearch.org/ark:/61903/1:1:N6DK-CBL",
+      "id": "MMCZ-HQ3",
+      "about": "http://billiongraves.com/pages/record/WilliamGiles/6155?utm_campaign=treeconnect&utm_source=familysearch.org&utm_medium=sourcelink",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-43MB",
+          "resourceId": "cis.user.MMMM-43MB"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-43MB",
+          "resourceId": "cis.user.MMMM-43MB"
+        },
+        "modified": 1380076816000,
+        "created": 1380076816000
+      },
+      "resourceType": "DEFAULT",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/MMCZ-HQ3"
+        }
+      },
+      "citations": [
+        {
+          "value": "Transcription of headstone image from billiongraves.com. Image taken at Heber City Cemetery (Heber, Wasatch, Utah, United States) on 31 May 2011"
+        }
+      ],
+      "titles": [
+        {
+          "value": "Headstone image of William Giles from billiongraves.com"
+        }
+      ],
+      "notes": [
+        {
+          "text": "Name: William Giles\nBirth: 26 March 1843\nDeath: 11 November 1895\nBurial: Heber City Cemetery, Heber, Wasatch, Utah, United States"
+        }
+      ]
+    },
+    {
+      "id": "9X61-CLP",
+      "lang": "en_US",
+      "about": "https://familysearch.org/ark:/61903/1:1:XZPT-JDV",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-ZMFK",
+          "resourceId": "cis.user.MMM9-ZMFK"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-ZMFK",
+          "resourceId": "cis.user.MMM9-ZMFK"
+        },
+        "modified": 1458776101147,
+        "created": 1458776101147
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/9X61-CLP"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"Utah Death Certificates, 1904-1964\", database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/XZPT-JDV : 11 September 2015), William Giles in entry for Mary Baird, 1954."
+        }
+      ],
+      "titles": [
+        {
+          "value": "William Giles in entry for Mary Baird, \"Utah Death Certificates, 1904-1964\""
+        }
+      ]
+    },
+    {
+      "id": "M96R-WCP",
+      "about": "https://familysearch.org/ark:/61903/1:1:SGN3-1S6",
       "attribution": {
         "contributor": {
           "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
           "resourceId": "cis.wkca.MMMM-M93P"
         },
         "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMZ-5F8J",
-          "resourceId": "cis.user.MMMZ-5F8J"
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-SKCT",
+          "resourceId": "cis.user.MMMM-SKCT"
         },
-        "modified": 1489515556977,
-        "created": 1383425448000
+        "modified": 1489546769256,
+        "created": 1403295271033
       },
       "resourceType": "FSREADONLY",
       "links": {
         "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/MM87-8HH"
+          "href": "https://familysearch.org/platform/sources/descriptions/M96R-WCP"
         }
       },
       "citations": [
         {
-          "value": "\"England Births and Christenings, 1538-1975,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/N6DK-CBL : 30 December 2014), William Giles, 23 Apr 1843; citing Broxholme, Lincoln, England, reference item 1 p 17; FHL microfilm 1,450,478."
+          "value": "\"England and Wales Census, 1851,\" database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/SGN3-1S6 : 24 July 2016), William Giles in household of William Giles, St Mary Le Wigford, Lincolnshire, England; citing St Mary Le Wigford, Lincolnshire, England, p. 20, from \"1851 England, Scotland and Wales census,\" database and images, findmypast (http://www.findmypast.com : n.d.); citing PRO HO 107, The National Archives of the UK, Kew, Surrey."
         }
       ],
       "titles": [
         {
-          "value": "William Giles, \"England Births and Christenings, 1538-1975\""
+          "value": "William Giles in household of William Giles, \"England and Wales Census, 1851\""
+        }
+      ]
+    },
+    {
+      "id": "M9ZR-1LP",
+      "about": "https://familysearch.org/ark:/61903/1:1:MNSL-G6C",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-JW55",
+          "resourceId": "cis.user.MMMM-JW55"
+        },
+        "modified": 1489545308714,
+        "created": 1402798634063
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/M9ZR-1LP"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"United States Census, 1880,\" database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/MNSL-G6C : 14 July 2016), William Giles, Heber, Wasatch, Utah, United States; citing enumeration district ED 90, sheet 320C, NARA microfilm publication T9 (Washington D.C.: National Archives and Records Administration, n.d.), roll 1339; FHL microfilm 1,255,339.\n"
+        }
+      ],
+      "titles": [
+        {
+          "value": "William Giles, \"United States Census, 1880\""
+        }
+      ]
+    },
+    {
+      "id": "M9ZR-15Y",
+      "about": "https://familysearch.org/ark:/61903/1:1:VR8Y-B2D",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-JW55",
+          "resourceId": "cis.user.MMMM-JW55"
+        },
+        "modified": 1489545308819,
+        "created": 1402798735676
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/M9ZR-15Y"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"BillionGraves Index,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/VR8Y-B2D : 24 June 2015), William Giles, died 11 Nov 1895; citing BillionGraves (http://www.billiongraves.com : 2012), Burial at Heber City Cemetery, Heber, Wasatch, Utah, United States."
+        }
+      ],
+      "titles": [
+        {
+          "value": "William Giles, \"BillionGraves Index\""
         }
       ]
     },
@@ -18002,172 +18071,103 @@
       ]
     },
     {
-      "id": "98WJ-QRK",
-      "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:MNCB-DG3",
+      "id": "MS6Y-QWZ",
       "attribution": {
         "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-C2QB",
-          "resourceId": "cis.user.MMMM-C2QB"
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-6FF4",
+          "resourceId": "cis.user.MMMM-6FF4"
         },
         "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-C2QB",
-          "resourceId": "cis.user.MMMM-C2QB"
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-6FF4",
+          "resourceId": "cis.user.MMMM-6FF4"
         },
-        "modified": 1429146632564,
-        "created": 1429146632564
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/98WJ-QRK"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"United States Census, 1870,\" database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/MNCB-DG3 : 17 October 2014), William Giles, Utah, United States; citing p. 12, family 85, NARA microfilm publication M593 (Washington D.C.: National Archives and Records Administration, n.d.); FHL microfilm 553,112."
-        }
-      ],
-      "titles": [
-        {
-          "value": "William Giles, \"United States Census, 1870\""
-        }
-      ]
-    },
-    {
-      "id": "M9ZR-15Y",
-      "about": "https://familysearch.org/ark:/61903/1:1:VR8Y-B2D",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-JW55",
-          "resourceId": "cis.user.MMMM-JW55"
-        },
-        "modified": 1489545308819,
-        "created": 1402798735676
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/M9ZR-15Y"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"BillionGraves Index,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/VR8Y-B2D : 24 June 2015), William Giles, died 11 Nov 1895; citing BillionGraves (http://www.billiongraves.com : 2012), Burial at Heber City Cemetery, Heber, Wasatch, Utah, United States."
-        }
-      ],
-      "titles": [
-        {
-          "value": "William Giles, \"BillionGraves Index\""
-        }
-      ]
-    },
-    {
-      "id": "M9ZR-1LP",
-      "about": "https://familysearch.org/ark:/61903/1:1:MNSL-G6C",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-JW55",
-          "resourceId": "cis.user.MMMM-JW55"
-        },
-        "modified": 1489545308714,
-        "created": 1402798634063
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/M9ZR-1LP"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"United States Census, 1880,\" database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/MNSL-G6C : 14 July 2016), William Giles, Heber, Wasatch, Utah, United States; citing enumeration district ED 90, sheet 320C, NARA microfilm publication T9 (Washington D.C.: National Archives and Records Administration, n.d.), roll 1339; FHL microfilm 1,255,339.\n"
-        }
-      ],
-      "titles": [
-        {
-          "value": "William Giles, \"United States Census, 1880\""
-        }
-      ]
-    },
-    {
-      "id": "MMCZ-HQ3",
-      "about": "http://billiongraves.com/pages/record/WilliamGiles/6155?utm_campaign=treeconnect&utm_source=familysearch.org&utm_medium=sourcelink",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-43MB",
-          "resourceId": "cis.user.MMMM-43MB"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-43MB",
-          "resourceId": "cis.user.MMMM-43MB"
-        },
-        "modified": 1380076816000,
-        "created": 1380076816000
-      },
-      "resourceType": "DEFAULT",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/MMCZ-HQ3"
-        }
-      },
-      "citations": [
-        {
-          "value": "Transcription of headstone image from billiongraves.com. Image taken at Heber City Cemetery (Heber, Wasatch, Utah, United States) on 31 May 2011"
-        }
-      ],
-      "titles": [
-        {
-          "value": "Headstone image of William Giles from billiongraves.com"
-        }
-      ],
-      "notes": [
-        {
-          "text": "Name: William Giles\nBirth: 26 March 1843\nDeath: 11 November 1895\nBurial: Heber City Cemetery, Heber, Wasatch, Utah, United States"
-        }
-      ]
-    },
-    {
-      "id": "MS6Y-QS5",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-K4R2",
-          "resourceId": "cis.user.MMMM-K4R2"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-K4R2",
-          "resourceId": "cis.user.MMMM-K4R2"
-        },
-        "modified": 1407412039385,
-        "created": 1407412039385
+        "modified": 1407412043183,
+        "created": 1407412043183
       },
       "resourceType": "LEGACY",
       "links": {
         "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/MS6Y-QS5"
+          "href": "https://familysearch.org/platform/sources/descriptions/MS6Y-QWZ"
         }
       },
       "citations": [
         {
-          "value": ""
+          "value": "Allen M. Winterton, GEDCOM file imported on Feb 6 1999.\nAllen M. Winterton\n683 South 400 East\nOrem, Utah 84058\n801-225-2546"
         }
       ],
       "titles": [
         {
-          "value": "Legacy NFS Source: William Giles - Published information: death: 11 November 1895; Heber, Wasatch, Utah, United States"
+          "value": "Legacy NFS Source: William Giles - "
         }
       ],
       "notes": [
         {
-          "text": "Published information: death: 11 November 1895; Heber, Wasatch, Utah, United States  \nPublished information: birth: 26 March 1843; Lincolnshire, England, United Kingdom  \nPublished information: male  \nPublished information: birth: 26 March 1943; Lincolnshire, England, United Kingdom  \nPublished information: birth-name: William Giles"
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "96HD-MCV",
+      "lang": "en_US",
+      "about": "https://familysearch.org/ark:/61903/1:1:XZPB-3FR",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-4Z1V",
+          "resourceId": "cis.user.MMMM-4Z1V"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-4Z1V",
+          "resourceId": "cis.user.MMMM-4Z1V"
+        },
+        "modified": 1450224912824,
+        "created": 1450224912824
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/96HD-MCV"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"Utah Death Certificates, 1904-1964\", database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/XZPB-3FR : 11 September 2015), William Giles in entry for Sarah Elizabeth Clegg, 1955."
+        }
+      ],
+      "titles": [
+        {
+          "value": "William Giles in entry for Sarah Elizabeth Clegg, \"Utah Death Certificates, 1904-1964\""
+        }
+      ]
+    },
+    {
+      "id": "M9ZR-1RY",
+      "about": "https://familysearch.org/ark:/61903/1:1:FLR7-3J6",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-JW55",
+          "resourceId": "cis.user.MMMM-JW55"
+        },
+        "modified": 1489545309012,
+        "created": 1402798785125
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/M9ZR-1RY"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"Utah, Veterans with Federal Service Buried in Utah, Territorial to 1966,\" database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/FLR7-3J6 : 6 December 2014), William Giles, 11 Nov 1895; citing City Cemetery, , military unit Capt Wm Wall Cav, Ut Terr Mil, Blackhawk War, State Archives, Capitol Building, Salt Lake City; FHL microfilm 485,503."
+        }
+      ],
+      "titles": [
+        {
+          "value": "William Giles, \"Utah, Veterans with Federal Service Buried in Utah, Territorial to 1966\""
         }
       ]
     }

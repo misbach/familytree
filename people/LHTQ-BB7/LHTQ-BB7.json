@@ -57,7 +57,7 @@
           "href": "https://familysearch.org/platform/tree/persons/LHTQ-BB7/families?sourceDescriptions=true"
         },
         "portrait": {
-          "href": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/LHTQ-BB7/LHTQ-BB7.jpg"
+          "href": "https://raw.githubusercontent.com/misbach/familytree/master/people/LHTQ-BB7/LHTQ-BB7.jpg"
         },
         "matches": {
           "href": "https://familysearch.org/platform/tree/persons/LHTQ-BB7/matches"
@@ -958,16 +958,16 @@
         "familiesAsParent": [
           {
             "parent1": {
-              "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/LHTQ-BB7/LHTQ-BB7.json",
+              "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/LHTQ-BB7/LHTQ-BB7.json",
               "resourceId": "LHTQ-BB7"
             },
             "parent2": {
-              "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/LHTQ-1ZQ/LHTQ-1ZQ.json",
+              "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/LHTQ-1ZQ/LHTQ-1ZQ.json",
               "resourceId": "LHTQ-1ZQ"
             },
             "children": [
               {
-                "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/L762-C7P/L762-C7P.json",
+                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/L762-C7P/L762-C7P.json",
                 "resourceId": "L762-C7P"
               }
             ]
@@ -976,16 +976,16 @@
         "familiesAsChild": [
           {
             "parent1": {
-              "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/LQR3-V1C/LQR3-V1C.json",
+              "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/LQR3-V1C/LQR3-V1C.json",
               "resourceId": "LQR3-V1C"
             },
             "parent2": {
-              "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/KG4Q-SK2/KG4Q-SK2.json",
+              "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KG4Q-SK2/KG4Q-SK2.json",
               "resourceId": "KG4Q-SK2"
             },
             "children": [
               {
-                "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/LHTQ-BB7/LHTQ-BB7.json",
+                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/LHTQ-BB7/LHTQ-BB7.json",
                 "resourceId": "LHTQ-BB7"
               }
             ]
@@ -9470,110 +9470,6 @@
       }
     },
     {
-      "id": "9FX6-79C",
-      "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:V2P6-ZXF",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MM99-BGVL",
-          "resourceId": "cis.user.MM99-BGVL"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MM99-BGVL",
-          "resourceId": "cis.user.MM99-BGVL"
-        },
-        "modified": 1466986860901,
-        "created": 1466986860901
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/9FX6-79C"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"Illinois Marriages, 1815-1935,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/V2P6-ZXF : 29 December 2014), James Hambric in entry for Ballard Hambric and Mary E. Ivey, 26 May 1889; citing St Marie, Jasper, Illinois; FHL microfilm 1,312,612."
-        }
-      ],
-      "titles": [
-        {
-          "value": "James Hambric in entry for Ballard Hambric and Mary E. Ivey, \"Illinois Marriages, 1815-1935\""
-        }
-      ]
-    },
-    {
-      "id": "9JNH-86Y",
-      "lang": "en",
-      "about": "http://search.ancestry.com/cgi-bin/sse.dll?h=953928&db=FS1VirginiaMarriages&indiv=1",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MM9D-KBD9",
-          "resourceId": "cis.user.MM9D-KBD9"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MM9D-KBD9",
-          "resourceId": "cis.user.MM9D-KBD9"
-        },
-        "modified": 1484110086219,
-        "created": 1484110086219
-      },
-      "resourceType": "DEFAULT",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/9JNH-86Y"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"Maria Hipes in the Virginia, Select Marriages, 1785-1940.\" Maria Hipes in the Virginia, Select Marriages, 1785-1940. N.p., n.d. Web. 10 Jan. 2017. <http://search.ancestry.com/cgi-bin/sse.dll?h=953928&db=FS1VirginiaMarriages&indiv=1>."
-        }
-      ],
-      "titles": [
-        {
-          "value": "Maria Hipes in the Virginia, Select Marriages, 1785-1940"
-        }
-      ],
-      "notes": [
-        {
-          "text": "Source created by http://RecordSeek.com"
-        }
-      ]
-    },
-    {
-      "id": "9FX2-3X2",
-      "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:MFLJ-Q58",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MM99-BGVL",
-          "resourceId": "cis.user.MM99-BGVL"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MM99-BGVL",
-          "resourceId": "cis.user.MM99-BGVL"
-        },
-        "modified": 1467062169440,
-        "created": 1467062169440
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/9FX2-3X2"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"United States Census, 1870,\" database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/MFLJ-Q58 : 17 October 2014), James L Hambrick, Virginia, United States; citing p. 32, family 250, NARA microfilm publication M593 (Washington D.C.: National Archives and Records Administration, n.d.); FHL microfilm 553,135."
-        }
-      ],
-      "titles": [
-        {
-          "value": "James L Hambrick, \"United States Census, 1870\""
-        }
-      ]
-    },
-    {
       "id": "9FX2-4Q4",
       "lang": "en_US",
       "about": "https://familysearch.org/ark:/61903/1:1:XTHQ-DJW",
@@ -9607,9 +9503,9 @@
       ]
     },
     {
-      "id": "9FX2-WLH",
+      "id": "9FX6-79C",
       "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:X5NL-8GC",
+      "about": "https://familysearch.org/ark:/61903/1:1:V2P6-ZXF",
       "attribution": {
         "contributor": {
           "resource": "https://familysearch.org/platform/users/agents/cis.user.MM99-BGVL",
@@ -9619,89 +9515,61 @@
           "resource": "https://familysearch.org/platform/users/agents/cis.user.MM99-BGVL",
           "resourceId": "cis.user.MM99-BGVL"
         },
-        "modified": 1467062944268,
-        "created": 1467062944268
+        "modified": 1466986860901,
+        "created": 1466986860901
       },
       "resourceType": "FSREADONLY",
       "links": {
         "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/9FX2-WLH"
+          "href": "https://familysearch.org/platform/sources/descriptions/9FX6-79C"
         }
       },
       "citations": [
         {
-          "value": "\"Virginia Births and Christenings, 1584-1917,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/X5NL-8GC : 5 December 2014), Jas. Hambrick in entry for Bell O.E.B. Hambrick, 19 Mar 1856; citing Botetourt County, Virginia, reference p 28; FHL microfilm 30,732."
+          "value": "\"Illinois Marriages, 1815-1935,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/V2P6-ZXF : 29 December 2014), James Hambric in entry for Ballard Hambric and Mary E. Ivey, 26 May 1889; citing St Marie, Jasper, Illinois; FHL microfilm 1,312,612."
         }
       ],
       "titles": [
         {
-          "value": "Jas. Hambrick in entry for Bell O.E.B. Hambrick, \"Virginia Births and Christenings, 1584-1917\""
+          "value": "James Hambric in entry for Ballard Hambric and Mary E. Ivey, \"Illinois Marriages, 1815-1935\""
         }
       ]
     },
     {
-      "id": "9FX2-256",
-      "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:M88R-3VV",
+      "id": "9JNH-84B",
+      "lang": "en",
+      "about": "http://search.ancestry.com/cgi-bin/sse.dll?h=1057956&db=va2&indiv=1",
       "attribution": {
         "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MM99-BGVL",
-          "resourceId": "cis.user.MM99-BGVL"
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MM9D-KBD9",
+          "resourceId": "cis.user.MM9D-KBD9"
         },
         "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MM99-BGVL",
-          "resourceId": "cis.user.MM99-BGVL"
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MM9D-KBD9",
+          "resourceId": "cis.user.MM9D-KBD9"
         },
-        "modified": 1467066182395,
-        "created": 1467066182395
+        "modified": 1484110040866,
+        "created": 1484110040866
       },
-      "resourceType": "FSREADONLY",
+      "resourceType": "DEFAULT",
       "links": {
         "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/9FX2-256"
+          "href": "https://familysearch.org/platform/sources/descriptions/9JNH-84B"
         }
       },
       "citations": [
         {
-          "value": "\"United States Census, 1850,\" database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/M88R-3VV : 9 November 2014), James Hambrick, Botetourt county, Botetourt, Virginia, United States; citing family 1789, NARA microfilm publication M432 (Washington, D.C.: National Archives and Records Administration, n.d.)."
+          "value": "\"Maria Hipes in the Virginia, Compiled Marriages, 1740-1850.\" Maria Hipes in the Virginia, Compiled Marriages, 1740-1850. N.p., n.d. Web. 10 Jan. 2017. <http://search.ancestry.com/cgi-bin/sse.dll?h=1057956&db=va2&indiv=1>."
         }
       ],
       "titles": [
         {
-          "value": "James Hambrick, \"United States Census, 1850\""
-        }
-      ]
-    },
-    {
-      "id": "9ZHP-DDF",
-      "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:MXN6-KQ5",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-FQMP",
-          "resourceId": "cis.user.MMMM-FQMP"
-        },
-        "modified": 1489599242933,
-        "created": 1419091808022
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/9ZHP-DDF"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"United States Census, 1880,\" database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/MXN6-KQ5 : 14 July 2016), James Hambrick, Oblong, Crawford, Illinois, United States; citing enumeration district ED 186, sheet 442B, NARA microfilm publication T9 (Washington D.C.: National Archives and Records Administration, n.d.), roll 0183; FHL microfilm 1,254,183.\n"
+          "value": "Maria Hipes in the Virginia, Compiled Marriages, 1740-1850"
         }
       ],
-      "titles": [
+      "notes": [
         {
-          "value": "James Hambrick, \"United States Census, 1880\""
+          "text": "Source created by http://RecordSeek.com"
         }
       ]
     },
@@ -9739,9 +9607,141 @@
       ]
     },
     {
-      "id": "9JNH-84B",
+      "id": "9FX2-WLH",
+      "lang": "en_US",
+      "about": "https://familysearch.org/ark:/61903/1:1:X5NL-8GC",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MM99-BGVL",
+          "resourceId": "cis.user.MM99-BGVL"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MM99-BGVL",
+          "resourceId": "cis.user.MM99-BGVL"
+        },
+        "modified": 1467062944268,
+        "created": 1467062944268
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/9FX2-WLH"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"Virginia Births and Christenings, 1584-1917,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/X5NL-8GC : 5 December 2014), Jas. Hambrick in entry for Bell O.E.B. Hambrick, 19 Mar 1856; citing Botetourt County, Virginia, reference p 28; FHL microfilm 30,732."
+        }
+      ],
+      "titles": [
+        {
+          "value": "Jas. Hambrick in entry for Bell O.E.B. Hambrick, \"Virginia Births and Christenings, 1584-1917\""
+        }
+      ]
+    },
+    {
+      "id": "9ZHP-DDF",
+      "lang": "en_US",
+      "about": "https://familysearch.org/ark:/61903/1:1:MXN6-KQ5",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-FQMP",
+          "resourceId": "cis.user.MMMM-FQMP"
+        },
+        "modified": 1489599242933,
+        "created": 1419091808022
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/9ZHP-DDF"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"United States Census, 1880,\" database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/MXN6-KQ5 : 14 July 2016), James Hambrick, Oblong, Crawford, Illinois, United States; citing enumeration district ED 186, sheet 442B, NARA microfilm publication T9 (Washington D.C.: National Archives and Records Administration, n.d.), roll 0183; FHL microfilm 1,254,183.\n"
+        }
+      ],
+      "titles": [
+        {
+          "value": "James Hambrick, \"United States Census, 1880\""
+        }
+      ]
+    },
+    {
+      "id": "9FX2-256",
+      "lang": "en_US",
+      "about": "https://familysearch.org/ark:/61903/1:1:M88R-3VV",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MM99-BGVL",
+          "resourceId": "cis.user.MM99-BGVL"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MM99-BGVL",
+          "resourceId": "cis.user.MM99-BGVL"
+        },
+        "modified": 1467066182395,
+        "created": 1467066182395
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/9FX2-256"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"United States Census, 1850,\" database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/M88R-3VV : 9 November 2014), James Hambrick, Botetourt county, Botetourt, Virginia, United States; citing family 1789, NARA microfilm publication M432 (Washington, D.C.: National Archives and Records Administration, n.d.)."
+        }
+      ],
+      "titles": [
+        {
+          "value": "James Hambrick, \"United States Census, 1850\""
+        }
+      ]
+    },
+    {
+      "id": "9FX2-3X2",
+      "lang": "en_US",
+      "about": "https://familysearch.org/ark:/61903/1:1:MFLJ-Q58",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MM99-BGVL",
+          "resourceId": "cis.user.MM99-BGVL"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MM99-BGVL",
+          "resourceId": "cis.user.MM99-BGVL"
+        },
+        "modified": 1467062169440,
+        "created": 1467062169440
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/9FX2-3X2"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"United States Census, 1870,\" database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/MFLJ-Q58 : 17 October 2014), James L Hambrick, Virginia, United States; citing p. 32, family 250, NARA microfilm publication M593 (Washington D.C.: National Archives and Records Administration, n.d.); FHL microfilm 553,135."
+        }
+      ],
+      "titles": [
+        {
+          "value": "James L Hambrick, \"United States Census, 1870\""
+        }
+      ]
+    },
+    {
+      "id": "9JNH-86Y",
       "lang": "en",
-      "about": "http://search.ancestry.com/cgi-bin/sse.dll?h=1057956&db=va2&indiv=1",
+      "about": "http://search.ancestry.com/cgi-bin/sse.dll?h=953928&db=FS1VirginiaMarriages&indiv=1",
       "attribution": {
         "contributor": {
           "resource": "https://familysearch.org/platform/users/agents/cis.user.MM9D-KBD9",
@@ -9751,23 +9751,23 @@
           "resource": "https://familysearch.org/platform/users/agents/cis.user.MM9D-KBD9",
           "resourceId": "cis.user.MM9D-KBD9"
         },
-        "modified": 1484110040866,
-        "created": 1484110040866
+        "modified": 1484110086219,
+        "created": 1484110086219
       },
       "resourceType": "DEFAULT",
       "links": {
         "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/9JNH-84B"
+          "href": "https://familysearch.org/platform/sources/descriptions/9JNH-86Y"
         }
       },
       "citations": [
         {
-          "value": "\"Maria Hipes in the Virginia, Compiled Marriages, 1740-1850.\" Maria Hipes in the Virginia, Compiled Marriages, 1740-1850. N.p., n.d. Web. 10 Jan. 2017. <http://search.ancestry.com/cgi-bin/sse.dll?h=1057956&db=va2&indiv=1>."
+          "value": "\"Maria Hipes in the Virginia, Select Marriages, 1785-1940.\" Maria Hipes in the Virginia, Select Marriages, 1785-1940. N.p., n.d. Web. 10 Jan. 2017. <http://search.ancestry.com/cgi-bin/sse.dll?h=953928&db=FS1VirginiaMarriages&indiv=1>."
         }
       ],
       "titles": [
         {
-          "value": "Maria Hipes in the Virginia, Compiled Marriages, 1740-1850"
+          "value": "Maria Hipes in the Virginia, Select Marriages, 1785-1940"
         }
       ],
       "notes": [

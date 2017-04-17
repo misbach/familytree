@@ -331,7 +331,7 @@
           "href": "https://familysearch.org/platform/tree/persons/KWJF-JK5/families?sourceDescriptions=true"
         },
         "portrait": {
-          "href": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/KWJF-JK5/KWJF-JK5.jpg"
+          "href": "https://raw.githubusercontent.com/misbach/familytree/master/people/KWJF-JK5/KWJF-JK5.jpg"
         },
         "matches": {
           "href": "https://familysearch.org/platform/tree/persons/KWJF-JK5/matches"
@@ -2230,27 +2230,27 @@
         "familiesAsParent": [
           {
             "parent1": {
-              "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/KWJF-JK5/KWJF-JK5.json",
+              "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KWJF-JK5/KWJF-JK5.json",
               "resourceId": "KWJF-JK5"
             },
             "parent2": {
-              "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/KWJF-JKP/KWJF-JKP.json",
+              "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KWJF-JKP/KWJF-JKP.json",
               "resourceId": "KWJF-JKP"
             },
             "children": [
               {
-                "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/KWCT-P7T/KWCT-P7T.json",
+                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KWCT-P7T/KWCT-P7T.json",
                 "resourceId": "KWCT-P7T"
               }
             ]
           },
           {
             "parent1": {
-              "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/KWJF-JK5/KWJF-JK5.json",
+              "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KWJF-JK5/KWJF-JK5.json",
               "resourceId": "KWJF-JK5"
             },
             "parent2": {
-              "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/LZBH-3XN/LZBH-3XN.json",
+              "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/LZBH-3XN/LZBH-3XN.json",
               "resourceId": "LZBH-3XN"
             }
           }
@@ -2258,32 +2258,32 @@
         "familiesAsChild": [
           {
             "parent1": {
-              "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/LC5Z-7P5/LC5Z-7P5.json",
+              "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/LC5Z-7P5/LC5Z-7P5.json",
               "resourceId": "LC5Z-7P5"
             },
             "parent2": {
-              "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/LC7H-DVL/LC7H-DVL.json",
+              "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/LC7H-DVL/LC7H-DVL.json",
               "resourceId": "LC7H-DVL"
             },
             "children": [
               {
-                "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/KWJF-JK5/KWJF-JK5.json",
+                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KWJF-JK5/KWJF-JK5.json",
                 "resourceId": "KWJF-JK5"
               }
             ]
           },
           {
             "parent1": {
-              "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/LZ56-G3H/LZ56-G3H.json",
+              "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/LZ56-G3H/LZ56-G3H.json",
               "resourceId": "LZ56-G3H"
             },
             "parent2": {
-              "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/LC7H-DVL/LC7H-DVL.json",
+              "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/LC7H-DVL/LC7H-DVL.json",
               "resourceId": "LC7H-DVL"
             },
             "children": [
               {
-                "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/KWJF-JK5/KWJF-JK5.json",
+                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KWJF-JK5/KWJF-JK5.json",
                 "resourceId": "KWJF-JK5"
               }
             ]
@@ -24350,9 +24350,9 @@
       }
     },
     {
-      "id": "9VGZ-7QS",
+      "id": "9VGZ-7WQ",
       "lang": "*",
-      "about": "http://search.ancestry.com/collections/5771/records/1007326",
+      "about": "http://search.ancestry.com/collections/60525/records/96096597",
       "attribution": {
         "contributor": {
           "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-8YTG",
@@ -24362,18 +24362,18 @@
           "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-8YTG",
           "resourceId": "cis.user.MMM9-8YTG"
         },
-        "modified": 1491082061307,
-        "created": 1491082061307
+        "modified": 1491082066691,
+        "created": 1491082066691
       },
       "resourceType": "DEFAULT",
       "links": {
         "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/9VGZ-7QS"
+          "href": "https://familysearch.org/platform/sources/descriptions/9VGZ-7WQ"
         }
       },
       "titles": [
         {
-          "value": "Family Data Collection - Deaths"
+          "value": "U.S., Find A Grave Index, 1600s-Current"
         }
       ]
     },
@@ -24406,9 +24406,9 @@
       ]
     },
     {
-      "id": "9VGZ-77S",
+      "id": "9VGZ-Q29",
       "lang": "*",
-      "about": "http://search.ancestry.com/collections/9841/records/162629154",
+      "about": "http://search.ancestry.com/collections/7163/records/11071333",
       "attribution": {
         "contributor": {
           "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-8YTG",
@@ -24418,438 +24418,23 @@
           "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-8YTG",
           "resourceId": "cis.user.MMM9-8YTG"
         },
-        "modified": 1491082063773,
-        "created": 1491082063773
+        "modified": 1491082016976,
+        "created": 1491082016976
       },
       "resourceType": "DEFAULT",
       "links": {
         "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/9VGZ-77S"
-        }
-      },
-      "titles": [
-        {
-          "value": "England, Select Births and Christenings, 1538-1975"
-        }
-      ]
-    },
-    {
-      "id": "9DW4-YLP",
-      "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:QK9B-CXV4",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMS-62NN",
-          "resourceId": "cis.user.MMMS-62NN"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMS-62NN",
-          "resourceId": "cis.user.MMMS-62NN"
-        },
-        "modified": 1439661071393,
-        "created": 1439661071393
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/9DW4-YLP"
+          "href": "https://familysearch.org/platform/sources/descriptions/9VGZ-Q29"
         }
       },
       "citations": [
         {
-          "value": "\"Utah Mormon Pioneer Overland Travel Database, 1847-1868\", database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/QK9B-CXV4 : 20 May 2016), William Giles, 1856."
+          "value": "Year: 1870; Census Place: Heber City, Wasatch, Utah Territory; Roll: M593_1613; Page: 353B; Image: 393674; Family History Library Film: 553112"
         }
       ],
       "titles": [
         {
-          "value": "William Giles, \"Utah Mormon Pioneer Overland Travel Database, 1847-1868\""
-        }
-      ]
-    },
-    {
-      "id": "MS6Z-JDH",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-6FF4",
-          "resourceId": "cis.user.MMMM-6FF4"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-6FF4",
-          "resourceId": "cis.user.MMMM-6FF4"
-        },
-        "modified": 1407395229791,
-        "created": 1407395229791
-      },
-      "resourceType": "LEGACY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/MS6Z-JDH"
-        }
-      },
-      "citations": [
-        {
-          "value": "Allen M. Winterton, GEDCOM file imported on Feb 6 1999.\nAllen M. Winterton\n683 South 400 East\nOrem, Utah 84058\n801-225-2546"
-        }
-      ],
-      "titles": [
-        {
-          "value": "Legacy NFS Source: William Giles - "
-        }
-      ],
-      "notes": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "id": "MS6Z-J79",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-N846",
-          "resourceId": "cis.user.MMM9-N846"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-N846",
-          "resourceId": "cis.user.MMM9-N846"
-        },
-        "modified": 1407395221343,
-        "created": 1407395221343
-      },
-      "resourceType": "LEGACY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/MS6Z-J79"
-        }
-      },
-      "citations": [
-        {
-          "value": "England & Wales, Criminal Registers, 1791-1892, Ancestry.com, Online publication - Provo, UT, USA: Ancestry.com Operations Inc, 2009. This collection was indexed by Ancestry World Archives Project contributors.Original data - Home Office: Criminal Registers, Middlesex and Home Office: Criminal Registers, England and, Ancestry.com, http://www.Ancestry.com"
-        }
-      ],
-      "titles": [
-        {
-          "value": "Legacy NFS Source: William Giles - birth-name: William Giles"
-        }
-      ],
-      "notes": [
-        {
-          "text": "birth-name: William Giles  \n\nhttp://trees.ancestry.com/rd?f=sse&db=criminalregisters&h=517990&ti=0&indiv=try&gss=pt\n\nAFGS\n3 _APID 1,1590::517990  \nbirth: 31 December 1797; Lowdham, Nottinghamshire, England  \n\nhttp://trees.ancestry.com/rd?f=sse&db=criminalregisters&h=517990&ti=0&indiv=try&gss=pt\n\nAFGS\n3 _APID 1,1590::517990  \nresidence: null; 12 March 1847; Nottinghamshire, England  \n\nhttp://trees.ancestry.com/rd?f=sse&db=criminalregisters&h=517990&ti=0&indiv=try&gss=pt\n\nAFGS\n3 _APID 1,1590::517990"
-        }
-      ]
-    },
-    {
-      "id": "MTH7-JST",
-      "lang": "en-us",
-      "about": "https://familysearch.org/ark:/61903/1:1:NYL9-Y6Y",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "modified": 1415377059574,
-        "created": 1415377059574
-      },
-      "resourceType": "IGI",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/MTH7-JST"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"England Births and Christenings, 1538-1975,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/NYL9-Y6Y : 30 December 2014), William Giles in entry for John Giles, 24 Jul 1831; citing CALVERTON,NOTTINGHAM,ENGLAND, reference ; FHL microfilm 504,061, 504,069, 504,087."
-        }
-      ],
-      "titles": [
-        {
-          "value": "William Giles in entry for John Giles, \"England Births and Christenings, 1538-1975\""
-        }
-      ],
-      "notes": [
-        {
-          "text": "This extracted record was used to create this person in Family Tree."
-        }
-      ]
-    },
-    {
-      "id": "M96R-41P",
-      "about": "https://familysearch.org/ark:/61903/1:1:XZG5-KH3",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-SKCT",
-          "resourceId": "cis.user.MMMM-SKCT"
-        },
-        "modified": 1489546772720,
-        "created": 1403296213858
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/M96R-41P"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"Utah Death Certificates, 1904-1964\", database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/XZG5-KH3 : 11 September 2015), William Giles in entry for Kezia Giles Carroll, 1927."
-        }
-      ],
-      "titles": [
-        {
-          "value": "William Giles in entry for Kezia Giles Carroll, \"Utah Death Certificates, 1904-1964\""
-        }
-      ]
-    },
-    {
-      "id": "9VGZ-778",
-      "lang": "*",
-      "about": "http://search.ancestry.com/collections/9841/records/112281573",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-8YTG",
-          "resourceId": "cis.user.MMM9-8YTG"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-8YTG",
-          "resourceId": "cis.user.MMM9-8YTG"
-        },
-        "modified": 1491082064584,
-        "created": 1491082064584
-      },
-      "resourceType": "DEFAULT",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/9VGZ-778"
-        }
-      },
-      "titles": [
-        {
-          "value": "England, Select Births and Christenings, 1538-1975"
-        }
-      ]
-    },
-    {
-      "id": "9VGZ-7QJ",
-      "lang": "*",
-      "about": "http://search.ancestry.com/collections/9841/records/244926",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-8YTG",
-          "resourceId": "cis.user.MMM9-8YTG"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-8YTG",
-          "resourceId": "cis.user.MMM9-8YTG"
-        },
-        "modified": 1491082062136,
-        "created": 1491082062136
-      },
-      "resourceType": "DEFAULT",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/9VGZ-7QJ"
-        }
-      },
-      "titles": [
-        {
-          "value": "England, Select Births and Christenings, 1538-1975"
-        }
-      ]
-    },
-    {
-      "id": "9VGZ-7QT",
-      "lang": "*",
-      "about": "http://search.ancestry.com/collections/9841/records/136423312",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-8YTG",
-          "resourceId": "cis.user.MMM9-8YTG"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-8YTG",
-          "resourceId": "cis.user.MMM9-8YTG"
-        },
-        "modified": 1491082062959,
-        "created": 1491082062959
-      },
-      "resourceType": "DEFAULT",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/9VGZ-7QT"
-        }
-      },
-      "titles": [
-        {
-          "value": "England, Select Births and Christenings, 1538-1975"
-        }
-      ]
-    },
-    {
-      "id": "MS6Z-J8K",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMQ-ZR5S",
-          "resourceId": "cis.user.MMMQ-ZR5S"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMQ-ZR5S",
-          "resourceId": "cis.user.MMMQ-ZR5S"
-        },
-        "modified": 1407395228986,
-        "created": 1407395228986
-      },
-      "resourceType": "LEGACY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/MS6Z-J8K"
-        }
-      },
-      "citations": [
-        {
-          "value": ""
-        }
-      ],
-      "titles": [
-        {
-          "value": "Legacy NFS Source: William Giles - Individual or family possessions: birth: "
-        }
-      ],
-      "notes": [
-        {
-          "text": "Individual or family possessions: birth: "
-        }
-      ]
-    },
-    {
-      "id": "MS6Z-JQD",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-N846",
-          "resourceId": "cis.user.MMM9-N846"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-N846",
-          "resourceId": "cis.user.MMM9-N846"
-        },
-        "modified": 1407395220643,
-        "created": 1407395220643
-      },
-      "resourceType": "LEGACY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/MS6Z-JQD"
-        }
-      },
-      "citations": [
-        {
-          "value": "New Orleans, Passenger Lists, 1820-1945, Ancestry.com, Online publication - Provo, UT, USA: Ancestry.com Operations, Inc., 2006.Original data - Passenger Lists of Vessels Arriving at New Orleans, Louisiana, 1820-1902. Microfilm publication M259. 93 rolls. Record Group 36.Passenger Lists of Vessels Arriving at, Ancestry.com, http://www.Ancestry.com"
-        }
-      ],
-      "titles": [
-        {
-          "value": "Legacy NFS Source: William Giles - birth-name: William Giles"
-        }
-      ],
-      "notes": [
-        {
-          "text": "birth-name: William Giles  \n\nhttp://trees.ancestry.com/rd?f=sse&db=neworleans358&h=512123&ti=0&indiv=try&gss=pt\n\nAFGS\n3 _APID 1,7484::512123  \nbirth: 31 December 1797; Lowdham, Nottinghamshire, England  \n\nhttp://trees.ancestry.com/rd?f=sse&db=neworleans358&h=512123&ti=0&indiv=try&gss=pt\n\nAFGS\n3 _APID 1,7484::512123  \nArrival: 26 April 1854; New Orleans, Orleans, Louisiana, United States  \n\nhttp://trees.ancestry.com/rd?f=sse&db=neworleans358&h=512123&ti=0&indiv=try&gss=pt\n\nAFGS\n3 _APID 1,7484::512123  \nDeparture: ;   \n\nhttp://trees.ancestry.com/rd?f=sse&db=neworleans358&h=512123&ti=0&indiv=try&gss=pt\n\nAFGS\n3 _APID 1,7484::512123"
-        }
-      ]
-    },
-    {
-      "id": "9VGZ-77P",
-      "lang": "*",
-      "about": "http://search.ancestry.com/collections/8860/records/9958273",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-8YTG",
-          "resourceId": "cis.user.MMM9-8YTG"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-8YTG",
-          "resourceId": "cis.user.MMM9-8YTG"
-        },
-        "modified": 1491082065656,
-        "created": 1491082065656
-      },
-      "resourceType": "DEFAULT",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/9VGZ-77P"
-        }
-      },
-      "citations": [
-        {
-          "value": "Class: HO107; Piece: 2105; Folio: 253; Page: 20; GSU roll: 87734"
-        }
-      ],
-      "titles": [
-        {
-          "value": "1851 England Census"
-        }
-      ]
-    },
-    {
-      "id": "9VGZ-7WQ",
-      "lang": "*",
-      "about": "http://search.ancestry.com/collections/60525/records/96096597",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-8YTG",
-          "resourceId": "cis.user.MMM9-8YTG"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-8YTG",
-          "resourceId": "cis.user.MMM9-8YTG"
-        },
-        "modified": 1491082066691,
-        "created": 1491082066691
-      },
-      "resourceType": "DEFAULT",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/9VGZ-7WQ"
-        }
-      },
-      "titles": [
-        {
-          "value": "U.S., Find A Grave Index, 1600s-Current"
-        }
-      ]
-    },
-    {
-      "id": "9VGZ-QL9",
-      "lang": "*",
-      "about": "http://search.ancestry.com/collections/60940/records/327292",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-8YTG",
-          "resourceId": "cis.user.MMM9-8YTG"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-8YTG",
-          "resourceId": "cis.user.MMM9-8YTG"
-        },
-        "modified": 1491082019516,
-        "created": 1491082019516
-      },
-      "resourceType": "DEFAULT",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/9VGZ-QL9"
-        }
-      },
-      "titles": [
-        {
-          "value": "U.S., Cemetery Index from Selected States, 1847-2010"
+          "value": "1870 United States Federal Census"
         }
       ]
     },
@@ -24892,34 +24477,6 @@
       ]
     },
     {
-      "id": "9VGZ-Q2J",
-      "lang": "*",
-      "about": "http://search.ancestry.com/collections/7249/records/10737683",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-8YTG",
-          "resourceId": "cis.user.MMM9-8YTG"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-8YTG",
-          "resourceId": "cis.user.MMM9-8YTG"
-        },
-        "modified": 1491082018664,
-        "created": 1491082018664
-      },
-      "resourceType": "DEFAULT",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/9VGZ-Q2J"
-        }
-      },
-      "titles": [
-        {
-          "value": "Millennium File"
-        }
-      ]
-    },
-    {
       "id": "9VGZ-QKX",
       "lang": "*",
       "about": "http://search.ancestry.com/collections/6230/records/1950000702",
@@ -24948,94 +24505,40 @@
       ]
     },
     {
-      "id": "9VGZ-QKV",
-      "lang": "*",
-      "about": "http://search.ancestry.com/collections/1084/records/4807438",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-8YTG",
-          "resourceId": "cis.user.MMM9-8YTG"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-8YTG",
-          "resourceId": "cis.user.MMM9-8YTG"
-        },
-        "modified": 1491082015115,
-        "created": 1491082015115
-      },
-      "resourceType": "DEFAULT",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/9VGZ-QKV"
-        }
-      },
-      "titles": [
-        {
-          "value": "Iowa, State Census Collection, 1836-1925"
-        }
-      ]
-    },
-    {
-      "id": "M9ZR-VPL",
-      "about": "https://familysearch.org/ark:/61903/1:1:JMDK-T5C",
+      "id": "MTH7-JST",
+      "lang": "en-us",
+      "about": "https://familysearch.org/ark:/61903/1:1:NYL9-Y6Y",
       "attribution": {
         "contributor": {
           "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
           "resourceId": "cis.wkca.MMMM-M93P"
         },
         "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-JW55",
-          "resourceId": "cis.user.MMMM-JW55"
-        },
-        "modified": 1489545298594,
-        "created": 1402793891812
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/M9ZR-VPL"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"England Births and Christenings, 1538-1975,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/JMDK-T5C : 30 December 2014), William Giles in entry for George Giles, 23 May 1823; citing EPPERSTONE,NOTTINGHAM,ENGLAND, reference ; FHL microfilm 503,492, 504,062, 504,069, 504,093."
-        }
-      ],
-      "titles": [
-        {
-          "value": "William Giles in entry for George Giles, \"England Births and Christenings, 1538-1975\""
-        }
-      ]
-    },
-    {
-      "id": "M9ZR-11H",
-      "about": "https://familysearch.org/ark:/61903/1:1:JWH8-QY4",
-      "attribution": {
-        "contributor": {
           "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
           "resourceId": "cis.wkca.MMMM-M93P"
         },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-JW55",
-          "resourceId": "cis.user.MMMM-JW55"
-        },
-        "modified": 1489545309173,
-        "created": 1402798914674
+        "modified": 1415377059574,
+        "created": 1415377059574
       },
-      "resourceType": "FSREADONLY",
+      "resourceType": "IGI",
       "links": {
         "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/M9ZR-11H"
+          "href": "https://familysearch.org/platform/sources/descriptions/MTH7-JST"
         }
       },
       "citations": [
         {
-          "value": "\"England Births and Christenings, 1538-1975,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/JWH8-QY4 : 30 December 2014), William Giles in entry for Emma Giles, 16 Jul 1837; citing STRELLEY,NOTTINGHAM,ENGLAND, reference ; FHL microfilm 503,818, 504,067, 504,537."
+          "value": "\"England Births and Christenings, 1538-1975,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/NYL9-Y6Y : 30 December 2014), William Giles in entry for John Giles, 24 Jul 1831; citing CALVERTON,NOTTINGHAM,ENGLAND, reference ; FHL microfilm 504,061, 504,069, 504,087."
         }
       ],
       "titles": [
         {
-          "value": "William Giles in entry for Emma Giles, \"England Births and Christenings, 1538-1975\""
+          "value": "William Giles in entry for John Giles, \"England Births and Christenings, 1538-1975\""
+        }
+      ],
+      "notes": [
+        {
+          "text": "This extracted record was used to create this person in Family Tree."
         }
       ]
     },
@@ -25073,137 +24576,40 @@
       ]
     },
     {
-      "id": "MMDH-KMM",
-      "about": "https://familysearch.org/ark:/61903/1:1:N5TY-Z19",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-G4MJ",
-          "resourceId": "cis.user.MMMM-G4MJ"
-        },
-        "modified": 1489535528343,
-        "created": 1385324330000
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/MMDH-KMM"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"England Births and Christenings, 1538-1975,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/N5TY-Z19 : 30 December 2014), William Giles in entry for Elizabeth Giles, 09 Apr 1826; citing LOWDHAM,NOTTINGHAM,ENGLAND, reference ; FHL microfilm 95,038."
-        }
-      ],
-      "titles": [
-        {
-          "value": "William Giles in entry for Elizabeth Giles, \"England Births and Christenings, 1538-1975\""
-        }
-      ]
-    },
-    {
-      "id": "9ZSZ-MQZ",
+      "id": "9D42-JHZ",
       "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:F855-4RX",
+      "about": "https://familysearch.org/ark:/61903/1:1:MH2W-WRF",
       "attribution": {
         "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMS-62NN",
+          "resourceId": "cis.user.MMMS-62NN"
         },
         "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-H6FZ",
-          "resourceId": "cis.user.MMMM-H6FZ"
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMS-62NN",
+          "resourceId": "cis.user.MMMS-62NN"
         },
-        "modified": 1489594347796,
-        "created": 1415744286363
+        "modified": 1440129827862,
+        "created": 1440129827862
       },
       "resourceType": "FSREADONLY",
       "links": {
         "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/9ZSZ-MQZ"
+          "href": "https://familysearch.org/platform/sources/descriptions/9D42-JHZ"
         }
       },
       "citations": [
         {
-          "value": "\"Utah Deaths and Burials, 1888-1946,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/F855-4RX : 5 December 2014), Wm Giles in entry for Elizabeth Rasband, 15 Oct 1900; citing Park City, Utah, reference p 17 rn 51; FHL microfilm 1,654,374."
+          "value": "\"United States Census, 1860\", database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/MH2W-WRF : 30 December 2015), Wm Giles, 1860."
         }
       ],
       "titles": [
         {
-          "value": "Wm Giles in entry for Elizabeth Rasband, \"Utah Deaths and Burials, 1888-1946\""
+          "value": "Wm Giles, \"United States Census, 1860\""
         }
       ]
     },
     {
-      "id": "MSKX-73V",
-      "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:QVSF-YJJ6",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-JW55",
-          "resourceId": "cis.user.MMMM-JW55"
-        },
-        "modified": 1489552273029,
-        "created": 1409255580439
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/MSKX-73V"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"Utah, Obituaries from Utah Newspapers, 1850-2005,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/QVSF-YJJ6 : 8 October 2015), William Giles in entry for Mrs Mary Giles Crook, 30 Sep 1888; citing Salt Lake Herald, 1885-1889, The University of Utah. J. Willard Marriott Library, Salt Lake City."
-        }
-      ],
-      "titles": [
-        {
-          "value": "William Giles in entry for Mrs Mary Giles Crook, \"Utah, Obituaries from Utah Newspapers, 1850-2005\""
-        }
-      ]
-    },
-    {
-      "id": "M96R-WVW",
-      "about": "https://familysearch.org/ark:/61903/1:1:SGN3-13W",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-SKCT",
-          "resourceId": "cis.user.MMMM-SKCT"
-        },
-        "modified": 1489546769831,
-        "created": 1403295439014
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/M96R-WVW"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"England and Wales Census, 1851,\" database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/SGN3-13W : 24 July 2016), William Giles, St Mary Le Wigford, Lincolnshire, England; citing St Mary Le Wigford, Lincolnshire, England, p. 20, from \"1851 England, Scotland and Wales census,\" database and images, findmypast (http://www.findmypast.com : n.d.); citing PRO HO 107, The National Archives of the UK, Kew, Surrey."
-        }
-      ],
-      "titles": [
-        {
-          "value": "William Giles, \"England and Wales Census, 1851\""
-        }
-      ]
-    },
-    {
-      "id": "MS6Z-JXW",
+      "id": "MS6Z-JDH",
       "attribution": {
         "contributor": {
           "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-6FF4",
@@ -25213,18 +24619,18 @@
           "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-6FF4",
           "resourceId": "cis.user.MMMM-6FF4"
         },
-        "modified": 1407395231953,
-        "created": 1407395231953
+        "modified": 1407395229791,
+        "created": 1407395229791
       },
       "resourceType": "LEGACY",
       "links": {
         "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/MS6Z-JXW"
+          "href": "https://familysearch.org/platform/sources/descriptions/MS6Z-JDH"
         }
       },
       "citations": [
         {
-          "value": "Paul Wayne Carroll & Russell M Robison, compiler, <i>Our Carroll Heritage - A Tapestry of the Charles N. Carroll Family</i> (: Russell M. Robison through www.lulu.com, 2007), Page number: 56"
+          "value": "Allen M. Winterton, GEDCOM file imported on Feb 6 1999.\nAllen M. Winterton\n683 South 400 East\nOrem, Utah 84058\n801-225-2546"
         }
       ],
       "titles": [
@@ -25234,77 +24640,35 @@
       ],
       "notes": [
         {
-          "text": "  \nbirth: 1 January 1779; Nottinghamshire, England, United Kingdom"
+          "text": ""
         }
       ]
     },
     {
-      "id": "M9ZR-GHK",
-      "about": "https://familysearch.org/ark:/61903/1:1:XZ2H-WHC",
+      "id": "9VGZ-QKV",
+      "lang": "*",
+      "about": "http://search.ancestry.com/collections/1084/records/4807438",
       "attribution": {
         "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-8YTG",
+          "resourceId": "cis.user.MMM9-8YTG"
         },
         "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-JW55",
-          "resourceId": "cis.user.MMMM-JW55"
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-8YTG",
+          "resourceId": "cis.user.MMM9-8YTG"
         },
-        "modified": 1489545299850,
-        "created": 1402794414580
+        "modified": 1491082015115,
+        "created": 1491082015115
       },
-      "resourceType": "FSREADONLY",
+      "resourceType": "DEFAULT",
       "links": {
         "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/M9ZR-GHK"
+          "href": "https://familysearch.org/platform/sources/descriptions/9VGZ-QKV"
         }
       },
-      "citations": [
-        {
-          "value": "\"Utah Death Certificates, 1904-1964\", database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/XZ2H-WHC : 11 September 2015), William Giles in entry for John Giles, 1921."
-        }
-      ],
       "titles": [
         {
-          "value": "William Giles in entry for John Giles, \"Utah Death Certificates, 1904-1964\""
-        }
-      ]
-    },
-    {
-      "id": "MXRH-B22",
-      "lang": "en-us",
-      "about": "https://familysearch.org/ark:/61903/1:1:XTXN-SVN",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "modified": 1415340169376,
-        "created": 1415340169376
-      },
-      "resourceType": "IGI",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/MXRH-B22"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"Australia Births and Baptisms, 1792-1981,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/XTXN-SVN : 11 December 2014), William Giles in entry for Thomas Giles, ; citing , TASMANIA, AUSTRALIA; FHL microfilm 1,368,245."
-        }
-      ],
-      "titles": [
-        {
-          "value": "William Giles in entry for Thomas Giles, \"Australia Births and Baptisms, 1792-1981\""
-        }
-      ],
-      "notes": [
-        {
-          "text": "This extracted record was used to create this person in Family Tree."
+          "value": "Iowa, State Census Collection, 1836-1925"
         }
       ]
     },
@@ -25381,278 +24745,38 @@
       ]
     },
     {
-      "id": "9ZVS-XKL",
-      "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:QVVP-CW2K",
+      "id": "MS6Z-JXW",
       "attribution": {
         "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-6FF4",
+          "resourceId": "cis.user.MMMM-6FF4"
         },
         "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-JW55",
-          "resourceId": "cis.user.MMMM-JW55"
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-6FF4",
+          "resourceId": "cis.user.MMMM-6FF4"
         },
-        "modified": 1489624751932,
-        "created": 1422934735170
+        "modified": 1407395231953,
+        "created": 1407395231953
       },
-      "resourceType": "FSREADONLY",
+      "resourceType": "LEGACY",
       "links": {
         "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/9ZVS-XKL"
+          "href": "https://familysearch.org/platform/sources/descriptions/MS6Z-JXW"
         }
       },
       "citations": [
         {
-          "value": "\"Find A Grave Index,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/QVVP-CW2K : 13 December 2015), William Giles, 1874; Burial, Heber City, Wasatch, Utah, United States of America, Heber City Cemetery; citing record ID 19485214, Find a Grave, http://www.findagrave.com."
+          "value": "Paul Wayne Carroll & Russell M Robison, compiler, <i>Our Carroll Heritage - A Tapestry of the Charles N. Carroll Family</i> (: Russell M. Robison through www.lulu.com, 2007), Page number: 56"
         }
       ],
       "titles": [
         {
-          "value": "William Giles, \"Find A Grave Index\""
-        }
-      ]
-    },
-    {
-      "id": "9VGZ-Q29",
-      "lang": "*",
-      "about": "http://search.ancestry.com/collections/7163/records/11071333",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-8YTG",
-          "resourceId": "cis.user.MMM9-8YTG"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-8YTG",
-          "resourceId": "cis.user.MMM9-8YTG"
-        },
-        "modified": 1491082016976,
-        "created": 1491082016976
-      },
-      "resourceType": "DEFAULT",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/9VGZ-Q29"
-        }
-      },
-      "citations": [
-        {
-          "value": "Year: 1870; Census Place: Heber City, Wasatch, Utah Territory; Roll: M593_1613; Page: 353B; Image: 393674; Family History Library Film: 553112"
-        }
-      ],
-      "titles": [
-        {
-          "value": "1870 United States Federal Census"
-        }
-      ]
-    },
-    {
-      "id": "M9ZR-1FV",
-      "about": "https://familysearch.org/ark:/61903/1:1:N6DK-CBZ",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-JW55",
-          "resourceId": "cis.user.MMMM-JW55"
-        },
-        "modified": 1489545308232,
-        "created": 1402798412026
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/M9ZR-1FV"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"England Births and Christenings, 1538-1975,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/N6DK-CBZ : 30 December 2014), William Giles in entry for Kezia Giles, 14 Jun 1840; citing Broxholme, Lincoln, England, reference item 1 p 16; FHL microfilm 1,450,478."
-        }
-      ],
-      "titles": [
-        {
-          "value": "William Giles in entry for Kezia Giles, \"England Births and Christenings, 1538-1975\""
-        }
-      ]
-    },
-    {
-      "id": "M9ZJ-L1C",
-      "about": "https://familysearch.org/ark:/61903/1:1:J33N-92S",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-JW55",
-          "resourceId": "cis.user.MMMM-JW55"
-        },
-        "modified": 1489545244087,
-        "created": 1402777723699
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/M9ZJ-L1C"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"England Births and Christenings, 1538-1975,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/J33N-92S : 30 December 2014), William Giles in entry for Thomas Giles, 07 Aug 1821; citing EAST BRIDGFORD,NOTTINGHAM,ENGLAND, reference ; FHL microfilm 462,987, 503,478, 504,060, 504,069, 504,085."
-        }
-      ],
-      "titles": [
-        {
-          "value": "William Giles in entry for Thomas Giles, \"England Births and Christenings, 1538-1975\""
-        }
-      ]
-    },
-    {
-      "id": "MMX1-79Z",
-      "about": "https://familysearch.org/ark:/61903/1:1:MQ1Y-LMY",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMZ-5F8J",
-          "resourceId": "cis.user.MMMZ-5F8J"
-        },
-        "modified": 1489539617798,
-        "created": 1390681029000
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/MMX1-79Z"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"England and Wales Census, 1841,\" database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/MQ1Y-LMY : 30 October 2015), William Giles, Broxholme, Lincolnshire, England; from \"1841 England, Scotland and Wales census,\" database and images, findmypast (http://www.findmypast.com : n.d.); citing PRO HO 107, The National Archives, Kew, Surrey."
-        }
-      ],
-      "titles": [
-        {
-          "value": "William Giles, \"England and Wales Census, 1841\""
-        }
-      ]
-    },
-    {
-      "id": "MZWP-VZM",
-      "lang": "en-us",
-      "about": "https://familysearch.org/ark:/61903/1:1:NGXZ-28G",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "modified": 1415329133359,
-        "created": 1415329133359
-      },
-      "resourceType": "IGI",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/MZWP-VZM"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"England Births and Christenings, 1538-1975,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/NGXZ-28G : 30 December 2014), William Giles in entry for Mary Giles, 12 May 1833; citing CALVERTON,NOTTINGHAM,ENGLAND, reference ; FHL microfilm 504,061, 504,069, 504,087."
-        }
-      ],
-      "titles": [
-        {
-          "value": "William Giles in entry for Mary Giles, \"England Births and Christenings, 1538-1975\""
+          "value": "Legacy NFS Source: William Giles - "
         }
       ],
       "notes": [
         {
-          "text": "This extracted record was used to create this person in Family Tree."
-        }
-      ]
-    },
-    {
-      "id": "M7M8-PTV",
-      "lang": "en-us",
-      "about": "https://familysearch.org/ark:/61903/1:1:J33V-S21",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "modified": 1415316811118,
-        "created": 1415316811118
-      },
-      "resourceType": "IGI",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/M7M8-PTV"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"England Births and Christenings, 1538-1975,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/J33V-S21 : 30 December 2014), William Giles in entry for Frederick Giles, 12 Apr 1835; citing STRELLEY,NOTTINGHAM,ENGLAND, reference ; FHL microfilm 503,818, 504,067, 504,537."
-        }
-      ],
-      "titles": [
-        {
-          "value": "William Giles in entry for Frederick Giles, \"England Births and Christenings, 1538-1975\""
-        }
-      ],
-      "notes": [
-        {
-          "text": "This extracted record was used to create this person in Family Tree."
-        }
-      ]
-    },
-    {
-      "id": "MFXV-8HW",
-      "lang": "en-us",
-      "about": "https://familysearch.org/ark:/61903/1:1:N5TY-Z19",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "modified": 1415342012126,
-        "created": 1415342012126
-      },
-      "resourceType": "IGI",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/MFXV-8HW"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"England Births and Christenings, 1538-1975,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/N5TY-Z19 : 30 December 2014), William Giles in entry for Elizabeth Giles, 09 Apr 1826; citing LOWDHAM,NOTTINGHAM,ENGLAND, reference ; FHL microfilm 95,038."
-        }
-      ],
-      "titles": [
-        {
-          "value": "William Giles in entry for Elizabeth Giles, \"England Births and Christenings, 1538-1975\""
-        }
-      ],
-      "notes": [
-        {
-          "text": "This extracted record was used to create this person in Family Tree."
+          "text": "  \nbirth: 1 January 1779; Nottinghamshire, England, United Kingdom"
         }
       ]
     },
@@ -25695,6 +24819,178 @@
       ]
     },
     {
+      "id": "MMDH-KMM",
+      "about": "https://familysearch.org/ark:/61903/1:1:N5TY-Z19",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-G4MJ",
+          "resourceId": "cis.user.MMMM-G4MJ"
+        },
+        "modified": 1489535528343,
+        "created": 1385324330000
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/MMDH-KMM"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"England Births and Christenings, 1538-1975,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/N5TY-Z19 : 30 December 2014), William Giles in entry for Elizabeth Giles, 09 Apr 1826; citing LOWDHAM,NOTTINGHAM,ENGLAND, reference ; FHL microfilm 95,038."
+        }
+      ],
+      "titles": [
+        {
+          "value": "William Giles in entry for Elizabeth Giles, \"England Births and Christenings, 1538-1975\""
+        }
+      ]
+    },
+    {
+      "id": "9VGZ-778",
+      "lang": "*",
+      "about": "http://search.ancestry.com/collections/9841/records/112281573",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-8YTG",
+          "resourceId": "cis.user.MMM9-8YTG"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-8YTG",
+          "resourceId": "cis.user.MMM9-8YTG"
+        },
+        "modified": 1491082064584,
+        "created": 1491082064584
+      },
+      "resourceType": "DEFAULT",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/9VGZ-778"
+        }
+      },
+      "titles": [
+        {
+          "value": "England, Select Births and Christenings, 1538-1975"
+        }
+      ]
+    },
+    {
+      "id": "9VGZ-7QT",
+      "lang": "*",
+      "about": "http://search.ancestry.com/collections/9841/records/136423312",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-8YTG",
+          "resourceId": "cis.user.MMM9-8YTG"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-8YTG",
+          "resourceId": "cis.user.MMM9-8YTG"
+        },
+        "modified": 1491082062959,
+        "created": 1491082062959
+      },
+      "resourceType": "DEFAULT",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/9VGZ-7QT"
+        }
+      },
+      "titles": [
+        {
+          "value": "England, Select Births and Christenings, 1538-1975"
+        }
+      ]
+    },
+    {
+      "id": "9VGZ-7QS",
+      "lang": "*",
+      "about": "http://search.ancestry.com/collections/5771/records/1007326",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-8YTG",
+          "resourceId": "cis.user.MMM9-8YTG"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-8YTG",
+          "resourceId": "cis.user.MMM9-8YTG"
+        },
+        "modified": 1491082061307,
+        "created": 1491082061307
+      },
+      "resourceType": "DEFAULT",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/9VGZ-7QS"
+        }
+      },
+      "titles": [
+        {
+          "value": "Family Data Collection - Deaths"
+        }
+      ]
+    },
+    {
+      "id": "9VGZ-QL9",
+      "lang": "*",
+      "about": "http://search.ancestry.com/collections/60940/records/327292",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-8YTG",
+          "resourceId": "cis.user.MMM9-8YTG"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-8YTG",
+          "resourceId": "cis.user.MMM9-8YTG"
+        },
+        "modified": 1491082019516,
+        "created": 1491082019516
+      },
+      "resourceType": "DEFAULT",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/9VGZ-QL9"
+        }
+      },
+      "titles": [
+        {
+          "value": "U.S., Cemetery Index from Selected States, 1847-2010"
+        }
+      ]
+    },
+    {
+      "id": "9VGZ-Q2J",
+      "lang": "*",
+      "about": "http://search.ancestry.com/collections/7249/records/10737683",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-8YTG",
+          "resourceId": "cis.user.MMM9-8YTG"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-8YTG",
+          "resourceId": "cis.user.MMM9-8YTG"
+        },
+        "modified": 1491082018664,
+        "created": 1491082018664
+      },
+      "resourceType": "DEFAULT",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/9VGZ-Q2J"
+        }
+      },
+      "titles": [
+        {
+          "value": "Millennium File"
+        }
+      ]
+    },
+    {
       "id": "MSKX-QYK",
       "lang": "en_US",
       "about": "https://familysearch.org/ark:/61903/1:1:VR8Y-B2C",
@@ -25728,9 +25024,73 @@
       ]
     },
     {
-      "id": "MGN5-6N2",
+      "id": "M9ZR-1FV",
+      "about": "https://familysearch.org/ark:/61903/1:1:N6DK-CBZ",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-JW55",
+          "resourceId": "cis.user.MMMM-JW55"
+        },
+        "modified": 1489545308232,
+        "created": 1402798412026
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/M9ZR-1FV"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"England Births and Christenings, 1538-1975,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/N6DK-CBZ : 30 December 2014), William Giles in entry for Kezia Giles, 14 Jun 1840; citing Broxholme, Lincoln, England, reference item 1 p 16; FHL microfilm 1,450,478."
+        }
+      ],
+      "titles": [
+        {
+          "value": "William Giles in entry for Kezia Giles, \"England Births and Christenings, 1538-1975\""
+        }
+      ]
+    },
+    {
+      "id": "MMML-DRT",
+      "about": "https://familysearch.org/ark:/61903/1:1:MNCB-12P",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-7HXQ",
+          "resourceId": "cis.user.MMM9-7HXQ"
+        },
+        "modified": 1489527271762,
+        "created": 1348714611000
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/MMML-DRT"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"United States Census, 1870,\" database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/MNCB-12P : 17 October 2014), William Giles, Utah, United States; citing p. 16, family 111, NARA microfilm publication M593 (Washington D.C.: National Archives and Records Administration, n.d.); FHL microfilm 553,112."
+        }
+      ],
+      "titles": [
+        {
+          "value": "William Giles, \"United States Census, 1870\""
+        }
+      ]
+    },
+    {
+      "id": "M7M8-PTV",
       "lang": "en-us",
-      "about": "https://familysearch.org/ark:/61903/1:1:JWVF-KQ3",
+      "about": "https://familysearch.org/ark:/61903/1:1:J33V-S21",
       "attribution": {
         "contributor": {
           "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
@@ -25740,23 +25100,23 @@
           "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
           "resourceId": "cis.wkca.MMMM-M93P"
         },
-        "modified": 1415364104687,
-        "created": 1415364104687
+        "modified": 1415316811118,
+        "created": 1415316811118
       },
       "resourceType": "IGI",
       "links": {
         "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/MGN5-6N2"
+          "href": "https://familysearch.org/platform/sources/descriptions/M7M8-PTV"
         }
       },
       "citations": [
         {
-          "value": "\"England Births and Christenings, 1538-1975,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/JWVF-KQ3 : 30 December 2014), William Giles in entry for Ann Giles, 05 Oct 1828; citing LOWDHAM,NOTTINGHAM,ENGLAND, reference ; FHL microfilm 95,038."
+          "value": "\"England Births and Christenings, 1538-1975,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/J33V-S21 : 30 December 2014), William Giles in entry for Frederick Giles, 12 Apr 1835; citing STRELLEY,NOTTINGHAM,ENGLAND, reference ; FHL microfilm 503,818, 504,067, 504,537."
         }
       ],
       "titles": [
         {
-          "value": "William Giles in entry for Ann Giles, \"England Births and Christenings, 1538-1975\""
+          "value": "William Giles in entry for Frederick Giles, \"England Births and Christenings, 1538-1975\""
         }
       ],
       "notes": [
@@ -25766,9 +25126,112 @@
       ]
     },
     {
-      "id": "9VGZ-QKW",
+      "id": "9ZSZ-MQZ",
+      "lang": "en_US",
+      "about": "https://familysearch.org/ark:/61903/1:1:F855-4RX",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-H6FZ",
+          "resourceId": "cis.user.MMMM-H6FZ"
+        },
+        "modified": 1489594347796,
+        "created": 1415744286363
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/9ZSZ-MQZ"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"Utah Deaths and Burials, 1888-1946,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/F855-4RX : 5 December 2014), Wm Giles in entry for Elizabeth Rasband, 15 Oct 1900; citing Park City, Utah, reference p 17 rn 51; FHL microfilm 1,654,374."
+        }
+      ],
+      "titles": [
+        {
+          "value": "Wm Giles in entry for Elizabeth Rasband, \"Utah Deaths and Burials, 1888-1946\""
+        }
+      ]
+    },
+    {
+      "id": "M9ZR-VPL",
+      "about": "https://familysearch.org/ark:/61903/1:1:JMDK-T5C",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-JW55",
+          "resourceId": "cis.user.MMMM-JW55"
+        },
+        "modified": 1489545298594,
+        "created": 1402793891812
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/M9ZR-VPL"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"England Births and Christenings, 1538-1975,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/JMDK-T5C : 30 December 2014), William Giles in entry for George Giles, 23 May 1823; citing EPPERSTONE,NOTTINGHAM,ENGLAND, reference ; FHL microfilm 503,492, 504,062, 504,069, 504,093."
+        }
+      ],
+      "titles": [
+        {
+          "value": "William Giles in entry for George Giles, \"England Births and Christenings, 1538-1975\""
+        }
+      ]
+    },
+    {
+      "id": "MZWP-VZM",
+      "lang": "en-us",
+      "about": "https://familysearch.org/ark:/61903/1:1:NGXZ-28G",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "modified": 1415329133359,
+        "created": 1415329133359
+      },
+      "resourceType": "IGI",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/MZWP-VZM"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"England Births and Christenings, 1538-1975,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/NGXZ-28G : 30 December 2014), William Giles in entry for Mary Giles, 12 May 1833; citing CALVERTON,NOTTINGHAM,ENGLAND, reference ; FHL microfilm 504,061, 504,069, 504,087."
+        }
+      ],
+      "titles": [
+        {
+          "value": "William Giles in entry for Mary Giles, \"England Births and Christenings, 1538-1975\""
+        }
+      ],
+      "notes": [
+        {
+          "text": "This extracted record was used to create this person in Family Tree."
+        }
+      ]
+    },
+    {
+      "id": "9VGZ-7QJ",
       "lang": "*",
-      "about": "http://search.ancestry.com/collections/5769/records/1738753",
+      "about": "http://search.ancestry.com/collections/9841/records/244926",
       "attribution": {
         "contributor": {
           "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-8YTG",
@@ -25778,18 +25241,18 @@
           "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-8YTG",
           "resourceId": "cis.user.MMM9-8YTG"
         },
-        "modified": 1491082013406,
-        "created": 1491082013406
+        "modified": 1491082062136,
+        "created": 1491082062136
       },
       "resourceType": "DEFAULT",
       "links": {
         "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/9VGZ-QKW"
+          "href": "https://familysearch.org/platform/sources/descriptions/9VGZ-7QJ"
         }
       },
       "titles": [
         {
-          "value": "Family Data Collection - Births"
+          "value": "England, Select Births and Christenings, 1538-1975"
         }
       ]
     },
@@ -25832,7 +25295,39 @@
       ]
     },
     {
-      "id": "MS6Z-J3S",
+      "id": "M9ZJ-L1C",
+      "about": "https://familysearch.org/ark:/61903/1:1:J33N-92S",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-JW55",
+          "resourceId": "cis.user.MMMM-JW55"
+        },
+        "modified": 1489545244087,
+        "created": 1402777723699
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/M9ZJ-L1C"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"England Births and Christenings, 1538-1975,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/J33N-92S : 30 December 2014), William Giles in entry for Thomas Giles, 07 Aug 1821; citing EAST BRIDGFORD,NOTTINGHAM,ENGLAND, reference ; FHL microfilm 462,987, 503,478, 504,060, 504,069, 504,085."
+        }
+      ],
+      "titles": [
+        {
+          "value": "William Giles in entry for Thomas Giles, \"England Births and Christenings, 1538-1975\""
+        }
+      ]
+    },
+    {
+      "id": "MS6Z-JQD",
       "attribution": {
         "contributor": {
           "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-N846",
@@ -25842,18 +25337,18 @@
           "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-N846",
           "resourceId": "cis.user.MMM9-N846"
         },
-        "modified": 1407395219182,
-        "created": 1407395219182
+        "modified": 1407395220643,
+        "created": 1407395220643
       },
       "resourceType": "LEGACY",
       "links": {
         "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/MS6Z-J3S"
+          "href": "https://familysearch.org/platform/sources/descriptions/MS6Z-JQD"
         }
       },
       "citations": [
         {
-          "value": "Web: Utah, Find A Grave Index, 1850-2011, Ancestry.com, Online publication - Provo, UT, USA: Ancestry.com Operations, Inc., 2012.Original data - Find A Grave. Find A Grave. http://www.findagrave.com/cgi-bin/fg.cgi: accessed 23 March 2012.Original data: Find A Grave. Find A Grave. http://www.findagrave.com/cgi-b, Ancestry.com, http://www.Ancestry.com"
+          "value": "New Orleans, Passenger Lists, 1820-1945, Ancestry.com, Online publication - Provo, UT, USA: Ancestry.com Operations, Inc., 2006.Original data - Passenger Lists of Vessels Arriving at New Orleans, Louisiana, 1820-1902. Microfilm publication M259. 93 rolls. Record Group 36.Passenger Lists of Vessels Arriving at, Ancestry.com, http://www.Ancestry.com"
         }
       ],
       "titles": [
@@ -25863,7 +25358,7 @@
       ],
       "notes": [
         {
-          "text": "birth-name: William Giles  \n\nhttp://trees.ancestry.com/rd?f=sse&db=websearch-4111&h=399429&ti=0&indiv=try&gss=pt\n\nAFGS\n3 _APID 1,70627::399429  \nbirth: 31 December 1797; Lowdham, Nottinghamshire, England  \n\nhttp://trees.ancestry.com/rd?f=sse&db=websearch-4111&h=399429&ti=0&indiv=try&gss=pt\n\nAFGS\n3 _APID 1,70627::399429  \ndeath: 15 December 1874; Heber City, Wasatch, Utah, United States  \n\nhttp://trees.ancestry.com/rd?f=sse&db=websearch-4111&h=399429&ti=0&indiv=try&gss=pt\n\nAFGS\n3 _APID 1,70627::399429"
+          "text": "birth-name: William Giles  \n\nhttp://trees.ancestry.com/rd?f=sse&db=neworleans358&h=512123&ti=0&indiv=try&gss=pt\n\nAFGS\n3 _APID 1,7484::512123  \nbirth: 31 December 1797; Lowdham, Nottinghamshire, England  \n\nhttp://trees.ancestry.com/rd?f=sse&db=neworleans358&h=512123&ti=0&indiv=try&gss=pt\n\nAFGS\n3 _APID 1,7484::512123  \nArrival: 26 April 1854; New Orleans, Orleans, Louisiana, United States  \n\nhttp://trees.ancestry.com/rd?f=sse&db=neworleans358&h=512123&ti=0&indiv=try&gss=pt\n\nAFGS\n3 _APID 1,7484::512123  \nDeparture: ;   \n\nhttp://trees.ancestry.com/rd?f=sse&db=neworleans358&h=512123&ti=0&indiv=try&gss=pt\n\nAFGS\n3 _APID 1,7484::512123"
         }
       ]
     },
@@ -25906,41 +25401,140 @@
       ]
     },
     {
-      "id": "MMML-DRT",
-      "about": "https://familysearch.org/ark:/61903/1:1:MNCB-12P",
+      "id": "9VGZ-77S",
+      "lang": "*",
+      "about": "http://search.ancestry.com/collections/9841/records/162629154",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-8YTG",
+          "resourceId": "cis.user.MMM9-8YTG"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-8YTG",
+          "resourceId": "cis.user.MMM9-8YTG"
+        },
+        "modified": 1491082063773,
+        "created": 1491082063773
+      },
+      "resourceType": "DEFAULT",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/9VGZ-77S"
+        }
+      },
+      "titles": [
+        {
+          "value": "England, Select Births and Christenings, 1538-1975"
+        }
+      ]
+    },
+    {
+      "id": "9ZVS-XKL",
+      "lang": "en_US",
+      "about": "https://familysearch.org/ark:/61903/1:1:QVVP-CW2K",
       "attribution": {
         "contributor": {
           "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
           "resourceId": "cis.wkca.MMMM-M93P"
         },
         "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-7HXQ",
-          "resourceId": "cis.user.MMM9-7HXQ"
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-JW55",
+          "resourceId": "cis.user.MMMM-JW55"
         },
-        "modified": 1489527271762,
-        "created": 1348714611000
+        "modified": 1489624751932,
+        "created": 1422934735170
       },
       "resourceType": "FSREADONLY",
       "links": {
         "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/MMML-DRT"
+          "href": "https://familysearch.org/platform/sources/descriptions/9ZVS-XKL"
         }
       },
       "citations": [
         {
-          "value": "\"United States Census, 1870,\" database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/MNCB-12P : 17 October 2014), William Giles, Utah, United States; citing p. 16, family 111, NARA microfilm publication M593 (Washington D.C.: National Archives and Records Administration, n.d.); FHL microfilm 553,112."
+          "value": "\"Find A Grave Index,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/QVVP-CW2K : 13 December 2015), William Giles, 1874; Burial, Heber City, Wasatch, Utah, United States of America, Heber City Cemetery; citing record ID 19485214, Find a Grave, http://www.findagrave.com."
         }
       ],
       "titles": [
         {
-          "value": "William Giles, \"United States Census, 1870\""
+          "value": "William Giles, \"Find A Grave Index\""
         }
       ]
     },
     {
-      "id": "9D42-JHZ",
+      "id": "M9ZR-GHK",
+      "about": "https://familysearch.org/ark:/61903/1:1:XZ2H-WHC",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-JW55",
+          "resourceId": "cis.user.MMMM-JW55"
+        },
+        "modified": 1489545299850,
+        "created": 1402794414580
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/M9ZR-GHK"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"Utah Death Certificates, 1904-1964\", database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/XZ2H-WHC : 11 September 2015), William Giles in entry for John Giles, 1921."
+        }
+      ],
+      "titles": [
+        {
+          "value": "William Giles in entry for John Giles, \"Utah Death Certificates, 1904-1964\""
+        }
+      ]
+    },
+    {
+      "id": "MXRH-B22",
+      "lang": "en-us",
+      "about": "https://familysearch.org/ark:/61903/1:1:XTXN-SVN",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "modified": 1415340169376,
+        "created": 1415340169376
+      },
+      "resourceType": "IGI",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/MXRH-B22"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"Australia Births and Baptisms, 1792-1981,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/XTXN-SVN : 11 December 2014), William Giles in entry for Thomas Giles, ; citing , TASMANIA, AUSTRALIA; FHL microfilm 1,368,245."
+        }
+      ],
+      "titles": [
+        {
+          "value": "William Giles in entry for Thomas Giles, \"Australia Births and Baptisms, 1792-1981\""
+        }
+      ],
+      "notes": [
+        {
+          "text": "This extracted record was used to create this person in Family Tree."
+        }
+      ]
+    },
+    {
+      "id": "9DW4-YLP",
       "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:MH2W-WRF",
+      "about": "https://familysearch.org/ark:/61903/1:1:QK9B-CXV4",
       "attribution": {
         "contributor": {
           "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMS-62NN",
@@ -25950,23 +25544,359 @@
           "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMS-62NN",
           "resourceId": "cis.user.MMMS-62NN"
         },
-        "modified": 1440129827862,
-        "created": 1440129827862
+        "modified": 1439661071393,
+        "created": 1439661071393
       },
       "resourceType": "FSREADONLY",
       "links": {
         "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/9D42-JHZ"
+          "href": "https://familysearch.org/platform/sources/descriptions/9DW4-YLP"
         }
       },
       "citations": [
         {
-          "value": "\"United States Census, 1860\", database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/MH2W-WRF : 30 December 2015), Wm Giles, 1860."
+          "value": "\"Utah Mormon Pioneer Overland Travel Database, 1847-1868\", database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/QK9B-CXV4 : 20 May 2016), William Giles, 1856."
         }
       ],
       "titles": [
         {
-          "value": "Wm Giles, \"United States Census, 1860\""
+          "value": "William Giles, \"Utah Mormon Pioneer Overland Travel Database, 1847-1868\""
+        }
+      ]
+    },
+    {
+      "id": "M96R-41P",
+      "about": "https://familysearch.org/ark:/61903/1:1:XZG5-KH3",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-SKCT",
+          "resourceId": "cis.user.MMMM-SKCT"
+        },
+        "modified": 1489546772720,
+        "created": 1403296213858
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/M96R-41P"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"Utah Death Certificates, 1904-1964\", database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/XZG5-KH3 : 11 September 2015), William Giles in entry for Kezia Giles Carroll, 1927."
+        }
+      ],
+      "titles": [
+        {
+          "value": "William Giles in entry for Kezia Giles Carroll, \"Utah Death Certificates, 1904-1964\""
+        }
+      ]
+    },
+    {
+      "id": "MMX1-79Z",
+      "about": "https://familysearch.org/ark:/61903/1:1:MQ1Y-LMY",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMZ-5F8J",
+          "resourceId": "cis.user.MMMZ-5F8J"
+        },
+        "modified": 1489539617798,
+        "created": 1390681029000
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/MMX1-79Z"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"England and Wales Census, 1841,\" database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/MQ1Y-LMY : 30 October 2015), William Giles, Broxholme, Lincolnshire, England; from \"1841 England, Scotland and Wales census,\" database and images, findmypast (http://www.findmypast.com : n.d.); citing PRO HO 107, The National Archives, Kew, Surrey."
+        }
+      ],
+      "titles": [
+        {
+          "value": "William Giles, \"England and Wales Census, 1841\""
+        }
+      ]
+    },
+    {
+      "id": "MGN5-6N2",
+      "lang": "en-us",
+      "about": "https://familysearch.org/ark:/61903/1:1:JWVF-KQ3",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "modified": 1415364104687,
+        "created": 1415364104687
+      },
+      "resourceType": "IGI",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/MGN5-6N2"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"England Births and Christenings, 1538-1975,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/JWVF-KQ3 : 30 December 2014), William Giles in entry for Ann Giles, 05 Oct 1828; citing LOWDHAM,NOTTINGHAM,ENGLAND, reference ; FHL microfilm 95,038."
+        }
+      ],
+      "titles": [
+        {
+          "value": "William Giles in entry for Ann Giles, \"England Births and Christenings, 1538-1975\""
+        }
+      ],
+      "notes": [
+        {
+          "text": "This extracted record was used to create this person in Family Tree."
+        }
+      ]
+    },
+    {
+      "id": "MSKX-73V",
+      "lang": "en_US",
+      "about": "https://familysearch.org/ark:/61903/1:1:QVSF-YJJ6",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-JW55",
+          "resourceId": "cis.user.MMMM-JW55"
+        },
+        "modified": 1489552273029,
+        "created": 1409255580439
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/MSKX-73V"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"Utah, Obituaries from Utah Newspapers, 1850-2005,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/QVSF-YJJ6 : 8 October 2015), William Giles in entry for Mrs Mary Giles Crook, 30 Sep 1888; citing Salt Lake Herald, 1885-1889, The University of Utah. J. Willard Marriott Library, Salt Lake City."
+        }
+      ],
+      "titles": [
+        {
+          "value": "William Giles in entry for Mrs Mary Giles Crook, \"Utah, Obituaries from Utah Newspapers, 1850-2005\""
+        }
+      ]
+    },
+    {
+      "id": "9VGZ-77P",
+      "lang": "*",
+      "about": "http://search.ancestry.com/collections/8860/records/9958273",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-8YTG",
+          "resourceId": "cis.user.MMM9-8YTG"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-8YTG",
+          "resourceId": "cis.user.MMM9-8YTG"
+        },
+        "modified": 1491082065656,
+        "created": 1491082065656
+      },
+      "resourceType": "DEFAULT",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/9VGZ-77P"
+        }
+      },
+      "citations": [
+        {
+          "value": "Class: HO107; Piece: 2105; Folio: 253; Page: 20; GSU roll: 87734"
+        }
+      ],
+      "titles": [
+        {
+          "value": "1851 England Census"
+        }
+      ]
+    },
+    {
+      "id": "M9ZR-11H",
+      "about": "https://familysearch.org/ark:/61903/1:1:JWH8-QY4",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-JW55",
+          "resourceId": "cis.user.MMMM-JW55"
+        },
+        "modified": 1489545309173,
+        "created": 1402798914674
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/M9ZR-11H"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"England Births and Christenings, 1538-1975,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/JWH8-QY4 : 30 December 2014), William Giles in entry for Emma Giles, 16 Jul 1837; citing STRELLEY,NOTTINGHAM,ENGLAND, reference ; FHL microfilm 503,818, 504,067, 504,537."
+        }
+      ],
+      "titles": [
+        {
+          "value": "William Giles in entry for Emma Giles, \"England Births and Christenings, 1538-1975\""
+        }
+      ]
+    },
+    {
+      "id": "MS6Z-J8K",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMQ-ZR5S",
+          "resourceId": "cis.user.MMMQ-ZR5S"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMQ-ZR5S",
+          "resourceId": "cis.user.MMMQ-ZR5S"
+        },
+        "modified": 1407395228986,
+        "created": 1407395228986
+      },
+      "resourceType": "LEGACY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/MS6Z-J8K"
+        }
+      },
+      "citations": [
+        {
+          "value": ""
+        }
+      ],
+      "titles": [
+        {
+          "value": "Legacy NFS Source: William Giles - Individual or family possessions: birth: "
+        }
+      ],
+      "notes": [
+        {
+          "text": "Individual or family possessions: birth: "
+        }
+      ]
+    },
+    {
+      "id": "MS6Z-J3S",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-N846",
+          "resourceId": "cis.user.MMM9-N846"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-N846",
+          "resourceId": "cis.user.MMM9-N846"
+        },
+        "modified": 1407395219182,
+        "created": 1407395219182
+      },
+      "resourceType": "LEGACY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/MS6Z-J3S"
+        }
+      },
+      "citations": [
+        {
+          "value": "Web: Utah, Find A Grave Index, 1850-2011, Ancestry.com, Online publication - Provo, UT, USA: Ancestry.com Operations, Inc., 2012.Original data - Find A Grave. Find A Grave. http://www.findagrave.com/cgi-bin/fg.cgi: accessed 23 March 2012.Original data: Find A Grave. Find A Grave. http://www.findagrave.com/cgi-b, Ancestry.com, http://www.Ancestry.com"
+        }
+      ],
+      "titles": [
+        {
+          "value": "Legacy NFS Source: William Giles - birth-name: William Giles"
+        }
+      ],
+      "notes": [
+        {
+          "text": "birth-name: William Giles  \n\nhttp://trees.ancestry.com/rd?f=sse&db=websearch-4111&h=399429&ti=0&indiv=try&gss=pt\n\nAFGS\n3 _APID 1,70627::399429  \nbirth: 31 December 1797; Lowdham, Nottinghamshire, England  \n\nhttp://trees.ancestry.com/rd?f=sse&db=websearch-4111&h=399429&ti=0&indiv=try&gss=pt\n\nAFGS\n3 _APID 1,70627::399429  \ndeath: 15 December 1874; Heber City, Wasatch, Utah, United States  \n\nhttp://trees.ancestry.com/rd?f=sse&db=websearch-4111&h=399429&ti=0&indiv=try&gss=pt\n\nAFGS\n3 _APID 1,70627::399429"
+        }
+      ]
+    },
+    {
+      "id": "9VGZ-QKW",
+      "lang": "*",
+      "about": "http://search.ancestry.com/collections/5769/records/1738753",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-8YTG",
+          "resourceId": "cis.user.MMM9-8YTG"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-8YTG",
+          "resourceId": "cis.user.MMM9-8YTG"
+        },
+        "modified": 1491082013406,
+        "created": 1491082013406
+      },
+      "resourceType": "DEFAULT",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/9VGZ-QKW"
+        }
+      },
+      "titles": [
+        {
+          "value": "Family Data Collection - Births"
+        }
+      ]
+    },
+    {
+      "id": "MS6Z-J79",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-N846",
+          "resourceId": "cis.user.MMM9-N846"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-N846",
+          "resourceId": "cis.user.MMM9-N846"
+        },
+        "modified": 1407395221343,
+        "created": 1407395221343
+      },
+      "resourceType": "LEGACY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/MS6Z-J79"
+        }
+      },
+      "citations": [
+        {
+          "value": "England & Wales, Criminal Registers, 1791-1892, Ancestry.com, Online publication - Provo, UT, USA: Ancestry.com Operations Inc, 2009. This collection was indexed by Ancestry World Archives Project contributors.Original data - Home Office: Criminal Registers, Middlesex and Home Office: Criminal Registers, England and, Ancestry.com, http://www.Ancestry.com"
+        }
+      ],
+      "titles": [
+        {
+          "value": "Legacy NFS Source: William Giles - birth-name: William Giles"
+        }
+      ],
+      "notes": [
+        {
+          "text": "birth-name: William Giles  \n\nhttp://trees.ancestry.com/rd?f=sse&db=criminalregisters&h=517990&ti=0&indiv=try&gss=pt\n\nAFGS\n3 _APID 1,1590::517990  \nbirth: 31 December 1797; Lowdham, Nottinghamshire, England  \n\nhttp://trees.ancestry.com/rd?f=sse&db=criminalregisters&h=517990&ti=0&indiv=try&gss=pt\n\nAFGS\n3 _APID 1,1590::517990  \nresidence: null; 12 March 1847; Nottinghamshire, England  \n\nhttp://trees.ancestry.com/rd?f=sse&db=criminalregisters&h=517990&ti=0&indiv=try&gss=pt\n\nAFGS\n3 _APID 1,1590::517990"
         }
       ]
     },
@@ -26000,6 +25930,76 @@
       "titles": [
         {
           "value": "1860 United States Federal Census"
+        }
+      ]
+    },
+    {
+      "id": "MFXV-8HW",
+      "lang": "en-us",
+      "about": "https://familysearch.org/ark:/61903/1:1:N5TY-Z19",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "modified": 1415342012126,
+        "created": 1415342012126
+      },
+      "resourceType": "IGI",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/MFXV-8HW"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"England Births and Christenings, 1538-1975,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/N5TY-Z19 : 30 December 2014), William Giles in entry for Elizabeth Giles, 09 Apr 1826; citing LOWDHAM,NOTTINGHAM,ENGLAND, reference ; FHL microfilm 95,038."
+        }
+      ],
+      "titles": [
+        {
+          "value": "William Giles in entry for Elizabeth Giles, \"England Births and Christenings, 1538-1975\""
+        }
+      ],
+      "notes": [
+        {
+          "text": "This extracted record was used to create this person in Family Tree."
+        }
+      ]
+    },
+    {
+      "id": "M96R-WVW",
+      "about": "https://familysearch.org/ark:/61903/1:1:SGN3-13W",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-SKCT",
+          "resourceId": "cis.user.MMMM-SKCT"
+        },
+        "modified": 1489546769831,
+        "created": 1403295439014
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/M96R-WVW"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"England and Wales Census, 1851,\" database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/SGN3-13W : 24 July 2016), William Giles, St Mary Le Wigford, Lincolnshire, England; citing St Mary Le Wigford, Lincolnshire, England, p. 20, from \"1851 England, Scotland and Wales census,\" database and images, findmypast (http://www.findmypast.com : n.d.); citing PRO HO 107, The National Archives of the UK, Kew, Surrey."
+        }
+      ],
+      "titles": [
+        {
+          "value": "William Giles, \"England and Wales Census, 1851\""
         }
       ]
     }

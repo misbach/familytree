@@ -246,7 +246,7 @@
           "href": "https://familysearch.org/platform/tree/persons/KWCJ-RNC/families?sourceDescriptions=true"
         },
         "portrait": {
-          "href": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/KWCJ-RNC/KWCJ-RNC.jpg"
+          "href": "https://raw.githubusercontent.com/misbach/familytree/master/people/KWCJ-RNC/KWCJ-RNC.jpg"
         },
         "matches": {
           "href": "https://familysearch.org/platform/tree/persons/KWCJ-RNC/matches"
@@ -1121,16 +1121,16 @@
         "familiesAsParent": [
           {
             "parent1": {
-              "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/KWCJ-RN4/KWCJ-RN4.json",
+              "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KWCJ-RN4/KWCJ-RN4.json",
               "resourceId": "KWCJ-RN4"
             },
             "parent2": {
-              "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/KWCJ-RNC/KWCJ-RNC.json",
+              "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KWCJ-RNC/KWCJ-RNC.json",
               "resourceId": "KWCJ-RNC"
             },
             "children": [
               {
-                "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/LFXX-7Y9/LFXX-7Y9.json",
+                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/LFXX-7Y9/LFXX-7Y9.json",
                 "resourceId": "LFXX-7Y9"
               }
             ]
@@ -1139,16 +1139,16 @@
         "familiesAsChild": [
           {
             "parent1": {
-              "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/KWCQ-K6P/KWCQ-K6P.json",
+              "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KWCQ-K6P/KWCQ-K6P.json",
               "resourceId": "KWCQ-K6P"
             },
             "parent2": {
-              "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/KWCQ-K65/KWCQ-K65.json",
+              "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KWCQ-K65/KWCQ-K65.json",
               "resourceId": "KWCQ-K65"
             },
             "children": [
               {
-                "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/KWCJ-RNC/KWCJ-RNC.json",
+                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KWCJ-RNC/KWCJ-RNC.json",
                 "resourceId": "KWCJ-RNC"
               }
             ]
@@ -7038,6 +7038,108 @@
       }
     },
     {
+      "id": "MMSM-2WM",
+      "about": "https://familysearch.org/ark:/61903/1:1:M5X4-JHB",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-6R15",
+          "resourceId": "cis.user.MMM9-6R15"
+        },
+        "modified": 1489502286949,
+        "created": 1360278928000
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/MMSM-2WM"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"United States Census, 1910,\" database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/M5X4-JHB : accessed 14 April 2017), Geneva Denison in household of Hyram Denison, Manti, Sanpete, Utah, United States; citing enumeration district (ED) ED 155, sheet 17A, family 355, NARA microfilm publication T624 (Washington D.C.: National Archives and Records Administration, 1982), roll 1608; FHL microfilm 1,375,621.\n"
+        }
+      ],
+      "titles": [
+        {
+          "value": "Geneva Denison in household of Hyram Denison, \"United States Census, 1910\""
+        }
+      ]
+    },
+    {
+      "id": "98TP-QDJ",
+      "lang": "en_US",
+      "about": "https://familysearch.org/ark:/61903/1:1:V9PZ-J31",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-329G",
+          "resourceId": "cis.user.MMM9-329G"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-329G",
+          "resourceId": "cis.user.MMM9-329G"
+        },
+        "modified": 1436202659569,
+        "created": 1436202659569
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/98TP-QDJ"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"United States Social Security Death Index,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/V9PZ-J31 : 19 May 2014), Geneva  Clegg, 13 Apr 1995; citing U.S. Social Security Administration, Death Master File, database (Alexandria, Virginia: National Technical Information Service, ongoing)."
+        }
+      ],
+      "titles": [
+        {
+          "value": "Geneva Clegg, \"United States Social Security Death Index\""
+        }
+      ]
+    },
+    {
+      "id": "MMMM-MM2",
+      "about": "https://familysearch.org/ark:/61903/1:1:M8PN-GSV",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-NBRH",
+          "resourceId": "cis.user.MMMM-NBRH"
+        },
+        "modified": 1489077518811,
+        "created": 1316637096000
+      },
+      "resourceType": "DEFAULT",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/MMMM-MM2"
+        }
+      },
+      "citations": [
+        {
+          "value": "Line 65"
+        }
+      ],
+      "titles": [
+        {
+          "value": "1920 U.S. Census"
+        }
+      ],
+      "notes": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
       "id": "MSLW-GSG",
       "lang": "en_US",
       "about": "https://familysearch.org/ark:/61903/1:1:QVSF-1S7X",
@@ -7076,166 +7178,35 @@
       ]
     },
     {
-      "id": "98K2-QRN",
+      "id": "985R-C4C",
       "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:QVKN-2V1D",
+      "about": "https://familysearch.org/ark:/61903/1:1:F8PY-FQP",
       "attribution": {
         "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-329G",
-          "resourceId": "cis.user.MMM9-329G"
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMF-6LRV",
+          "resourceId": "cis.user.MMMF-6LRV"
         },
         "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-329G",
-          "resourceId": "cis.user.MMM9-329G"
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMF-6LRV",
+          "resourceId": "cis.user.MMMF-6LRV"
         },
-        "modified": 1433711367715,
-        "created": 1433711367715
+        "modified": 1435524697357,
+        "created": 1435524697357
       },
       "resourceType": "FSREADONLY",
       "links": {
         "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/98K2-QRN"
+          "href": "https://familysearch.org/platform/sources/descriptions/985R-C4C"
         }
       },
       "citations": [
         {
-          "value": "\"Find A Grave Index,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/QVKN-2V1D : 11 July 2016), Geneva Denison Clegg, 1995; Burial, Heber City, Wasatch, Utah, United States of America, Heber City Cemetery; citing record ID 39134328, Find a Grave, http://www.findagrave.com."
+          "value": "\"Utah Marriages, 1887-1935,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/F8PY-FQP : 5 December 2014), Almon Giles Clegg and Geneva Denison, 27 Jun 1928; citing Manti, Sanpete Co, Utah; FHL microfilm 81,512."
         }
       ],
       "titles": [
         {
-          "value": "Geneva Denison Clegg, \"Find A Grave Index\""
-        }
-      ]
-    },
-    {
-      "id": "98TP-3RN",
-      "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:XH6G-TSR",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-329G",
-          "resourceId": "cis.user.MMM9-329G"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-329G",
-          "resourceId": "cis.user.MMM9-329G"
-        },
-        "modified": 1436202495771,
-        "created": 1436202495771
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/98TP-3RN"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"United States Census, 1930,\" database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/XH6G-TSR : accessed 14 April 2017), Geneva D Clegg in household of Almon G Clegg, Heber, Wasatch, Utah, United States; citing enumeration district (ED) ED 5, sheet 17A, line 15, family 369, NARA microfilm publication T626 (Washington D.C.: National Archives and Records Administration, 2002), roll 2424; FHL microfilm 2,342,158.\n"
-        }
-      ],
-      "titles": [
-        {
-          "value": "Geneva D Clegg in household of Almon G Clegg, \"United States Census, 1930\""
-        }
-      ]
-    },
-    {
-      "id": "98TP-XDQ",
-      "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:QV5H-5T7K",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-329G",
-          "resourceId": "cis.user.MMM9-329G"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-329G",
-          "resourceId": "cis.user.MMM9-329G"
-        },
-        "modified": 1436205880400,
-        "created": 1436205880400
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/98TP-XDQ"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"United States, GenealogyBank Obituaries, 1980-2014,\" database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/QV5H-5T7K : 10 September 2016), Geneva Clegg in entry for Lorenzo Hyrum Denison, Utah, United States, 05 Nov 1991; from \"Recent Newspaper Obituaries (1977 - Today),\" database, GenealogyBank.com (http://www.genealogybank.com : 2014); citing , born-digital text."
-        }
-      ],
-      "titles": [
-        {
-          "value": "Geneva Clegg in entry for Lorenzo Hyrum Denison, \"United States, GenealogyBank Obituaries, 1980-2014\""
-        }
-      ]
-    },
-    {
-      "id": "9DL4-KBT",
-      "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:QKWZ-LRL1",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-329G",
-          "resourceId": "cis.user.MMM9-329G"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-329G",
-          "resourceId": "cis.user.MMM9-329G"
-        },
-        "modified": 1444671934044,
-        "created": 1444671934044
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/9DL4-KBT"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"United States, GenealogyBank Obituaries, 1980-2014,\" database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/QKWZ-LRL1 : 21 July 2016), Geneva Denison Clegg, Utah, United States, 15 Apr 1995; from \"Recent Newspaper Obituaries (1977 - Today),\" database, GenealogyBank.com (http://www.genealogybank.com : 2014); citing Salt Lake Tribune, The, born-digital text."
-        }
-      ],
-      "titles": [
-        {
-          "value": "Geneva Denison Clegg, \"United States, GenealogyBank Obituaries, 1980-2014\""
-        }
-      ]
-    },
-    {
-      "id": "MM22-X7P",
-      "about": "https://familysearch.org/ark:/61903/1:1:VRLL-P13",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-NBRH",
-          "resourceId": "cis.user.MMMM-NBRH"
-        },
-        "modified": 1489543199857,
-        "created": 1394085069000
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/MM22-X7P"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"Utah, County Marriages, 1887-1940\", database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/VRLL-P13 : 25 January 2016), Almon Giles Clegg and Geneva Denison, 1928."
-        }
-      ],
-      "titles": [
-        {
-          "value": "Geneva Denison, \"Utah, County Marriages, 1887-1937\""
+          "value": "Geneva Denison, \"Utah Marriages, 1887-1935\""
         }
       ]
     },
@@ -7273,9 +7244,9 @@
       ]
     },
     {
-      "id": "98TP-QDJ",
+      "id": "98RQ-XZ6",
       "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:V9PZ-J31",
+      "about": "https://familysearch.org/ark:/61903/1:1:F8PW-898",
       "attribution": {
         "contributor": {
           "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-329G",
@@ -7285,191 +7256,23 @@
           "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-329G",
           "resourceId": "cis.user.MMM9-329G"
         },
-        "modified": 1436202659569,
-        "created": 1436202659569
+        "modified": 1435610438028,
+        "created": 1435610438028
       },
       "resourceType": "FSREADONLY",
       "links": {
         "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/98TP-QDJ"
+          "href": "https://familysearch.org/platform/sources/descriptions/98RQ-XZ6"
         }
       },
       "citations": [
         {
-          "value": "\"United States Social Security Death Index,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/V9PZ-J31 : 19 May 2014), Geneva  Clegg, 13 Apr 1995; citing U.S. Social Security Administration, Death Master File, database (Alexandria, Virginia: National Technical Information Service, ongoing)."
-        }
-      ],
-      "titles": [
-        {
-          "value": "Geneva Clegg, \"United States Social Security Death Index\""
-        }
-      ]
-    },
-    {
-      "id": "966C-N82",
-      "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:QVSF-KF7P",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-329G",
-          "resourceId": "cis.user.MMM9-329G"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-329G",
-          "resourceId": "cis.user.MMM9-329G"
-        },
-        "modified": 1451858450454,
-        "created": 1451858450454
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/966C-N82"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"Utah, Obituaries from Utah Newspapers, 1850-2005,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/QVSF-KF7P : 8 October 2015), Mrs Alma Or Geneva Clegg in entry for Mrs Bertha Denison Carpenter, 09 Sep 1971; citing Ephraim Enterprise 3, The University of Utah. J. Willard Marriott Library, Salt Lake City."
-        }
-      ],
-      "titles": [
-        {
-          "value": "Mrs Alma Or Geneva Clegg in entry for Mrs Bertha Denison Carpenter, \"Utah, Obituaries from Utah Newspapers, 1850-2005\""
-        }
-      ]
-    },
-    {
-      "id": "98D1-F3K",
-      "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:KZL7-GJH",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMF-6LRV",
-          "resourceId": "cis.user.MMMF-6LRV"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMF-6LRV",
-          "resourceId": "cis.user.MMMF-6LRV"
-        },
-        "modified": 1431314783366,
-        "created": 1431314783366
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/98D1-F3K"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"BillionGraves Index,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/KZL7-GJH : 27 February 2017), Almon Giles Clegg, died 09 Jul 1989; citing BillionGraves (http://www.billiongraves.com : 2012), Burial at Heber City Cemetery, Heber, Wasatch, Utah, United States."
-        }
-      ],
-      "titles": [
-        {
-          "value": "<Unknown> in entry for Almon Giles Clegg, \"BillionGraves Index\""
-        }
-      ]
-    },
-    {
-      "id": "MM22-XZM",
-      "about": "https://familysearch.org/ark:/61903/1:1:KZL7-GJ7",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-NBRH",
-          "resourceId": "cis.user.MMMM-NBRH"
-        },
-        "modified": 1489543199393,
-        "created": 1394085111000
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/MM22-XZM"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"BillionGraves Index,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/KZL7-GJ7 : 27 February 2017), Geneva Denison Clegg, died 13 Apr 1995; citing BillionGraves (http://www.billiongraves.com : 2012), Burial at Heber City Cemetery, Heber, Wasatch, Utah, United States."
-        }
-      ],
-      "titles": [
-        {
-          "value": "Geneva Clegg, \"BillionGraves Index\""
-        }
-      ]
-    },
-    {
-      "id": "985R-C4C",
-      "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:F8PY-FQP",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMF-6LRV",
-          "resourceId": "cis.user.MMMF-6LRV"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMF-6LRV",
-          "resourceId": "cis.user.MMMF-6LRV"
-        },
-        "modified": 1435524697357,
-        "created": 1435524697357
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/985R-C4C"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"Utah Marriages, 1887-1935,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/F8PY-FQP : 5 December 2014), Almon Giles Clegg and Geneva Denison, 27 Jun 1928; citing Manti, Sanpete Co, Utah; FHL microfilm 81,512."
+          "value": "\"Utah Marriages, 1887-1935,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/F8PW-898 : 5 December 2014), Almon Giles Clegg and Geneva Denison, 27 Jun 1928; citing Manti, Sanpete Co, Utah; FHL microfilm 481,512."
         }
       ],
       "titles": [
         {
           "value": "Geneva Denison, \"Utah Marriages, 1887-1935\""
-        }
-      ]
-    },
-    {
-      "id": "MMMQ-KSD",
-      "about": "https://familysearch.org/ark:/61903/1:1:VT48-WC2",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-NBRH",
-          "resourceId": "cis.user.MMMM-NBRH"
-        },
-        "modified": 1489526599616,
-        "created": 1340778390000
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/MMMQ-KSD"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"United States Census, 1940,\" database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/VT48-WC2 : accessed 14 April 2017), Geneva Clegg in household of Almon G Clegg, Heber City, Heber Election Precinct, Wasatch, Utah, United States; citing enumeration district (ED) 26-6, sheet 6A, line 29, family 92, Sixteenth Census of the United States, 1940, NARA digital publication T627.  Records of the Bureau of the Census, 1790 - 2007, RG 29. Washington, D.C.: National Archives and Records Administration, 2012, roll 4221.\n"
-        }
-      ],
-      "titles": [
-        {
-          "value": "Geneva Clegg in household of Almon G Clegg, \"United States Census, 1940\""
-        }
-      ],
-      "notes": [
-        {
-          "text": "Line 29 on the census page"
         }
       ]
     },
@@ -7507,9 +7310,9 @@
       ]
     },
     {
-      "id": "98RQ-XZ6",
+      "id": "98TP-3RN",
       "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:F8PW-898",
+      "about": "https://familysearch.org/ark:/61903/1:1:XH6G-TSR",
       "attribution": {
         "contributor": {
           "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-329G",
@@ -7519,60 +7322,23 @@
           "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-329G",
           "resourceId": "cis.user.MMM9-329G"
         },
-        "modified": 1435610438028,
-        "created": 1435610438028
+        "modified": 1436202495771,
+        "created": 1436202495771
       },
       "resourceType": "FSREADONLY",
       "links": {
         "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/98RQ-XZ6"
+          "href": "https://familysearch.org/platform/sources/descriptions/98TP-3RN"
         }
       },
       "citations": [
         {
-          "value": "\"Utah Marriages, 1887-1935,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/F8PW-898 : 5 December 2014), Almon Giles Clegg and Geneva Denison, 27 Jun 1928; citing Manti, Sanpete Co, Utah; FHL microfilm 481,512."
+          "value": "\"United States Census, 1930,\" database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/XH6G-TSR : accessed 14 April 2017), Geneva D Clegg in household of Almon G Clegg, Heber, Wasatch, Utah, United States; citing enumeration district (ED) ED 5, sheet 17A, line 15, family 369, NARA microfilm publication T626 (Washington D.C.: National Archives and Records Administration, 2002), roll 2424; FHL microfilm 2,342,158.\n"
         }
       ],
       "titles": [
         {
-          "value": "Geneva Denison, \"Utah Marriages, 1887-1935\""
-        }
-      ]
-    },
-    {
-      "id": "MMMM-MM2",
-      "about": "https://familysearch.org/ark:/61903/1:1:M8PN-GSV",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-NBRH",
-          "resourceId": "cis.user.MMMM-NBRH"
-        },
-        "modified": 1489077518811,
-        "created": 1316637096000
-      },
-      "resourceType": "DEFAULT",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/MMMM-MM2"
-        }
-      },
-      "citations": [
-        {
-          "value": "Line 65"
-        }
-      ],
-      "titles": [
-        {
-          "value": "1920 U.S. Census"
-        }
-      ],
-      "notes": [
-        {
-          "text": ""
+          "value": "Geneva D Clegg in household of Almon G Clegg, \"United States Census, 1930\""
         }
       ]
     },
@@ -7615,34 +7381,268 @@
       ]
     },
     {
-      "id": "MMSM-2WM",
-      "about": "https://familysearch.org/ark:/61903/1:1:M5X4-JHB",
+      "id": "MM22-XZM",
+      "about": "https://familysearch.org/ark:/61903/1:1:KZL7-GJ7",
       "attribution": {
         "contributor": {
           "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
           "resourceId": "cis.wkca.MMMM-M93P"
         },
         "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-6R15",
-          "resourceId": "cis.user.MMM9-6R15"
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-NBRH",
+          "resourceId": "cis.user.MMMM-NBRH"
         },
-        "modified": 1489502286949,
-        "created": 1360278928000
+        "modified": 1489543199393,
+        "created": 1394085111000
       },
       "resourceType": "FSREADONLY",
       "links": {
         "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/MMSM-2WM"
+          "href": "https://familysearch.org/platform/sources/descriptions/MM22-XZM"
         }
       },
       "citations": [
         {
-          "value": "\"United States Census, 1910,\" database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/M5X4-JHB : accessed 14 April 2017), Geneva Denison in household of Hyram Denison, Manti, Sanpete, Utah, United States; citing enumeration district (ED) ED 155, sheet 17A, family 355, NARA microfilm publication T624 (Washington D.C.: National Archives and Records Administration, 1982), roll 1608; FHL microfilm 1,375,621.\n"
+          "value": "\"BillionGraves Index,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/KZL7-GJ7 : 27 February 2017), Geneva Denison Clegg, died 13 Apr 1995; citing BillionGraves (http://www.billiongraves.com : 2012), Burial at Heber City Cemetery, Heber, Wasatch, Utah, United States."
         }
       ],
       "titles": [
         {
-          "value": "Geneva Denison in household of Hyram Denison, \"United States Census, 1910\""
+          "value": "Geneva Clegg, \"BillionGraves Index\""
+        }
+      ]
+    },
+    {
+      "id": "98D1-F3K",
+      "lang": "en_US",
+      "about": "https://familysearch.org/ark:/61903/1:1:KZL7-GJH",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMF-6LRV",
+          "resourceId": "cis.user.MMMF-6LRV"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMF-6LRV",
+          "resourceId": "cis.user.MMMF-6LRV"
+        },
+        "modified": 1431314783366,
+        "created": 1431314783366
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/98D1-F3K"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"BillionGraves Index,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/KZL7-GJH : 27 February 2017), Almon Giles Clegg, died 09 Jul 1989; citing BillionGraves (http://www.billiongraves.com : 2012), Burial at Heber City Cemetery, Heber, Wasatch, Utah, United States."
+        }
+      ],
+      "titles": [
+        {
+          "value": "<Unknown> in entry for Almon Giles Clegg, \"BillionGraves Index\""
+        }
+      ]
+    },
+    {
+      "id": "98K2-QRN",
+      "lang": "en_US",
+      "about": "https://familysearch.org/ark:/61903/1:1:QVKN-2V1D",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-329G",
+          "resourceId": "cis.user.MMM9-329G"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-329G",
+          "resourceId": "cis.user.MMM9-329G"
+        },
+        "modified": 1433711367715,
+        "created": 1433711367715
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/98K2-QRN"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"Find A Grave Index,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/QVKN-2V1D : 11 July 2016), Geneva Denison Clegg, 1995; Burial, Heber City, Wasatch, Utah, United States of America, Heber City Cemetery; citing record ID 39134328, Find a Grave, http://www.findagrave.com."
+        }
+      ],
+      "titles": [
+        {
+          "value": "Geneva Denison Clegg, \"Find A Grave Index\""
+        }
+      ]
+    },
+    {
+      "id": "MMMQ-KSD",
+      "about": "https://familysearch.org/ark:/61903/1:1:VT48-WC2",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-NBRH",
+          "resourceId": "cis.user.MMMM-NBRH"
+        },
+        "modified": 1489526599616,
+        "created": 1340778390000
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/MMMQ-KSD"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"United States Census, 1940,\" database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/VT48-WC2 : accessed 14 April 2017), Geneva Clegg in household of Almon G Clegg, Heber City, Heber Election Precinct, Wasatch, Utah, United States; citing enumeration district (ED) 26-6, sheet 6A, line 29, family 92, Sixteenth Census of the United States, 1940, NARA digital publication T627.  Records of the Bureau of the Census, 1790 - 2007, RG 29. Washington, D.C.: National Archives and Records Administration, 2012, roll 4221.\n"
+        }
+      ],
+      "titles": [
+        {
+          "value": "Geneva Clegg in household of Almon G Clegg, \"United States Census, 1940\""
+        }
+      ],
+      "notes": [
+        {
+          "text": "Line 29 on the census page"
+        }
+      ]
+    },
+    {
+      "id": "98TP-XDQ",
+      "lang": "en_US",
+      "about": "https://familysearch.org/ark:/61903/1:1:QV5H-5T7K",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-329G",
+          "resourceId": "cis.user.MMM9-329G"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-329G",
+          "resourceId": "cis.user.MMM9-329G"
+        },
+        "modified": 1436205880400,
+        "created": 1436205880400
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/98TP-XDQ"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"United States, GenealogyBank Obituaries, 1980-2014,\" database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/QV5H-5T7K : 10 September 2016), Geneva Clegg in entry for Lorenzo Hyrum Denison, Utah, United States, 05 Nov 1991; from \"Recent Newspaper Obituaries (1977 - Today),\" database, GenealogyBank.com (http://www.genealogybank.com : 2014); citing , born-digital text."
+        }
+      ],
+      "titles": [
+        {
+          "value": "Geneva Clegg in entry for Lorenzo Hyrum Denison, \"United States, GenealogyBank Obituaries, 1980-2014\""
+        }
+      ]
+    },
+    {
+      "id": "MM22-X7P",
+      "about": "https://familysearch.org/ark:/61903/1:1:VRLL-P13",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-NBRH",
+          "resourceId": "cis.user.MMMM-NBRH"
+        },
+        "modified": 1489543199857,
+        "created": 1394085069000
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/MM22-X7P"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"Utah, County Marriages, 1887-1940\", database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/VRLL-P13 : 25 January 2016), Almon Giles Clegg and Geneva Denison, 1928."
+        }
+      ],
+      "titles": [
+        {
+          "value": "Geneva Denison, \"Utah, County Marriages, 1887-1937\""
+        }
+      ]
+    },
+    {
+      "id": "966C-N82",
+      "lang": "en_US",
+      "about": "https://familysearch.org/ark:/61903/1:1:QVSF-KF7P",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-329G",
+          "resourceId": "cis.user.MMM9-329G"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-329G",
+          "resourceId": "cis.user.MMM9-329G"
+        },
+        "modified": 1451858450454,
+        "created": 1451858450454
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/966C-N82"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"Utah, Obituaries from Utah Newspapers, 1850-2005,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/QVSF-KF7P : 8 October 2015), Mrs Alma Or Geneva Clegg in entry for Mrs Bertha Denison Carpenter, 09 Sep 1971; citing Ephraim Enterprise 3, The University of Utah. J. Willard Marriott Library, Salt Lake City."
+        }
+      ],
+      "titles": [
+        {
+          "value": "Mrs Alma Or Geneva Clegg in entry for Mrs Bertha Denison Carpenter, \"Utah, Obituaries from Utah Newspapers, 1850-2005\""
+        }
+      ]
+    },
+    {
+      "id": "9DL4-KBT",
+      "lang": "en_US",
+      "about": "https://familysearch.org/ark:/61903/1:1:QKWZ-LRL1",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-329G",
+          "resourceId": "cis.user.MMM9-329G"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-329G",
+          "resourceId": "cis.user.MMM9-329G"
+        },
+        "modified": 1444671934044,
+        "created": 1444671934044
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/9DL4-KBT"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"United States, GenealogyBank Obituaries, 1980-2014,\" database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/QKWZ-LRL1 : 21 July 2016), Geneva Denison Clegg, Utah, United States, 15 Apr 1995; from \"Recent Newspaper Obituaries (1977 - Today),\" database, GenealogyBank.com (http://www.genealogybank.com : 2014); citing Salt Lake Tribune, The, born-digital text."
+        }
+      ],
+      "titles": [
+        {
+          "value": "Geneva Denison Clegg, \"United States, GenealogyBank Obituaries, 1980-2014\""
         }
       ]
     }

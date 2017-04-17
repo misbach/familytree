@@ -93,7 +93,7 @@
           "href": "https://familysearch.org/platform/tree/persons/MW2W-VCW/families?sourceDescriptions=true"
         },
         "portrait": {
-          "href": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/MW2W-VCW/MW2W-VCW.jpg"
+          "href": "https://raw.githubusercontent.com/misbach/familytree/master/people/MW2W-VCW/MW2W-VCW.jpg"
         },
         "matches": {
           "href": "https://familysearch.org/platform/tree/persons/MW2W-VCW/matches"
@@ -825,38 +825,38 @@
         "familiesAsParent": [
           {
             "parent1": {
-              "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/LJ9M-1VV/LJ9M-1VV.json",
+              "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/LJ9M-1VV/LJ9M-1VV.json",
               "resourceId": "LJ9M-1VV"
             },
             "parent2": {
-              "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/MW2W-VCW/MW2W-VCW.json",
+              "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/MW2W-VCW/MW2W-VCW.json",
               "resourceId": "MW2W-VCW"
             }
           },
           {
             "parent1": {
-              "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/LCPV-M7P/LCPV-M7P.json",
+              "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/LCPV-M7P/LCPV-M7P.json",
               "resourceId": "LCPV-M7P"
             },
             "parent2": {
-              "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/MW2W-VCW/MW2W-VCW.json",
+              "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/MW2W-VCW/MW2W-VCW.json",
               "resourceId": "MW2W-VCW"
             },
             "children": [
               {
-                "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/LNDY-XM6/LNDY-XM6.json",
+                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/LNDY-XM6/LNDY-XM6.json",
                 "resourceId": "LNDY-XM6"
               },
               {
-                "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/248S-XYG/248S-XYG.json",
+                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/248S-XYG/248S-XYG.json",
                 "resourceId": "248S-XYG"
               },
               {
-                "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/L43W-GN7/L43W-GN7.json",
+                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/L43W-GN7/L43W-GN7.json",
                 "resourceId": "L43W-GN7"
               },
               {
-                "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/KWJ8-FYQ/KWJ8-FYQ.json",
+                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KWJ8-FYQ/KWJ8-FYQ.json",
                 "resourceId": "KWJ8-FYQ"
               }
             ]
@@ -865,16 +865,16 @@
         "familiesAsChild": [
           {
             "parent1": {
-              "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/LH6D-LQ9/LH6D-LQ9.json",
+              "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/LH6D-LQ9/LH6D-LQ9.json",
               "resourceId": "LH6D-LQ9"
             },
             "parent2": {
-              "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/L7JG-L4H/L7JG-L4H.json",
+              "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/L7JG-L4H/L7JG-L4H.json",
               "resourceId": "L7JG-L4H"
             },
             "children": [
               {
-                "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/MW2W-VCW/MW2W-VCW.json",
+                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/MW2W-VCW/MW2W-VCW.json",
                 "resourceId": "MW2W-VCW"
               }
             ]
@@ -8472,6 +8472,534 @@
       }
     },
     {
+      "id": "MSJZ-265",
+      "lang": "en_US,EN;Q=0.8",
+      "about": "http://www.sa.dk/content/dk/ao-forside/find_kirkeboger#",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-6SSD",
+          "resourceId": "cis.user.MMM9-6SSD"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-6SSD",
+          "resourceId": "cis.user.MMM9-6SSD"
+        },
+        "modified": 1408847511842,
+        "created": 1408157186169
+      },
+      "resourceType": "DEFAULT",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/MSJZ-265"
+        }
+      },
+      "citations": [
+        {
+          "value": "Internet; Danish Archives; \"Arkivalier online\";\nFrom the link above:\nSelect \"Kirkebøger\" in the first box.  A new screen will come up.\nSelect \"København\" in the Vælg amt dropdown box.\nSelect \"Sokkelund\" in the Vælg herred dropdown box.\nSelect \"Gentofte\" in the Vælg sogn dropdown box.  Screen will refresh.\nClick on \"Gentofte in the fifth line, 1826 - 1839"
+        }
+      ],
+      "titles": [
+        {
+          "value": "1836 - Inger Martensdatter in entry for Marie Dinersen, \"Denmark; Kirkebøger, København, Sokkelund, Gentofte, Gentofte 1826-1839\""
+        }
+      ],
+      "notes": [
+        {
+          "text": "The image is of a handwritten page from the above named Church Book [In Danish].\n\nOpslag 240\nEntry # 4\nConfirmation:     1836\nChild's Name:     Marie Dinersen\nResidence:     Gentofte\nFather:     Rasmus Dinersen\nMother:     Inger Martensdatter\nBirth date:     5 December 1821\nBaptism:     13 January 1822\nVaccination:     2 June 1825\n"
+        }
+      ]
+    },
+    {
+      "id": "MSJS-3D9",
+      "lang": "en_US",
+      "about": "https://familysearch.org/ark:/61903/1:1:XYHY-KBS",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-33RR",
+          "resourceId": "cis.user.MMM9-33RR"
+        },
+        "modified": 1489565946511,
+        "created": 1407988347801
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/MSJS-3D9"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"Denmark Baptisms, 1618-1923,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/XYHY-KBS : 6 December 2014), Inger Mortensdr in entry for Carl Rasmussen, 23 May 1820; citing , GENTOFTE, KOBENHAVN, DENMARK; FHL microfilm 48,204."
+        }
+      ],
+      "titles": [
+        {
+          "value": "1820 - Inger Mortensdr in entry for Carl Rasmussen, \"Denmark, Baptisms, 1618-1923\""
+        }
+      ],
+      "notes": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "ML78-VWX",
+      "lang": "en-us",
+      "about": "https://familysearch.org/ark:/61903/1:1:XYHY-KB7",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "modified": 1415359775716,
+        "created": 1415359775716
+      },
+      "resourceType": "IGI",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/ML78-VWX"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"Denmark Baptisms, 1618-1923,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/XYHY-KB7 : 6 December 2014), Inger Mortensdr in entry for Hans Rasmussen, 29 Aug 1824; citing , GENTOFTE, KOBENHAVN, DENMARK; FHL microfilm 48,204."
+        }
+      ],
+      "titles": [
+        {
+          "value": "Inger Mortensdr in entry for Hans Rasmussen, \"Denmark Baptisms, 1618-1923\""
+        }
+      ],
+      "notes": [
+        {
+          "text": "This extracted record was used to create this person in Family Tree."
+        }
+      ]
+    },
+    {
+      "id": "MSVF-CY1",
+      "lang": "en_US",
+      "about": "https://familysearch.org/ark:/61903/1:1:XYHY-28F",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-XVV7",
+          "resourceId": "cis.user.MMMM-XVV7"
+        },
+        "modified": 1489509314830,
+        "created": 1408752749615
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/MSVF-CY1"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"Denmark Baptisms, 1618-1923,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/XYHY-28F : 6 December 2014), Inger Mortensdr in entry for Marie Rasmussen, 13 Jan 1822; citing , GENTOFTE, KOBENHAVN, DENMARK; FHL microfilm 48,204."
+        }
+      ],
+      "titles": [
+        {
+          "value": "1822 - Inger Mortensdr in entry for Marie Rasmussen, \"Denmark, Baptisms, 1618-1923\""
+        }
+      ],
+      "notes": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "MSJN-D3N",
+      "lang": "en_US,EN;Q=0.8",
+      "about": "http://www.ddd.dda.dk/asp/vishusstand_en.asp",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-6SSD",
+          "resourceId": "cis.user.MMM9-6SSD"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-6SSD",
+          "resourceId": "cis.user.MMM9-6SSD"
+        },
+        "modified": 1408301401730,
+        "created": 1408292408196
+      },
+      "resourceType": "DEFAULT",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/MSJN-D3N"
+        }
+      },
+      "citations": [
+        {
+          "value": "Internet; Danish Archives [Statens Arkiver]; http://www.ddd.dda.dk/;\n        also     ; http://www.sa.dk/content/dk/ao-forside \n                      select \"Folketællinger\"\n                      select \"1850\"\n                      select \"Landsogn\"\n                      select \"Kobenhavn\"\n                      select \"Sokkelund\"\n                      select \"Gentofte\"\n       after screen refreshes, at the bottom there are three links; \"Kobenhavn\", \"Sokkelund\", \"Gentofte\".\n                     click \"Gentofte\"\n        LANView will run and a new tab will appear: \"_/data/folketaelling/FT1850/03038/\"\n                     open \"Opslag 30\"\n                     scroll to household # 40\n"
+        }
+      ],
+      "titles": [
+        {
+          "value": "1850 - Inger Mogendatter, \"1850 Danish Census\""
+        }
+      ],
+      "notes": [
+        {
+          "text": "Image is in \"Documents\" within the \"Memories\" tab.\n\nName:     Inger Mogensdatter\nAge:     68\nMarital Status:     Enke\nPosition in Household:     \nOccupation:     Huusmandsenke\nBirth place:     Sverrig [Sweden]"
+        }
+      ]
+    },
+    {
+      "id": "MSVL-JN2",
+      "lang": "en_US,EN;Q=0.8",
+      "about": "http://www.sa.dk/content/dk/ao-forside/find_folketallinger#",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-6SSD",
+          "resourceId": "cis.user.MMM9-6SSD"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-6SSD",
+          "resourceId": "cis.user.MMM9-6SSD"
+        },
+        "modified": 1408896983726,
+        "created": 1408896579029
+      },
+      "resourceType": "DEFAULT",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/MSVL-JN2"
+        }
+      },
+      "citations": [
+        {
+          "value": "Internet; Danish Archives [Statens Arkiver]; http://www.sa.dk/\nSelect \"Folketællinger\"[census]\nIn Årgang select the year, \"1840\"\nIn Stedbetegnelse box select \"Landsogn\"\nAmt select \"København\"\nHerred select \"Sokkelund\"\nSogn select \"Gentofte\"\nScreen refreshes, at the bottom select \"Gentofte\""
+        }
+      ],
+      "titles": [
+        {
+          "value": "1840 - Inger Mogensdatter in household of Rasmus Dinersen, \"1840 Danish Census\""
+        }
+      ],
+      "notes": [
+        {
+          "text": "Hand written census page in Danish\n\nOpslag:     14\nFamily number:     42\nFarm:     Et Huus\n\nName:     Inger Mogensdatter\nAge:     58\nMarital Status:     Married\nPosition in Household:     House Wife"
+        }
+      ]
+    },
+    {
+      "id": "M2VP-SWM",
+      "lang": "en-us",
+      "about": "https://familysearch.org/ark:/61903/1:1:XYHY-28F",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "modified": 1415357935457,
+        "created": 1415357935457
+      },
+      "resourceType": "IGI",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/M2VP-SWM"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"Denmark Baptisms, 1618-1923,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/XYHY-28F : 6 December 2014), Inger Mortensdr in entry for Marie Rasmussen, 13 Jan 1822; citing , GENTOFTE, KOBENHAVN, DENMARK; FHL microfilm 48,204."
+        }
+      ],
+      "titles": [
+        {
+          "value": "Inger Mortensdr in entry for Marie Rasmussen, \"Denmark Baptisms, 1618-1923\""
+        }
+      ],
+      "notes": [
+        {
+          "text": "This extracted record was used to create this person in Family Tree."
+        }
+      ]
+    },
+    {
+      "id": "MM5M-YVK",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-H1Z3",
+          "resourceId": "cis.user.MMMM-H1Z3"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-H1Z3",
+          "resourceId": "cis.user.MMMM-H1Z3"
+        },
+        "modified": 1394306600000,
+        "created": 1394306600000
+      },
+      "resourceType": "LEGACY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/MM5M-YVK"
+        }
+      },
+      "citations": [
+        {
+          "value": "Ernest Denison records, San Angelo, Texas (1996)"
+        }
+      ],
+      "titles": [
+        {
+          "value": "Legacy NFS Source: Inger Monsen - death: 3 April 1853; "
+        }
+      ],
+      "notes": [
+        {
+          "text": "death: 3 April 1853; "
+        }
+      ]
+    },
+    {
+      "id": "MSJQ-GV4",
+      "lang": "en_US,EN;Q=0.8",
+      "about": "http://www.sa.dk/content/dk/ao-forside/find_kirkeboger#",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-6SSD",
+          "resourceId": "cis.user.MMM9-6SSD"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-6SSD",
+          "resourceId": "cis.user.MMM9-6SSD"
+        },
+        "modified": 1408050282780,
+        "created": 1408050282780
+      },
+      "resourceType": "DEFAULT",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/MSJQ-GV4"
+        }
+      },
+      "citations": [
+        {
+          "value": "Internet; Danish Archives; \"Arkivalier online\";\nFrom the link above:\nSelect \"Kirkebøger\" in the first box.  A new screen will come up.\nSelect \"København\" in the Vælg amt dropdown box.\nSelect \"Sokkelund\" in the Vælg herred dropdown box.\nSelect \"Gentofte\" in the Vælg sogn dropdown box.  Screen will refresh.\nClick on \"Gentofte in the third line, 1814 - 1826"
+        }
+      ],
+      "titles": [
+        {
+          "value": "1820 - Inger Mortensdatter in entry for Carl Rasmussen Dinessen, \"Denmark; Kirkebøger, København, Sokkelund, Gentofte, 1814-1826\""
+        }
+      ],
+      "notes": [
+        {
+          "text": "The image is of a handwritten page from the above named Church Book [In Danish].\n\nOpslag 35\nEntry # 9\nBirth date:     19th April 1820\nChild's Name:     Carl\nBaptism:     22 May [1820]\nFather:     Rasmus Dinerssen\nMother:     Inger Montensdatter [Mortensdatter]"
+        }
+      ]
+    },
+    {
+      "id": "MSJQ-8MT",
+      "lang": "en_US,EN;Q=0.8",
+      "about": "http://www.sa.dk/content/dk/ao-forside/find_kirkeboger#",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-6SSD",
+          "resourceId": "cis.user.MMM9-6SSD"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-6SSD",
+          "resourceId": "cis.user.MMM9-6SSD"
+        },
+        "modified": 1408045562989,
+        "created": 1408045562989
+      },
+      "resourceType": "DEFAULT",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/MSJQ-8MT"
+        }
+      },
+      "citations": [
+        {
+          "value": "Internet; Danish Archives; \"Arkivalier online\";\nFrom the link above:\nSelect \"Kirkebøger\" in the first box.  A new screen will come up.\nSelect \"København\" in the Vælg amt dropdown box.\nSelect \"Sokkelund\" in the Vælg herred dropdown box.\nSelect \"Gentofte\" in the Vælg sogn dropdown box.  Screen will refresh.\nClick on \"Gentofte\" in the third line, 1814 - 1826  "
+        }
+      ],
+      "titles": [
+        {
+          "value": "1824 - Inger Mortensdatter in record for Hans Rasmusen Dinesen, \"Denmark; Kirkebøger, København, Sokkelund, Gentofte, 1814-1826\""
+        }
+      ],
+      "notes": [
+        {
+          "text": "The image is of a handwritten page from the above named Church Book [In Danish].\n\nOpslag 57\nEntry # 16\nBirth date:     20th July 1824\nChild's Name:     Hans\nBaptism:     29th August [1824]\nFather:     Rasmus Dinessen\nMother:     Inger Mortensdatter"
+        }
+      ]
+    },
+    {
+      "id": "MM5M-YVS",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-NNTQ",
+          "resourceId": "cis.user.MMMM-NNTQ"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-NNTQ",
+          "resourceId": "cis.user.MMMM-NNTQ"
+        },
+        "modified": 1394306599000,
+        "created": 1394306599000
+      },
+      "resourceType": "LEGACY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/MM5M-YVS"
+        }
+      },
+      "citations": [
+        {
+          "value": ""
+        }
+      ],
+      "titles": [
+        {
+          "value": "Legacy NFS Source: Inger Monsen - Individual or family possessions: death: 3 April 1873; Saint Louis, Saint Louis, Missouri, United States"
+        }
+      ],
+      "notes": [
+        {
+          "text": "Individual or family possessions: death: 3 April 1873; Saint Louis, Saint Louis, Missouri, United States  \nIndividual or family possessions: birth-name: Inger Monssen or Monsson  \nIndividual or family possessions: birth: 25 May 1782; Kristianstad, Sweden"
+        }
+      ]
+    },
+    {
+      "id": "MSVL-69Q",
+      "lang": "en_US,EN;Q=0.8",
+      "about": "http://www.sa.dk/content/dk/ao-forside/find_folketallinger#",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-6SSD",
+          "resourceId": "cis.user.MMM9-6SSD"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-6SSD",
+          "resourceId": "cis.user.MMM9-6SSD"
+        },
+        "modified": 1408894074526,
+        "created": 1408894074526
+      },
+      "resourceType": "DEFAULT",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/MSVL-69Q"
+        }
+      },
+      "citations": [
+        {
+          "value": "Internet; Danish Archives [Statens Arkiver]; http://www.sa.dk/\nSelect \"Folketællinger\"[census]\nIn Årgang select the year, \"1834\"\nIn Stedbetegnelse box select \"Landsogn\"\nAmt select \"København\"\nHerred select \"Sokkelund\"\nSogn select \"Gentofte\"\nScreen refreshes, at the bottom select \"Gentofte\""
+        }
+      ],
+      "titles": [
+        {
+          "value": "1834 - Inger Mogensdatter in household of Rasmus Dinersen, \"1834 Danish Census\""
+        }
+      ],
+      "notes": [
+        {
+          "text": "Hand written census page in Danish\n\nOpslag:     25\nFamily number:     107\nFarm:     Et Huus paa Onsgaards Lod\n\nName:     Inger Mogensdatter\nAge:     52\nMarital Status:     Married\nPosition in Household:     House Wife"
+        }
+      ]
+    },
+    {
+      "id": "MSJZ-P4D",
+      "lang": "en_US,EN;Q=0.8",
+      "about": "http://www.sa.dk/content/dk/ao-forside/find_kirkeboger#",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-6SSD",
+          "resourceId": "cis.user.MMM9-6SSD"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-6SSD",
+          "resourceId": "cis.user.MMM9-6SSD"
+        },
+        "modified": 1408847583377,
+        "created": 1408158558667
+      },
+      "resourceType": "DEFAULT",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/MSJZ-P4D"
+        }
+      },
+      "citations": [
+        {
+          "value": "Internet; Danish Archives; \"Arkivalier online\";\nFrom the link above:\nSelect \"Kirkebøger\" in the first box.  A new screen will come up.\nSelect \"København\" in the Vælg amt dropdown box.\nSelect \"Sokkelund\" in the Vælg herred dropdown box.\nSelect \"Gentofte\" in the Vælg sogn dropdown box.  Screen will refresh.\nClick on \"Gentofte\" in the tenth line, 1839 - 1867"
+        }
+      ],
+      "titles": [
+        {
+          "value": "1839 - Inger Martensdatter in entry for Hans Dinersen, \"Denmark; Kirkebøger, København, Sokkelund, Gentofte, Gentofte 1839-1867\""
+        }
+      ],
+      "notes": [
+        {
+          "text": "The image is of a handwritten page from the above named Church Book [In Danish].\n\nOpslag:     4\nEntry #:     15\nConfirmation:     1839\nChild's Name:     Hans Dinersen\nResidence:     Gentofte\nFather:     Rasmus Dinersen\nMother:     Inger Martensdatter\nBirth date:     20 July [1824]\nBaptism:     29 August 1824\nVaccination:     18 June 1829\n"
+        }
+      ]
+    },
+    {
+      "id": "MSV1-HR6",
+      "lang": "en_US,EN;Q=0.8",
+      "about": "http://www.sa.dk/content/dk/ao-forside/find_kirkeboger#",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-6SSD",
+          "resourceId": "cis.user.MMM9-6SSD"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-6SSD",
+          "resourceId": "cis.user.MMM9-6SSD"
+        },
+        "modified": 1409001103521,
+        "created": 1409000239055
+      },
+      "resourceType": "DEFAULT",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/MSV1-HR6"
+        }
+      },
+      "citations": [
+        {
+          "value": "Internet; Danish Archives; \"Arkivalier online\";\nFrom the link above:\nSelect \"Kirkebøger\" in the first box.  A new screen will come up.\nSelect \"København\" in the Vælg amt dropdown box.\nSelect \"Sokkelund\" in the Vælg herred dropdown box.\nSelect \"Gentofte\" in the Vælg sogn dropdown box.  Screen will refresh.\nClick on \"Gentofte\" in the first line, 1651 - 1814"
+        }
+      ],
+      "titles": [
+        {
+          "value": "1811 - Hans Andersen & Inger Mogesdatter, \"Denmark; Kirkebøger, København, Sokkelund, Gentofte, 1651-1814\""
+        }
+      ],
+      "notes": [
+        {
+          "text": "The image is of a handwritten page from the above named Church Book [In Danish].\nThe image is hard to read; but, having studied many such images, I believe that I have the correct one.\n\nOpslag:     424\nEntry #:     10\nMarriage date:     19 May 1811\nGroom's Name:     Hans Andersen\nBride's Name:     Inger Mogesdatter[possibly Mogendatter]"
+        }
+      ]
+    },
+    {
       "id": "MSJ7-99V",
       "lang": "en_US,EN;Q=0.8",
       "about": "http://www.sa.dk/content/dk/ao-forside/find_kirkeboger#",
@@ -8546,44 +9074,6 @@
       ]
     },
     {
-      "id": "MSJS-3D9",
-      "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:XYHY-KBS",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-33RR",
-          "resourceId": "cis.user.MMM9-33RR"
-        },
-        "modified": 1489565946511,
-        "created": 1407988347801
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/MSJS-3D9"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"Denmark Baptisms, 1618-1923,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/XYHY-KBS : 6 December 2014), Inger Mortensdr in entry for Carl Rasmussen, 23 May 1820; citing , GENTOFTE, KOBENHAVN, DENMARK; FHL microfilm 48,204."
-        }
-      ],
-      "titles": [
-        {
-          "value": "1820 - Inger Mortensdr in entry for Carl Rasmussen, \"Denmark, Baptisms, 1618-1923\""
-        }
-      ],
-      "notes": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
       "id": "MM83-39B",
       "about": "https://familysearch.org/ark:/61903/1:1:V7JG-9L6",
       "attribution": {
@@ -8617,270 +9107,6 @@
       "notes": [
         {
           "text": ""
-        }
-      ]
-    },
-    {
-      "id": "ML78-VWX",
-      "lang": "en-us",
-      "about": "https://familysearch.org/ark:/61903/1:1:XYHY-KB7",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "modified": 1415359775716,
-        "created": 1415359775716
-      },
-      "resourceType": "IGI",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/ML78-VWX"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"Denmark Baptisms, 1618-1923,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/XYHY-KB7 : 6 December 2014), Inger Mortensdr in entry for Hans Rasmussen, 29 Aug 1824; citing , GENTOFTE, KOBENHAVN, DENMARK; FHL microfilm 48,204."
-        }
-      ],
-      "titles": [
-        {
-          "value": "Inger Mortensdr in entry for Hans Rasmussen, \"Denmark Baptisms, 1618-1923\""
-        }
-      ],
-      "notes": [
-        {
-          "text": "This extracted record was used to create this person in Family Tree."
-        }
-      ]
-    },
-    {
-      "id": "MSV1-HR6",
-      "lang": "en_US,EN;Q=0.8",
-      "about": "http://www.sa.dk/content/dk/ao-forside/find_kirkeboger#",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-6SSD",
-          "resourceId": "cis.user.MMM9-6SSD"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-6SSD",
-          "resourceId": "cis.user.MMM9-6SSD"
-        },
-        "modified": 1409001103521,
-        "created": 1409000239055
-      },
-      "resourceType": "DEFAULT",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/MSV1-HR6"
-        }
-      },
-      "citations": [
-        {
-          "value": "Internet; Danish Archives; \"Arkivalier online\";\nFrom the link above:\nSelect \"Kirkebøger\" in the first box.  A new screen will come up.\nSelect \"København\" in the Vælg amt dropdown box.\nSelect \"Sokkelund\" in the Vælg herred dropdown box.\nSelect \"Gentofte\" in the Vælg sogn dropdown box.  Screen will refresh.\nClick on \"Gentofte\" in the first line, 1651 - 1814"
-        }
-      ],
-      "titles": [
-        {
-          "value": "1811 - Hans Andersen & Inger Mogesdatter, \"Denmark; Kirkebøger, København, Sokkelund, Gentofte, 1651-1814\""
-        }
-      ],
-      "notes": [
-        {
-          "text": "The image is of a handwritten page from the above named Church Book [In Danish].\nThe image is hard to read; but, having studied many such images, I believe that I have the correct one.\n\nOpslag:     424\nEntry #:     10\nMarriage date:     19 May 1811\nGroom's Name:     Hans Andersen\nBride's Name:     Inger Mogesdatter[possibly Mogendatter]"
-        }
-      ]
-    },
-    {
-      "id": "MSVF-CY1",
-      "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:XYHY-28F",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-XVV7",
-          "resourceId": "cis.user.MMMM-XVV7"
-        },
-        "modified": 1489509314830,
-        "created": 1408752749615
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/MSVF-CY1"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"Denmark Baptisms, 1618-1923,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/XYHY-28F : 6 December 2014), Inger Mortensdr in entry for Marie Rasmussen, 13 Jan 1822; citing , GENTOFTE, KOBENHAVN, DENMARK; FHL microfilm 48,204."
-        }
-      ],
-      "titles": [
-        {
-          "value": "1822 - Inger Mortensdr in entry for Marie Rasmussen, \"Denmark, Baptisms, 1618-1923\""
-        }
-      ],
-      "notes": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "id": "MSJQ-GV4",
-      "lang": "en_US,EN;Q=0.8",
-      "about": "http://www.sa.dk/content/dk/ao-forside/find_kirkeboger#",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-6SSD",
-          "resourceId": "cis.user.MMM9-6SSD"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-6SSD",
-          "resourceId": "cis.user.MMM9-6SSD"
-        },
-        "modified": 1408050282780,
-        "created": 1408050282780
-      },
-      "resourceType": "DEFAULT",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/MSJQ-GV4"
-        }
-      },
-      "citations": [
-        {
-          "value": "Internet; Danish Archives; \"Arkivalier online\";\nFrom the link above:\nSelect \"Kirkebøger\" in the first box.  A new screen will come up.\nSelect \"København\" in the Vælg amt dropdown box.\nSelect \"Sokkelund\" in the Vælg herred dropdown box.\nSelect \"Gentofte\" in the Vælg sogn dropdown box.  Screen will refresh.\nClick on \"Gentofte in the third line, 1814 - 1826"
-        }
-      ],
-      "titles": [
-        {
-          "value": "1820 - Inger Mortensdatter in entry for Carl Rasmussen Dinessen, \"Denmark; Kirkebøger, København, Sokkelund, Gentofte, 1814-1826\""
-        }
-      ],
-      "notes": [
-        {
-          "text": "The image is of a handwritten page from the above named Church Book [In Danish].\n\nOpslag 35\nEntry # 9\nBirth date:     19th April 1820\nChild's Name:     Carl\nBaptism:     22 May [1820]\nFather:     Rasmus Dinerssen\nMother:     Inger Montensdatter [Mortensdatter]"
-        }
-      ]
-    },
-    {
-      "id": "MSJZ-265",
-      "lang": "en_US,EN;Q=0.8",
-      "about": "http://www.sa.dk/content/dk/ao-forside/find_kirkeboger#",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-6SSD",
-          "resourceId": "cis.user.MMM9-6SSD"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-6SSD",
-          "resourceId": "cis.user.MMM9-6SSD"
-        },
-        "modified": 1408847511842,
-        "created": 1408157186169
-      },
-      "resourceType": "DEFAULT",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/MSJZ-265"
-        }
-      },
-      "citations": [
-        {
-          "value": "Internet; Danish Archives; \"Arkivalier online\";\nFrom the link above:\nSelect \"Kirkebøger\" in the first box.  A new screen will come up.\nSelect \"København\" in the Vælg amt dropdown box.\nSelect \"Sokkelund\" in the Vælg herred dropdown box.\nSelect \"Gentofte\" in the Vælg sogn dropdown box.  Screen will refresh.\nClick on \"Gentofte in the fifth line, 1826 - 1839"
-        }
-      ],
-      "titles": [
-        {
-          "value": "1836 - Inger Martensdatter in entry for Marie Dinersen, \"Denmark; Kirkebøger, København, Sokkelund, Gentofte, Gentofte 1826-1839\""
-        }
-      ],
-      "notes": [
-        {
-          "text": "The image is of a handwritten page from the above named Church Book [In Danish].\n\nOpslag 240\nEntry # 4\nConfirmation:     1836\nChild's Name:     Marie Dinersen\nResidence:     Gentofte\nFather:     Rasmus Dinersen\nMother:     Inger Martensdatter\nBirth date:     5 December 1821\nBaptism:     13 January 1822\nVaccination:     2 June 1825\n"
-        }
-      ]
-    },
-    {
-      "id": "MM5M-YVK",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-H1Z3",
-          "resourceId": "cis.user.MMMM-H1Z3"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-H1Z3",
-          "resourceId": "cis.user.MMMM-H1Z3"
-        },
-        "modified": 1394306600000,
-        "created": 1394306600000
-      },
-      "resourceType": "LEGACY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/MM5M-YVK"
-        }
-      },
-      "citations": [
-        {
-          "value": "Ernest Denison records, San Angelo, Texas (1996)"
-        }
-      ],
-      "titles": [
-        {
-          "value": "Legacy NFS Source: Inger Monsen - death: 3 April 1853; "
-        }
-      ],
-      "notes": [
-        {
-          "text": "death: 3 April 1853; "
-        }
-      ]
-    },
-    {
-      "id": "MSJQ-8MT",
-      "lang": "en_US,EN;Q=0.8",
-      "about": "http://www.sa.dk/content/dk/ao-forside/find_kirkeboger#",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-6SSD",
-          "resourceId": "cis.user.MMM9-6SSD"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-6SSD",
-          "resourceId": "cis.user.MMM9-6SSD"
-        },
-        "modified": 1408045562989,
-        "created": 1408045562989
-      },
-      "resourceType": "DEFAULT",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/MSJQ-8MT"
-        }
-      },
-      "citations": [
-        {
-          "value": "Internet; Danish Archives; \"Arkivalier online\";\nFrom the link above:\nSelect \"Kirkebøger\" in the first box.  A new screen will come up.\nSelect \"København\" in the Vælg amt dropdown box.\nSelect \"Sokkelund\" in the Vælg herred dropdown box.\nSelect \"Gentofte\" in the Vælg sogn dropdown box.  Screen will refresh.\nClick on \"Gentofte\" in the third line, 1814 - 1826  "
-        }
-      ],
-      "titles": [
-        {
-          "value": "1824 - Inger Mortensdatter in record for Hans Rasmusen Dinesen, \"Denmark; Kirkebøger, København, Sokkelund, Gentofte, 1814-1826\""
-        }
-      ],
-      "notes": [
-        {
-          "text": "The image is of a handwritten page from the above named Church Book [In Danish].\n\nOpslag 57\nEntry # 16\nBirth date:     20th July 1824\nChild's Name:     Hans\nBaptism:     29th August [1824]\nFather:     Rasmus Dinessen\nMother:     Inger Mortensdatter"
         }
       ]
     },
@@ -8919,232 +9145,6 @@
       "notes": [
         {
           "text": "Hand written census page in Danish\n\nOpslag:     70\nFamily number:     41\nFarm:     Et Huus\n\nName:     Inger Mogensen\nAge:     63\nMarital Status:     Widowed\nBirth place:     Sweden\nPosition in Household:     Living with her daughter"
-        }
-      ]
-    },
-    {
-      "id": "MSJZ-P4D",
-      "lang": "en_US,EN;Q=0.8",
-      "about": "http://www.sa.dk/content/dk/ao-forside/find_kirkeboger#",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-6SSD",
-          "resourceId": "cis.user.MMM9-6SSD"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-6SSD",
-          "resourceId": "cis.user.MMM9-6SSD"
-        },
-        "modified": 1408847583377,
-        "created": 1408158558667
-      },
-      "resourceType": "DEFAULT",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/MSJZ-P4D"
-        }
-      },
-      "citations": [
-        {
-          "value": "Internet; Danish Archives; \"Arkivalier online\";\nFrom the link above:\nSelect \"Kirkebøger\" in the first box.  A new screen will come up.\nSelect \"København\" in the Vælg amt dropdown box.\nSelect \"Sokkelund\" in the Vælg herred dropdown box.\nSelect \"Gentofte\" in the Vælg sogn dropdown box.  Screen will refresh.\nClick on \"Gentofte\" in the tenth line, 1839 - 1867"
-        }
-      ],
-      "titles": [
-        {
-          "value": "1839 - Inger Martensdatter in entry for Hans Dinersen, \"Denmark; Kirkebøger, København, Sokkelund, Gentofte, Gentofte 1839-1867\""
-        }
-      ],
-      "notes": [
-        {
-          "text": "The image is of a handwritten page from the above named Church Book [In Danish].\n\nOpslag:     4\nEntry #:     15\nConfirmation:     1839\nChild's Name:     Hans Dinersen\nResidence:     Gentofte\nFather:     Rasmus Dinersen\nMother:     Inger Martensdatter\nBirth date:     20 July [1824]\nBaptism:     29 August 1824\nVaccination:     18 June 1829\n"
-        }
-      ]
-    },
-    {
-      "id": "MSVL-JN2",
-      "lang": "en_US,EN;Q=0.8",
-      "about": "http://www.sa.dk/content/dk/ao-forside/find_folketallinger#",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-6SSD",
-          "resourceId": "cis.user.MMM9-6SSD"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-6SSD",
-          "resourceId": "cis.user.MMM9-6SSD"
-        },
-        "modified": 1408896983726,
-        "created": 1408896579029
-      },
-      "resourceType": "DEFAULT",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/MSVL-JN2"
-        }
-      },
-      "citations": [
-        {
-          "value": "Internet; Danish Archives [Statens Arkiver]; http://www.sa.dk/\nSelect \"Folketællinger\"[census]\nIn Årgang select the year, \"1840\"\nIn Stedbetegnelse box select \"Landsogn\"\nAmt select \"København\"\nHerred select \"Sokkelund\"\nSogn select \"Gentofte\"\nScreen refreshes, at the bottom select \"Gentofte\""
-        }
-      ],
-      "titles": [
-        {
-          "value": "1840 - Inger Mogensdatter in household of Rasmus Dinersen, \"1840 Danish Census\""
-        }
-      ],
-      "notes": [
-        {
-          "text": "Hand written census page in Danish\n\nOpslag:     14\nFamily number:     42\nFarm:     Et Huus\n\nName:     Inger Mogensdatter\nAge:     58\nMarital Status:     Married\nPosition in Household:     House Wife"
-        }
-      ]
-    },
-    {
-      "id": "MSVL-69Q",
-      "lang": "en_US,EN;Q=0.8",
-      "about": "http://www.sa.dk/content/dk/ao-forside/find_folketallinger#",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-6SSD",
-          "resourceId": "cis.user.MMM9-6SSD"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-6SSD",
-          "resourceId": "cis.user.MMM9-6SSD"
-        },
-        "modified": 1408894074526,
-        "created": 1408894074526
-      },
-      "resourceType": "DEFAULT",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/MSVL-69Q"
-        }
-      },
-      "citations": [
-        {
-          "value": "Internet; Danish Archives [Statens Arkiver]; http://www.sa.dk/\nSelect \"Folketællinger\"[census]\nIn Årgang select the year, \"1834\"\nIn Stedbetegnelse box select \"Landsogn\"\nAmt select \"København\"\nHerred select \"Sokkelund\"\nSogn select \"Gentofte\"\nScreen refreshes, at the bottom select \"Gentofte\""
-        }
-      ],
-      "titles": [
-        {
-          "value": "1834 - Inger Mogensdatter in household of Rasmus Dinersen, \"1834 Danish Census\""
-        }
-      ],
-      "notes": [
-        {
-          "text": "Hand written census page in Danish\n\nOpslag:     25\nFamily number:     107\nFarm:     Et Huus paa Onsgaards Lod\n\nName:     Inger Mogensdatter\nAge:     52\nMarital Status:     Married\nPosition in Household:     House Wife"
-        }
-      ]
-    },
-    {
-      "id": "M2VP-SWM",
-      "lang": "en-us",
-      "about": "https://familysearch.org/ark:/61903/1:1:XYHY-28F",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "modified": 1415357935457,
-        "created": 1415357935457
-      },
-      "resourceType": "IGI",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/M2VP-SWM"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"Denmark Baptisms, 1618-1923,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/XYHY-28F : 6 December 2014), Inger Mortensdr in entry for Marie Rasmussen, 13 Jan 1822; citing , GENTOFTE, KOBENHAVN, DENMARK; FHL microfilm 48,204."
-        }
-      ],
-      "titles": [
-        {
-          "value": "Inger Mortensdr in entry for Marie Rasmussen, \"Denmark Baptisms, 1618-1923\""
-        }
-      ],
-      "notes": [
-        {
-          "text": "This extracted record was used to create this person in Family Tree."
-        }
-      ]
-    },
-    {
-      "id": "MM5M-YVS",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-NNTQ",
-          "resourceId": "cis.user.MMMM-NNTQ"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-NNTQ",
-          "resourceId": "cis.user.MMMM-NNTQ"
-        },
-        "modified": 1394306599000,
-        "created": 1394306599000
-      },
-      "resourceType": "LEGACY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/MM5M-YVS"
-        }
-      },
-      "citations": [
-        {
-          "value": ""
-        }
-      ],
-      "titles": [
-        {
-          "value": "Legacy NFS Source: Inger Monsen - Individual or family possessions: death: 3 April 1873; Saint Louis, Saint Louis, Missouri, United States"
-        }
-      ],
-      "notes": [
-        {
-          "text": "Individual or family possessions: death: 3 April 1873; Saint Louis, Saint Louis, Missouri, United States  \nIndividual or family possessions: birth-name: Inger Monssen or Monsson  \nIndividual or family possessions: birth: 25 May 1782; Kristianstad, Sweden"
-        }
-      ]
-    },
-    {
-      "id": "MSJN-D3N",
-      "lang": "en_US,EN;Q=0.8",
-      "about": "http://www.ddd.dda.dk/asp/vishusstand_en.asp",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-6SSD",
-          "resourceId": "cis.user.MMM9-6SSD"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-6SSD",
-          "resourceId": "cis.user.MMM9-6SSD"
-        },
-        "modified": 1408301401730,
-        "created": 1408292408196
-      },
-      "resourceType": "DEFAULT",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/MSJN-D3N"
-        }
-      },
-      "citations": [
-        {
-          "value": "Internet; Danish Archives [Statens Arkiver]; http://www.ddd.dda.dk/;\n        also     ; http://www.sa.dk/content/dk/ao-forside \n                      select \"Folketællinger\"\n                      select \"1850\"\n                      select \"Landsogn\"\n                      select \"Kobenhavn\"\n                      select \"Sokkelund\"\n                      select \"Gentofte\"\n       after screen refreshes, at the bottom there are three links; \"Kobenhavn\", \"Sokkelund\", \"Gentofte\".\n                     click \"Gentofte\"\n        LANView will run and a new tab will appear: \"_/data/folketaelling/FT1850/03038/\"\n                     open \"Opslag 30\"\n                     scroll to household # 40\n"
-        }
-      ],
-      "titles": [
-        {
-          "value": "1850 - Inger Mogendatter, \"1850 Danish Census\""
-        }
-      ],
-      "notes": [
-        {
-          "text": "Image is in \"Documents\" within the \"Memories\" tab.\n\nName:     Inger Mogensdatter\nAge:     68\nMarital Status:     Enke\nPosition in Household:     \nOccupation:     Huusmandsenke\nBirth place:     Sverrig [Sweden]"
         }
       ]
     }

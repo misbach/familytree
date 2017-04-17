@@ -57,7 +57,7 @@
           "href": "https://familysearch.org/platform/tree/persons/LZJF-HBM/families?sourceDescriptions=true"
         },
         "portrait": {
-          "href": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/LZJF-HBM/LZJF-HBM.jpg"
+          "href": "https://raw.githubusercontent.com/misbach/familytree/master/people/LZJF-HBM/LZJF-HBM.jpg"
         },
         "matches": {
           "href": "https://familysearch.org/platform/tree/persons/LZJF-HBM/matches"
@@ -413,16 +413,16 @@
         "familiesAsParent": [
           {
             "parent1": {
-              "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/L5C2-RZB/L5C2-RZB.json",
+              "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/L5C2-RZB/L5C2-RZB.json",
               "resourceId": "L5C2-RZB"
             },
             "parent2": {
-              "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/LZJF-HBM/LZJF-HBM.json",
+              "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/LZJF-HBM/LZJF-HBM.json",
               "resourceId": "LZJF-HBM"
             },
             "children": [
               {
-                "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/MPRC-FYV/MPRC-FYV.json",
+                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/MPRC-FYV/MPRC-FYV.json",
                 "resourceId": "MPRC-FYV"
               }
             ]
@@ -431,12 +431,12 @@
         "familiesAsChild": [
           {
             "parent1": {
-              "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/LK1T-2LL/LK1T-2LL.json",
+              "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/LK1T-2LL/LK1T-2LL.json",
               "resourceId": "LK1T-2LL"
             },
             "children": [
               {
-                "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/LZJF-HBM/LZJF-HBM.json",
+                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/LZJF-HBM/LZJF-HBM.json",
                 "resourceId": "LZJF-HBM"
               }
             ]

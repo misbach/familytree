@@ -57,7 +57,7 @@
           "href": "https://familysearch.org/platform/tree/persons/LRNM-TDL/families?sourceDescriptions=true"
         },
         "portrait": {
-          "href": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/LRNM-TDL/LRNM-TDL.jpg"
+          "href": "https://raw.githubusercontent.com/misbach/familytree/master/people/LRNM-TDL/LRNM-TDL.jpg"
         },
         "matches": {
           "href": "https://familysearch.org/platform/tree/persons/LRNM-TDL/matches"
@@ -234,16 +234,16 @@
         "familiesAsParent": [
           {
             "parent1": {
-              "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/KL6B-SHV/KL6B-SHV.json",
+              "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KL6B-SHV/KL6B-SHV.json",
               "resourceId": "KL6B-SHV"
             },
             "parent2": {
-              "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/LRNM-TDL/LRNM-TDL.json",
+              "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/LRNM-TDL/LRNM-TDL.json",
               "resourceId": "LRNM-TDL"
             },
             "children": [
               {
-                "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/L5C2-RZB/L5C2-RZB.json",
+                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/L5C2-RZB/L5C2-RZB.json",
                 "resourceId": "L5C2-RZB"
               }
             ]

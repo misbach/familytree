@@ -57,7 +57,7 @@
           "href": "https://familysearch.org/platform/tree/persons/2J3G-VM3/families?sourceDescriptions=true"
         },
         "portrait": {
-          "href": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/2J3G-VM3/2J3G-VM3.jpg"
+          "href": "https://raw.githubusercontent.com/misbach/familytree/master/people/2J3G-VM3/2J3G-VM3.jpg"
         },
         "matches": {
           "href": "https://familysearch.org/platform/tree/persons/2J3G-VM3/matches"
@@ -536,16 +536,16 @@
         "familiesAsParent": [
           {
             "parent1": {
-              "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/2J3G-VM3/2J3G-VM3.json",
+              "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/2J3G-VM3/2J3G-VM3.json",
               "resourceId": "2J3G-VM3"
             },
             "parent2": {
-              "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/LV2B-73T/LV2B-73T.json",
+              "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/LV2B-73T/LV2B-73T.json",
               "resourceId": "LV2B-73T"
             },
             "children": [
               {
-                "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/LHRZ-352/LHRZ-352.json",
+                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/LHRZ-352/LHRZ-352.json",
                 "resourceId": "LHRZ-352"
               }
             ]
@@ -554,16 +554,16 @@
         "familiesAsChild": [
           {
             "parent1": {
-              "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/LHC6-NRH/LHC6-NRH.json",
+              "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/LHC6-NRH/LHC6-NRH.json",
               "resourceId": "LHC6-NRH"
             },
             "parent2": {
-              "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/LHC6-NTH/LHC6-NTH.json",
+              "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/LHC6-NTH/LHC6-NTH.json",
               "resourceId": "LHC6-NTH"
             },
             "children": [
               {
-                "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/2J3G-VM3/2J3G-VM3.json",
+                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/2J3G-VM3/2J3G-VM3.json",
                 "resourceId": "2J3G-VM3"
               }
             ]

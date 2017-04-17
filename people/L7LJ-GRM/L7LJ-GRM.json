@@ -57,7 +57,7 @@
           "href": "https://familysearch.org/platform/tree/persons/L7LJ-GRM/families?sourceDescriptions=true"
         },
         "portrait": {
-          "href": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/L7LJ-GRM/L7LJ-GRM.jpg"
+          "href": "https://raw.githubusercontent.com/misbach/familytree/master/people/L7LJ-GRM/L7LJ-GRM.jpg"
         },
         "matches": {
           "href": "https://familysearch.org/platform/tree/persons/L7LJ-GRM/matches"
@@ -305,16 +305,16 @@
         "familiesAsParent": [
           {
             "parent1": {
-              "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/L4TK-328/L4TK-328.json",
+              "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/L4TK-328/L4TK-328.json",
               "resourceId": "L4TK-328"
             },
             "parent2": {
-              "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/L7LJ-GRM/L7LJ-GRM.json",
+              "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/L7LJ-GRM/L7LJ-GRM.json",
               "resourceId": "L7LJ-GRM"
             },
             "children": [
               {
-                "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/L7JG-VHQ/L7JG-VHQ.json",
+                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/L7JG-VHQ/L7JG-VHQ.json",
                 "resourceId": "L7JG-VHQ"
               }
             ]

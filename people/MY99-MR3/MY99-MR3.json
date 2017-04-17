@@ -93,7 +93,7 @@
           "href": "https://familysearch.org/platform/tree/persons/MY99-MR3/families?sourceDescriptions=true"
         },
         "portrait": {
-          "href": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/MY99-MR3/MY99-MR3.jpg"
+          "href": "https://raw.githubusercontent.com/misbach/familytree/master/people/MY99-MR3/MY99-MR3.jpg"
         },
         "matches": {
           "href": "https://familysearch.org/platform/tree/persons/MY99-MR3/matches"
@@ -1100,16 +1100,16 @@
         "familiesAsParent": [
           {
             "parent1": {
-              "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/MY99-MR3/MY99-MR3.json",
+              "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/MY99-MR3/MY99-MR3.json",
               "resourceId": "MY99-MR3"
             },
             "parent2": {
-              "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/MQ18-XTT/MQ18-XTT.json",
+              "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/MQ18-XTT/MQ18-XTT.json",
               "resourceId": "MQ18-XTT"
             },
             "children": [
               {
-                "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/L2WY-FFQ/L2WY-FFQ.json",
+                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/L2WY-FFQ/L2WY-FFQ.json",
                 "resourceId": "L2WY-FFQ"
               }
             ]
@@ -1118,16 +1118,16 @@
         "familiesAsChild": [
           {
             "parent1": {
-              "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/LL7X-8RZ/LL7X-8RZ.json",
+              "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/LL7X-8RZ/LL7X-8RZ.json",
               "resourceId": "LL7X-8RZ"
             },
             "parent2": {
-              "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/L875-LMF/L875-LMF.json",
+              "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/L875-LMF/L875-LMF.json",
               "resourceId": "L875-LMF"
             },
             "children": [
               {
-                "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/MY99-MR3/MY99-MR3.json",
+                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/MY99-MR3/MY99-MR3.json",
                 "resourceId": "MY99-MR3"
               }
             ]
@@ -13362,35 +13362,68 @@
       }
     },
     {
-      "id": "96WT-68C",
+      "id": "9N63-ZH6",
       "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:QVLL-CQ3N",
+      "about": "https://familysearch.org/ark:/61903/1:1:XRJL-S4C",
       "attribution": {
         "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-382Q",
-          "resourceId": "cis.user.MMM9-382Q"
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MM9H-M2W2",
+          "resourceId": "cis.user.MM9H-M2W2"
         },
         "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-382Q",
-          "resourceId": "cis.user.MMM9-382Q"
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MM9H-M2W2",
+          "resourceId": "cis.user.MM9H-M2W2"
         },
-        "modified": 1449690062678,
-        "created": 1449690062678
+        "modified": 1475348113388,
+        "created": 1475348113388
       },
       "resourceType": "FSREADONLY",
       "links": {
         "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/96WT-68C"
+          "href": "https://familysearch.org/platform/sources/descriptions/9N63-ZH6"
         }
       },
       "citations": [
         {
-          "value": "\"Find A Grave Index,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/QVLL-CQ3N : 13 December 2015), Jacob Godfrey Persinger, 1841; Burial, , Alleghany, Virginia, United States of America, Persinger  Memorial  Cemetery; citing record ID 100185313, Find a Grave, http://www.findagrave.com."
+          "value": "\"Virginia Marriages, 1785-1940,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/XRJL-S4C : 5 December 2014), Jacob Persinger Sr. in entry for William Rose and Martha Persinger, 20 Oct 1815; citing Botetourt Co., Virginia, reference 2:3VVRHL2; FHL microfilm 30,734."
         }
       ],
       "titles": [
         {
-          "value": "Jacob Godfrey Persinger, \"Find A Grave Index\""
+          "value": "Jacob Persinger Sr. in entry for William Rose and Martha Persinger, \"Virginia Marriages, 1785-1940\""
+        }
+      ]
+    },
+    {
+      "id": "9N63-CPQ",
+      "lang": "en_US",
+      "about": "https://familysearch.org/ark:/61903/1:1:XRJ2-JLD",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MM9H-M2W2",
+          "resourceId": "cis.user.MM9H-M2W2"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MM9H-M2W2",
+          "resourceId": "cis.user.MM9H-M2W2"
+        },
+        "modified": 1475347983226,
+        "created": 1475347983226
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/9N63-CPQ"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"Virginia Marriages, 1785-1940,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/XRJ2-JLD : 5 December 2014), Jacob Persinger Sr. in entry for Peter Wright and Sally Persinger, 27 Dec 1812; citing Botetourt Co., Virginia, reference 2:3VVR9F0; FHL microfilm 30,734."
+        }
+      ],
+      "titles": [
+        {
+          "value": "Jacob Persinger Sr. in entry for Peter Wright and Sally Persinger, \"Virginia Marriages, 1785-1940\""
         }
       ]
     },
@@ -13433,39 +13466,6 @@
       ]
     },
     {
-      "id": "MSN9-4QB",
-      "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:XRD4-MVD",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MM9S-Z377",
-          "resourceId": "cis.user.MM9S-Z377"
-        },
-        "modified": 1489564388668,
-        "created": 1407635118966
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/MSN9-4QB"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"Virginia Marriages, 1785-1940,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/XRD4-MVD : 5 December 2014), Jacob Persinger Sr. in entry for Archibald Reed and Susanna Persinger, 08 Feb 1808; citing Botetourt Co., Virginia, reference pg 171; FHL microfilm 30,734."
-        }
-      ],
-      "titles": [
-        {
-          "value": "Jacob Persinger Sr. in entry for Archibald Reed and Susanna Persinger, \"Virginia Marriages, 1785-1940\""
-        }
-      ]
-    },
-    {
       "id": "MM9F-CLV",
       "about": "",
       "attribution": {
@@ -13503,101 +13503,35 @@
       ]
     },
     {
-      "id": "MSN9-4KM",
+      "id": "96WT-68C",
       "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:XRD4-4B4",
+      "about": "https://familysearch.org/ark:/61903/1:1:QVLL-CQ3N",
       "attribution": {
         "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-382Q",
+          "resourceId": "cis.user.MMM9-382Q"
         },
         "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MM9S-Z377",
-          "resourceId": "cis.user.MM9S-Z377"
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-382Q",
+          "resourceId": "cis.user.MMM9-382Q"
         },
-        "modified": 1489564389609,
-        "created": 1407635334801
+        "modified": 1449690062678,
+        "created": 1449690062678
       },
       "resourceType": "FSREADONLY",
       "links": {
         "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/MSN9-4KM"
+          "href": "https://familysearch.org/platform/sources/descriptions/96WT-68C"
         }
       },
       "citations": [
         {
-          "value": "\"Virginia Marriages, 1785-1940,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/XRD4-4B4 : 5 December 2014), Jacob Persinger Sr. in entry for Peter Wright and Sally Persinger, 27 Dec 1812; citing Botetourt Co., Virginia, reference pg 209; FHL microfilm 30,734."
+          "value": "\"Find A Grave Index,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/QVLL-CQ3N : 13 December 2015), Jacob Godfrey Persinger, 1841; Burial, , Alleghany, Virginia, United States of America, Persinger  Memorial  Cemetery; citing record ID 100185313, Find a Grave, http://www.findagrave.com."
         }
       ],
       "titles": [
         {
-          "value": "Jacob Persinger Sr. in entry for Peter Wright and Sally Persinger, \"Virginia Marriages, 1785-1940\""
-        }
-      ]
-    },
-    {
-      "id": "987Q-6BR",
-      "lang": "en_US,EN;Q=0.5",
-      "about": "https://familysearch.org/ark:/61903/3:1:33SQ-G5ZZ-ZJ3?cc=1916219&wc=M6YX-SP8:203270101",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-WDHQ",
-          "resourceId": "cis.user.MMMM-WDHQ"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-WDHQ",
-          "resourceId": "cis.user.MMMM-WDHQ"
-        },
-        "modified": 1428685071961,
-        "created": 1428685071961
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/987Q-6BR"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"United States War of 1812 Index to Service Records, 1812-1815,\" database with images, FamilySearch (https://familysearch.org/pal:/MM9.3.1/TH-1942-21910-9513-43?cc=1916219&wc=M6YX-SP8:203270101 : 11 March 2016), Perm - Pf > image 937 of 2569; citing NARA microfilm publication M602 (Washington, D.C.: National Archives and Records Administration, n.d.)."
-        }
-      ],
-      "titles": [
-        {
-          "value": "United States War of 1812 Index to Service Records, 1812-1815; pal:/MM9.3.1/TH-1942-21910-9513-43"
-        }
-      ]
-    },
-    {
-      "id": "9N63-CPQ",
-      "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:XRJ2-JLD",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MM9H-M2W2",
-          "resourceId": "cis.user.MM9H-M2W2"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MM9H-M2W2",
-          "resourceId": "cis.user.MM9H-M2W2"
-        },
-        "modified": 1475347983226,
-        "created": 1475347983226
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/9N63-CPQ"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"Virginia Marriages, 1785-1940,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/XRJ2-JLD : 5 December 2014), Jacob Persinger Sr. in entry for Peter Wright and Sally Persinger, 27 Dec 1812; citing Botetourt Co., Virginia, reference 2:3VVR9F0; FHL microfilm 30,734."
-        }
-      ],
-      "titles": [
-        {
-          "value": "Jacob Persinger Sr. in entry for Peter Wright and Sally Persinger, \"Virginia Marriages, 1785-1940\""
+          "value": "Jacob Godfrey Persinger, \"Find A Grave Index\""
         }
       ]
     },
@@ -13635,9 +13569,9 @@
       ]
     },
     {
-      "id": "MSN9-C9W",
+      "id": "MSN9-4KM",
       "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:VHZ6-6YW",
+      "about": "https://familysearch.org/ark:/61903/1:1:XRD4-4B4",
       "attribution": {
         "contributor": {
           "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
@@ -13647,126 +13581,23 @@
           "resource": "https://familysearch.org/platform/users/agents/cis.user.MM9S-Z377",
           "resourceId": "cis.user.MM9S-Z377"
         },
-        "modified": 1489564392656,
-        "created": 1407636001044
+        "modified": 1489564389609,
+        "created": 1407635334801
       },
       "resourceType": "FSREADONLY",
       "links": {
         "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/MSN9-C9W"
+          "href": "https://familysearch.org/platform/sources/descriptions/MSN9-4KM"
         }
       },
       "citations": [
         {
-          "value": "\"United States Headstone Applications for U.S. Military Veterans, 1925-1949\", database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/VHZ6-6YW : 17 May 2016), Jacob Persinger, ."
+          "value": "\"Virginia Marriages, 1785-1940,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/XRD4-4B4 : 5 December 2014), Jacob Persinger Sr. in entry for Peter Wright and Sally Persinger, 27 Dec 1812; citing Botetourt Co., Virginia, reference pg 209; FHL microfilm 30,734."
         }
       ],
       "titles": [
         {
-          "value": "Jacob Persinger, \"United States Headstone Applications for U.S. Military Veterans, 1925-1949\""
-        }
-      ]
-    },
-    {
-      "id": "9N63-ZH6",
-      "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:XRJL-S4C",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MM9H-M2W2",
-          "resourceId": "cis.user.MM9H-M2W2"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MM9H-M2W2",
-          "resourceId": "cis.user.MM9H-M2W2"
-        },
-        "modified": 1475348113388,
-        "created": 1475348113388
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/9N63-ZH6"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"Virginia Marriages, 1785-1940,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/XRJL-S4C : 5 December 2014), Jacob Persinger Sr. in entry for William Rose and Martha Persinger, 20 Oct 1815; citing Botetourt Co., Virginia, reference 2:3VVRHL2; FHL microfilm 30,734."
-        }
-      ],
-      "titles": [
-        {
-          "value": "Jacob Persinger Sr. in entry for William Rose and Martha Persinger, \"Virginia Marriages, 1785-1940\""
-        }
-      ]
-    },
-    {
-      "id": "MM9F-M8M",
-      "about": "",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-WSMG",
-          "resourceId": "cis.user.MMMM-WSMG"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-WSMG",
-          "resourceId": "cis.user.MMMM-WSMG"
-        },
-        "modified": 1357084494000,
-        "created": 1357084494000
-      },
-      "resourceType": "DEFAULT",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/MM9F-M8M"
-        }
-      },
-      "citations": [
-        {
-          "value": "Citations in notes"
-        }
-      ],
-      "titles": [
-        {
-          "value": "Persinger, Jacob Godfrey (1749-1841) Source Notes, Part 1"
-        }
-      ],
-      "notes": [
-        {
-          "text": "!BURIAL:  He is buried in the Persinger Cemetery on the home place on Potts Creek.  (see Mrs. Calvin Wright's write up).  He died between 1840 & May 1841\n\n!Bev Bakos (6 May 2005) said: \"Marsha Martin told me that Jacob Godfrey was born in PA.  Gee, I wish I knew why she came to that conclusion.  If that were true, then Jacob, Sr. did n't leave there until close to 1750\"\n\nBev Bakos (19 Feb 2005) wrote that Marjorie (Carter) McCarthy who owned one of the original Persinger farms near Covington, Alleghany Co., VA took them in 1997 through the old Persinger cemetery and also through the house that Jacob Godfrey Persinger built for his wife in the mid 1770's.  It is in great shape and is currently rented to a Persinger family member.  It is owned by Curtis Wright and his wife.  It was wonderful to see the original walls still showing in the living room, including the low doorways.\n\nHe was carried off by the Indians in 1756 and lived with them at Chillicothe, OH, principal city of the Shawnees for about 7 years. In 1763, as a result of the Treaty of Paris, Chief Cornstalk of the Shawnees was required to give up his prisoners in exchange that took place near Iron Gate, VA. Jacob Persinger Sr. c!aimed the 10 year old boy and gave him the name of Jacob Jr. Jacob Jr. did not like the ways of the white man and ran away to return to the Indians several times, only to be returned upon orders of the chief.  Jacob Jr. doubted that he was the son of Jacob Sr. He reportedly adopted the birthday of a Godfrey boy in PA who was captured by Indians under circumstances similar to his experience. Morton in \"A Centennial History of Alleghany Co. says that the lost Persinger boy had a snake bite scar on his leg, but Jacob Jr. had no such scar. Carpenter's \"History of the Carpenters of Ft. Carpenter\", quotes Alexander Persinger, son of Jacob Jr. as stating that his father did have: such a scar, and that his father remembered being taken from a mill by the Indians. Morton points out that Mrs. Persinger was only 4 1/2 feet taIl and Jacob Jr. was 6 ft. 4 in. This is not conflict; this Mrs. Persinger was not Jacob Jr's mother but the former widow Pence and not related to Jacob Jr.  Long life and tallness are characteristics of the descendents of Christopher and Henry Persinger.  Christopher and Jacob Jr. must have been closely associated since they settled on adjoining farms on Potts Creek. Henry and Jacob gave 5 of their children similar or identical names; Christopher and Jacob 3. It is the author's opinion that after spending his formulative years with the Shawnees, Jacob appeared rather wild and independent to the white people and it is logical that their ways were repugnant to him. The Persinger's reared Jacob Jr. as their son; the reader may decide whether he was a fact. Jacob Jr. fought in the Revolution in Capt. Matthew Arbuckle's VA Company, September 6, 1775 to November 1, 1776. Capt. Arbuckle was a neighbor who lived near the mouth of the Cowpasture. In 1777 he bought 110 acres on Potts Creek and in 1782 another 183 acres. In 1778 he married Mary Kimberlin who refused to live in a wigwam with bearskins for a floor and bed.  Jacob built the originhal Persinger home which still stands on Potts Creek about 1/2 mile above the confluence of Potts Creek and Blue Spring Rum. The house is in excellent condition, the logs having been covered with weatherboard and is owned by Jack Persinger of the 6th generation. Jacob ,vas constable in Alleghany Co. 1809-15. He died 1840 and his will was recorded in Alleghany Co. records July 3, 1840 (Wills Bk 2, p 113).  He is buried in the Persinger Cemetery on the home place on Potts Creek.\n"
-        }
-      ]
-    },
-    {
-      "id": "MSN9-H6J",
-      "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:XRD4-83F",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MM9S-Z377",
-          "resourceId": "cis.user.MM9S-Z377"
-        },
-        "modified": 1489564391327,
-        "created": 1407635716175
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/MSN9-H6J"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"Virginia Marriages, 1785-1940,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/XRD4-83F : 5 December 2014), Jacob Persinger Sr. in entry for William Rose and Martha Persinger, 20 Oct 1815; citing Botetourt Co., Virginia, reference pg 230; FHL microfilm 30,734."
-        }
-      ],
-      "titles": [
-        {
-          "value": "Jacob Persinger Sr. in entry for William Rose and Martha Persinger, \"Virginia Marriages, 1785-1940\""
+          "value": "Jacob Persinger Sr. in entry for Peter Wright and Sally Persinger, \"Virginia Marriages, 1785-1940\""
         }
       ]
     },
@@ -13808,6 +13639,142 @@
       ]
     },
     {
+      "id": "MM9F-M8M",
+      "about": "",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-WSMG",
+          "resourceId": "cis.user.MMMM-WSMG"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-WSMG",
+          "resourceId": "cis.user.MMMM-WSMG"
+        },
+        "modified": 1357084494000,
+        "created": 1357084494000
+      },
+      "resourceType": "DEFAULT",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/MM9F-M8M"
+        }
+      },
+      "citations": [
+        {
+          "value": "Citations in notes"
+        }
+      ],
+      "titles": [
+        {
+          "value": "Persinger, Jacob Godfrey (1749-1841) Source Notes, Part 1"
+        }
+      ],
+      "notes": [
+        {
+          "text": "!BURIAL:  He is buried in the Persinger Cemetery on the home place on Potts Creek.  (see Mrs. Calvin Wright's write up).  He died between 1840 & May 1841\n\n!Bev Bakos (6 May 2005) said: \"Marsha Martin told me that Jacob Godfrey was born in PA.  Gee, I wish I knew why she came to that conclusion.  If that were true, then Jacob, Sr. did n't leave there until close to 1750\"\n\nBev Bakos (19 Feb 2005) wrote that Marjorie (Carter) McCarthy who owned one of the original Persinger farms near Covington, Alleghany Co., VA took them in 1997 through the old Persinger cemetery and also through the house that Jacob Godfrey Persinger built for his wife in the mid 1770's.  It is in great shape and is currently rented to a Persinger family member.  It is owned by Curtis Wright and his wife.  It was wonderful to see the original walls still showing in the living room, including the low doorways.\n\nHe was carried off by the Indians in 1756 and lived with them at Chillicothe, OH, principal city of the Shawnees for about 7 years. In 1763, as a result of the Treaty of Paris, Chief Cornstalk of the Shawnees was required to give up his prisoners in exchange that took place near Iron Gate, VA. Jacob Persinger Sr. c!aimed the 10 year old boy and gave him the name of Jacob Jr. Jacob Jr. did not like the ways of the white man and ran away to return to the Indians several times, only to be returned upon orders of the chief.  Jacob Jr. doubted that he was the son of Jacob Sr. He reportedly adopted the birthday of a Godfrey boy in PA who was captured by Indians under circumstances similar to his experience. Morton in \"A Centennial History of Alleghany Co. says that the lost Persinger boy had a snake bite scar on his leg, but Jacob Jr. had no such scar. Carpenter's \"History of the Carpenters of Ft. Carpenter\", quotes Alexander Persinger, son of Jacob Jr. as stating that his father did have: such a scar, and that his father remembered being taken from a mill by the Indians. Morton points out that Mrs. Persinger was only 4 1/2 feet taIl and Jacob Jr. was 6 ft. 4 in. This is not conflict; this Mrs. Persinger was not Jacob Jr's mother but the former widow Pence and not related to Jacob Jr.  Long life and tallness are characteristics of the descendents of Christopher and Henry Persinger.  Christopher and Jacob Jr. must have been closely associated since they settled on adjoining farms on Potts Creek. Henry and Jacob gave 5 of their children similar or identical names; Christopher and Jacob 3. It is the author's opinion that after spending his formulative years with the Shawnees, Jacob appeared rather wild and independent to the white people and it is logical that their ways were repugnant to him. The Persinger's reared Jacob Jr. as their son; the reader may decide whether he was a fact. Jacob Jr. fought in the Revolution in Capt. Matthew Arbuckle's VA Company, September 6, 1775 to November 1, 1776. Capt. Arbuckle was a neighbor who lived near the mouth of the Cowpasture. In 1777 he bought 110 acres on Potts Creek and in 1782 another 183 acres. In 1778 he married Mary Kimberlin who refused to live in a wigwam with bearskins for a floor and bed.  Jacob built the originhal Persinger home which still stands on Potts Creek about 1/2 mile above the confluence of Potts Creek and Blue Spring Rum. The house is in excellent condition, the logs having been covered with weatherboard and is owned by Jack Persinger of the 6th generation. Jacob ,vas constable in Alleghany Co. 1809-15. He died 1840 and his will was recorded in Alleghany Co. records July 3, 1840 (Wills Bk 2, p 113).  He is buried in the Persinger Cemetery on the home place on Potts Creek.\n"
+        }
+      ]
+    },
+    {
+      "id": "MSN9-C9W",
+      "lang": "en_US",
+      "about": "https://familysearch.org/ark:/61903/1:1:VHZ6-6YW",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MM9S-Z377",
+          "resourceId": "cis.user.MM9S-Z377"
+        },
+        "modified": 1489564392656,
+        "created": 1407636001044
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/MSN9-C9W"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"United States Headstone Applications for U.S. Military Veterans, 1925-1949\", database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/VHZ6-6YW : 17 May 2016), Jacob Persinger, ."
+        }
+      ],
+      "titles": [
+        {
+          "value": "Jacob Persinger, \"United States Headstone Applications for U.S. Military Veterans, 1925-1949\""
+        }
+      ]
+    },
+    {
+      "id": "MSN9-H6J",
+      "lang": "en_US",
+      "about": "https://familysearch.org/ark:/61903/1:1:XRD4-83F",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MM9S-Z377",
+          "resourceId": "cis.user.MM9S-Z377"
+        },
+        "modified": 1489564391327,
+        "created": 1407635716175
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/MSN9-H6J"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"Virginia Marriages, 1785-1940,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/XRD4-83F : 5 December 2014), Jacob Persinger Sr. in entry for William Rose and Martha Persinger, 20 Oct 1815; citing Botetourt Co., Virginia, reference pg 230; FHL microfilm 30,734."
+        }
+      ],
+      "titles": [
+        {
+          "value": "Jacob Persinger Sr. in entry for William Rose and Martha Persinger, \"Virginia Marriages, 1785-1940\""
+        }
+      ]
+    },
+    {
+      "id": "987Q-6BR",
+      "lang": "en_US,EN;Q=0.5",
+      "about": "https://familysearch.org/ark:/61903/3:1:33SQ-G5ZZ-ZJ3?cc=1916219&wc=M6YX-SP8:203270101",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-WDHQ",
+          "resourceId": "cis.user.MMMM-WDHQ"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-WDHQ",
+          "resourceId": "cis.user.MMMM-WDHQ"
+        },
+        "modified": 1428685071961,
+        "created": 1428685071961
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/987Q-6BR"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"United States War of 1812 Index to Service Records, 1812-1815,\" database with images, FamilySearch (https://familysearch.org/pal:/MM9.3.1/TH-1942-21910-9513-43?cc=1916219&wc=M6YX-SP8:203270101 : 11 March 2016), Perm - Pf > image 937 of 2569; citing NARA microfilm publication M602 (Washington, D.C.: National Archives and Records Administration, n.d.)."
+        }
+      ],
+      "titles": [
+        {
+          "value": "United States War of 1812 Index to Service Records, 1812-1815; pal:/MM9.3.1/TH-1942-21910-9513-43"
+        }
+      ]
+    },
+    {
       "id": "MSN9-W99",
       "lang": "en_US",
       "about": "https://familysearch.org/ark:/61903/1:1:XRC3-27M",
@@ -13837,6 +13804,39 @@
       "titles": [
         {
           "value": "Jacob Parsinger, \"Virginia Marriages, 1785-1940\""
+        }
+      ]
+    },
+    {
+      "id": "MSN9-4QB",
+      "lang": "en_US",
+      "about": "https://familysearch.org/ark:/61903/1:1:XRD4-MVD",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MM9S-Z377",
+          "resourceId": "cis.user.MM9S-Z377"
+        },
+        "modified": 1489564388668,
+        "created": 1407635118966
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/MSN9-4QB"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"Virginia Marriages, 1785-1940,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/XRD4-MVD : 5 December 2014), Jacob Persinger Sr. in entry for Archibald Reed and Susanna Persinger, 08 Feb 1808; citing Botetourt Co., Virginia, reference pg 171; FHL microfilm 30,734."
+        }
+      ],
+      "titles": [
+        {
+          "value": "Jacob Persinger Sr. in entry for Archibald Reed and Susanna Persinger, \"Virginia Marriages, 1785-1940\""
         }
       ]
     }

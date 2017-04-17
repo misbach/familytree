@@ -93,7 +93,7 @@
           "href": "https://familysearch.org/platform/tree/persons/LK1T-2LL/families?sourceDescriptions=true"
         },
         "portrait": {
-          "href": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/LK1T-2LL/LK1T-2LL.jpg"
+          "href": "https://raw.githubusercontent.com/misbach/familytree/master/people/LK1T-2LL/LK1T-2LL.jpg"
         },
         "matches": {
           "href": "https://familysearch.org/platform/tree/persons/LK1T-2LL/matches"
@@ -381,23 +381,23 @@
         "familiesAsParent": [
           {
             "parent1": {
-              "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/LK1T-2LL/LK1T-2LL.json",
+              "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/LK1T-2LL/LK1T-2LL.json",
               "resourceId": "LK1T-2LL"
             },
             "parent2": {
-              "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/L6G1-33X/L6G1-33X.json",
+              "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/L6G1-33X/L6G1-33X.json",
               "resourceId": "L6G1-33X"
             },
             "children": []
           },
           {
             "parent1": {
-              "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/LK1T-2LL/LK1T-2LL.json",
+              "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/LK1T-2LL/LK1T-2LL.json",
               "resourceId": "LK1T-2LL"
             },
             "children": [
               {
-                "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/LZJF-HBM/LZJF-HBM.json",
+                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/LZJF-HBM/LZJF-HBM.json",
                 "resourceId": "LZJF-HBM"
               }
             ]
@@ -406,16 +406,16 @@
         "familiesAsChild": [
           {
             "parent1": {
-              "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/LK76-RWF/LK76-RWF.json",
+              "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/LK76-RWF/LK76-RWF.json",
               "resourceId": "LK76-RWF"
             },
             "parent2": {
-              "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/KHBR-6PJ/KHBR-6PJ.json",
+              "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KHBR-6PJ/KHBR-6PJ.json",
               "resourceId": "KHBR-6PJ"
             },
             "children": [
               {
-                "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/LK1T-2LL/LK1T-2LL.json",
+                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/LK1T-2LL/LK1T-2LL.json",
                 "resourceId": "LK1T-2LL"
               }
             ]

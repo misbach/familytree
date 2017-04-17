@@ -57,7 +57,7 @@
           "href": "https://familysearch.org/platform/tree/persons/KPQQ-MKZ/families?sourceDescriptions=true"
         },
         "portrait": {
-          "href": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/KPQQ-MKZ/KPQQ-MKZ.jpg"
+          "href": "https://raw.githubusercontent.com/misbach/familytree/master/people/KPQQ-MKZ/KPQQ-MKZ.jpg"
         },
         "matches": {
           "href": "https://familysearch.org/platform/tree/persons/KPQQ-MKZ/matches"
@@ -294,16 +294,16 @@
         "familiesAsParent": [
           {
             "parent1": {
-              "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/KPQQ-MKZ/KPQQ-MKZ.json",
+              "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KPQQ-MKZ/KPQQ-MKZ.json",
               "resourceId": "KPQQ-MKZ"
             },
             "parent2": {
-              "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/KFF2-88L/KFF2-88L.json",
+              "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KFF2-88L/KFF2-88L.json",
               "resourceId": "KFF2-88L"
             },
             "children": [
               {
-                "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/KFKM-TRN/KFKM-TRN.json",
+                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KFKM-TRN/KFKM-TRN.json",
                 "resourceId": "KFKM-TRN"
               }
             ]
@@ -312,16 +312,16 @@
         "familiesAsChild": [
           {
             "parent1": {
-              "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/KL49-85D/KL49-85D.json",
+              "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KL49-85D/KL49-85D.json",
               "resourceId": "KL49-85D"
             },
             "parent2": {
-              "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/K81C-KPB/K81C-KPB.json",
+              "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/K81C-KPB/K81C-KPB.json",
               "resourceId": "K81C-KPB"
             },
             "children": [
               {
-                "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/KPQQ-MKZ/KPQQ-MKZ.json",
+                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KPQQ-MKZ/KPQQ-MKZ.json",
                 "resourceId": "KPQQ-MKZ"
               }
             ]

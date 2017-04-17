@@ -57,7 +57,7 @@
           "href": "https://familysearch.org/platform/tree/persons/LRR4-S3Z/families?sourceDescriptions=true"
         },
         "portrait": {
-          "href": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/LRR4-S3Z/LRR4-S3Z.jpg"
+          "href": "https://raw.githubusercontent.com/misbach/familytree/master/people/LRR4-S3Z/LRR4-S3Z.jpg"
         },
         "matches": {
           "href": "https://familysearch.org/platform/tree/persons/LRR4-S3Z/matches"
@@ -301,16 +301,16 @@
         "familiesAsParent": [
           {
             "parent1": {
-              "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/LVFP-STT/LVFP-STT.json",
+              "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/LVFP-STT/LVFP-STT.json",
               "resourceId": "LVFP-STT"
             },
             "parent2": {
-              "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/LRR4-S3Z/LRR4-S3Z.json",
+              "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/LRR4-S3Z/LRR4-S3Z.json",
               "resourceId": "LRR4-S3Z"
             },
             "children": [
               {
-                "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/LQR3-V1C/LQR3-V1C.json",
+                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/LQR3-V1C/LQR3-V1C.json",
                 "resourceId": "LQR3-V1C"
               }
             ]
@@ -319,32 +319,32 @@
         "familiesAsChild": [
           {
             "parent1": {
-              "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/LH71-XCF/LH71-XCF.json",
+              "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/LH71-XCF/LH71-XCF.json",
               "resourceId": "LH71-XCF"
             },
             "parent2": {
-              "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/LJLQ-DYF/LJLQ-DYF.json",
+              "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/LJLQ-DYF/LJLQ-DYF.json",
               "resourceId": "LJLQ-DYF"
             },
             "children": [
               {
-                "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/LRR4-S3Z/LRR4-S3Z.json",
+                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/LRR4-S3Z/LRR4-S3Z.json",
                 "resourceId": "LRR4-S3Z"
               }
             ]
           },
           {
             "parent1": {
-              "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/MWH4-SXT/MWH4-SXT.json",
+              "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/MWH4-SXT/MWH4-SXT.json",
               "resourceId": "MWH4-SXT"
             },
             "parent2": {
-              "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/LH8C-L24/LH8C-L24.json",
+              "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/LH8C-L24/LH8C-L24.json",
               "resourceId": "LH8C-L24"
             },
             "children": [
               {
-                "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/LRR4-S3Z/LRR4-S3Z.json",
+                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/LRR4-S3Z/LRR4-S3Z.json",
                 "resourceId": "LRR4-S3Z"
               }
             ]
@@ -17297,7 +17297,7 @@
       }
     },
     {
-      "id": "M9H7-8HC",
+      "id": "M9H7-84T",
       "attribution": {
         "contributor": {
           "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-WQ2B",
@@ -17307,18 +17307,18 @@
           "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-WQ2B",
           "resourceId": "cis.user.MMM9-WQ2B"
         },
-        "modified": 1402466270572,
-        "created": 1402466270572
+        "modified": 1402466270167,
+        "created": 1402466270167
       },
       "resourceType": "LEGACY",
       "links": {
         "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/M9H7-8HC"
+          "href": "https://familysearch.org/platform/sources/descriptions/M9H7-84T"
         }
       },
       "citations": [
         {
-          "value": ""
+          "value": "My Confederate Ancestors & Their Units, Steve Smith"
         }
       ],
       "titles": [
@@ -17328,7 +17328,7 @@
       ],
       "notes": [
         {
-          "text": "DESKTOP family tree on ancestry.com (D.N. 4368)"
+          "text": ""
         }
       ]
     },
@@ -17366,7 +17366,7 @@
       ]
     },
     {
-      "id": "M9H7-84T",
+      "id": "M9H7-8HC",
       "attribution": {
         "contributor": {
           "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-WQ2B",
@@ -17376,18 +17376,18 @@
           "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-WQ2B",
           "resourceId": "cis.user.MMM9-WQ2B"
         },
-        "modified": 1402466270167,
-        "created": 1402466270167
+        "modified": 1402466270572,
+        "created": 1402466270572
       },
       "resourceType": "LEGACY",
       "links": {
         "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/M9H7-84T"
+          "href": "https://familysearch.org/platform/sources/descriptions/M9H7-8HC"
         }
       },
       "citations": [
         {
-          "value": "My Confederate Ancestors & Their Units, Steve Smith"
+          "value": ""
         }
       ],
       "titles": [
@@ -17397,7 +17397,7 @@
       ],
       "notes": [
         {
-          "text": ""
+          "text": "DESKTOP family tree on ancestry.com (D.N. 4368)"
         }
       ]
     }

@@ -76,7 +76,7 @@
           "href": "https://familysearch.org/platform/tree/persons/M4KC-6F3/families?sourceDescriptions=true"
         },
         "portrait": {
-          "href": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/M4KC-6F3/M4KC-6F3.jpg"
+          "href": "https://raw.githubusercontent.com/misbach/familytree/master/people/M4KC-6F3/M4KC-6F3.jpg"
         },
         "matches": {
           "href": "https://familysearch.org/platform/tree/persons/M4KC-6F3/matches"
@@ -391,16 +391,16 @@
         "familiesAsParent": [
           {
             "parent1": {
-              "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/9KXF-PCJ/9KXF-PCJ.json",
+              "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/9KXF-PCJ/9KXF-PCJ.json",
               "resourceId": "9KXF-PCJ"
             },
             "parent2": {
-              "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/M4KC-6F3/M4KC-6F3.json",
+              "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/M4KC-6F3/M4KC-6F3.json",
               "resourceId": "M4KC-6F3"
             },
             "children": [
               {
-                "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/L83C-6XL/L83C-6XL.json",
+                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/L83C-6XL/L83C-6XL.json",
                 "resourceId": "L83C-6XL"
               }
             ]
@@ -409,16 +409,16 @@
         "familiesAsChild": [
           {
             "parent1": {
-              "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/LH54-DP3/LH54-DP3.json",
+              "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/LH54-DP3/LH54-DP3.json",
               "resourceId": "LH54-DP3"
             },
             "parent2": {
-              "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/4QK5-TB5/4QK5-TB5.json",
+              "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/4QK5-TB5/4QK5-TB5.json",
               "resourceId": "4QK5-TB5"
             },
             "children": [
               {
-                "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/M4KC-6F3/M4KC-6F3.json",
+                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/M4KC-6F3/M4KC-6F3.json",
                 "resourceId": "M4KC-6F3"
               }
             ]

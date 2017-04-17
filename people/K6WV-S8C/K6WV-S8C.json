@@ -127,7 +127,7 @@
           "href": "https://familysearch.org/platform/tree/persons/K6WV-S8C/families?sourceDescriptions=true"
         },
         "portrait": {
-          "href": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/K6WV-S8C/K6WV-S8C.jpg"
+          "href": "https://raw.githubusercontent.com/misbach/familytree/master/people/K6WV-S8C/K6WV-S8C.jpg"
         },
         "matches": {
           "href": "https://familysearch.org/platform/tree/persons/K6WV-S8C/matches"
@@ -506,27 +506,27 @@
         "familiesAsParent": [
           {
             "parent1": {
-              "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/K6WV-S8C/K6WV-S8C.json",
+              "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/K6WV-S8C/K6WV-S8C.json",
               "resourceId": "K6WV-S8C"
             },
             "parent2": {
-              "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/KFKM-TRN/KFKM-TRN.json",
+              "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KFKM-TRN/KFKM-TRN.json",
               "resourceId": "KFKM-TRN"
             },
             "children": [
               {
-                "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/KW8T-5FC/KW8T-5FC.json",
+                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KW8T-5FC/KW8T-5FC.json",
                 "resourceId": "KW8T-5FC"
               }
             ]
           },
           {
             "parent1": {
-              "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/K6WV-S8C/K6WV-S8C.json",
+              "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/K6WV-S8C/K6WV-S8C.json",
               "resourceId": "K6WV-S8C"
             },
             "parent2": {
-              "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/L7GH-Z9T/L7GH-Z9T.json",
+              "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/L7GH-Z9T/L7GH-Z9T.json",
               "resourceId": "L7GH-Z9T"
             }
           }
@@ -534,16 +534,16 @@
         "familiesAsChild": [
           {
             "parent1": {
-              "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/K2T8-ZP1/K2T8-ZP1.json",
+              "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/K2T8-ZP1/K2T8-ZP1.json",
               "resourceId": "K2T8-ZP1"
             },
             "parent2": {
-              "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/2Y28-R5Z/2Y28-R5Z.json",
+              "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/2Y28-R5Z/2Y28-R5Z.json",
               "resourceId": "2Y28-R5Z"
             },
             "children": [
               {
-                "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/K6WV-S8C/K6WV-S8C.json",
+                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/K6WV-S8C/K6WV-S8C.json",
                 "resourceId": "K6WV-S8C"
               }
             ]
@@ -6483,40 +6483,35 @@
       }
     },
     {
-      "id": "96NG-2PY",
-      "lang": "en_US,EN;Q=0.8",
-      "about": "http://familysearch.org/catalog",
+      "id": "MSRL-6WQ",
+      "lang": "en_US",
+      "about": "https://familysearch.org/ark:/61903/1:1:XZPW-SSL",
       "attribution": {
         "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-DX4N",
-          "resourceId": "cis.user.MMM9-DX4N"
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
         },
         "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-DX4N",
-          "resourceId": "cis.user.MMM9-DX4N"
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-3B2M",
+          "resourceId": "cis.user.MMM9-3B2M"
         },
-        "modified": 1452817218109,
-        "created": 1452707847846
+        "modified": 1489576493015,
+        "created": 1412286251435
       },
-      "resourceType": "DEFAULT",
+      "resourceType": "FSREADONLY",
       "links": {
         "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/96NG-2PY"
+          "href": "https://familysearch.org/platform/sources/descriptions/MSRL-6WQ"
         }
       },
       "citations": [
         {
-          "value": "LDS Family History Library, Salt Lake City, Utah  Julius Billeter Swiss Records microfilm # 0,193,469"
+          "value": "\"Utah Death Certificates, 1904-1964\", database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/XZPW-SSL : 11 September 2015), Herman Ramsauer in entry for Barbara Katherine Stutznegger, 1936."
         }
       ],
       "titles": [
         {
-          "value": "Julius Billeter Records of Bondt Family "
-        }
-      ],
-      "notes": [
-        {
-          "text": "Julius Billeter records list husbands and wives, their children with birth dates, place, death dates, and marriage dates and places"
+          "value": "Herman Ramsauer in entry for Barbara Katherine Stutznegger, \"Utah Death Certificates, 1904-1964\""
         }
       ]
     },
@@ -6557,6 +6552,44 @@
       ]
     },
     {
+      "id": "96NG-2PY",
+      "lang": "en_US,EN;Q=0.8",
+      "about": "http://familysearch.org/catalog",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-DX4N",
+          "resourceId": "cis.user.MMM9-DX4N"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-DX4N",
+          "resourceId": "cis.user.MMM9-DX4N"
+        },
+        "modified": 1452817218109,
+        "created": 1452707847846
+      },
+      "resourceType": "DEFAULT",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/96NG-2PY"
+        }
+      },
+      "citations": [
+        {
+          "value": "LDS Family History Library, Salt Lake City, Utah  Julius Billeter Swiss Records microfilm # 0,193,469"
+        }
+      ],
+      "titles": [
+        {
+          "value": "Julius Billeter Records of Bondt Family "
+        }
+      ],
+      "notes": [
+        {
+          "text": "Julius Billeter records list husbands and wives, their children with birth dates, place, death dates, and marriage dates and places"
+        }
+      ]
+    },
+    {
       "id": "98XZ-N7S",
       "lang": "en_US,EN;Q=0.8",
       "about": "",
@@ -6591,39 +6624,6 @@
       "notes": [
         {
           "text": "Microfilm of Records compiled by Julius Billeter for the Johannes Stutznegger and Barbara Ramsauer Family. Filmed by the Genealogical Society of Utah, 1957"
-        }
-      ]
-    },
-    {
-      "id": "MSRL-6WQ",
-      "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:XZPW-SSL",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-3B2M",
-          "resourceId": "cis.user.MMM9-3B2M"
-        },
-        "modified": 1489576493015,
-        "created": 1412286251435
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/MSRL-6WQ"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"Utah Death Certificates, 1904-1964\", database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/XZPW-SSL : 11 September 2015), Herman Ramsauer in entry for Barbara Katherine Stutznegger, 1936."
-        }
-      ],
-      "titles": [
-        {
-          "value": "Herman Ramsauer in entry for Barbara Katherine Stutznegger, \"Utah Death Certificates, 1904-1964\""
         }
       ]
     }

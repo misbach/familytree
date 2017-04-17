@@ -552,7 +552,7 @@
           "href": "https://familysearch.org/platform/tree/persons/KW8T-5FC/families?sourceDescriptions=true"
         },
         "portrait": {
-          "href": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/KW8T-5FC/KW8T-5FC.jpg"
+          "href": "https://raw.githubusercontent.com/misbach/familytree/master/people/KW8T-5FC/KW8T-5FC.jpg"
         },
         "matches": {
           "href": "https://familysearch.org/platform/tree/persons/KW8T-5FC/matches"
@@ -1429,16 +1429,16 @@
         "familiesAsParent": [
           {
             "parent1": {
-              "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/KW8T-5FZ/KW8T-5FZ.json",
+              "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KW8T-5FZ/KW8T-5FZ.json",
               "resourceId": "KW8T-5FZ"
             },
             "parent2": {
-              "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/KW8T-5FC/KW8T-5FC.json",
+              "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KW8T-5FC/KW8T-5FC.json",
               "resourceId": "KW8T-5FC"
             },
             "children": [
               {
-                "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/KWCQ-K65/KWCQ-K65.json",
+                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KWCQ-K65/KWCQ-K65.json",
                 "resourceId": "KWCQ-K65"
               }
             ]
@@ -1447,16 +1447,16 @@
         "familiesAsChild": [
           {
             "parent1": {
-              "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/K6WV-S8C/K6WV-S8C.json",
+              "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/K6WV-S8C/K6WV-S8C.json",
               "resourceId": "K6WV-S8C"
             },
             "parent2": {
-              "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/KFKM-TRN/KFKM-TRN.json",
+              "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KFKM-TRN/KFKM-TRN.json",
               "resourceId": "KFKM-TRN"
             },
             "children": [
               {
-                "resource": "https://raw.githubusercontent.com/jdsumsion/familytree/master/people/KW8T-5FC/KW8T-5FC.json",
+                "resource": "https://raw.githubusercontent.com/misbach/familytree/master/people/KW8T-5FC/KW8T-5FC.json",
                 "resourceId": "KW8T-5FC"
               }
             ]
@@ -17205,452 +17205,6 @@
       }
     },
     {
-      "id": "MM1S-XDD",
-      "about": "http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&GRid=47583267",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-3DHK",
-          "resourceId": "cis.user.MMM9-3DHK"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-3DHK",
-          "resourceId": "cis.user.MMM9-3DHK"
-        },
-        "modified": 1397597815796,
-        "created": 1397597815796
-      },
-      "resourceType": "DEFAULT",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/MM1S-XDD"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"Kathrina Barbara Ramsauer Stutznegger (1850 - 1936) - Find A Grave Memorial.\" Kathrina Barbara Ramsauer Stutznegger (1850 - 1936) - Find A Grave Memorial. N.p., n.d. Web. 15 Apr. 2014.."
-        }
-      ],
-      "titles": [
-        {
-          "value": "Kathrina Barbara Ramsauer Stutznegger (1850 - 1936) - Find A Grave Memorial"
-        }
-      ],
-      "notes": [
-        {
-          "text": "This source was added by the free service available at RecordSeek.com."
-        }
-      ]
-    },
-    {
-      "id": "9ZR4-5JL",
-      "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:QVK5-NPGT",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-7FC7",
-          "resourceId": "cis.user.MMM9-7FC7"
-        },
-        "modified": 1489636379325,
-        "created": 1425412451344
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/9ZR4-5JL"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"Find A Grave Index,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/QVK5-NPGT : 11 July 2016), Kathrina Barbara Ramsauer Stutznegger, 1936; Burial, Manti, Sanpete, Utah, United States of America, Manti Cemetery; citing record ID 47583267, Find a Grave, http://www.findagrave.com."
-        }
-      ],
-      "titles": [
-        {
-          "value": "Kathrina Barbara Ramsauer Stutznegger, \"Find A Grave Index\""
-        }
-      ]
-    },
-    {
-      "id": "MM18-51Y",
-      "about": "https://familysearch.org/ark:/61903/1:1:XH6K-QMH",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-3YV2",
-          "resourceId": "cis.user.MMMM-3YV2"
-        },
-        "modified": 1489541044836,
-        "created": 1397962721378
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/MM18-51Y"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"United States Census, 1930,\" database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/XH6K-QMH : accessed 13 April 2017), Barbara Stutznegger, Manti, Sanpete, Utah, United States; citing enumeration district (ED) ED 15, sheet 3A, line 40, family 63, NARA microfilm publication T626 (Washington D.C.: National Archives and Records Administration, 2002), roll 2422; FHL microfilm 2,342,156.\n"
-        }
-      ],
-      "titles": [
-        {
-          "value": "Barbara Stutznegger, \"United States Census, 1930\""
-        }
-      ]
-    },
-    {
-      "id": "968M-VFG",
-      "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:QKDV-89TG",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMQ-RRRY",
-          "resourceId": "cis.user.MMMQ-RRRY"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMQ-RRRY",
-          "resourceId": "cis.user.MMMQ-RRRY"
-        },
-        "modified": 1451190010472,
-        "created": 1451190010472
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/968M-VFG"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"Utah Death Certificates, 1904-1964\", database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/QKDV-89TG : 25 September 2015), Barbara Ramsuuer in entry for John Stutznegger, 1960."
-        }
-      ],
-      "titles": [
-        {
-          "value": "Barbara Ramsuuer in entry for John Stutznegger, \"Utah Death Certificates, 1904-1964\""
-        }
-      ]
-    },
-    {
-      "id": "MM97-25Q",
-      "about": "https://familysearch.org/ark:/61903/1:1:M5X4-JHZ",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-P3NV",
-          "resourceId": "cis.user.MMM9-P3NV"
-        },
-        "modified": 1489500749862,
-        "created": 1353880467000
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/MM97-25Q"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"United States Census, 1910,\" database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/M5X4-JHZ : accessed 13 April 2017), John Stutznegger, Manti, Sanpete, Utah, United States; citing enumeration district (ED) ED 155, sheet 17A, family 354, NARA microfilm publication T624 (Washington D.C.: National Archives and Records Administration, 1982), roll 1608; FHL microfilm 1,375,621.\n"
-        }
-      ],
-      "titles": [
-        {
-          "value": "John Stutznegger, \"United States Census, 1910\""
-        }
-      ]
-    },
-    {
-      "id": "MSVM-859",
-      "lang": "en_US,EN;Q=0.8",
-      "about": "",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-XVV7",
-          "resourceId": "cis.user.MMMM-XVV7"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-XVV7",
-          "resourceId": "cis.user.MMMM-XVV7"
-        },
-        "modified": 1408502908551,
-        "created": 1408502908551
-      },
-      "resourceType": "DEFAULT",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/MSVM-859"
-        }
-      },
-      "citations": [
-        {
-          "value": "Family History Library, Salt Lake City, Film 1045826, 1870, page 161, Line: 139 Female Birth: 62"
-        }
-      ],
-      "titles": [
-        {
-          "value": "1870 - Katharina Barbara Ramsuer in entry for Katharina Barbara Sturznenegger, \"Evangelisch-Reformierte Kirche Herisau (Appenzel) Kirchenbuch 1583-1875\" "
-        }
-      ],
-      "notes": [
-        {
-          "text": "Birth date: August 17 [1870] Child’s name: Katharina Barbara, Father: Johannas Sturznenegger Mother: Katharina Barbara Ramsuer  "
-        }
-      ]
-    },
-    {
-      "id": "98MK-2X8",
-      "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:XZPC-TCQ",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-SQ2S",
-          "resourceId": "cis.user.MMM9-SQ2S"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-SQ2S",
-          "resourceId": "cis.user.MMM9-SQ2S"
-        },
-        "modified": 1427160561225,
-        "created": 1427160561225
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/98MK-2X8"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"Utah Death Certificates, 1904-1964\", database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/XZPC-TCQ : 11 September 2015), Barbe Ran... in entry for Barbara Denison, 1937."
-        }
-      ],
-      "titles": [
-        {
-          "value": "Barbe Ran... in entry for Barbara Denison, \"Utah Death Certificates, 1904-1964\""
-        }
-      ]
-    },
-    {
-      "id": "98CV-RCP",
-      "lang": "en_US,EN;Q=0.8",
-      "about": "",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-DX4N",
-          "resourceId": "cis.user.MMM9-DX4N"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-DX4N",
-          "resourceId": "cis.user.MMM9-DX4N"
-        },
-        "modified": 1430101890456,
-        "created": 1430101890456
-      },
-      "resourceType": "DEFAULT",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/98CV-RCP"
-        }
-      },
-      "citations": [
-        {
-          "value": "microfilmed records compiled for Johannes Stutznegger and Barbara Ramsauer Stutznegger Family 1920 to 1940"
-        }
-      ],
-      "titles": [
-        {
-          "value": "Julius Billeter Records "
-        }
-      ],
-      "notes": [
-        {
-          "text": "Julius Billeter put names, children, wives, and birth and death dates, marriage dates from research he did in Appenzell Area of Switzerland.  More records are found at the Salt Lake City Family History Center under Julius Billeter Record Catalog"
-        }
-      ]
-    },
-    {
-      "id": "9ZBJ-D6L",
-      "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:M5X4-JH8",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-SQ2S",
-          "resourceId": "cis.user.MMM9-SQ2S"
-        },
-        "modified": 1489640467885,
-        "created": 1426478363554
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/9ZBJ-D6L"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"United States Census, 1910,\" database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/M5X4-JH8 : accessed 13 April 2017), Barbra Stutznegger in household of John Stutznegger, Manti, Sanpete, Utah, United States; citing enumeration district (ED) ED 155, sheet 17A, family 354, NARA microfilm publication T624 (Washington D.C.: National Archives and Records Administration, 1982), roll 1608; FHL microfilm 1,375,621.\n"
-        }
-      ],
-      "titles": [
-        {
-          "value": "Barbra Stutznegger in household of John Stutznegger, \"United States Census, 1910\""
-        }
-      ]
-    },
-    {
-      "id": "MS6R-XJP",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-3B2M",
-          "resourceId": "cis.user.MMM9-3B2M"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-3B2M",
-          "resourceId": "cis.user.MMM9-3B2M"
-        },
-        "modified": 1407408647609,
-        "created": 1407408647609
-      },
-      "resourceType": "LEGACY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/MS6R-XJP"
-        }
-      },
-      "citations": [
-        {
-          "value": ""
-        }
-      ],
-      "titles": [
-        {
-          "value": "Legacy NFS Source: Katharina Barbara Ramsaur - Individual or family possessions: Family genealogies: birth: 10 February 1850; Herisau, Appenzell, Switzerland"
-        }
-      ],
-      "notes": [
-        {
-          "text": "Individual or family possessions: Family genealogies: birth: 10 February 1850; Herisau, Appenzell, Switzerland"
-        }
-      ]
-    },
-    {
-      "id": "MMGS-TVK",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-XVV7",
-          "resourceId": "cis.user.MMMM-XVV7"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-XVV7",
-          "resourceId": "cis.user.MMMM-XVV7"
-        },
-        "modified": 1394196559000,
-        "created": 1394196559000
-      },
-      "resourceType": "LEGACY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/MMGS-TVK"
-        }
-      },
-      "citations": [
-        {
-          "value": "Book, History of Barbara katharina Ramsauer Stutznegger, Barbara Katharina Ramsauer Stutznegger, Individual, Trena H Dodge, 10595 East Empire Drive, Franktown, Colorado, United States, 80116, 303-688-2737"
-        }
-      ],
-      "titles": [
-        {
-          "value": "Legacy NFS Source: Katharine Sturzenegger - Published information: Journal or diary: birth-name: Katharine Sturzenegger"
-        }
-      ],
-      "notes": [
-        {
-          "text": "Published information: Journal or diary: birth-name: Katharine Sturzenegger  \n\nDear Aunt Katharine was at the station to see us off and say goodbye for the lat time.  She is my husband's sister and was always good to me.  \nPublished information: Journal or diary: female  \n\nDear Aunt Katharine was at the station to see us off and say goodbye for the lat time.  She is my husband's sister and was always good to me.  \nPublished information: Journal or diary: birth: ; ,,,Switzerland  \n\nDear Aunt Katharine was at the station to see us off and say goodbye for the lat time.  She is my husband's sister and was always good to me."
-        }
-      ]
-    },
-    {
-      "id": "MM18-5BS",
-      "about": "https://familysearch.org/ark:/61903/1:1:M8PN-GSC",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-3YV2",
-          "resourceId": "cis.user.MMMM-3YV2"
-        },
-        "modified": 1489541044801,
-        "created": 1397962669465
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/MM18-5BS"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"United States Census, 1920,\" database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/M8PN-GSC : accessed 13 April 2017), Barbara Stutznegger, Manti, Sanpete, Utah, United States; citing  ED 107, sheet 11B, line 56, family 237, NARA microfilm publication T625 (Washington D.C.: National Archives and Records Administration, 1992), roll 1864; FHL microfilm 1,821,864."
-        }
-      ],
-      "titles": [
-        {
-          "value": "Barbara Stutznegger, \"United States Census, 1920\""
-        }
-      ]
-    },
-    {
-      "id": "M9VH-RCT",
-      "lang": "en_US",
-      "about": "https://familysearch.org/ark:/61903/1:1:MMRP-YNS",
-      "attribution": {
-        "contributor": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
-          "resourceId": "cis.wkca.MMMM-M93P"
-        },
-        "creator": {
-          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-3B2M",
-          "resourceId": "cis.user.MMM9-3B2M"
-        },
-        "modified": 1489550235985,
-        "created": 1404364104905
-      },
-      "resourceType": "FSREADONLY",
-      "links": {
-        "description": {
-          "href": "https://familysearch.org/platform/sources/descriptions/M9VH-RCT"
-        }
-      },
-      "citations": [
-        {
-          "value": "\"United States Census, 1900,\" database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/MMRP-YNS : accessed 14 April 2017), Barbra Stuznegger in household of John Stuznegger, Manti Precinct Manti city, Sanpete, Utah, United States; citing enumeration district (ED) 125, sheet 21B, family 423, NARA microfilm publication T623 (Washington, D.C.: National Archives and Records Administration, 1972.); FHL microfilm 1,241,686.\n"
-        }
-      ],
-      "titles": [
-        {
-          "value": "Barbra Stuznegger in household of John Stuznegger, \"United States Census, 1900\""
-        }
-      ]
-    },
-    {
       "id": "9Z4T-MPM",
       "lang": "en_US",
       "about": "https://familysearch.org/ark:/61903/1:1:XZLX-7GM",
@@ -17717,6 +17271,216 @@
       ]
     },
     {
+      "id": "MMGS-TVK",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-XVV7",
+          "resourceId": "cis.user.MMMM-XVV7"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-XVV7",
+          "resourceId": "cis.user.MMMM-XVV7"
+        },
+        "modified": 1394196559000,
+        "created": 1394196559000
+      },
+      "resourceType": "LEGACY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/MMGS-TVK"
+        }
+      },
+      "citations": [
+        {
+          "value": "Book, History of Barbara katharina Ramsauer Stutznegger, Barbara Katharina Ramsauer Stutznegger, Individual, Trena H Dodge, 10595 East Empire Drive, Franktown, Colorado, United States, 80116, 303-688-2737"
+        }
+      ],
+      "titles": [
+        {
+          "value": "Legacy NFS Source: Katharine Sturzenegger - Published information: Journal or diary: birth-name: Katharine Sturzenegger"
+        }
+      ],
+      "notes": [
+        {
+          "text": "Published information: Journal or diary: birth-name: Katharine Sturzenegger  \n\nDear Aunt Katharine was at the station to see us off and say goodbye for the lat time.  She is my husband's sister and was always good to me.  \nPublished information: Journal or diary: female  \n\nDear Aunt Katharine was at the station to see us off and say goodbye for the lat time.  She is my husband's sister and was always good to me.  \nPublished information: Journal or diary: birth: ; ,,,Switzerland  \n\nDear Aunt Katharine was at the station to see us off and say goodbye for the lat time.  She is my husband's sister and was always good to me."
+        }
+      ]
+    },
+    {
+      "id": "9ZBJ-D6L",
+      "lang": "en_US",
+      "about": "https://familysearch.org/ark:/61903/1:1:M5X4-JH8",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-SQ2S",
+          "resourceId": "cis.user.MMM9-SQ2S"
+        },
+        "modified": 1489640467885,
+        "created": 1426478363554
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/9ZBJ-D6L"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"United States Census, 1910,\" database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/M5X4-JH8 : accessed 13 April 2017), Barbra Stutznegger in household of John Stutznegger, Manti, Sanpete, Utah, United States; citing enumeration district (ED) ED 155, sheet 17A, family 354, NARA microfilm publication T624 (Washington D.C.: National Archives and Records Administration, 1982), roll 1608; FHL microfilm 1,375,621.\n"
+        }
+      ],
+      "titles": [
+        {
+          "value": "Barbra Stutznegger in household of John Stutznegger, \"United States Census, 1910\""
+        }
+      ]
+    },
+    {
+      "id": "98CV-RCP",
+      "lang": "en_US,EN;Q=0.8",
+      "about": "",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-DX4N",
+          "resourceId": "cis.user.MMM9-DX4N"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-DX4N",
+          "resourceId": "cis.user.MMM9-DX4N"
+        },
+        "modified": 1430101890456,
+        "created": 1430101890456
+      },
+      "resourceType": "DEFAULT",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/98CV-RCP"
+        }
+      },
+      "citations": [
+        {
+          "value": "microfilmed records compiled for Johannes Stutznegger and Barbara Ramsauer Stutznegger Family 1920 to 1940"
+        }
+      ],
+      "titles": [
+        {
+          "value": "Julius Billeter Records "
+        }
+      ],
+      "notes": [
+        {
+          "text": "Julius Billeter put names, children, wives, and birth and death dates, marriage dates from research he did in Appenzell Area of Switzerland.  More records are found at the Salt Lake City Family History Center under Julius Billeter Record Catalog"
+        }
+      ]
+    },
+    {
+      "id": "MM18-5BS",
+      "about": "https://familysearch.org/ark:/61903/1:1:M8PN-GSC",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-3YV2",
+          "resourceId": "cis.user.MMMM-3YV2"
+        },
+        "modified": 1489541044801,
+        "created": 1397962669465
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/MM18-5BS"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"United States Census, 1920,\" database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/M8PN-GSC : accessed 13 April 2017), Barbara Stutznegger, Manti, Sanpete, Utah, United States; citing  ED 107, sheet 11B, line 56, family 237, NARA microfilm publication T625 (Washington D.C.: National Archives and Records Administration, 1992), roll 1864; FHL microfilm 1,821,864."
+        }
+      ],
+      "titles": [
+        {
+          "value": "Barbara Stutznegger, \"United States Census, 1920\""
+        }
+      ]
+    },
+    {
+      "id": "98MK-2X8",
+      "lang": "en_US",
+      "about": "https://familysearch.org/ark:/61903/1:1:XZPC-TCQ",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-SQ2S",
+          "resourceId": "cis.user.MMM9-SQ2S"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-SQ2S",
+          "resourceId": "cis.user.MMM9-SQ2S"
+        },
+        "modified": 1427160561225,
+        "created": 1427160561225
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/98MK-2X8"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"Utah Death Certificates, 1904-1964\", database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/XZPC-TCQ : 11 September 2015), Barbe Ran... in entry for Barbara Denison, 1937."
+        }
+      ],
+      "titles": [
+        {
+          "value": "Barbe Ran... in entry for Barbara Denison, \"Utah Death Certificates, 1904-1964\""
+        }
+      ]
+    },
+    {
+      "id": "MSVM-859",
+      "lang": "en_US,EN;Q=0.8",
+      "about": "",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-XVV7",
+          "resourceId": "cis.user.MMMM-XVV7"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-XVV7",
+          "resourceId": "cis.user.MMMM-XVV7"
+        },
+        "modified": 1408502908551,
+        "created": 1408502908551
+      },
+      "resourceType": "DEFAULT",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/MSVM-859"
+        }
+      },
+      "citations": [
+        {
+          "value": "Family History Library, Salt Lake City, Film 1045826, 1870, page 161, Line: 139 Female Birth: 62"
+        }
+      ],
+      "titles": [
+        {
+          "value": "1870 - Katharina Barbara Ramsuer in entry for Katharina Barbara Sturznenegger, \"Evangelisch-Reformierte Kirche Herisau (Appenzel) Kirchenbuch 1583-1875\" "
+        }
+      ],
+      "notes": [
+        {
+          "text": "Birth date: August 17 [1870] Child’s name: Katharina Barbara, Father: Johannas Sturznenegger Mother: Katharina Barbara Ramsuer  "
+        }
+      ]
+    },
+    {
       "id": "MS6R-XVZ",
       "attribution": {
         "contributor": {
@@ -17749,6 +17513,242 @@
       "notes": [
         {
           "text": "Government record: Death record or certificate: burial: 4 November 1936; Manti, Sanpete, Utah, United States"
+        }
+      ]
+    },
+    {
+      "id": "MM18-51Y",
+      "about": "https://familysearch.org/ark:/61903/1:1:XH6K-QMH",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMM-3YV2",
+          "resourceId": "cis.user.MMMM-3YV2"
+        },
+        "modified": 1489541044836,
+        "created": 1397962721378
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/MM18-51Y"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"United States Census, 1930,\" database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/XH6K-QMH : accessed 13 April 2017), Barbara Stutznegger, Manti, Sanpete, Utah, United States; citing enumeration district (ED) ED 15, sheet 3A, line 40, family 63, NARA microfilm publication T626 (Washington D.C.: National Archives and Records Administration, 2002), roll 2422; FHL microfilm 2,342,156.\n"
+        }
+      ],
+      "titles": [
+        {
+          "value": "Barbara Stutznegger, \"United States Census, 1930\""
+        }
+      ]
+    },
+    {
+      "id": "MM97-25Q",
+      "about": "https://familysearch.org/ark:/61903/1:1:M5X4-JHZ",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-P3NV",
+          "resourceId": "cis.user.MMM9-P3NV"
+        },
+        "modified": 1489500749862,
+        "created": 1353880467000
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/MM97-25Q"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"United States Census, 1910,\" database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/M5X4-JHZ : accessed 13 April 2017), John Stutznegger, Manti, Sanpete, Utah, United States; citing enumeration district (ED) ED 155, sheet 17A, family 354, NARA microfilm publication T624 (Washington D.C.: National Archives and Records Administration, 1982), roll 1608; FHL microfilm 1,375,621.\n"
+        }
+      ],
+      "titles": [
+        {
+          "value": "John Stutznegger, \"United States Census, 1910\""
+        }
+      ]
+    },
+    {
+      "id": "M9VH-RCT",
+      "lang": "en_US",
+      "about": "https://familysearch.org/ark:/61903/1:1:MMRP-YNS",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-3B2M",
+          "resourceId": "cis.user.MMM9-3B2M"
+        },
+        "modified": 1489550235985,
+        "created": 1404364104905
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/M9VH-RCT"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"United States Census, 1900,\" database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/MMRP-YNS : accessed 14 April 2017), Barbra Stuznegger in household of John Stuznegger, Manti Precinct Manti city, Sanpete, Utah, United States; citing enumeration district (ED) 125, sheet 21B, family 423, NARA microfilm publication T623 (Washington, D.C.: National Archives and Records Administration, 1972.); FHL microfilm 1,241,686.\n"
+        }
+      ],
+      "titles": [
+        {
+          "value": "Barbra Stuznegger in household of John Stuznegger, \"United States Census, 1900\""
+        }
+      ]
+    },
+    {
+      "id": "9ZR4-5JL",
+      "lang": "en_US",
+      "about": "https://familysearch.org/ark:/61903/1:1:QVK5-NPGT",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.wkca.MMMM-M93P",
+          "resourceId": "cis.wkca.MMMM-M93P"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-7FC7",
+          "resourceId": "cis.user.MMM9-7FC7"
+        },
+        "modified": 1489636379325,
+        "created": 1425412451344
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/9ZR4-5JL"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"Find A Grave Index,\" database, FamilySearch (https://familysearch.org/pal:/MM9.1.1/QVK5-NPGT : 11 July 2016), Kathrina Barbara Ramsauer Stutznegger, 1936; Burial, Manti, Sanpete, Utah, United States of America, Manti Cemetery; citing record ID 47583267, Find a Grave, http://www.findagrave.com."
+        }
+      ],
+      "titles": [
+        {
+          "value": "Kathrina Barbara Ramsauer Stutznegger, \"Find A Grave Index\""
+        }
+      ]
+    },
+    {
+      "id": "968M-VFG",
+      "lang": "en_US",
+      "about": "https://familysearch.org/ark:/61903/1:1:QKDV-89TG",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMQ-RRRY",
+          "resourceId": "cis.user.MMMQ-RRRY"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMMQ-RRRY",
+          "resourceId": "cis.user.MMMQ-RRRY"
+        },
+        "modified": 1451190010472,
+        "created": 1451190010472
+      },
+      "resourceType": "FSREADONLY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/968M-VFG"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"Utah Death Certificates, 1904-1964\", database with images, FamilySearch (https://familysearch.org/pal:/MM9.1.1/QKDV-89TG : 25 September 2015), Barbara Ramsuuer in entry for John Stutznegger, 1960."
+        }
+      ],
+      "titles": [
+        {
+          "value": "Barbara Ramsuuer in entry for John Stutznegger, \"Utah Death Certificates, 1904-1964\""
+        }
+      ]
+    },
+    {
+      "id": "MS6R-XJP",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-3B2M",
+          "resourceId": "cis.user.MMM9-3B2M"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-3B2M",
+          "resourceId": "cis.user.MMM9-3B2M"
+        },
+        "modified": 1407408647609,
+        "created": 1407408647609
+      },
+      "resourceType": "LEGACY",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/MS6R-XJP"
+        }
+      },
+      "citations": [
+        {
+          "value": ""
+        }
+      ],
+      "titles": [
+        {
+          "value": "Legacy NFS Source: Katharina Barbara Ramsaur - Individual or family possessions: Family genealogies: birth: 10 February 1850; Herisau, Appenzell, Switzerland"
+        }
+      ],
+      "notes": [
+        {
+          "text": "Individual or family possessions: Family genealogies: birth: 10 February 1850; Herisau, Appenzell, Switzerland"
+        }
+      ]
+    },
+    {
+      "id": "MM1S-XDD",
+      "about": "http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&GRid=47583267",
+      "attribution": {
+        "contributor": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-3DHK",
+          "resourceId": "cis.user.MMM9-3DHK"
+        },
+        "creator": {
+          "resource": "https://familysearch.org/platform/users/agents/cis.user.MMM9-3DHK",
+          "resourceId": "cis.user.MMM9-3DHK"
+        },
+        "modified": 1397597815796,
+        "created": 1397597815796
+      },
+      "resourceType": "DEFAULT",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/MM1S-XDD"
+        }
+      },
+      "citations": [
+        {
+          "value": "\"Kathrina Barbara Ramsauer Stutznegger (1850 - 1936) - Find A Grave Memorial.\" Kathrina Barbara Ramsauer Stutznegger (1850 - 1936) - Find A Grave Memorial. N.p., n.d. Web. 15 Apr. 2014.."
+        }
+      ],
+      "titles": [
+        {
+          "value": "Kathrina Barbara Ramsauer Stutznegger (1850 - 1936) - Find A Grave Memorial"
+        }
+      ],
+      "notes": [
+        {
+          "text": "This source was added by the free service available at RecordSeek.com."
         }
       ]
     }
